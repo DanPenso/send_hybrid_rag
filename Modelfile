@@ -1,0 +1,4 @@
+FROM ./local_models/senco-ft-f16.gguf
+PARAMETER temperature 0
+PARAMETER top_p 1
+PARAMETER num_predict 256

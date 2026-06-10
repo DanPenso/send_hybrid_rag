@@ -1,0 +1,3 @@
+dataset,rows,tone_alignment_mean,accuracy_mean,grounding_mean,supportive_count,neutral_count,directive_count
+baseline,250,4.588,4.088,3.868,249,1,0
+hybrid_rag,250,4.444,4.012,4.032,230,20,0

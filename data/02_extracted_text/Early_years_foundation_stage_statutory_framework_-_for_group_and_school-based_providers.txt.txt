@@ -1,0 +1,1905 @@
+Department
+for Education
+Early years
+foundation stage
+statutory framework
+For group and school-based providers
+Setting the standards for learning,
+development and care for children from
+birth to five
+Dated: 14 July 2025
+Effective: 01 September 2025
+1
+Contents
+Summary
+4
+About this statutory framework
+4
+What legislation is this framework based on?
+5
+Who is this framework for?
+6
+Before/after school care and holiday provision
+6
+Introduction
+7
+Overarching principles
+7
+Section 1 - The learning and development requirements
+8
+The areas of learning and development
+8
+Educational Programmes
+9
+Early Learning Goals
+11
+Learning and Development Considerations
+16
+Section 2 - Assessment
+18
+Ongoing assessment
+18
+Progress check at age two
+18
+Assessment at the start of the reception year - the Reception Baseline Assessment
+(RBA)
+19
+Assessment at the end of the EYFS - the Early Years Foundation Stage Profile
+(EYFSP)
+19
+Section 3 - The safeguarding and welfare requirements
+22
+Introduction
+22
+Safeguarding policies and procedures
+22
+Whistleblowing
+23
+Concerns about children's safety and welfare
+23
+Child absences
+24
+Suitable people
+24
+References
+26
+Disqualification
+27
+Staff taking medication/other substances
+28
+Smoking and vaping
+28
+Qualifications, training, support and skills
+28
+Safeguarding training
+28
+2
+Training and skills
+29
+Supervision of staff
+29
+Paediatric First Aid
+29
+English language skills
+30
+Key person
+30
+Staff: child ratios
+30
+Before/after school care and holiday provision
+35
+Health
+35
+Supporting and understanding children's behaviour
+38
+Special educational needs
+38
+Safety and suitability of premises, environment and equipment
+38
+Information and record keeping
+42
+Other Legal Duties
+45
+Annex A: Criteria for effective Paediatric First Aid (PFA) training
+46
+Annex B: Statutory guidance for the Reception Baseline Assessment
+48
+Summary
+48
+Introduction and Purpose
+49
+Accountability and Progress
+49
+Assessment Data
+49
+Assessment administration
+49
+Inclusion and participation
+50
+Responsibilities
+51
+Local authority responsibilities
+51
+Interaction with other assessments
+52
+Further information
+52
+Annex C: Criteria for effective safeguarding training
+53
+3
+Summary
+About this statutory framework
+This Early Years Foundation Stage (EYFS) framework for group and school-based early
+years providers is mandatory¹ for:
+All persons registered in England with Ofsted on the early years register, or with an
+early years childminder agency (CMA):
+to provide early years childcare on domestic premises (CoDP) 2; or
+to provide early years childcare on non-domestic premises (CoNDP)³;
+(referred to collectively in this EYFS framework as 'group-based early
+years providers'); and
+All schools and independent educational institutions in England who provide early
+years provision in respect of which they are exempt from registration by section
+34(2) of the Childcare Act 2006⁴ (referred to in this EYFS framework as 'school-
+based early years providers').
+This EYFS framework refers to all of the above collectively as 'providers', unless
+otherwise stated.
+The learning and development requirements are in Section 1, the assessment
+requirements are in Section 2, and the safeguarding and welfare requirements are in
+Section 3 of this framework. This framework uses the word "must" where the requirement
+is mandatory. Where the framework uses the word "should", this means that providers
+must take the guidance into account when delivering the requirements and should follow
+it, unless there is a good reason not to.
+1 Section 40 of the Childcare Act 2006 (the '2006 Act') requires early years providers, including early years
+providers of CoDPs and CoNDPs, and school and independent educational institution who are exempt from
+registration by section 34(2) of the 2006 Act, to secure that the early years provision meets the learning and
+development requirements and complies with welfare requirements set out in the EYFS.
+2 "Early years childcare on domestic premises (CoDPs)" means early years provision in respect of which a
+person is required to be registered by section 34(1A) of the 2006 Act. This is early years provision, at least
+some or all of which is on domestic premises, provided for reward, where at any time the number of persons
+providing or assisting with the provision exceeds four) (or exceeds three if a person was registered, or had
+applied to be registered, to provide early years CoDPs before 1 November 2024).
+3 "Early years childcare on non-domestic premises (CoNDPs)" means early years provision provided solely on
+non-domestic premises in respect of which a person is required to be registered by section 34(1)(a) of the
+2006 Act (including where the provision is provided by a person who was registered, or who had applied to be
+registered, to provide early years CoDPs before 1 November 2024).
+4 Section 34(2) of the 2006 Act exempts certain schools and independent educational institutions from the
+requirement, in section 34(1) and (1A) of the 2006 Act, to register with Ofsted in the early years register, or with
+an early years CMA, where the early years provision is made by the school or institution for children aged 2
+and over as part of that school or institution's activities.
+4
+Ofsted and inspectorates of independent schools carry out inspections of how providers
+meet and deliver the EYFS framework. Providers of CoDP may be registered with a CMA.
+CMAs carry out quality assurance visits of CMA-registered providers of CoDP. For further
+details on CMAs please see: Childminder agencies: a guide - GOV.UK (www.gov.uk)
+Ofsted and CMAs assess how providers meet and deliver the EYFS framework and report
+on the quality and standards of provision. Ofsted carry out inspections of all providers,
+including Ofsted-registered providers of CoDP. Childminder agencies (CMAs) carry out
+quality assurance visits of CMA-registered providers of CoDP. They both assess how those
+providers meet and deliver the EYFS framework and report on the quality and standards of
+their early years provision. Ofsted publishes inspection reports at www.gov.uk/ofsted. CMAs
+are required to produce a written report following a quality assurance visit and to make this
+available to the provider, who is the subject of the report, and to the parents or carers of any
+child receiving registered childcare provision from them. CMAs can also be asked to make it
+available to Ofsted upon request for inspection.
+Ofsted may issue actions if a provider registered on the Early Years Register fails to meet a
+requirement set out in this document, and/or may serve a welfare requirements notice if the
+failure relates to a requirement set out in Section 3. It is an offence for a provider, without
+reasonable excuse, to fail to comply with a welfare requirements notice⁵. If a provider of
+CoDP is registered with a CMA, it is for the CMA to determine the shape and content of their
+quality assurance arrangements. They will consider how to support CoDP providers to
+comply with requirements set out in this document, and what action to take against CoDP
+providers who fail to comply. For further details on CMAs please see: Childminder
+agencies: a guide - GOV.UK (www.gov.uk)
+This framework remains in force until further notice.
+What legislation is this framework based on?
+The learning and development requirements and the assessment
+arrangements are given legal force by an Order⁶ made under section
+39(1)(a) of the Childcare Act 2006.
+The safeguarding and welfare requirements are given legal force by
+Regulations⁷ made under section 39(1)(b) of the Childcare Act 2006.
+Providers can apply for exemptions from the learning and development requirements and
+assessment arrangements in certain circumstances, such as where their established
+5 Regulation 12 of the Early Years Foundation Stage (Welfare Requirements) Regulations 2012
+6 The Early Years Foundation Stage (Learning and Development Requirements) Order 2007
+(legislation.gov.uk)
+7 The Early Years Foundation Stage (Welfare Requirements) Regulations 2012 (legislation.gov.uk)
+5
+principles are in conflict with the EYFS requirements⁸. Further information can be found on
+GOV.UK.
+Who is this framework for?
+This framework is for all school-based early years providers in England (including
+maintained schools; non-maintained schools; independent schools; free schools;
+and academies) and all group-based providers who are registered on the Early Years
+Register⁹ or with an early years CMA (for providers of CoDP) and caring for early
+years children (aged from 0 until the 31 August after their 5th birthday¹⁰).
+This framework "for group and school-based early years providers" only applies to group
+and school-based early years providers in England. Persons who are registered in
+England as an early years childminder with Ofsted on the early years register, or with an
+early years CMA should refer to the statutory framework for childminders.
+Before/after school care and holiday provision
+Settings that only provide care before and after school, or during the school holidays, for
+children who normally attend reception (or older) class during the school day do not need
+to meet or be guided by the learning and development and assessment requirements set
+out in Sections 1 and 2.
+However, settings providing this type of wraparound care for children younger than those in
+the reception class age range should continue to be guided by, but do not have to meet, the
+learning and development and assessment requirements. All such providers should discuss
+with parents and/or carers (and other practitioners/providers as appropriate, including
+school staff/teachers) the support they intend to offer.
+All settings that provide care for children aged 0-5 must meet safeguarding and welfare
+requirements as set out in Section 3.
+8 Section 46 of the Childcare Act 2006 allows the Secretary of State to give exemptions from the learning and
+development requirements in certain prescribed circumstances.
+9 The Childcare (Exemptions from Registration) Order 2008 (S.I.2008/979) specifies the circumstances in which
+providers are not required to register.
+10 Section 20 Childcare Act 2006 defines "early years provision" as the provision of childcare for a young child.
+Section 19 of that Act defines a "young child" as a child from birth until immediately before 1st September after
+the child reaches the age of 5.
+6
+Introduction
+1.
+All children deserve the care and support they need to have the best start in life.
+Children learn and develop at a faster rate from birth to five years old than at any other
+time in their lives, so their experiences in early years have a major impact on their
+future life chances. A secure, safe, and happy childhood is important in its own right.
+Good parenting and high-quality early learning provide the foundation children need to
+fulfil their potential.
+2.
+The EYFS sets the standards that all early years providers must meet to ensure that
+children learn and develop well and are kept healthy and safe. It promotes teaching and
+learning to ensure children's 'school readiness' and gives children the right foundation
+for good future progress through school and life.
+3.
+The EYFS is about what children learn, as well as how they learn. Effective practice is a
+mix of different approaches. Children learn through play, by adults modelling, by
+observing each other and through adult-guided learning.
+4.
+The EYFS seeks to provide:
+Quality and consistency in all early years settings, so that every child makes
+good progress, and no child gets left behind.
+A secure foundation through planning for the learning and development of each
+individual child and assessing and reviewing what they have learned regularly.
+Partnership working between practitioners and with parents and/or carers.
+Equality of opportunity and anti-discriminatory practice, ensuring that every
+child is included and supported.
+Overarching principles
+5.
+Four guiding principles should shape practice in early years. These are:
+Every child is a unique child, who is constantly learning and can be resilient,
+capable, confident, and self-assured.
+Children learn to be strong and independent through positive relationships.
+Children learn and develop well in enabling environments with teaching and
+support from adults, who respond to their individual interests and needs and
+help them to build their learning over time. Children benefit from a strong
+partnership between practitioners and parents and/or carers.
+Importance of learning and development. Children develop and learn at different
+rates. (See "the characteristics of effective teaching and learning" at paragraph
+1.18). The framework covers the education and care of all children, including
+children with special educational needs and disabilities (SEND).
+7
+Section 1 — The learning and development requirements
+1.1 This section sets out what providers must do, working in partnership with parents and/or
+carers, to promote the learning and development of all children in their care, and to
+ensure their entire early years' experience contributes positively to their brain
+development and readiness for Key Stage 1. The learning and development
+requirements are informed by the best available evidence on how children learn. They
+also reflect the broad range of skills, knowledge, and attitudes children need as
+foundations for life now and in the future. Early years providers must guide the
+development of children's capabilities to help ensure that children in their care will fully
+benefit from future opportunities.
+1.2 The EYFS learning and development requirements for group and school-based providers
+are made up of the seven areas of learning and development, as set out in the
+educational programmes described below.
+1.3 In reception year, teachers and practitioners will also utilise the early learning goals
+which summarise the knowledge, skills and understanding that all young children should
+have gained by the end of the EYFS.
+The areas of learning and development
+1.4 There are seven areas of learning and development that set out what providers must teach
+the children in their settings. All areas of learning and development are important and
+inter-connected.
+1.5 Three prime areas are particularly important for learning and forming relationships. They
+build a foundation for children to thrive and provide the basis for learning in all areas.
+These are the prime areas:
+Communication and language
+Physical development
+Personal, social and emotional development
+1.6 Providers must also support children in four specific areas, which help strengthen and
+develop the three prime areas, and ignite children's curiosity and enthusiasm.
+The specific areas are:
+Literacy
+Mathematics
+Understanding the world
+Expressive arts and design
+8
+Educational Programmes
+The educational programmes are high level curriculum summaries which set out what
+should be taught in settings for each area. They must involve activities and experiences
+that enable children to learn and develop, as set out under each of the areas of learning.
+Communication and Language
+The development of children's spoken language underpins all seven areas of learning and
+development. Children's back-and-forth interactions from an early age form the
+foundations for language and cognitive development. The number and quality of the
+conversations they have with adults and peers throughout the day in a language-rich
+environment is crucial. By commenting on what children are interested in or doing, and
+echoing back what they say with new vocabulary added, practitioners will build children's
+language effectively. Reading frequently to children, and engaging them actively in stories,
+non-fiction, rhymes and poems, and then providing them with extensive opportunities to
+use and embed new words in a range of contexts, will give children the opportunity to
+thrive. Through conversation, storytelling and role play, where children share their ideas
+with support and modelling from their teacher, and sensitive questioning that invites them
+to elaborate, children become comfortable using a rich range of vocabulary and language
+structures.
+Personal, Social and Emotional Development
+Children's personal, social and emotional development (PSED) is crucial for children to
+lead healthy and happy lives and is fundamental to their cognitive development.
+Underpinning their personal development are the important attachments that shape their
+social world. Strong, warm and supportive relationships with adults enable children to
+learn how to understand their own feelings and those of others. Children should be
+supported to manage emotions, develop a positive sense of self, set themselves simple
+goals, have confidence in their own abilities, to persist and wait for what they want and
+direct attention as necessary. Through adult modelling and guidance, they will learn how to
+look after their bodies, including healthy eating, and manage personal needs
+independently. Through supported interaction with other children, they learn how to make
+good friendships, co-operate and resolve conflicts peaceably. These attributes will provide
+a secure platform from which children can achieve at school and in later life.
+9
+Physical Development
+Physical activity is vital in children's all-round development, enabling them to pursue happy,
+healthy and active lives 11 Gross and fine motor experiences develop incrementally
+throughout early childhood, starting with sensory explorations and the development of a
+child's strength, co-ordination and positional awareness through tummy time, crawling and
+play movement with both objects and adults. By creating games and providing opportunities
+for play both indoors and outdoors, adults can support children to develop their core
+strength, stability, balance, spatial awareness, co-ordination and agility. Gross motor skills
+provide the foundation for developing healthy bodies and social and emotional well-being.
+Fine motor control and precision helps with hand-eye co-ordination, which is later linked to
+early literacy. Repeated and varied opportunities to explore and play with small world
+activities, puzzles, arts and crafts and the practice of using small tools, with feedback and
+support from adults, allow children to develop proficiency, control and confidence.
+Literacy
+It is crucial for children to develop a life-long love of reading. Reading consists of two
+dimensions: language comprehension and word reading. Language comprehension
+(necessary for both reading and writing) starts from birth. It only develops when adults talk
+with children about the world around them and the books (stories and non-fiction) they
+read with them, and enjoy rhymes, poems and songs together. Skilled word reading,
+taught later, involves both the speedy working out of the pronunciation of unfamiliar printed
+words (decoding) and the speedy recognition of familiar printed words. Writing involves
+transcription (spelling and handwriting) and composition (articulating ideas and structuring
+them in speech, before writing).
+Mathematics
+Developing a strong grounding in number is essential so that all children develop the
+necessary building blocks to excel mathematically. Children should be able to count
+confidently, develop a deep understanding of the numbers to 10, the relationships
+between them and the patterns within those numbers. By providing frequent and varied
+opportunities to build and apply this understanding - such as using manipulatives,
+including small pebbles and tens frames for organising counting - children will develop a
+secure base of knowledge and vocabulary from which mastery of mathematics is built. In
+addition, it is important that the curriculum includes rich opportunities for children to
+develop their spatial reasoning skills across all areas of mathematics including shape,
+space and measures. It is important that children develop positive attitudes and interests
+in mathematics, look for patterns and relationships, spot connections, 'have a go', talk to
+adults and peers about what they notice and not be afraid to make mistakes.
+11 Guidance on physical activity from the Chief Medical Officer is available at:
+https://www.gov.uk/government/publications/physical-activity-guidelines-uk-chief-medical-officers-report
+10
+Understanding the World
+Understanding the world involves guiding children to make sense of their physical world
+and their community. The frequency and range of children's personal experiences
+increases their knowledge and sense of the world around them - from visiting parks,
+libraries and museums to meeting important members of society such as police officers,
+nurses and firefighters. In addition, listening to a broad selection of stories, non-fiction,
+rhymes and poems will foster their understanding of our culturally, socially, technologically
+and ecologically diverse world. As well as building important knowledge, this extends their
+familiarity with words that support understanding across domains.
+Enriching and widening children's vocabulary will support later reading comprehension.
+Expressive Arts and Design
+The development of children's artistic and cultural awareness supports their imagination
+and creativity. It is important that children have regular opportunities to engage with the
+arts, enabling them to explore and play with a wide range of media and materials. The
+quality and variety of what children see, hear and participate in is crucial for developing
+their understanding, self-expression, vocabulary and ability to communicate through the
+arts. The frequency, repetition and depth of their experiences are fundamental to their
+progress in interpreting and appreciating what they hear, respond to and observe.
+Early Learning Goals
+1.7 The level of development children should be expected to have reached by the end of the
+EYFS is defined by the early learning goals (ELGs) as set out below.
+1.8 The ELGs should not be used as a curriculum or in any way to limit the wide variety of
+rich experiences that are crucial to child development.
+1.9 Instead, the ELGs should support practitioners to make a holistic, best-fit judgement
+about a child's development at the end of the EYFS, and their readiness for year 1.
+1.10 Practitioners working with children below reception age do not need to use the ELGs as,
+for the vast majority of children, the EYFS Profile will be carried out by their school
+teacher at the end of the reception year. A group-based provider may need to use the
+ELGs to complete the EYFS Profile assessment for children aged 4-5 if this is not being
+done in reception year at school, however this is very rare (please see paragraph 2.13
+below).
+1.11 When forming a judgement about whether an individual child is at the expected level of
+development, teachers should draw on their knowledge of the child and their own expert
+professional judgement. This is enough evidence to assess a child's individual level of
+development in relation to each of the ELGs. Recorded, written or photographic evidence
+is not required.
+11
+Communication and Language
+ELG: Listening, Attention and Understanding
+Children at the expected level of development will:
+Listen attentively and respond to what they hear with relevant questions,
+comments and actions when being read to and during whole class discussions
+and small group interactions.
+Make comments about what they have heard and ask questions to clarify their
+understanding.
+Hold conversation when engaged in back-and-forth exchanges with their
+teacher and peers.
+ELG: Speaking
+Children at the expected level of development will:
+Participate in small group, class and one-to-one discussions, offering their own
+ideas, using recently introduced vocabulary.
+Offer explanations for why things might happen, making use of recently
+introduced vocabulary from stories, non-fiction, rhymes and poems when
+appropriate.
+Express their ideas and feelings about their experiences using full sentences,
+including use of past, present and future tenses and making use of
+conjunctions, with modelling and support from their teacher.
+Personal, Social and Emotional Development
+ELG: Self-Regulation
+Children at the expected level of development will:
+Show an understanding of their own feelings and those of others and begin to
+regulate their behaviour accordingly.
+Set and work towards simple goals, being able to wait for what they want and
+control their immediate impulses when appropriate.
+Give focused attention to what the teacher says, responding appropriately even
+when engaged in activity, and show an ability to follow instructions involving
+several ideas or actions.
+ELG: Managing Self
+Children at the expected level of development will:
+Be confident to try new activities and show independence, resilience and
+perseverance in the face of challenge.
+12
+Explain the reasons for rules, know right from wrong and try to behave
+accordingly.
+Manage their own basic hygiene and personal needs, including dressing, going
+to the toilet and understanding the importance of healthy food choices.
+ELG: Building Relationships
+Children at the expected level of development will:
+Work and play cooperatively and take turns with others.
+Form positive attachments to adults and friendships with peers.
+Show sensitivity to their own and to others' needs.
+Physical Development
+ELG: Gross Motor Skills
+Children at the expected level of development will:
+Negotiate space and obstacles safely, with consideration for themselves and
+others.
+Demonstrate strength, balance and coordination when playing.
+Move energetically, such as running, jumping, dancing, hopping, skipping and
+climbing.
+ELG: Fine Motor Skills
+Children at the expected level of development will:
+Hold a pencil effectively in preparation for fluent writing - using the tripod grip in
+almost all cases.
+Use a range of small tools, including scissors, paint brushes and cutlery.
+Begin to show accuracy and care when drawing.
+Literacy
+ELG: Comprehension
+Children at the expected level of development will:
+Demonstrate understanding of what has been read to them by retelling stories
+and narratives using their own words and recently introduced vocabulary.
+Anticipate - where appropriate - key events in stories.
+Use and understand recently introduced vocabulary during discussions about
+stories, non-fiction, rhymes and poems and during role-play.
+13
+ELG: Word Reading
+Children at the expected level of development will:
+Say a sound for each letter in the alphabet and at least 10 digraphs.
+Read words consistent with their phonic knowledge by sound-blending.
+Read aloud simple sentences and books that are consistent with their phonic
+knowledge, including some common exception words.
+ELG: Writing
+Children at the expected level of development will:
+Write recognisable letters, most of which are correctly formed.
+Spell words by identifying sounds in them and representing the sounds with a
+letter or letters.
+Write simple phrases and sentences that can be read by others.
+Mathematics
+ELG: Number
+Children at the expected level of development will:
+Have a deep understanding of numbers to 10, including the composition of each
+number.
+Subitise (recognise quantities without counting) up to 5.
+Automatically recall (without reference to rhymes, counting or other aids)
+number bonds up to 5 (including subtraction facts) and some number bonds to
+10, including double facts.
+ELG: Numerical Patterns
+Children at the expected level of development will:
+Verbally count beyond 20, recognising the pattern of the counting system.
+Compare quantities up to 10 in different contexts, recognising when one quantity
+is greater than, less than or the same as the other quantity.
+Explore and represent patterns within numbers up to 10, including evens and
+odds, double facts and how quantities can be distributed equally.
+Understanding the World
+ELG: Past and Present
+Children at the expected level of development will:
+Talk about the lives of the people around them and their roles in society.
+14
+Know some similarities and differences between things in the past and now,
+drawing on their experiences and what has been read in class.
+Understand the past through settings, characters and events encountered in books
+read in class and storytelling.
+ELG: People, Culture and Communities
+Children at the expected level of development will:
+Describe their immediate environment using knowledge from observation,
+discussion, stories, non-fiction texts and maps.
+Know some similarities and differences between different religious and cultural
+communities in this country, drawing on their experiences and what has been read
+in class.
+Explain some similarities and differences between life in this country and life in
+other countries, drawing on knowledge from stories, non-fiction texts and - when
+appropriate - maps.
+ELG: The Natural World
+Children at the expected level of development will:
+Explore the natural world around them, making observations and drawing pictures
+of animals and plants.
+Know some similarities and differences between the natural world around them and
+contrasting environments, drawing on their experiences and what has been read in
+class.
+Understand some important processes and changes in the natural world around
+them, including the seasons and changing states of matter.
+Expressive Arts and Design
+ELG: Creating with Materials
+Children at the expected level of development will:
+Safely use and explore a variety of materials, tools and techniques, experimenting
+with colour, design, texture, form and function.
+Share their creations, explaining the process they have used.
+Make use of props and materials when role playing characters in narratives and
+stories.
+ELG: Being Imaginative and Expressive
+Children at the expected level of development will:
+15
+Invent, adapt and recount narratives and stories with peers and their teacher.
+Sing a range of well-known nursery rhymes and songs.
+Perform songs, rhymes, poems and stories with others, and - when appropriate -
+try to move in time with music.
+Learning and Development Considerations
+1.12 Practitioners should be ambitious for all children. To do this they must consider the
+individual needs, interests, and development of each child in their care. They must use
+this information to plan a challenging and enjoyable experience for each child in all areas
+of learning and development. Practitioners working with the youngest children are
+expected to ensure a strong foundation for children's development in the three prime
+areas. The specific areas of learning provide children with a broad curriculum and with
+opportunities to strengthen and apply the prime areas of learning. This is particularly
+important in developing language and extending vocabulary.
+Acting on concerns
+1.13 Throughout the early years, if a provider is worried about a child's progress in any prime
+area, practitioners must discuss this with the child's parents and/or carers and agree how
+to support the child. Practitioners must consider whether a child needs any additional
+support, including whether they may have a special educational need or disability which
+requires specialist support.
+English as an Additional Language
+1.14 For children whose home language is not English, providers may take reasonable steps
+to provide opportunities for children to develop and use their home language in play and
+learning, supporting their language development at home.
+1.15 Providers must ensure that children have sufficient opportunities to learn and reach a
+good standard in English language during the EYFS, ensuring children are ready to benefit
+from the opportunities available to them when they begin Key Stage 1. When assessing
+communication, language, and literacy skills, practitioners must assess children's skills in
+English. If a child does not have a strong grasp of English language, practitioners must
+explore the child's skills in the home language with parents and/or carers, to establish
+whether there is cause for concern about language delay.
+Approaches to teaching and learning
+1.16 This framework does not prescribe a particular teaching approach. Play is essential for
+children's development, building their confidence as they learn to explore, relate to
+others, set their own goals, and solve problems. Children learn by leading their own play,
+and by taking part in play and learning that is guided by adults. Practitioners need to
+decide what they want children in their setting to learn, and the most effective ways to
+16
+teach it. Practitioners must stimulate children's interests, responding to each child's
+emerging needs and guiding their development through warm, positive interactions
+coupled with secure routines for play and learning.
+1.17 As children grow older and move into the reception year, there should be a greater
+focus on teaching the essential skills and knowledge in the specific areas of learning.
+This will help children to prepare for Key Stage 1.
+1.18 In planning and guiding what children learn, practitioners must reflect on the different
+rates at which children are developing and adjust their practice appropriately. Three
+characteristics of effective teaching and learning are:
+Playing and exploring - children investigate and experience things, and 'have
+a go'.
+Active learning - children concentrate and keep on trying if they encounter
+difficulties and enjoy achievements.
+Creating and thinking critically - children have and develop their own ideas,
+make links between ideas, and develop strategies for doing things.
+A quality workforce focused on learning and development and
+health and safety
+1.19 All children deserve high quality early education and care. This requires a quality
+workforce. A well-trained, skilled team of practitioners can help every child achieve the
+best possible educational outcomes. Children need to build an attachment with their key
+person for their confidence and well-being. The key person also promotes children's
+learning by developing a deep understanding of their individual needs and children can
+particularly benefit from their modelling and support. The requirements in relation to
+workforce training and responsibilities, including that of the key person, are outlined in
+Section 3 but they are equally important for children's learning and development as they
+are for their safety and welfare.
+Curriculum Guidance
+1.20 Development Matters, government curriculum guidance for the EYFS, can support
+providers to deliver the EYFS learning and development requirements. It can be used to
+design an effective early years curriculum. This guidance is non-statutory, so Ofsted,
+CMAs, and inspectorates of independent schools will not take this into account when
+carrying out inspections or quality assurance visits. It is up to providers to decide how
+they deliver the learning and development requirements.
+17
+Section 2 - Assessment
+2.1 Assessment plays an important part in helping parents, carers, and practitioners to
+recognise children's progress, understand their needs, and to plan activities and support.
+This section sets out the assessment requirements group and school-based providers
+must meet, as well as guidance on assessment.
+2.2 Assessment should not involve long breaks from interaction with children or require
+excessive paperwork. When assessing whether an individual child is at the expected level
+of development, practitioners should draw on their knowledge of the child and their own
+expert professional judgement. Practitioners are not required to prove this through
+collection of any physical evidence.
+2.3 Practitioners should keep parents and/or carers up to date with their child's progress and
+development. Practitioners should address any learning and development needs in
+partnership with parents and/or carers, and any relevant professionals.
+2.4 Assessment should inform an ongoing dialogue between practitioners and year 1
+teachers about each child's learning and development, to support a successful transition
+to Key Stage 1.
+Ongoing assessment
+2.5 Ongoing assessment (also known as formative assessment) is an integral part of the
+learning and development process. It involves practitioners understanding children's
+interests and what they know and can do, and then shaping teaching and learning
+experiences for each child reflecting that knowledge. In their interactions with children,
+practitioners should make and act on their own day-to-day observations about children's
+progress and observations that parents and carers share. However, there is no
+requirement to keep written records in relation to this.
+Progress check at age two
+2.6 When a child is aged between two and three, practitioners must review their progress
+and provide parents and/or carers with a short written summary of their child's
+development in the prime areas.
+2.7 Beyond the prime areas, it is for practitioners to decide what the written summary should
+include, reflecting the development level and needs of the individual child.
+2.8 The summary must:
+Highlight areas in which a child is progressing well.
+Highlight areas in which some additional support might be needed.
+Focus particularly on any areas where there is a concern that a child may have
+a developmental delay, which may indicate a special educational need or
+disability.
+18
+Describe the activities and strategies the provider intends to adopt to address
+any issues or concerns. This plan should involve parents and carers and other
+professionals (for example, the provider's Special Educational Needs Co-
+ordinator (SENCO) or health professionals) as appropriate.
+2.9 If a child moves settings between the ages of two and three, it is expected that the
+progress check would usually be undertaken by the setting where the child has spent
+most time. Practitioners must discuss with parents and/or carers how the summary of
+development can be used to support learning at home. Non-statutory guidance,
+Progress check at age 2, is available to support practitioners in completing the progress
+check.
+2.10 Practitioners should encourage parents and/or carers to share information from the
+progress check with other relevant professionals, including their health visitor and the
+staff of any new provision the child may move to. Practitioners must agree with parents
+and/or carers when will be the most useful point to provide a summary. Where possible,
+the progress check and the Healthy Child Programme health and development review
+at age two (when health visitors gather information on a child's health and development)
+should inform each other and support integrated working. This will allow health and
+education professionals to identify strengths as well as any developmental delay and
+any particular support from which they think the child/family might benefit. Providers
+must have the consent of parents and/or carers to share information directly with other
+relevant professionals.
+Assessment at the start of the reception year — the Reception
+Baseline Assessment (RBA)
+2.11 The Reception Baseline Assessment (RBA) is a short assessment, taken in the first six
+weeks in which a child starts reception. This information is therefore only relevant to
+reception teachers in school-based provision.
+2.12 Requirements for the administration of the RBA are set out in Annex B. That Annex covers
+all intakes in reception within an academic year including during autumn, spring and
+summer terms.
+Assessment at the end of the EYFS - the Early Years
+Foundation Stage Profile (EYFSP)
+2.13 In the final term of the academic year in which the child reaches age five, and no later
+than 30 June in that term, the EYFS Profile must be completed for each child (except
+where paragraph 2.18 applies). This is therefore usually undertaken by reception
+teachers, but on rare occasions it could be undertaken in other settings too. A provider
+other than a reception teacher must complete the EYFS Profile only where a child they
+are caring for has not started school by the final term of the year in which the child
+reaches age 5 and will complete the EYFS in their setting.
+19
+2.14 The Profile provides parents and carers, practitioners and teachers with a well- rounded
+picture of a child's knowledge, understanding and abilities, their attainment against
+expected levels, and their readiness for year 1. The Profile must reflect practitioners'
+own knowledge and professional judgement of a child to inform discussions with
+parents and carers, and any other person whom the teacher, parent or carer judges can
+offer a useful contribution.
+2.15 Each child's level of development must be assessed against the early learning goals.
+Practitioners must note whether children are meeting expected levels of development,
+or if they are not yet reaching expected levels ("emerging").
+2.16 Year 1 teachers must be given a copy of the Profile report. Reception teachers, or early
+years practitioners where the Profile has been completed for a child who has remained
+in registered early years provision, may choose to provide a short commentary on each
+child's skills and abilities in relation to the three key characteristics of effective teaching
+and learning (see paragraph 1.18). These should help inform a discussion between
+reception and year 1 teachers about each child's stage of development and learning
+needs and assist with the planning of activities in year 1.
+2.17 Relevant providers must share the results of the Profile with parents and/or carers, and
+explain to them when and how they can discuss the Profile with the practitioner who
+completed it. For children attending more than one setting, the Profile must be
+completed by the setting where the child spends most time. If a child moves to a new
+setting during the academic year, the original setting must send their assessment of the
+child's level of development against the early learning goals to the relevant school
+within 15 days of receiving a request. If a child moves during the summer term, relevant
+providers must agree which of them will complete the Profile.
+2.18 In exceptional circumstances, after discussion and only in agreement with parents
+and/or carers, a child might remain in EYFS provision beyond the end of the academic
+year in which they reach age 5¹². In these exceptional cases, assessment should
+continue throughout the child's time within EYFS provision and the Profile should be
+completed once only, at the end of the year before the child moves into year 1. If the
+child is only continuing in EYFS provision for part of the following year, the Profile
+should be completed at the end of the child's time in the EYFS before they move into
+year 1. The data should then be submitted at the end of that academic year with the
+rest of the cohort. We recommend the decision for the child to remain in the EYFS is
+made before starting the Profile for the cohort. However, if the decision is made after
+the Profile has already been completed, then a new assessment will need to be made
+and submitted the following year with the new cohort.
+12 This does not alter compulsory school age, which remains whichever of 31 December, 31 March or 31
+August comes first after the child's 5th birthday: School admissions: School starting age - GOV.UK
+20
+2.19 The school should discuss their intention to defer the child's statutory assessment with
+their local authority. This will ensure the child's data is not considered missing when the
+school submits Profile outcomes for the current cohort.
+2.20 The Profile must be completed for all children, including those with special educational
+needs or disabilities (SEND). Reasonable adjustments to the assessment process for
+children with SEND must be made as appropriate. Providers should consider whether
+they may need to seek specialist assistance to help with this. Children will have differing
+levels of knowledge, skills and abilities across the Profile, and it is important that there
+is a full assessment of all areas of their development, to inform plans for future activities
+and to identify any additional support needs.
+Information to be provided to the local authority
+2.21 Early years providers must report EYFS Profile results to local authorities, upon
+request¹³. Local authorities are under a duty to return this data to the relevant
+government department.
+13 The Childcare (Provision of Information About Young Children) (England) Regulations 2009
+21
+Section 3 - The safeguarding and welfare requirements
+Introduction
+3.1 Children learn best when they are healthy, safe, secure, when their individual needs are
+met, and when they have positive relationships with the people caring for them.
+3.2 This section of the framework sets out the safeguarding and welfare requirements
+providers must meet. They are designed to help providers create a high-quality,
+welcoming, and safe setting where children can enjoy learning and grow in confidence.
+3.3 Providers must take all necessary steps to keep children safe and well. The requirements
+in this section explain what early years providers must do to:
+Safeguard children.
+Ensure the people who have contact with children are suitable.
+Promote good health.
+Support and understand behaviour.
+Maintain records, policies, and procedures.
+Safeguarding policies and procedures
+3.4 In every setting, a practitioner must be designated to take lead responsibility for
+safeguarding children. The designated safeguarding lead (DSL) is responsible for liaison
+with local statutory children's services agencies, and with the Local Safeguarding
+Partners (LSPs). All practitioners must be alert to any issues of concern in the child's life
+at home or elsewhere.
+3.5 Providers must have and implement policies and procedures to keep children safe and
+meet EYFS requirements. Schools are not required to have separate policies to cover
+EYFS requirements provided the requirements are already met through an existing
+policy. Where providers are required to have policies and procedures as specified
+below, these policies and procedures should be recorded in writing. Policies and
+procedures should be in line with the guidance and procedures of the relevant LSP.
+3.6 Safeguarding policies must include:
+The action to be taken when there are safeguarding concerns about a child.
+The action to be taken in the event of an allegation being made against a member
+of staff.
+How mobile phones, cameras and other electronic devices with imaging and
+sharing capabilities are used in the setting.
+Procedures to follow to check the suitability of new recruits.
+22
+Detail of how safeguarding training is delivered and how practitioners are
+supported to put this into practice.
+Providers may find it helpful to read Safeguarding children and protecting professionals in
+early years settings: online safety considerations'.
+Whistleblowing
+3.7 Providers must put appropriate whistleblowing procedures in place for all staff (including
+students and volunteers) to raise concerns about poor or unsafe practice in the setting's
+safeguarding provision. This must include when and how to report concerns and the
+process that will be followed after staff report concerns. Providers must ensure staff are
+aware of the setting's whistleblowing procedures and must ensure all staff feel able to
+raise concerns about poor or unsafe practice and know that such concerns will be taken
+seriously by the senior leadership team.
+3.8 Where a staff member feels unable to raise an issue with their employer, or feels that their
+genuine concerns are not being addressed, they should use the other channels open to
+them:
+NSPCC whistleblowing advice line is available. Staff can call 0800 0280285 - 08:00 to
+20:00, Monday to Friday and 09:00 to 18:00 at weekends. The email address is:
+help@nspcc.org.uk. Alternatively, staff can write to: National Society for the Prevention
+of Cruelty to Children (NSPCC), Weston House, 42 Curtain Road, London EC2A 3NH.
+Ofsted provides guidance on how to make complaints about a provider: Complaints
+procedure - Ofsted - GOV.UK (www.gov.uk).
+General guidance on whistleblowing can be found via: Whistleblowing for employees.
+Concerns about children's safety and welfare
+3.9 If providers have concerns about children's safety or welfare, they must immediately
+notify their local authority children's social care team, in line with local reporting
+procedures, and, in emergencies, the police. Providers must also take into account the
+government's statutory guidance 'Working Together to Safeguard Children' and 'Prevent
+duty guidance for England and Wales'. All schools are required to have regard 14 to the
+government's statutory guidance 'Keeping Children Safe in Education', and other
+childcare providers may also find it helpful to read this guidance.
+3.10 Registered providers must inform Ofsted, or the CMA with which a provider of CoDP is
+registered, of any allegations of serious harm or abuse by anyone living, working, or
+looking after children at the premises. This must happen whether the allegations of
+harm or abuse are alleged to have been committed on the premises or elsewhere, for
+example, on a visit. Registered providers must also notify Ofsted/ their CMA of the
+14 Under section 175(4) of the Education Act 2002.
+23
+action they have taken in response to the allegations. Ofsted/the CMA must be notified
+as soon as is reasonably practicable, but in any event within 14 days of the allegations
+being made. A registered provider who, without a reasonable excuse, fails to do this,
+commits an offence¹
+Child absences
+3.11 Providers must follow up on absences in a timely manner. If a child is absent for a
+prolonged period of time, or if a child is absent without notification from the parent or
+carer, attempts must be made to contact the child's parents and/or carers and alternative
+emergency contacts. Providers must consider patterns and trends in a child's absences
+and their personal circumstances and use their professional judgement when deciding if
+the child's absence should be considered as prolonged. Consideration must be given to
+the child's vulnerability, parent's and/or carer's vulnerability and their home life. Any
+concerns must be referred to local children's social care services and/or a police welfare
+check requested.
+3.12 Providers must have an attendance policy that they share with parents and/or carers. This
+must include expectations for reporting child absences and the actions providers will take
+if a child is absent without notification or for a prolonged period of time, for example:
+implementing the setting's safeguarding procedures, following up with the parents and/or
+carers and contacting emergency contacts if parents and/or carers are not contactable.
+Suitable people
+3.13 Providers must ensure that people looking after children are suitable; they must have
+the relevant qualifications, training and have passed any required checks to fulfil their
+roles. Providers must take appropriate steps to verify qualifications, including in cases
+where physical evidence cannot be produced. Providers must also ensure that any
+person who may have regular contact with children (for example, someone living or
+working on the same premises the early years provision is provided), is suitable 16
+3.14 Ofsted, or the CMA with which a provider of CoDP is registered, is responsible for
+completing suitability checks of:
+The provider.
+Every other person looking after children on domestic premises for whom the
+care is being provided. This includes students, who cannot be counted in the
+ratios until they have been deemed suitable.
+15 Regulation 12 of the EYFS (Welfare Requirements) Regulations 2012.
+16 To allow Ofsted to make these checks, providers are required to supply information to Ofsted or the relevant
+CMA, as set out in Schedule 2, Part 2 of the Childcare (Early Years Register) Regulations 2008, amended by
+the Childcare (Early Years Register) (Amendment) Regulations 2012.
+24
+Every other person living or working on any domestic premises from which the
+childcare is being provided, including requiring enhanced criminal records
+checks¹⁷ and barred list checks.
+3.15 Registered group and school-based providers, except CoDP providers, must obtain
+an enhanced criminal records check for every person aged 16 and over (including for
+unsupervised volunteers, and supervised volunteers who provide personal care¹⁸)
+who:
+Works directly with children.
+Lives on the premises on which the childcare is provided (unless there is no
+access to the part of the premises when and where children are cared for)
+and/or
+Works on the premises on which the childcare is provided (unless they do not
+work on the part of the premises where the childcare takes place, or do not work
+there at times when children are present).
+3.16 An additional criminal records check (or checks if more than one country) should also be
+made for anyone who has lived or worked abroad¹⁹.
+3.17 Providers must tell staff that they are expected to disclose any convictions, cautions,
+court orders, reprimands and warnings²⁰ that may affect their suitability to work with
+children (whether received before or during their employment at the setting). Providers
+must not allow anyone whose suitability has not been checked, including through a
+criminal records check²¹, to have unsupervised contact with children being cared for.
+3.18 Providers must record information about staff qualifications and the identity checks,
+vetting processes and references that have been completed (including the criminal
+records check reference number, the date a check was obtained and details of who at
+the setting obtained it).
+17 The requirement for a criminal records check will be deemed to have been met in respect of all people living
+or working in childcare settings, whose suitability was checked by Ofsted or their local authority before October
+2005
+18 Personal care includes helping a child, for reasons of age, illness or disability, with eating or drinking, or in
+connection with toileting, washing, bathing and dressing.
+19 For more information see: www.gov.uk/government/publications/criminal-records-checks-for-
+overseasapplicants.
+20 Except convictions or cautions that are protected for the purposes of the Rehabilitation of Offenders Act 1974.
+21 DBS disclosures and barred list information are only issued to the potential employee; providers must check
+the disclosure and consider whether it contains any information that would suggest the person was unsuitable
+for the position, before an individual has unsupervised contact with children. Where a potential or existing
+employee has subscribed to the online DBS update service, providers should check the status of the
+disclosure. Where the check identifies there has been a change to the disclosure details, a new enhanced
+DBS disclosure must be applied for. Before accessing the DBS update service consent to do so must be
+obtained from the member of staff.
+25
+3.19 Providers are required to make a referral to the Disclosure and Barring Service if a
+member of staff is dismissed (or would have been, had they not left the setting first)
+because they have harmed a child or put a child at risk of harm²².
+References
+3.20 Providers must obtain a reference for any member of staff (including students and
+volunteers) before they are recruited. Providers should:
+Not accept open references e.g. to whom it may concern.
+Not rely on applicants to obtain their reference.
+Ensure any references are from the applicant's current employer, training
+provider or education setting and have been completed by a senior person with
+appropriate authority.
+Not accept references from a family member.
+Obtain verification of the individual's most recent relevant period of employment
+where the applicant is not currently employed.
+Secure a reference from the relevant employer from the last time the applicant
+worked with children (if not currently working with children). If the applicant has
+never worked with children, then ensure a reference is from their current
+employer, training provider or education setting.
+Ensure electronic references originate from a legitimate source.
+Contact referees to clarify content where information is vague or insufficient
+information is provided.
+Compare the information on the application form with that in the reference and
+take up any discrepancies with the applicant.
+Establish the reason for the applicant leaving their current or most recent post,
+and ensure any concerns are resolved satisfactorily before appointment is
+confirmed.
+3.21 References should be provided for previous employees upon request in a timely manner.
+When asked to provide references, providers should ensure the information confirms
+whether they are satisfied with the applicant's suitability to work with children and provide
+the facts (not opinions) of any substantiated safeguarding concerns/allegations that meet
+the harm threshold²³. They should not include information about concerns/allegations
+which are unsubstantiated, unfounded, false, or malicious.
+22 Section 35 Safeguarding Vulnerable Groups Act 2006.
+23 The harm test is explained in the Disclosure and Barring service Guidance: Making barring referrals to the DBS
+and section 35(4) Safeguarding Vulnerable Groups Act 2006 and means that a person may (a) harm a child or
+26
+Disqualification
+3.22 A provider or a practitioner may be disqualified from registration. Providers may find
+guidance about disqualification under the Childcare Act 2006 helpful. If a provider is
+disqualified, they must not continue as an early years provider or be directly involved
+in the management of any early years provision. When a person is disqualified,
+providers must not employ that person in connection with early years provision.
+3.23 A registered provider must notify Ofsted, or the CMA with which a provider of CoDP is
+registered, of any significant event which is likely to affect the suitability of any person
+who is in regular contact with children on the premises where childcare is provided.
+The disqualification of an employee or a person living or working at domestic
+premises where childcare is provided could be an example of a significant event²⁴.
+3.24 The registered provider must give Ofsted, or the CMA with which a provider of CoDP
+is registered, the following information about themselves or about any person who
+lives or is employed in the same household as the registered provider:
+Details of any order, determination, conviction, or other ground for
+disqualification from registration under regulations made under section 75 of the
+Childcare Act 2006.
+The date of the order, determination or conviction, or the date when the other
+ground for disqualification arose.
+The body or court which made the order, determination or conviction, and the
+sentence (if any) imposed.
+A certified copy of the relevant order (in relation to an order or conviction).
+3.25 The registered provider must provide this information to Ofsted/the CMA as soon as
+reasonably practicable, but, in any event within 14 days of the date the provider
+became aware of the information or should have reasonably become aware of it if they
+had made reasonable enquiries²⁵
+3.26 If a provider becomes aware of relevant information that may lead to an employee or a
+person living or working at domestic premises where childcare is provided being
+disqualified, the provider must take appropriate action to ensure the safety of children.
+vulnerable adult, (b) cause a child or vulnerable adult to be harmed, (c) put a child or vulnerable adult at risk of
+harm, (d) attempt to harm a child or vulnerable adult, or (e) incite another to harm a child or vulnerable adult.
+24 Providers may find it helpful to read the Ofsted guidance on significant events: Childcare: significant events
+to notify Ofsted about - GOV.UK (www.gov.uk)
+25 This requirement is set out in regulation 9 of the EYFS (Welfare Requirements) Regulations 2012.
+27
+Staff taking medication/other substances
+3.27 Staff members must not be under the influence of alcohol or any other substance which
+may affect their ability to care for children. If a practitioner is taking medication which
+may affect their ability to care for children, they should seek medical advice.
+Practitioners must only work directly with children if the medical advice received
+confirms that the medication is unlikely to impair that person's ability to look after
+children properly. All medication on the premises must be stored securely, and out of
+reach of children, at all times.
+Smoking and vaping
+3.28 Providers must not allow smoking in or on the premises when children are present or
+about to be present. Practitioners should not vape or use e-cigarettes when children are
+present, and providers should consider Public Health England advice on their use in
+public places and workplaces.
+Qualifications, training, support and skills
+3.29 Providers must follow their legal responsibilities under the Equality Act 2010 including
+the fair and equal treatment of practitioners regardless of age, disability, gender
+reassignment, marriage and civil partnership, pregnancy and maternity, race, religion or
+belief, sex and sexual orientation.
+Safeguarding training
+3.30 Providers must ensure that all practitioners are trained in line with the criteria set out in
+Annex C. Providers must ensure that practitioners are supported and confident to
+implement the setting's safeguarding policy and procedures on an ongoing basis.
+Providers should read 'What to do if you're worried a child is being abused: Advice for
+practitioners'.
+3.31 The DSL must provide support, advice and guidance to all practitioners on an ongoing
+basis, and on any specific safeguarding issue as required. The DSL must attend a
+training course consistent with the criteria set out in Annex C.
+3.32 Training must be renewed every two years. Providers may consider whether any staff
+need to undertake annual refresher training during any two-year period to help maintain
+basic skills and keep up to date with any changes to safeguarding procedures or as a
+result of any safeguarding concerns that occur in the setting.
+28
+Training and skills
+3.33 What practitioners know, plan for, and do matters for children's learning, development,
+safety, and happiness in settings. Providers must ensure that all staff receive induction
+training to help them understand their roles and responsibilities. Induction training must
+include information about emergency evacuation procedures, safeguarding, child
+protection, and health and safety issues. Providers must support staff to undertake
+appropriate training and professional development opportunities to ensure they offer
+quality learning and development experiences for children that continually improves.
+Supervision of staff
+3.34 Providers must put appropriate arrangements in place for the supervision of staff who
+have contact with children and families. Effective supervision provides support,
+coaching, and training for the practitioner and promotes the interests of children.
+Supervision should foster a culture of mutual support, teamwork, and continuous
+improvement, which encourages the confidential discussion of sensitive issues.
+3.35 Supervision should provide opportunities for staff to:
+Discuss any issues - particularly concerning children's development or well-
+being, including child protection concerns.
+Identify solutions to address issues as they arise.
+Receive coaching to improve their personal effectiveness.
+Paediatric First Aid
+3.36 At least one person who has a current paediatric first aid (PFA) certificate must be on
+the premises and available at all times when children are present and must accompany
+children on outings. The certificate must be for a full course consistent with the criteria
+set out in Annex A. PFA training²⁶ must be renewed every three years and be relevant
+for people caring for young children and babies.
+3.37 Providers should take into account the number of children, staff, and layout of premises
+to ensure that a paediatric first aider is able to respond to emergencies quickly.
+3.38 All staff who obtained a level 2 and/or level 3 qualification since 30 June 2016 must
+obtain a PFA qualification within three months of starting work in order to be included in
+26 Providers are responsible for identifying and selecting a competent training provider to deliver their PFA
+training. There is no hierarchy in relation to the range of Training Providers who offer Paediatric First Aid
+training, however you may want to consider one of the following: one that is a member of a Trade Body with an
+approval and monitoring scheme, the Voluntary Aid Societies and those who work under Ofqual Awarding
+organisations offering nationally regulated qualifications. It may also be helpful to refer to HSE's guidance
+about choosing a first aid training provider, which can be found at: www.hse.gov.uk/pubns/geis3.htm
+29
+the required staff: child ratios at level 2 or level 3 in an early years setting²⁷ All staff
+who have completed the experience-based route must obtain a PFA qualification before
+they can be included in the staff:child ratios at level 3. To continue to be included in the
+ratio requirement the certificate must be renewed every 3 years²⁸.
+3.39 Providers should display (or make available to parents) staff PFA certificates or a list of
+staff who have a current PFA certificate.
+English language skills
+3.40 Providers must ensure that staff have sufficient understanding and use of English to
+ensure the well-being of children in their care. For example, settings must be able to:
+Keep records in English.
+Liaise with other agencies in English.
+Summon emergency help.
+Understand instructions. For example, about the safety of medicines or food
+hygiene.
+Key person
+3.41 Each child must be assigned a key person. Their role is to help ensure that every
+child's care is tailored to meet their individual needs, to help the child become familiar
+with the setting, offer a settled relationship for the child and build a relationship with
+their parents and/or carers. They should also help families engage with more specialist
+support if appropriate.
+Staff: child ratios
+3.42 Staffing arrangements must meet the needs of all children and ensure their safety.
+Providers must ensure that children are adequately supervised, especially whilst eating,
+and decide how to use staff to ensure children's needs are met. Providers must inform
+parents and/or carers about how staff are organised, and, when relevant and practical,
+aim to involve them in these decisions.
+3.43 Children must usually be within sight and hearing of staff and always within sight or
+hearing. See paragraph 3.63 which applies when children are eating.
+27 Providers can make an exception to this requirement where a staff member who obtained a level 2 and/or
+level 3 qualification since 30 June 2016 is unable to gain a PFA certificate due to a disability. Such a member
+of staff can still be included in the staff:child ratios if otherwise competent to carry out their childcare duties.
+Where possible, such staff should attend a relevant PFA training course and obtain written evidence of
+attendance.
+28 Staff who obtained a level 2 and/or level 3 qualification before 30 June 2016 are not required to obtain a PFA
+qualification in order to be included in the required staff:child ratios. However, the requirements of 3.36 and
+3.37 still apply regardless of when qualifications were obtained.
+30
+3.44 In settings on the early years register, the manager of the setting must hold an approved
+qualification at level 3 or above and at least half of all other staff must hold at least an
+approved level 2 qualification² An approved qualification is defined by the Department
+for Education as meeting the criteria set out in the Early Years Qualification
+Requirements and Standards document. Approved qualifications are published on the
+Early Years Qualifications List ('EYQL') on GOV.UK³⁰ except, as outlined in paragraphs
+1.11 and 1.16 of the Early Years Qualification Requirements and Standards document,
+those which are not individually listed on the EYQL but count as approved qualifications
+if they meet certain criteria. Managers appointed on or after 4 January 2024 must have
+already achieved a suitable level 2 qualification in maths³¹ or must do so within two
+years of starting in the position. This also applies to existing managers moving to a new
+managerial role³². Managers are responsible for ensuring staff have the right level of
+maths knowledge to effectively deliver the EYFS curriculum. Managers should have at
+least two years' experience of working in an early years setting, or have at least two
+years' other suitable experience. The provider must ensure there is a named deputy
+who, in their judgement, is capable and qualified³³ to take charge in the manager's
+absence.
+3.45 To count within the ratios at level 3, staff holding an Early Years Educator qualification³⁴,
+and those who have received approval to be included in the ratios at level 3 after
+attaining experience-based route status³⁵, must also have achieved a suitable level 2
+qualification in English.
+3.46 The ratio requirements below apply to the total number of staff available to work directly
+with children³⁶ Exceptionally, and where the quality of care and safety and security of
+children is maintained, changes to the ratios may be made. For settings providing
+overnight care, the relevant ratios continue to apply and at least one member of staff
+must be awake at all times.
+3.47 For children aged under two:
+There must be at least one member of staff for every three children.
+At least one member of staff must hold an approved level 3 qualification or
+have received approval to be included in the ratios at level 3 after attaining
+29 These qualification requirements do not apply to out-of-school provision for reception age children, (see
+paragraph 3.57).
+30 https://www.gov.uk/guidance/early-years-qualifications-finder
+31 As defined in the Early Years Qualification Requirements and Standards document.
+32 This requirement does not apply to managers who have moved to a different managerial role with the same
+provider, or those who have remained in the same role following a TUPE transfer, or where the provider has
+merged with another.
+33 Capable and qualified' includes having necessary skills and knowledge to cover for the manager in their
+absence. A deputy does not have to have any specific qualification.
+34 As defined in the Early Years Qualification Requirements and Standards document.
+35 For more information on the experience-based route please refer to the Early Years Qualifications
+Requirements and Standards document.
+36 Ofsted may determine that providers must observe a higher staff:child ratio than outlined here to ensure the
+safety and welfare of children.
+31
+experience-based route status³⁷ and be suitably experienced in working with
+children under two.
+At least half of all other staff must hold an approved level 2 qualification.
+At least half of all staff must have received training that specifically addresses
+the care of babies.
+Where there is a room for under two-year-olds, the member of staff in charge of
+that room must, in the judgement of the provider, have suitable experience of
+working with under twos.
+3.48 For children aged two:
+There must be at least one member of staff for every five children³
+At least one member of staff must hold an approved level 3 qualification, or
+have received approval to be included in the ratios at level 3 after attaining
+experience-based route status.
+At least half of all other staff must hold an approved level 2 qualification.
+3.49 For children aged three and over in registered early years provision, at any time where a
+person with Qualified Teacher Status, Early Years Professional Status, Early Years
+Teacher Status is working directly with children³⁹:
+There must be at least one member of staff for every 13 children.
+At least one other member of staff must hold an approved level 3 qualification,
+or have received approval to be included in the ratios at level 3 after attaining
+experience-based route status.
+3.50 For children aged three and over in registered early years provision where a person with
+Qualified Teacher Status, Early Years Professional Status, or Early Years Teacher
+Status is not working directly with children:
+There must be at least one member of staff for every eight children.
+37 No more than 50% of staff included in the ratios at level 3 at a particular premises can be included on the
+basis of experience-based route status at any one time. The remaining 50% or more of those included in the
+staff:child ratios at level 3 must have an approved level 3 qualification or higher.
+38 In a maintained school or non-maintained special school, where the two-year-olds are pupils, staff must
+additionally be under the direction and supervision of a qualified or nominated teacher when carrying out
+specified work (as laid out in the Education (Specified Work) (England) Regulations 2012). Specified work
+broadly encompasses lesson (or curriculum) planning, delivering lessons, assessing the development,
+progress and attainment of pupils and reporting on the latter. The headteacher must be satisfied that the staff
+have the skills, expertise and experience needed to carry out the work and determine the appropriate level of
+direction and supervision.
+39 We expect the teacher (or equivalent) to be working with children for the vast majority of the time. Where
+they need to be absent for short periods of time, the provider will need to ensure that quality and safety is
+maintained.
+32
+At least one other member of staff must hold an approved level 3 qualification,
+or have received approval to be included in the ratios at level 3 after attaining
+experience-based route status.
+At least half of all other staff must hold an approved level 2 qualification.
+3.51 For children aged three and over in independent schools (including in nursery classes in
+free schools and academies) where a person with Qualified Teacher Status, Early Years
+Professional Status, Early Years Teacher Status, an instructor⁴⁰, or another suitably
+qualified overseas trained teacher, is working directly with children:
+For classes where the majority of children will reach the age of five or older
+within the school year, there must be at least one member of staff for every 30
+children⁴¹.
+For all other classes there must be at least one other member of staff for every
+13 children.
+At least one other member of staff must hold an approved level 3 qualification,
+or have received approval to be included in the ratios at level 3 after attaining
+experience-based route status.
+3.52 For children aged three and over in independent schools (including in nursery classes in
+free schools and academies) where there is no person with Qualified Teacher Status,
+Early Years Professional Status, Early Years Teacher Status no instructor, and no
+suitably qualified overseas trained teacher, working directly with children:
+There must be at least one member of staff for every eight children.
+At least one member of staff must hold an approved level 3 qualification, or
+have received approval to be included in the ratios at level 3 after attaining
+experience-based route status.
+At least half of all other staff must hold an approved level 2 qualification.
+3.53 For children aged three and over in maintained nursery schools and nursery classes in
+maintained schools⁴²:
+40 An instructor is a person at the school who provides education which consists of instruction in any art or
+skill, or in any subject or group of subjects, in circumstances where: (a) special qualifications or experience
+or both are required for such instruction; and (b) the person or body of persons responsible for the
+management of the school is satisfied as to the qualifications or experience (or both) of the person providing
+education.
+41 Subject to any permitted exceptions under The Schools Admissions (Infant Class Sizes) Regulations 2012
+S.I. 2012/10.
+42 Where schools have provision run by the governing body (under section 27 of the Education Act 2002) for
+three- and four-year-olds who are not pupils of the school, they can apply: a 1:13 ratio where a person with a
+33
+There must be at least one member of staff for every 13 children⁴³.
+At least one member of staff must be a school teacher as defined by section
+122 of the Education Act 2002⁴⁴
+At least one other member of staff must hold an approved level 3
+qualification⁴⁵ or have received approval to be included in the ratios at level 3
+after attaining experience-based route status.
+3.54 Reception classes in maintained schools and academies are subject to infant class size
+legislation⁴⁶, which is limited to 30 pupils⁴⁷ per school teacher⁴⁸ (subject to permitted
+exceptions) while an ordinary teaching session is conducted. 'School teachers' do not
+include teaching assistants, higher level teaching assistants, or other support staff.
+Consequently, in an ordinary teaching session, a school must employ sufficient school
+teachers to enable it to teach its infant classes in groups of no more than 30 per school
+teacher⁴⁹.
+3.55 Some schools may choose to mix their reception classes with groups of younger
+children (for example, nursery pupils, non-pupils, or younger children from a registered
+provider). In such cases they must determine ratios within mixed groups, guided by all
+relevant ratio requirements and by the needs of individual children within the group. In
+exercising this discretion, the school must comply with the statutory requirements
+relating to the education of children of compulsory school age and infant class sizes.
+Schools' partner providers must meet the relevant ratio requirements for their provision.
+suitable level 6 qualification is working directly with the children (as in paragraph 3.42); or a 1:8 ratio where a
+person with a suitable level 6 qualification is not working directly with children but at least one member of staff
+present holds a level 3 qualification, or have received approval to be included in the ratios at level 3 after
+attaining experience-based route status[ ](as in paragraph 3.43).
+43 Where children in nursery classes attend school for longer than the school day or in the school holidays, in
+provision run directly by the governing body or the proprietor, with no teacher present, a ratio of one member of
+staff to every eight children can be applied if at least one member of staff holds a full and relevant level 3
+qualification, or have received approval to be included in the ratios at level 3 after attaining experience-based
+route status, and at least half of all other staff hold a full and relevant level 2 qualification.
+44 See also the Education (School Teachers' Prescribed Qualifications, etc) Order 2003 and the Education
+(School Teachers' Qualifications) (England) Regulations 2003.
+45 Provided that the person meets all relevant staff qualification requirements as required by The School
+Staffing (England) Regulations 2009.
+46 Academies are required by their funding agreements to comply with the School Admissions Code and the
+law relating to admissions although the Secretary of State has the power to vary this requirement where there
+is demonstratable need.
+47 The School Admissions (Infant Class Size) Regulations 2012 limit the size of infant classes.
+48 As defined by section 122 of the Education Act 2002.
+49 The Specified Work Regulations 2012 allow a non-teacher to carry out the work of the teacher ("specified
+work") where the non-teacher is assisting or supporting the work of the teacher, is subject to the teacher's
+direction and supervision as arranged with the headteacher, and the headteacher is satisfied that that person
+has the skills, expertise and experience required to carry out the specified work. In an academy a teacher can
+have whatever qualification the trust regard as appropriate to teach an infant class, in line with admissions law.
+34
+3.56 Providers must not include anyone aged under 17 in ratios, except apprentices who may
+be included in ratios from the age of 16. Providers must not allow anyone aged under
+17 to care for children unsupervised at any time. Providers may count students and
+long-term volunteers (aged 17 or over) and apprentices (aged 16 or over) in ratios at the
+level below their level of study⁵⁰ but only if the provider is satisfied they are suitable (as
+in paragraphs 3.13 to 3.16) competent and responsible, and they hold a valid and
+current paediatric first aid qualification.
+Before/after school care and holiday provision
+3.57 Where the provision is solely before/after school⁵¹ care or holiday provision for
+children who normally attend reception class (or older) during the school day, there
+must be sufficient staff as for a class of 30 children. It is for providers to determine
+how many staff are needed to ensure the safety and welfare of children, bearing in
+mind the type(s) of activity and the age and needs of the children. It is also for
+providers to determine what qualifications, if any, the manager and/or staff should
+have. See details on page 8 for the learning and development requirements for
+providers offering care exclusively before/after school or during the school holidays.
+Health
+Medicines
+3.58 Providers must promote the good health, including the oral health, of the children they
+look after.
+3.59 They must have a procedure, which must be discussed with parents and/or carers, for
+taking appropriate action if children are ill or infectious. This procedure must also cover
+the necessary steps to prevent the spread of infection⁴⁷.
+3.60 Providers must have and implement a policy, and procedures, for administering
+medicines to children. It must include systems for obtaining information about a child's
+needs for medicines, and for keeping this information up to date. Staff must have
+training if the administration of medicine requires medical or technical knowledge.
+Prescription medicines must not be administered unless they have been prescribed for
+a child by a doctor, dentist, nurse, or pharmacist (medicines containing aspirin should
+only be given if prescribed by a doctor).
+50 A student or apprentice studying towards an approved Level 3 qualification (including qualifications at levels
+4, 5 and 6) may count within the Level 2 ratio. A student or apprentice studying towards an approved Level 6
+qualification (one that gives them the status of EYTS or QTS) may count within the Level 3 ratio.
+51 'School' means maintained schools, non-maintained schools, independent schools and academies. 47
+Guidance on health protection in children and young people settings which sets out when and for how long
+children need to be excluded from settings, when treatment/medication is required and where to get further
+advice can be found at Health protection in children and young people settings, including education -
+GOV.UK
+35
+3.61 Medicine (both prescription and non-prescription⁵²) must only be administered to a child
+where written permission for that particular medicine has been obtained from the child's
+parent and/or carer. Providers must keep a written record each time a medicine is
+administered to a child and inform the child's parents and/or carers on the same day the
+medicine has been taken, or as soon as reasonably practicable.
+Food and drink
+3.62 Where children are provided with meals, snacks, and drinks, these must be healthy,
+balanced and nutritious. To understand how to meet this requirement, providers must
+have regard to the 'Early Years Foundation Stage nutrition guidance. Fresh drinking
+water must always be available and accessible to children.
+Safer eating
+3.63 Whilst children are eating there should always be a member of staff in the room with a
+valid paediatric first aid certificate for a full course consistent with the criteria set out in
+Annex A.
+3.64 Before a child is admitted to the setting the provider must obtain information about any
+special dietary requirements, preferences, food allergies and intolerances that the child
+has, and any special health requirements. This information must be shared by the
+provider with all staff involved in the preparing and handling of food. At each mealtime
+and snack time providers must be clear about who is responsible for checking that the
+food being provided meets all the requirements for each child.
+3.65 Providers must have ongoing discussions with parents and/or carers and, where
+appropriate, health professionals to develop allergy action plans for managing any
+known allergies and intolerances. This information must be kept up to date by the
+provider and shared with all staff. Providers should refer to the British Society for Allergy
+and Clinical Immunology (BSACI) allergy action plan. Providers must ensure that all
+staff are aware of the symptoms and treatments for allergies and anaphylaxis, the
+differences between allergies and intolerances and that children can develop allergies
+at any time, especially during the introduction of solid foods which is sometimes called
+complementary feeding or weaning. Providers should refer to the NHS advice on food
+allergies: Food allergy - NHS (www.nhs.uk) and treatment of anaphylaxis: Anaphylaxis
+- NHS (www.nhs.uk).
+3.66 Providers must have ongoing discussions with parents and/or carers about the stage
+their child is at in regard to introducing solid foods, including to understand the textures
+the child is familiar with. Assumptions must not be made based on age. Providers must
+52 Non-prescription medicines can include those that can be purchased from pharmacies (including some
+over the counter medicines which can only be purchased from a pharmacy), health shops and supermarkets.
+See also BMA advice: Prescribing over-the-counter medicines in nurseries and schools (bma.org.uk)
+36
+prepare food in a suitable way for each child's individual developmental needs, working
+with parents and/or carers to help children move on to the next stage at a pace right for
+the child. The NHS has some advice providers should refer to: Weaning - Start for Life -
+NHS (www.nhs.uk).
+3.67 Providers must prepare food in a way to prevent choking. This guidance on food safety
+for young children: Food safety - Help for early years providers - GOV.UK
+(education.gov.uk) includes advice on food and drink to avoid, how to reduce the risk of
+choking and links to other useful resources for early years providers.
+3.68 Babies and young children should be seated safely in a highchair or appropriately sized
+low chair while eating. Where possible there should be a designated eating space
+where distractions are minimised.
+3.69 Children must always be within sight and hearing of a member of staff whilst eating.
+Choking can be completely silent, therefore, it is important for providers to be alert to
+when a child may be starting to choke. Where possible, providers should sit facing
+children whilst they eat, so they can make sure children are eating in a way to prevent
+choking and so they can prevent food sharing and be aware of any unexpected allergic
+reactions.
+3.70 When a child experiences a choking incident that requires intervention, providers should
+record details of where and how the child choked and ensure parents and/or carers are
+made aware. The records should be reviewed periodically to identify if there are trends
+or common features of incidents that could be addressed to reduce the risk of choking.
+Appropriate action should be taken to address any identified concerns.
+Food and drink facilities
+3.71 There must be an area adequately equipped to provide healthy meals, snacks and
+drinks for children as necessary. There must be suitable facilities for the hygienic
+preparation of food for children, if necessary, including suitable sterilisation equipment
+for babies' food. Providers must be confident that those responsible for preparing and
+handling food are competent to do so. All staff involved in preparing and handling food
+must receive training in food hygiene.
+Food poisoning
+3.72 Registered providers must notify Ofsted, or the CMA with which a provider of CoDP is
+registered, of any food poisoning affecting two or more children cared for on the
+premises. This must be done as soon as is reasonably practicable, but, in any event,
+within 14 days of the incident. A registered provider who, without reasonable excuse,
+does not meet this requirement commits an offence.
+37
+Supporting and understanding children's behaviour
+3.73 Providers are responsible for supporting, understanding, and managing children's
+behaviour in an appropriate way.
+3.74 Providers must not give or threaten corporal punishment or any punishment which could
+negatively affect a child's well-being. Providers must take reasonable steps to ensure
+that corporal punishment is not given by anyone who is caring for or is in regular
+contact with a child, or by anyone living or working in the premises where care is
+provided. Any early years provider who does not meet these requirements commits an
+offence. A person will not be considered to have used corporal punishment (and
+therefore will not have committed an offence) if physical intervention⁵³ was taken to
+avert immediate danger of personal injury to any person (including the child) or to
+manage a child's behaviour if absolutely necessary.
+3.75 Providers must keep a record of any occasion where physical intervention is used, and
+parents and/or carers must be informed on the same day, or as soon as reasonably
+practicable.
+Special educational needs
+3.76 Early years providers must have arrangements in place to support children with Special
+Educational Needs and Disabilities (SEND). Maintained schools, academies and
+maintained nursery schools are required⁵⁴ to identify a member of staff to act as Special
+Educational Needs Co-ordinator (SENCO) and other providers (in group provision) are
+expected to identify a SENCO. Maintained schools, academies and maintained nursery
+schools and all providers who are funded by the local authority to deliver early
+education places are required⁵⁵ to have regard to the 0-25 SEND Code of Practice.
+Other providers may find it helpful to familiarise themselves with the early years section
+of the 0-25 SEND Code of Practice.
+Safety and suitability of premises, environment and equipment
+Accident or injury
+3.77 Providers must ensure a first aid box with appropriate items for use on children is
+always accessible. Providers must keep a written record of accidents or injuries and
+first aid treatment. Providers must inform parents and/or carers of any accident or injury
+53 Physical intervention is where practitioners use reasonable force to prevent children from injuring themselves
+or others or damaging property.
+54 See section 67 of the Children and Families Act 2014 and section 83 for the definition of 'mainstream
+schools'.
+55 Section 123 School Standards and Framework Act 1998 requires providers (and others) delivering early
+years provision funded by the local authority to have regard to the SEND Code of Practice in the provision of
+early years education. Section 77 of the Children and Families Act 2014 also requires these and other bodies
+to have regard to the SEND Code of Practice in exercising their functions under Part 3 of the Act.
+38
+sustained by the child on the same day as, or as soon as reasonably practicable after,
+and of any first aid treatment given.
+3.78 Registered providers must notify Ofsted, or the CMA with which a provider of CoDP is
+registered, of any serious accident, illness, or injury to, or death of, any child while in
+their care, and of the action taken. This must be done as soon as is reasonably
+practicable, but in any event, within 14 days of the incident occurring. A registered
+provider who, without reasonable excuse, does not meet this requirement commits an
+offence. Providers must notify local child protection agencies of any serious accident or
+injury to, or the death of, any child while in their care, and must act on any advice from
+those agencies.
+Safety of premises
+3.79 Providers must ensure that their premises, including overall floor space and outdoor
+spaces, are fit for purpose and suitable for the age of children cared for and the
+activities provided on the premises. Providers must comply with requirements of health
+and safety legislation, including fire safety and hygiene requirements.
+3.80 Providers must take reasonable steps to ensure the safety of children, staff, and others
+on the premises in the case of fire or any other emergency. Providers must have:
+An emergency evacuation procedure.
+Appropriate fire detection and control equipment (for example, fire alarms,
+smoke detectors, fire blankets and/or fire extinguishers) which is in working
+order.
+Fire exits must be clearly identifiable, and fire doors free of obstruction and easily
+opened from the inside.
+Indoor space requirements
+3.81 The premises and equipment must be organised in a way that meets the needs of
+children. Providers must meet the following indoor space requirements⁵⁶ where indoor
+activity in a building(s) forms the main part of (or is integral) to the provision:
+Children under two years: 3.5m² per child.
+Two-year-olds: 2.5m² per child.
+Children aged three to five years: 2.3m² per child.
+3.82 Where the space standards are applied, providers cannot increase the number of
+children on roll because they additionally use an outside area. Forest and other
+56 These judgements should be based on useable areas of the rooms used by the children, not including
+storage areas, thoroughfares, dedicated staff areas, cloakrooms, utility rooms, kitchens and toilets.
+39
+exclusively outdoor provision (where children are outside all or almost all of the time) is
+not required to meet the space standards above, as long as children's needs can be
+met. For this kind of provision, indoor space requirements can be used as a guide for
+the minimum area needed.
+Outdoor access
+3.83 Providers must provide access to an outdoor play area. If that is not possible, they must
+ensure that outdoor activities are planned and taken on a daily basis (unless
+circumstances make this inappropriate, for example unsafe weather conditions).
+Providers must follow their legal responsibilities under the Equality Act 2010 (for
+example, the provisions on reasonable adjustments).
+Sleeping arrangements
+3.84 Sleeping children must be frequently checked to ensure that they are safe. Being safe
+includes ensuring that cots and bedding are in good condition and suited to the age of
+the child, and that babies are placed down to sleep safely in line with the latest
+government safety guidance: Sudden infant death syndrome (SIDS) - NHS
+(www.nhs.uk). Practitioners should read NHS advice on safety of sleeping babies:
+Reduce the risk of sudden infant death syndrome (SIDS) - NHS (www.nhs.uk).
+Baby room
+3.85 There should be a separate baby room for children under the age of two. However,
+providers must ensure that children in a baby room have contact with older children and
+are moved into the older age group when appropriate.
+Toilets and intimate hygiene
+3.86 Providers must ensure:
+There is an adequate number of toilets and hand basins available - there should
+usually be separate toilet facilities for adults.
+There are suitable hygienic changing facilities for changing any children who are
+in nappies.
+Children's privacy is considered and balanced with safeguarding and support
+needs when changing nappies and toileting.
+There is an adequate supply of clean bedding, towels, spare clothes, and any
+other necessary items.
+Organising premises for confidentiality and safeguarding
+3.87 Providers must ensure:
+40
+There is an area where staff may talk to parents and/or carers confidentially.
+There is an area for staff to take breaks away from areas being used by
+children.
+Children are only released into the care of individuals of whom the parent has
+explicitly notified the provider.
+Children do not leave the premises unsupervised.
+They take all reasonable steps to prevent unauthorised persons entering the
+premises and have an agreed procedure for checking the identity of visitors.
+They consider what additional measures are necessary when children stay
+overnight.
+Insurance
+3.88 Providers must carry the appropriate insurance (e.g. public liability insurance) to cover
+all premises from which they provide childcare.
+Safety on outings
+3.89 Children must be kept safe while on outings. Providers must assess potential risks or
+hazards for the children and must identify the steps to be taken to remove, minimise
+and manage those risks and hazards. The assessment must include consideration of
+staff to child ratios. The risk assessment does not necessarily need to be in writing; this
+is up to providers.
+3.90 Vehicles transporting children, and the driver of those vehicles, must be adequately
+insured.
+Risk assessment
+3.91 Providers must ensure that they take all reasonable steps to ensure staff and children in
+their care are not exposed to risks and must be able to demonstrate how they are
+managing risks 57 Providers must determine where it is helpful to make some written
+risk assessments in relation to specific issues, to inform staff practice, and to
+demonstrate how they are managing risks if asked by parents and/or carers or
+inspectors. Risk assessments should identify aspects of the environment that need to
+be checked on a regular basis, when and by whom those aspects will be checked, and
+how the risk will be removed or minimised.
+57 Guidance on risk assessments, including where written ones may be required where five or more staff are
+employed, can be obtained from the Health and Safety Executive: Managing risks and risk assessment at work
+- Overview -HSE
+41
+Information and record keeping
+3.92 Providers must maintain records, obtain and share relevant information (with parents
+and carers, other professionals working with the child, the police, social services and
+Ofsted or their CMA, as appropriate). This is to ensure their setting is safe and
+efficiently managed, and the needs of all children are met⁵⁸. Providers must enable a
+regular two-way flow of information with parents and/or carers (and between other
+providers, if a child is attending more than one setting). If requested, providers should
+incorporate parents' and/or carers' comments into children's records.
+3.93 Records must be easily accessible and available (these may be kept securely off the
+premises). Confidential information and records about staff and children must be held
+securely and only accessible and available to those who have a right or professional
+need to see them⁵⁹. Providers must be aware of their responsibilities under the Data
+Protection legislation⁵⁶ and, where relevant, the Freedom of Information Act 2000.
+3.94 Providers must ensure that all staff understand the need to protect the privacy of the
+children in their care, as well the legal requirements that exist to ensure that information
+relating to the child is handled in a way that ensures confidentiality. Parents and/or
+carers must be given access to all records about their child, provided that no relevant
+exemptions apply to their disclosure under the Data Protection Act⁶⁰.
+3.95 Records relating to individual children must be retained for a reasonable period of time
+after they have left the provision⁶¹.
+Information about the child
+3.96 Providers must record the following information for each child in their care:
+Full name.
+Date of birth.
+Name and address of every parent and/or carer who is known to the provider.
+58 Guidance on sharing information with relevant services when there are safeguarding concerns is available
+via: Information sharing advice for safeguarding practitioners - GOV.UK (www.gov.uk). Refer also to: Victims
+and Prisoners Act 2024 (legislation.gov.uk)
+59 The National Cyber Security Centre (NCSC) has published helpful guidance on cyber security:
+https://www.ncsc.gov.uk/guidance/early-years-practitioners-using-cyber-security-to-protect-your-setings
+56
+This includes the Data Protection Act 2018 and General Data Protection Regulation 2018 see: Data
+protection: The Data Protection Act - GOV.UK (www.gov.uk)
+60 The Data Protection Act 2018 (DPA) gives parents and carers the right to access information about their
+child that a provider holds. However, the DPA also sets out specific exemptions under which certain personal
+information may, under specific circumstances, be withheld from release. For example, a relevant professional
+will need to give careful consideration as to whether the disclosure of certain information about a child could
+cause harm either to the child or any other individual. It is therefore essential that all providers/staff in early
+years settings have an understanding of how data protection laws operate. Further guidance can be found on
+the website of the Information Commissioner's Office at: https://ico.org.uk/fororganisations/guide-to-the-
+general-data-protection-regulation-gdpr/
+61 Individual providers should determine how long to retain records relating to individual children.
+42
+Information about any other person who has parental responsibility for the child.
+Which parent(s) and/or carer(s) the child normally lives with.
+Emergency contact details for parents and/or carers. Where possible, settings
+should hold more than two emergency contact numbers for each child.
+Information for parents and carers
+3.97 Providers must share the following information with parents and/or carers:
+How the EYFS is being delivered in the setting, and how parents and/or carers
+can access more information.
+The range and type of activities and experiences provided for children, the daily
+routines of the setting, and how parents and carers can share learning at home.
+How the setting supports children with special educational needs and
+disabilities.
+Food and drinks provided for children.
+Details of the provider's policies and procedures - making copies available on
+request. This includes the procedure to be followed in the event of a parent
+and/or carer failing to collect a child at the appointed time, or in the event of a
+child going missing at, or away from, the setting.
+How staffing in the setting is organised.
+The name of their child's key person and their role.
+A telephone number for parents and/or carers to contact the provider in an
+emergency.
+Complaints
+3.98 Providers must put in place a written procedure for dealing with concerns and
+complaints from parents and/or carers, and must keep a written record of any
+complaints, and their outcome. All providers must:
+Investigate written complaints relating to how they are fulfilling the EYFS
+requirements.
+Notify the person who made the complaint of the outcome of the investigation
+within 28 days of having received the complaint.
+Make a record of complaints available to Ofsted, or the CMA with which a
+provider of CoDP is registered, on request.
+43
+3.99 Providers must make available to parents and/or carers the details about how to contact
+Ofsted, or the CMA with which a provider of CoDP is registered, if they believe the
+provider is not meeting the EYFS requirements.
+Inspections and quality assurance visits
+3.100 If providers become aware that they are to be inspected by Ofsted or have a quality
+assurance visit by the CMA, they must notify parents and/or carers. After an inspection
+by Ofsted or a quality assurance visit by their CMA, providers must supply a copy of the
+report to parents and/or carers of children attending on a regular basis.
+Information about the provider
+3.101 Providers must hold the following documentation:
+Name, home address and telephone number of the provider and any other
+person living or employed on the premises.
+Name, home address and telephone number of anyone else who will regularly
+be in unsupervised contact with the children attending the early years provision.
+A daily record of the names of the children being cared for on the premises, their
+hours of attendance and the names of each child's key person.
+Their certificate of registration (which must be displayed at the setting and
+shown to parents and/or carers on request).
+Changes that must be notified to Ofsted
+3.102 All registered early years providers must notify Ofsted (but see paragraph 3.104) of:
+Any change to the address of the premises (and must obtain prior approval to
+operate from those premises where appropriate).
+Any change to the premises which may affect the space available to children
+and the quality of childcare available to them.
+Any change to the name or address of the provider, or the provider's other
+contact information.
+Any change to the person who is managing the early years provision.
+Any proposal to change the hours during which childcare is to be provided which
+will entail the provision of overnight care.
+Any significant event which is likely to affect the suitability of the early years
+provider to look after children.
+Any significant event which is likely to affect the suitability of any person who
+cares for/is in regular contact with children on the premises.
+44
+Where the early years provision is provided by a company, any change in the
+name or registered number of the company.
+Where the early years provision is provided by a charity, any change in the
+name or registration number of the charity.
+Where the childcare is provided by a partnership, body corporate or
+unincorporated association, any change to the "nominated individual".
+Where the childcare is provided by a partnership, body corporate or
+unincorporated association whose sole or main purpose is the provision of
+childcare, any change to the individuals who are partners in, or a director,
+secretary or other officer or members of its governing body.
+3.103 Where providers are required to notify Ofsted about a change of person except for
+managers, as specified in paragraph 3.102 above, providers must give Ofsted the new
+person's name, any former names or aliases, date of birth, and home address. If there
+is a change of manager, providers must notify Ofsted that a new manager has been
+appointed. Where it is reasonably practical to do so, this must be done in advance of
+the change happening. In other cases, this must be done as soon as is reasonably
+practical but, in any event, within 14 days. A registered provider who, without
+reasonable excuse, fails to comply with these requirements commits an offence.
+3.104 Please note that where providers of CoDP are registered with a CMA the above
+notifications should be given to their CMA, not Ofsted.
+Other Legal Duties
+3.105 The EYFS requirements sit alongside other legal obligations and do not supersede
+or replace any other legislation which providers must still meet. For example, where
+provision is taking place in maintained schools there is other legislation in place with
+which headteachers, teachers and other practitioners must comply with. Other duties
+on providers include:
+Employment laws.
+Anti-discriminatory legislation.
+Health and safety legislation.
+Data collection regulations⁶
+Duty of care.
+62 Refer also to: Victims and Prisoners Act 2024 (legislation.gov.uk)
+45
+Annex A: Criteria for effective Paediatric First Aid (PFA)
+training
+1. Training is designed for workers caring for young children in the absence of their
+parents and is appropriate to the age of the children being cared for.
+2. Following training, an assessment of competence leads to the award of a certificate.
+3. The certificate must be renewed every three years.
+4. Adequate resuscitation and other equipment including baby and junior models must
+be provided, so that all trainees are able to practice and demonstrate techniques.
+5. The emergency PFA course should be undertaken face-to-face⁶³ and last for a
+minimum of 6 hours (excluding breaks) and cover the following areas:
+Be able to assess an emergency situation and prioritise what action to take
+Help a baby/child who is unresponsive and breathing normally.
+Help a baby/child who is unresponsive and not breathing normally.
+Help a baby/child who is having a seizure.
+Help a baby/child who is choking.
+Help a baby/child who is bleeding.
+Help a baby/child who is suffering from shock caused by severe blood loss
+(hypovolemic shock).
+6. The full PFA course should last for a minimum of 12 hours (excluding breaks) and
+cover the elements listed below in addition to the areas set out in paragraph 5 (the
+emergency PFA training elements outlined in paragraph 5 should be delivered face-
+to-face).
+Help a baby/child who is suffering from anaphylactic shock.
+Help a baby/child who has had an electric shock.
+Help a baby/child who has burns or scalds.
+Help a baby/child who has a suspected fracture.
+Help a baby/child with head, neck or back injuries.
+Help a baby/child who is suspected of being poisoned.
+Help a baby/child with a foreign body in eyes, ears or nose.
+Help a baby/child with an eye injury.
+Help a baby/child with a bite or sting.
+Help a baby/child who is suffering from the effects of extreme heat or cold.
+Help a baby/child having: a diabetic emergency; an asthma attack; an allergic
+reaction; meningitis; and/or febrile convulsions.
+63 Face-to-face means trainers are physically present with their trainees. This excludes the use of online
+platforms.
+46
+Understand the role and responsibilities of the paediatric first aider (including
+appropriate contents of a first aid box and how to record accidents and incidents).
+7. Providers should consider whether paediatric first aiders need to undertake annual
+refresher training, during any three-year certification period to help maintain basic
+skills and keep up to date with any changes to PFA procedures.
+47
+Annex B: Statutory guidance for the Reception Baseline
+Assessment
+Summary
+About this Annex
+This is a statutory document from the Department for Education. The statutory requirements
+that providers must comply with when administering the Reception Baseline Assessment
+(RBA), are indicated in this Annex by the use of the word "must".
+Additionally, providers must take into account other provisions in this Annex and should not
+depart from them unless there is good reason for doing so. These provisions are indicated
+by the use of the word "should".
+This Annex covers all intakes in reception within an academic year, including during autumn,
+spring, and summer terms.
+Review date
+This Annex will be reviewed on a rolling basis and will remain in force until further notice.
+Schools must also administer the assessment in accordance with administration guidance
+and the assessment and reporting arrangements published annually on behalf of the
+Secretary of State on gov.uk.
+What legislation does this Annex refer to?
+The Childcare Act 2006.
+The Early Years Foundation Stage (Learning and Development Requirements) Order
+2007 underpins the requirement for schools to administer the RBA.
+Who must administer the RBA?
+School leaders, school staff and governing bodies in all maintained schools (including
+maintained special schools), infant and first schools, academies and free schools with a
+reception cohort.
+Ministry of Defence (MoD) schools
+Who does this Annex not apply to?
+Independent schools or nurseries
+Overseas schools that are not Ministry of Defence schools
+Maintained nursery schools, even those with a reception cohort
+Home educated pupils
+Childminders
+48
+Introduction and Purpose
+The RBA is a short assessment, taken within the first six weeks of a child starting reception.
+Accountability and Progress
+1. The RBA assesses a child in early mathematics, literacy, communication and language.
+The purpose of the RBA is to form the starting point for primary progress measures. Data
+from the RBA is compared to key stage 2 outcomes 7 years later to form the overall
+progress measure for a school.
+2. The RBA is not used to make judgements about early years provision, either current or
+retrospective. It is solely intended for use within the primary progress measure.
+Assessment Data
+3. The RBA and its data should not be used for any other purpose apart from creating
+primary progress measures. Data collected and produced from the assessment will be
+stored in the National Pupil Database (NPD). The data, including numerical scores, is not
+shared with external bodies, including schools, teachers, pupils or parents/carers.
+4. The RBA is not suitable as a formative or diagnostic assessment. Scores are not shared
+or published to prevent any labelling and streaming of children or judgement of early
+years providers. Instead, teachers receive a series of narrative statements informing
+them of how the child performed on the day. There is no expected standard and children
+cannot pass or fail.
+Assessment administration
+Timing
+5. Schools have a window of six weeks in which they must administer the assessment. This
+begins as soon as each child starts reception. The six-week period applies for autumn,
+winter and summer intakes, or any pupil that joins a school mid-term and has not
+previously taken the RBA.
+6. The assessment can be carried out at any time within those six weeks, within the school
+day. The assessment must be administered within this window. The RBA does not have
+to be completed in one sitting and practitioners may pause the assessment at any time
+they feel is appropriate.
+Administration of the RBA
+7. Schools must administer the assessment in accordance with administration guidance
+and assessment and reporting arrangements published annually on gov.uk.
+8. The RBA is a short, interactive assessment. Although the assessment is not timed, it has
+been designed to take around 20 minutes. The assessment must be carried out by a
+49
+teacher, teaching assistant, early years practitioner or any other trained education
+professional. Whoever carries out the RBA should be familiar with the child taking the
+assessment.
+Security of assessment materials
+9. Headteachers must ensure the assessment is administered securely and continue to
+keep any materials used as part of the RBA administration secure and ensure that
+confidentiality is maintained at all times.
+10. Schools must not use assessment materials for any purpose other than administering the
+assessment.
+11. Headteachers must ensure teachers and all other staff who may handle the materials
+understand the need to maintain the integrity, security and confidentiality of the
+assessment.
+Inclusion and participation
+Schools for Inclusion
+12. All maintained schools and academies with a reception cohort must participate in the
+assessment. This includes, but is not limited to:
+infant and first schools; and
+special schools.
+13. The RBA must be administered to all pupils registered in a reception class in the schools
+specified, except in circumstances where a headteacher decides it is not appropriate for
+a pupil to participate in the RBA. See "Pupils for Inclusion" for more information.
+14. The reception to key stage 2 progress measure will be applicable to the vast majority of
+schools in the primary phase - those where pupils enter in reception and leave in year 6.
+Other school types - infant, first, junior, and middle schools - will be expected to ensure
+their pupils make good progress and, like all schools, to be able to explain to Ofsted how
+they have planned and implemented their curriculum and what impact that is having for
+pupils. Key stage 2 attainment information will continue to be available for middle and
+junior schools.
+Pupils for Inclusion
+15. All assessments are required to meet Ofqual's regulatory framework which states
+'assessment should minimise bias, differentiating only on the basis of each pupil's level
+of attainment. A pupil should not be disadvantaged by factors that do not relate to what is
+being tested.'
+16. The RBA has been developed to be an inclusive assessment and to be accessible to a
+majority of pupils. It has been designed so that pupils with SEND and those learning
+50
+English as an additional language can participate.
+17. Modifications are available for pupils with specific needs. Schools should consider
+applying accessibility settings to the standard assessment where appropriate.
+18. Headteachers must make the final decision about whether it is appropriate for a pupil to
+participate in the RBA. In exceptional circumstances, headteachers may decide that a
+pupil is unable to access both assessment components, even when making appropriate
+adaptations. In these circumstances headteachers should discuss the decision with
+parents and teachers.
+Pupil mobility
+19. All pupil's RBA scores will be associated with their Unique Pupil Number (UPN) and
+stored in the National Pupil Database (NPD). The score will therefore remain with a pupil,
+even if they move schools. Because scores are not shared with schools, there is no
+requirement to include any RBA result on a pupil's common transfer file (CTF).
+Maladministration and monitoring
+20. Maladministration is monitored via the RBA digital system, and the Secretary of State
+reserves the right to amend or annul results should a school or individual be found to be
+administering the assessment incorrectly. Further information regarding
+maladministration of the RBA can be found in the RBA assessment and reporting
+arrangements, published annually on gov.uk.
+Responsibilities
+Headteachers' responsibilities
+21. Headteachers must sign a Headteacher Declaration Form (HDF). This must be
+completed once each academic year, as is currently the case for all statutory National
+Curriculum assessments in key stages 1 and 2. All requirements of the HDF must be
+adhered to.
+22. Headteachers must ensure that the RBA is being delivered in accordance with this
+Annex, the assessment and reporting arrangements and administration guidance which
+are published annually on gov.uk. Investigations of maladministration may result from not
+following these statutory obligations for the RBA.
+Local authority responsibilities
+23. There are no routine Local Authority (LA) monitoring arrangements for this assessment.
+Ofqual responsibilities
+24. This assessment falls under Ofqual's regulatory framework for national assessments.
+51
+Ofsted responsibilities
+25. Ofsted does not have routine access to the numerical data produced by the assessment,
+but individual circumstances will be considered to grant access if required for a specific
+purpose. The RBA should not form a part of any Ofsted inspection.
+26. Ofsted will have access to individual schools' progress scores, when the progress
+measure is released at the end of key stage 2.
+Interaction with other assessments
+Early Years Foundation Stage Profile
+27. The EYFSP and RBA are enforced by the same legislation, however they are distinct
+and serve different purposes. There will be no interaction between the two assessments
+in practice. Schools must continue to carry out both statutory assessments.
+Statutory Trialling
+28. For the purpose of developing assessments in reception, a sample of schools are asked
+to take part in statutory trialling to inform the development of the RBA. Selected schools
+are contacted in advance and must administer the assessment according to the trialling
+instructions provided.
+29. Pupils who are unable to access the RBA should not take part in statutory trials.
+Further information
+Useful resources
+Reception baseline assessment framework
+52
+Annex C: Criteria for effective safeguarding training
+1. Training is designed for staff caring for 0-5 year olds and is appropriate to the age of the
+children being cared for.
+2. The safeguarding training for all practitioners must cover the following areas:
+What is meant by the term safeguarding.
+The main categories of abuse, harm and neglect.
+The factors, situation and actions that could lead or contribute to abuse, harm or
+neglect.
+How to work in ways that safeguard children from abuse, harm and neglect.
+How to identify signs of possible abuse, harm and neglect at the earliest opportunity.
+These may include:
+Significant changes in children's behaviour.
+A decline in children's general well-being.
+Unexplained bruising, marks or signs of possible abuse or neglect.
+Concerning comments or behaviour from children.
+Inappropriate behaviour from practitioners, or any other person working with the
+children. This could include inappropriate sexual comments; excessive one-to-one
+attention beyond what is required through their role; or inappropriate sharing of
+images.
+Any reasons to suspect neglect or abuse outside the setting, for example in the
+child's home or that a child may experience emotional abuse or physical abuse
+because of witnessing domestic abuse or coercive control or that a girl may have been
+subjected to (or is at risk of) female genital mutilation.
+How to respond, record and effectively refer concerns or allegations related to
+safeguarding in a timely and appropriate way.
+The setting's safeguarding policy and procedures.
+Legislation, national policies, codes of conduct and professional practice in relation to
+safeguarding.
+Roles and responsibilities of practitioners and other relevant professionals involved in
+safeguarding.
+3. Training for the designated safeguarding lead (DSL) should take account of any advice
+from the local safeguarding partners or local authority on appropriate training courses. In
+addition to the areas set out in paragraph 2, training for the DSL must cover the elements
+listed below:
+How to build a safe organisational culture.
+How to ensure safe recruitment.
+53
+How to develop and implement safeguarding policies and procedures.
+If applicable, how to support and work with other practitioners to safeguard children.
+Local child protection procedures and how to liaise with local statutory children's
+services agencies and with the local safeguarding partners to safeguard children.
+How to refer and escalate concerns (including as described at paragraph 3.9 of the
+EYFS).
+How to manage and monitor allegations of abuse against other staff.
+How to ensure internet safety.
+54
+Department
+for Education
+© Crown copyright 2025
+This publication is licensed under the terms of the Open Government Licence v3.0, except
+where otherwise stated. To view this licence, visit
+nationalarchives.gov.uk/doc/opengovernment-licence/version/3
+Where we have identified any third-party copyright information, you will need to obtain
+permission from the copyright holders concerned.
+About this publication:
+enquiries www.gov.uk/contact-dfe download
+www.gov.uk/government/publications
+Follow us on Twitter: @educationgovuk
+Connect with us on Facebook: facebook.com/educationgovuk

@@ -1,0 +1,1553 @@
+Department
+for Education
+The Equality Act
+2010 and schools
+Departmental advice for school leaders,
+school staff, governing bodies and local
+authorities
+May 2014
+Contents
+Summary
+5
+Chapter 1 - Overview of the Act
+7
+Schools: who and what the Act applies to
+7
+Protected characteristics
+8
+Association
+8
+Perception
+8
+Unlawful behaviour
+9
+Special provisions for disability
+11
+Definition of parents
+11
+Further Information
+11
+Chapter 2 - General exceptions
+12
+Single sex schools
+12
+Schools with a religious character
+12
+Admissions
+12
+Benefits facilities and services
+13
+What is not permissible
+13
+Curriculum
+14
+Acts of worship
+15
+Uniforms
+15
+Bullying
+16
+Schools' duty of care
+16
+Chapter 3 - Special issues for some protected characteristics
+17
+Gender reassignment
+17
+Race
+18
+2
+Segregating pupils by race or ethnicity
+18
+Religion or belief
+19
+Sex/gender
+20
+Single sex classes
+20
+Single sex sport
+20
+Pregnancy and maternity
+21
+Sexual orientation and marriage and civil partnership
+22
+Sexual orientation and religion or belief
+22
+Chapter 4 - Disability
+24
+Provisions relating to disability
+24
+Definition of disability
+25
+Unlawful behaviour with regard to disabled pupils
+25
+Reasonable adjustments and when they have to be made
+26
+Auxiliary aids and services
+26
+Making reasonable adjustments
+27
+Schools' duties around accessibility for disabled pupils
+29
+Local authorities' duties around accessibility for disabled pupils
+29
+Chapter 5 - The Public Sector Equality Duty
+30
+Having "due regard"
+31
+What compliance with the specific duties will mean for schools
+31
+Publishing information
+33
+Eliminating discrimination and other conduct that is prohibited by the Act
+33
+Advancing equality of opportunity between people who share a protected characteristic
+and people who do not share it
+33
+Engagement
+35
+How to publish information
+35
+3
+Equality objectives
+35
+DfE compliance with the PSED
+36
+Chapter 6 - Local authorities and education functions
+37
+Establishment and closure of schools
+37
+School curriculum
+37
+School admissions
+37
+School transport
+38
+Acts of worship
+38
+Reasonable adjustments for disabled pupils
+38
+Chapter 7 - How the Act is enforced
+39
+Discrimination claims - court proceedings
+39
+Discrimination claims - tribunal proceedings for disability cases
+39
+Burden of proof
+40
+The 'Questions Procedure'
+40
+Chapter 8 - Education specific employment provisions
+41
+What the Act covers
+41
+Reasonable adjustments
+41
+Enquiries about health and disability
+42
+Employment exceptions for schools with a religious character
+42
+Voluntary-controlled and foundation schools with a religious character
+43
+VC/foundation schools with a religious character becoming academies
+43
+Voluntary-aided schools, independent schools, academies and free schools with a
+religious character
+44
+4
+Summary
+About this departmental advice
+This is non-statutory advice from the Department for Education. It has been produced to
+help schools to understand how the Equality Act affects them and how to fulfil their duties
+under the Act. It has been updated to include information on same-sex marriage.
+On 1 October 2010, the Equality Act 2010 replaced all existing equality legislation such
+as the Race Relations Act, Disability Discrimination Act and Sex Discrimination Act. It has
+consolidated this legislation and also provides some changes that schools need to be
+aware of.
+Expiry/review date
+Current version dated May 2014. This advice will next be reviewed before April 2016.
+Who is this advice for?
+This advice is for school leaders, school staff and governing bodies in maintained
+schools and academies but may also be useful for local authorities and parents.
+Key points
+The Equality Act 2010 provides a single, consolidated source of discrimination law.
+It simplifies the law and it extends protection from discrimination in some areas.
+As far as schools are concerned, for the most part, the effect of the current law is
+the same as it has been in the past - meaning that schools cannot unlawfully
+discriminate against pupils because of their sex, race, disability, religion or belief
+or sexual orientation.
+The exceptions to the discrimination provisions for schools are all replicated in the
+current act - such as the content of the curriculum, collective worship and
+admissions to single sex schools and schools of a religious character.
+Schools that were already complying with previous equality legislation should not
+find major differences in what they need to do. However, there are some changes
+that will have an impact on schools as follows:
+Protection in schools
+Protection against discrimination is now extended to pupils who are pregnant or have
+recently given birth, or who are undergoing gender reassignment.
+5
+Health related questions for job applicants
+It is now unlawful for employers to ask health-related questions of applicants before job
+offer, unless the questions are specifically related to an intrinsic function of the work. This
+means that schools should no longer, as a matter of course, require job applicants to
+complete a generic health questionnaire as part of the application procedure. There are
+potential implications in relation to establishing teachers' fitness and ability to teach (as
+required by the Health Standards (England) Regulations 2003). Schools are advised to
+review their existing practices to ensure they are complying with both the Health
+Standards Regulations and Section 60 of the Equality Act. Schools may decide to ask
+necessary health questions after job offer. In any case, they should ensure that any
+health-related questions are targeted, necessary and relevant to the job applied for.
+Positive Action
+Positive Action provisions allow schools to target measures that are designed to alleviate
+disadvantages experienced by, or to meet the particular needs of, pupils with particular
+protected characteristics. Such measures will need to be a proportionate way of
+achieving the relevant aim. Previously a school providing - for example - special catch-
+up classes for Roma children or a project to engage specifically with alienated Asian
+boys might have been discriminating unlawfully by excluding children who didn't belong
+to these groups.
+Victimisation
+It is now unlawful to victimise a child for anything done in relation to the Act by their
+parent or sibling.
+Auxiliary aids
+The Act extends the reasonable adjustment duty to require schools to provide auxiliary
+aids and services to disabled pupils. Following consultation on implementation and
+approach, the duty came into force on 1 September 2012.
+Equality duties
+The three previous general and specific equality duties on schools (race, disability and
+gender) to eliminate discrimination and advance equality of opportunity have been
+combined into a less bureaucratic and more outcome-focused duties covering an
+expanded number of protected characteristics. The general duty, public sector equality
+duty, is explained in chapter 5 of this advice. As is the lighter touch specific duty.
+These are the provisions of the Act but schools will need to be aware of how the rest of
+the Equality Act applies to them. This is set out below.
+6
+Chapter 1 - Overview of the Act
+1.1
+The Equality Act 2010 replaced nine major Acts of Parliament and almost a
+hundred sets of regulations which had been introduced over several decades. It provides
+a single, consolidated source of discrimination law, covering all the types of
+discrimination that are unlawful. It simplifies the law by getting rid of anomalies and
+inconsistencies that had developed over time, and it extends protection against
+discrimination in certain areas.
+1.2
+As far as schools are concerned there are some changes, which this guidance will
+explain, but for the most part the effect of the law is the same as it has been in the past -
+schools which are already complying with the law will not find major differences in what
+they need to do. In some areas - in particular the introduction of the public sector
+equality duty which has replaced the three separate duties on race, disability and gender
+- the overall effect of the Act will be to reduce a certain amount of bureaucracy and so
+should be less burdensome and more effective.
+Schools: who and what the Act applies to
+1.4
+In England and Wales the Act applies to all maintained and independent schools,
+including Academies, and maintained and non-maintained special schools. In Scotland it
+applies to schools managed by education authorities, independent schools and schools
+receiving grants under section 73(c) or (d) of the Education (Scotland) Act 1980.
+1.5
+The Act makes it unlawful for the responsible body of a school to discriminate
+against, harass or victimise a pupil or potential pupil:
+in relation to admissions,
+in the way it provides education for pupils,
+in the way it provides pupils access to any benefit, facility or service, or
+by excluding a pupil or subjecting them to any other detriment.
+1.6
+The "responsible body" is the governing body or the local authority for maintained
+schools in England and Wales, the education authority in the case of maintained schools
+in Scotland, and the proprietor in the case of independent schools, Academies or non-
+maintained special schools. In practice, any persons acting on behalf of the responsible
+body - including employees of the school - are liable for their own discriminatory actions,
+and the responsible body is also liable unless it can show that it has taken all reasonable
+steps to stop the individual from doing the discriminatory action or from doing anything of
+that kind.
+7
+1.7
+The Act deals with the way in which schools treat their pupils and prospective
+pupils: the relationship between one pupil and another is not within its scope. It does not
+therefore bear directly on such issues as racist or homophobic bullying by pupils.
+However, if a school treats bullying which relates to a protected ground less seriously
+than other forms of bullying - for example dismissing complaints of homophobic bullying
+or failing to protect a transgender pupil against bullying by classmates - then it may be
+guilty of unlawful discrimination.
+1.8
+The school's liability not to discriminate, harass or victimise does not end when a
+pupil has left the school, but will apply to subsequent actions connected to the previous
+relationship between school and pupil, such as the provision of references on former
+pupils or access to "old pupils" communications and activities.
+Protected characteristics
+1.9
+It is unlawful for a school to discriminate against a pupil or prospective pupil by
+treating them less favourably because of their:
+sex
+race
+disability
+religion or belief
+sexual orientation
+gender reassignment
+pregnancy or maternity
+Association
+1.10 It is unlawful to discriminate because of the sex, race, disability, religion or belief,
+sexual orientation or gender reassignment of another person with whom the pupil is
+associated. So, for example, a school must not discriminate by refusing to admit a pupil
+because his parents are gay men or lesbians. It would be race discrimination to treat a
+white pupil less favourably because she has a black boyfriend.
+Perception
+1.11 It is also unlawful to discriminate because of a characteristic which you think a
+person has, even if you are mistaken. So a teacher who consistently picks on a pupil for
+being gay will be discriminating because of sexual orientation whether or not the pupil is
+in fact gay.
+8
+1.12 The Act extends protection against discrimination on grounds of pregnancy or
+maternity to pupils, so it will be unlawful - as well as against education policy - for a
+school to treat a pupil unfavourably because she is pregnant or a new mother. This is
+covered in more detail in Chapter 3 (3.21 - 3.24).
+1.13 Protection for transgender pupils against gender reassignment discrimination is
+also included in this Act. This is covered in more detail in Chapter 3 (3.3 - 3.6)
+1.14 The term "protected characteristics" is used as a convenient way to refer to the
+personal characteristics to which the law applies.
+1.15 A person's age is also a protected characteristic in relation to employment and the
+Act extends this (except for children) to the provision of goods and services, but age as a
+protected characteristic does not apply to pupils in schools. Schools therefore remain
+free to admit and organise children in age groups and to treat pupils in ways appropriate
+to their age and stage of development without risk of legal challenge, even in the case of
+pupils over the age of 18.
+Unlawful behaviour
+1.16 The Act defines four kinds of unlawful behaviour - direct discrimination; indirect
+discrimination; harassment and victimisation.
+1.17 Direct discrimination occurs when one person treats another less favourably,
+because of a protected characteristic, than they treat - or would treat - other people.
+This describes the most clear-cut and obvious examples of discrimination - for example if
+a school were to refuse to let a pupil be a prefect because she is a lesbian.
+1.18 Indirect discrimination occurs when a "provision, criterion or practice" is applied
+generally but has the effect of putting people with a particular characteristic at a
+disadvantage when compared to people without that characteristic. An example might be
+holding a parents' meeting on a Friday evening, which could make it difficult for
+observant Jewish parents to attend. It is a defence against a claim of indirect
+discrimination if it can be shown to be "a proportionate means of achieving a legitimate
+aim". This means both that the reason for the rule or practice is legitimate, and that it
+could not reasonably be achieved in a different way which did not discriminate.
+1.19 Harassment has a specific legal definition in the Act - it is "unwanted conduct,
+related to a relevant protected characteristic, which has the purpose or effect of violating
+a person's dignity or creating an intimidating, hostile, degrading, humiliating or offensive
+environment for that person". This covers unpleasant and bullying behaviour, but
+potentially extends also to actions which, whether intentionally or unintentionally, cause
+offence to a person because of a protected characteristic.
+9
+1.20 Where schools are concerned, the offence of harassment as defined in this way in
+the Act applies only to harassment because of disability, race, sex or pregnancy and
+maternity, and not to religion or belief, sexual orientation or gender reassignment. It is
+very important to recognise that this does not mean that schools are free to bully or
+harass pupils on these other grounds - to do so would still be unlawful as well as
+unacceptable. Any case against the school would be on grounds of direct discrimination
+rather than harassment.
+1.21 Thus, if a teacher belittles a pupil and holds her up to ridicule in class because of a
+disability she has, this could lead to a court case alleging unlawful harassment. The
+same unacceptable treatment directed at a lesbian pupil, or based on a pupil's religion,
+could lead to a case claiming direct discrimination. The practical consequences for the
+school, and the penalties, would be no different.
+1.22 Victimisation occurs when a person is treated less favourably than they otherwise
+would have been because of something they have done ("a protected act") in connection
+with the Act. A protected act might involve, for example, making an allegation of
+discrimination or bringing a case under the Act, or supporting another person's complaint
+by giving evidence or information, but it includes anything that is done under or in
+connection with the Act. Even if what a person did or said was incorrect or misconceived,
+for example based on a misunderstanding of the situation or of what the law provides,
+they are protected against retaliation unless they were acting in bad faith. The reason for
+this is to ensure that people are not afraid to raise genuine concerns about discrimination
+because of fear of retaliation.
+1.23 As well as it being unlawful to victimise a person who does a protected act, a child
+must not be victimised because of something done by their parent or a sibling in relation
+to the Act. This means that a child must not be made to suffer in any way because, for
+example, her mother has made a complaint of sex discrimination against the school, or
+her brother has claimed that a teacher is bullying him because he is gay, whether or not
+the mother or brother was acting in good faith.
+1.24 If a pupil has himself or herself done a protected act - such as making a
+complaint of discrimination against a teacher - then the child's own good faith will be
+relevant. For example, if the parent's complaint is based on information from her son and
+the son was deliberately lying, it is not victimisation for the school to punish him in the
+same way as it might do any other dishonest pupil. Unless it can be clear that the mother
+was also acting in bad faith (for example that she knew her son was lying) it would still be
+unlawful to victimise her for pursuing the complaint.
+10
+Special provisions for disability
+1.25 The law on disability discrimination is different from the rest of the Act in a number
+of ways. In particular, it works in only one direction - that is to say, it protects disabled
+people but not people who are not disabled. This means that schools are allowed to treat
+disabled pupils more favourably than non-disabled pupils, and in some cases are
+required to do so, by making reasonable adjustments to put them on a more level footing
+with pupils without disabilities The definition of what constitutes discrimination is more
+complex. Provision for disabled pupils is closely connected with the regime for children
+with special educational needs. Chapter 4 deals in detail with disability issues.
+Definition of parents
+1.26 Any reference to a parent in the Act and in this guidance is a wide reference (as in
+education law generally) not only to a pupil's birth parents but to adoptive, step and foster
+parents, or other persons who have parental responsibility for, or who have care of, a
+pupil.
+Further Information
+The Equality and Human Rights Commission (EHRC) has developed detailed technical
+guidance for schools available on their website. It goes into more detail than this advice
+and may also be helpful for schools seeking good practice guidance on particular areas.
+11
+Chapter 2 - General exceptions
+2.1
+These are exceptions which apply to all schools or broad categories of schools -
+schools with a religious character and single sex schools.
+Single sex schools
+2.2
+Single sex schools are able to refuse to admit pupils of the opposite sex. The
+exception also permits a single sex school to admit a small number of pupils from the
+opposite sex on an exceptional basis or in relation to particular courses or classes only. If
+a single sex school has such pupils, limiting them to particular courses or classes is not
+discrimination. However, other forms of sex discrimination by the school against its
+opposite-sex pupils would still be unlawful. This means that (for example):
+A school which admits only boys is not discriminating unlawfully against girls.
+A boys' school which admits some girls to the Sixth Form, or which lets girls attend
+for a particular GCSE course not offered at their own school, is still regarded as a
+single-sex school.
+A boys' school which admits girls to A-level science classes is not discriminating
+unlawfully if it refuses to admit them to A-level media studies or maths classes.
+A boys' school which admits girls to the Sixth Form but refuses to let them use the
+same cafeteria or go on the same visits as other Sixth Form pupils would be
+discriminating unlawfully against them.
+A girls' school which permits a pupil who is undergoing gender reassignment to
+remain after they adopt a male gender role would not lose its single-sex status.
+Schools with a religious character
+2.3
+Schools with a religious character (commonly known as faith schools) have certain
+exceptions to the religion or belief provisions which allow them to discriminate because of
+religion or belief in relation to admissions and in access to any benefit, facility or service.
+Admissions
+2.4
+Schools with a religious character may give priority in admissions to members of
+their own religion. The Admissions Code provides that this may only be done when a
+school is oversubscribed - schools subject to the Code are not permitted to refuse
+admission to pupils not of their faith if they have unfilled places.
+12
+For example, a Muslim school may lawfully give priority to Muslim pupils when
+choosing between applicants for admission. However, the Admissions Code will
+not allow it to refuse to accept pupils of another or no religion unless it is
+oversubscribed.
+The exception is not in fact confined to preferring children of the school's own faith. It
+would, for example, allow a Church of England school to allocate some places to children
+from Hindu or Muslim families if it wanted to ensure a mixed intake reflecting the diversity
+of the local population. It would not, however, allow the school to base this selection on
+ethnic background rather than faith.
+Benefits facilities and services
+2.5
+In addition to the admissions exception, schools with a religious character also
+have exceptions for how they provide education to pupils and in the way they allow
+access to other aspects of school life which are not necessarily part of the curriculum. For
+example:
+A Jewish school which provides spiritual instruction or pastoral care from a rabbi is
+not discriminating unlawfully by not making equivalent provision for pupils from
+other religious faiths.
+A Church of England school which organises visits for pupils to sites of particular
+interest to its own faith, such as a cathedral, is not discriminating unlawfully by not
+arranging trips to sites of significance to the faiths of other pupils.
+A child of a different faith could not claim, for example, that they were being
+treated less favourably because objects symbolic of a school's faith, such as the
+Bible, were give a special status in the school.
+What is not permissible
+2.6
+These exceptions allow such schools to conduct themselves in a way which is
+compatible with their religious ethos. But the Equality Act does not permit less favourable
+treatment of a pupil because they do not (or no longer) belong to the school's religion.
+For example, it would be unlawful for a Catholic school to treat a pupil less favourably
+because he rejected the Catholic faith and declared himself to be a Jehovah's Witness or
+an atheist.
+2.7
+Nor does it allow them to discriminate on religious grounds in other respects, such
+as excluding a pupil or subjecting a pupil to any other detriment. It also does not permit
+them to discriminate in relation to other protected characteristics, for example a school
+with a religious character would be acting unlawfully if it refused to admit a child because
+he or she was gay - or their parents were.
+13
+Curriculum
+2.8
+The content of the school curriculum has never been caught by discrimination law,
+and this Act now states explicitly that it is excluded. However the way in which a school
+provides education - the delivery of the curriculum - is explicitly included.
+2.9
+Excluding the content of the curriculum ensures that schools are free to include a
+full range of issues, ideas and materials in their syllabus, and to expose pupils to
+thoughts and ideas of all kinds, however challenging or controversial, without fear of legal
+challenge based on a protected characteristic. But schools will need to ensure that the
+way in which issues are taught does not subject individual pupils to discrimination.
+2.10 Some examples can best explain the distinction between content and delivery of
+the curriculum as the Act applies:
+A boy complains that it is sex discrimination for him to be required to do a module
+on feminist thought.
+A girl complains that putting The Taming of the Shrew on the syllabus is
+discriminatory; or a Jewish pupil objects to having to study The Merchant of
+Venice.
+A fundamentalist Christian objects to the teaching of evolution in science lessons
+unbalanced by the teaching of "intelligent design".
+A school does a project to mark Gay Pride Week. A heterosexual pupil claims that
+he finds this embarrassing and that it discriminates against him on grounds of his
+sexual orientation; a Christian or a Muslim pupil objects to it on religious grounds.
+A Muslim pupil objects to the works of Salman Rushdie being included on a
+reading list.
+2.11 All of the above are examples of complaints against the content of the curriculum,
+and none of them would give rise to a valid complaint under the Act.
+2.12 However, valid complaints that the curriculum is being delivered in a discriminatory
+way might well arise in situations such as the following:
+A teacher uses the fact that 'The Taming of the Shrew' is a set book to make
+derogatory generalisations about the inferiority of women, in a way which makes
+the girls in the class feel belittled. Or, in teaching 'The Merchant of Venice', he
+encourages the class to laugh at a Jewish pupil.
+In class discussions, black pupils are never called on and the teacher makes it
+clear that she is not interested in their views.
+Girls are not allowed to do design technology or boys are discouraged from doing
+food technology. This is not intrinsic to the curriculum itself but to the way in which
+education is made available to pupils.
+14
+The girls' cricket team are not allowed equal access to the cricket nets, or the
+boys' hockey team is given far better resources than the girls' team. This would be
+less favourable delivery of education rather than to do with the sports curriculum
+per se.
+Acts of worship
+2.13 There is a general exception, which applies to all schools, to the religion or belief
+provisions which allows all schools to have acts of worship or other forms of collective
+religious observance. This means the daily act of collective worship, which for maintained
+schools is mandatory and should be of a broadly Christian nature, is not covered by the
+religion or belief provisions. The exception means that schools will not be acting
+unlawfully if they do not provide an equivalent act of worship for other faiths.
+2.14 Schools are also free to celebrate religious festivals and could not be claimed to
+be discriminating against children of other faiths if, for example, they put on a nativity play
+at Christmas or hold a celebration to mark other religious festivals such as Diwali or Eid.
+Uniforms
+2.15 The Equality Act does not deal specifically with school uniform or other aspects of
+appearance such as hair colour and style, and the wearing of jewellery and make-up, but
+the general requirement not to discriminate in the treatment of pupils applies here as in
+relation to other aspects of school policy. It is for the governing body of a school to
+decide whether there should be a school uniform and other rules relating to appearance,
+and if so what they should be. This flows from the duties placed upon the governing body
+by statute to manage the school.
+2.16 Long-standing guidance makes it clear that schools must have regard to their
+obligations under the Human Rights Act 1998 (it is here rather than in relation to equality
+law that most case law has been determined to date) as well as under equality law, and
+that they need to be careful that blanket uniform policies do not discriminate because of
+race, religion or belief, gender, disability, gender reassignment or sexual orientation.
+Consequently it will be up to the individual school to consider the implications their
+uniform requirements have on their pupils.
+2.17 For example, differences in dress requirements for girls and boys are standard,
+and where they don't have significantly more detrimental effects on one sex or the other
+they are unlikely to be regarded as discriminatory. But it might be unlawful if, for example,
+the uniform was considerably more expensive for girls than for boys. Schools need also
+to consider whether flexibility is needed in relation to uniform to meet the needs of a pupil
+who is undergoing gender reassignment. It may also be discrimination because of
+disability if, for example, a child who has a skin condition which means they cannot wear
+nylon is not allowed to wear cotton trousers as part of the uniform.
+15
+2.18 There are potential issues around school uniform policies and religion and belief.
+Schools should be sensitive to the needs of different cultures, races and religions and act
+reasonably in accommodating these needs, without compromising important school
+policies, such as school safety or discipline. It is well established that it would be race
+discrimination to refuse to let a Sikh child wear a turban because of a school policy
+requiring that caps be worn, but legal judgments have not supported the absolute right of
+people of faith to wear garments or jewellery to indicate that faith.
+Bullying
+2.19 The issue of bullying motivated by prejudice is a particularly sensitive issue.
+Although the relationship between one pupil and another is not within the scope of the
+Act (see paragraph 1.7), schools need to ensure that all forms of prejudice-motivated
+bullying are taken seriously and dealt with equally and firmly.
+2.20 The Department for Education has published specific guidance on bullying including
+homophobic and transphobic bullying and bullying related to sexual orientation,
+transgender, disability, race and religion. This is available on GOV.UK.
+The Gender Identity Research and Education Society have published 'Guidance on
+Combating Transphobic Bullying in Schools'.
+And Stonewall have a wealth of material on homophobic bullying on their website.
+Schools' duty of care
+2.21 This guidance sets out the position on the extent of the Equality Act only. However,
+as pointed out already, it must be remembered that schools also have many other duties,
+including their duty of care to their pupils, and their duty to deliver key areas of the
+curriculum such as religious education or sex and relationship education.
+16
+Chapter 3 — Special issues for some protected
+characteristics
+3.1
+This chapter covers all protected characteristics apart from disability, which is
+covered separately in Chapter 4. It outlines general concepts applicable to all or most
+characteristics and specific exceptions where they apply. It also provides some
+definitions of protected characteristics and the interaction between some of those
+characteristics.
+3.2
+Apart from those areas discussed in chapter 1 and highlighted again in this
+chapter, the Act does not contain significant changes in the law with regard to the
+majority of discrimination legislation applicable to schools. Schools that already employ
+non-discriminatory practices and adhere to government guide lines should already be
+acting within the spirit and letter of the Act and should need to make only minor
+adjustments, if any. However, it may be useful to review the school's compliance in the
+light of this guidance.
+Gender reassignment
+3.3
+Protection from discrimination because of gender reassignment in schools is new
+for pupils in the Equality Act, although school staff are already protected. This means that
+for the first time it will be unlawful for schools to treat pupils less favourably because of
+their gender reassignment and that schools will have to factor in gender reassignment
+when considering their obligations under the Equality Duty.
+3.4
+Gender reassignment is defined in the Equality Act as applying to anyone who is
+undergoing, has undergone or is proposing to undergo a process (or part of a process) of
+reassigning their sex by changing physiological or other attributes. This definition means
+that in order to be protected under the Act, a pupil will not necessarily have to be
+undertaking a medical procedure to change their sex but must be taking steps to live in
+the opposite gender, or proposing to do so.
+A glossary of terminology related to the transgender field can be found on the Gender
+Identity Research and Education Society website.
+3.5
+The protection against discrimination because of gender reassignment now
+matches the protection because of sexual orientation in schools. That is protection from
+direct and indirect discrimination and victimisation, which includes discrimination based
+on perception (see 1.11) and on association (see 1.10). Schools need to make sure that
+all gender variant pupils, or the children of transgender parents, are not singled out for
+different and less favourable treatment from that given to other pupils. They should
+check that there are no practices which could result in unfair, less favourable treatment of
+such pupils. For example, it would be unlawful discrimination for a teacher to single out a
+17
+pupil undergoing gender reassignment and embarrass him in front of the class because
+of this characteristic.
+3.6
+It is relatively rare for pupils - particularly very young pupils - to want to undergo
+gender reassignment, but when a pupil does so a number of issues will arise which will
+need to be sensitively handled. There is evidence that the number of such cases is
+increasing and schools should aim to address any issues early on and in a proactive
+way. Further guidance is available from the GIRES website - see paragraph 2.19 for
+links to their bullying guidance. In addition, a partnership of bodies in Cornwall have
+produced a useful guidance document for schools and families.
+Race
+3.7
+The definition of race includes colour, nationality and ethnic or national origins.
+3.8
+Schools need to make sure that pupils of all races are not singled out for different
+and less favourable treatment from that given to other pupils. Schools should check that
+there are no practices which could result in unfair, less favourable treatment of such
+pupils. For example, it would be unlawful for a selective school to impose a higher
+standard for admission to applicants from an ethnic minority background, or for a school
+to impose stricter disciplinary penalties on African Caribbean boys than they do in similar
+circumstances to children from other backgrounds.
+Segregating pupils by race or ethnicity
+3.9 Segregation of pupils by race is always direct discrimination. It would thus be
+unlawful for a school to put children into sets, or into different sports in PE classes,
+according to their ethnicity. This stipulation in the Act is to make it clear that claims that
+segregated treatment is "separate but equal" cannot be sustained where race is
+concerned. It does not mean that schools cannot take positive action to deal with
+particular disadvantages affecting children of one racial or ethnic group, where this can
+be shown to be a proportionate way of dealing with such issues.
+Race Equality Duty
+3.10 Schools previously had a statutory duty which required them to take proactive
+steps to tackle racial discrimination, and promote equality of opportunity and good race
+relations. Under the Equality Act, this has been replaced by the general equality duty and
+the specific duties - covered in chapter 5 of this guidance.
+18
+Religion or belief
+Please also see the section on schools with a religious character in Chapter 2.
+3.11 The Equality Act defines "religion" as being any religion, and "belief" as any
+religious or philosophical belief. A lack of religion or a lack of belief are also protected
+characteristics. These definitions are fairly broad and the concepts of religion and belief
+therefore must be construed in accordance with Article 9 of the European Convention on
+Human Rights and with existing case law. This means that to benefit from protection
+under the Act, a religion or belief must have a clear structure and belief system, and
+should have a certain level of cogency, seriousness and cohesion, and not be
+incompatible with human dignity.
+3.12 "Religion" will include for example all the major faith groups and "belief" will
+include non-religious worldviews such as humanism. Religion will also include
+denominations or sects within a religion, such as Catholicism or Protestantism within
+Christianity. It is not however intended to include political beliefs such as Communism or
+support for any particular political party.
+3.13 Lack of religion or belief is also included in the definition of "religion or belief". This
+means it will be unlawful to discriminate against someone on the grounds that they do not
+adhere, or sufficiently adhere, to a particular religion or belief (even one shared by the
+discriminator), or indeed any religion or belief at all - such as, for example, an atheist.
+3.14 Discrimination because of religion or belief means treating a person less
+favourably than another person is or would be treated, because of their religion or belief,
+or the religion or belief they are perceived to have, their lack of religion or belief, or the
+religion or belief, or lack of it, of someone else with whom they are associated.
+3.15 The Equality Act makes it clear that unlawful religious discrimination can include
+discrimination against another person of the same religion or belief as the discriminator.
+This is to ensure that any potential discrimination between, e.g. Orthodox and Reform
+Jews, or Shia and Sunni Muslims, would also be unlawful. So if a Muslim pupil is not
+chosen for a part in a school play because it is thought to be inappropriate for a girl of
+that faith, that will be discrimination even if the decision was taken by a Muslim teacher.
+Nor could a Muslim teacher choose one Muslim pupil over another for a part in the play
+because he thinks the chosen pupil is a more observant member of his faith and should
+be rewarded.
+3.16 The definition of discrimination on grounds of religion or belief does not address
+discrimination on any other ground (such as race, sex or sexual orientation). The Act
+does not allow a teacher to discriminate against a pupil because of his own personal
+religious views about homosexuality or the role of women for example. This is explained
+more thoroughly later in this chapter, in the section entitled Sexual Orientation and
+Religion or Belief (paragraphs 3.26-3.30)
+19
+Sex/gender
+Please also see the section on single sex schools in Chapter 2.
+3.17 Schools need to make sure that pupils of one sex are not singled out for different
+and less favourable treatment from that given to other pupils. They should check that
+there are no practices which could result in unfair, less favourable treatment of boys or
+girls. For example, it would be unlawful for a school to require girls to learn needlework
+while giving boys the choice between needlework and woodwork classes.
+Gender Equality Duty
+3.18 Schools previously had a statutory duty to promote gender equality and have a
+gender equality scheme in place. Under the Equality Act, this has been replaced by the
+general equality duty and the specific duties - this is covered in chapter 5 of this
+guidance.
+Single sex classes
+3.19 Whilst there is no express exemption in the same way that there is for same-sex
+schools, it is not necessarily unlawful to have some single-sex classes in a mixed school,
+provided that this does not give children in such classes an unfair advantage or
+disadvantage when compared to children of the other sex in other classes. For example,
+it would be lawful to teach sex education to single-sex classes, as long as the classes
+were provided to both boys and girls, but unlawful to provide remedial classes just for
+boys who needed help with reading without doing the same for girls in a similar position.
+A positive action initiative specifically to help boys in such a position would not
+necessarily be unlawful but the school would need to be able to show that this was a
+proportionate way of dealing with a specific disadvantage experienced by boys and
+connected to their gender. It would not be proportionate simply to refuse help to girls with
+reading difficulties in order to help boys as a group catch up with the higher average
+attainment of girls. Pupils undergoing gender reassignment should be allowed to attend
+the single sex class that accords with the gender role in which they identify.
+Single sex sport
+3.20 Although the Equality Act forbids discrimination in access to benefits, facilities and
+services; the Act does contain an exception which permits single-sex sports. It applies to
+participation in any sport or game, or other activity of a competitive nature, where the
+physical strength, stamina or physique of the average woman (or girl) would put her at a
+disadvantage in competition with the average man (or boy). But while this exception
+might permit a mixed school to have a boys-only football team, the school would still
+have to allow girls equal opportunities to participate in comparable sporting activities. The
+20
+judgment on whether girls would be at a physical disadvantage needs to take into
+account the particular group in question, so it is much less likely to justify segregated
+sports for younger children. Where separate teams exist, it would be unlawful
+discrimination for a school to treat one group less favourably - for example by providing
+the boys' hockey or cricket team with much better resources than the girls'.
+Pregnancy and maternity
+3.21 Protection for pupils from discrimination because of pregnancy and maternity in
+schools is covered in the Equality Act. This means it is unlawful for schools to treat a
+pupil less favourably because she becomes pregnant or has recently had a baby, or
+because she is breastfeeding. Schools will also have to factor in pregnancy and
+maternity when considering their obligations under the Equality Duty (see chapter 5).
+3.22 Local authorities have a duty under Section 19 of the Education Act 1996 to
+arrange suitable full-time education for any pupils of compulsory school age who would
+not otherwise receive such an education. This could include pupils of compulsory school
+age who become pregnant or who are parents. In particular, where pupils are unable to
+attend their previous school, the local authority would need to consider whether this duty
+is applied. 'Suitable education' should meet the individual needs of the pupil and must
+take account of their age, ability, aptitude and individual needs including any special
+educational needs they may have. Local authorities must have regard to statutory
+guidance on alternative provision and the ensuring a good education for children unable
+to attend school because of health needs. This guidance is available on www.GOV.UK.
+21
+Sexual orientation and marriage and civil partnership
+3.24 Schools need to make sure that all gay, lesbian or bi-sexual pupils, or the children
+of gay, lesbian or bi-sexual parents, are not singled out for different and less favourable
+treatment from that given to other pupils. They should check that there are no practices
+which could result in unfair, less favourable treatment of such pupils. For example, it
+would be unlawful for a school to refuse to let a gay pupil become a prefect because of
+his sexual orientation.
+3.25 Maintained secondary schools have a legal requirement to teach about the 'nature
+of marriage' when they are delivering sex education. Many academies (including free
+schools) also teach about this topic, and when they do so, they must have regard to the
+Secretary of State's guidance on sex and relationship education. Schools must
+accurately state the facts about marriage of same sex couples under the law of England
+and Wales, in a way that is appropriate to the age and level of understanding and
+awareness of the pupils.
+3.26 Teaching about marriage must be done in a sensitive, reasonable, respectful and
+balanced way. Teachers are subject to professional requirements, the school curriculum,
+school policies, and anti-discrimination duties towards colleagues and pupils.
+3.27 No school, or individual teacher, is under a duty to support, promote or endorse
+marriage of same sex couples. Teaching should be based on facts and should enable
+pupils to develop an understanding of how the law applies to different relationships.
+Teachers must have regard to statutory guidance on sex and relationship education, and
+to meet duties under equality and human rights law.
+Sexual orientation and religion or belief
+3.28 There is a relationship between protection because of sexual orientation and
+protection of religious freedom. Protection in the area of discrimination on grounds of
+religion or belief and the right to manifest one's religion or belief is set out earlier in this
+chapter (3.11 - 3.16).
+3.29 Many people's views on sexual orientation/sexual activity are themselves
+grounded in religious belief. Some schools with a religious character have concerns that
+they may be prevented from teaching in line with their religious ethos. Teachers have
+expressed concerns that they may be subject to legal action if they do not voice positive
+views on same sex relationships, whether or not this view accords with their faith. There
+are also concerns that schools with a religious character may teach and act in ways
+unacceptable to lesbian, gay and bisexual pupils and parents when same sex
+relationships are discussed because there are no express provisions to prevent this
+occurring.
+22
+3.30 Schools with a religious character, like all schools, have a responsibility for the
+welfare of the children in their care and to adhere to curriculum guidance. It is not the
+intention of the Equality Act to undermine their position as long as they continue to
+uphold their responsibilities in these areas. If their beliefs are explained in an appropriate
+way in an educational context that takes into account existing guidance on the delivery of
+Sex and Relationships Education (SRE) and Religious Education (RE), then schools
+should not be acting unlawfully.
+3.31 However, if a school conveyed its belief in a way that involved haranguing,
+harassing or berating a particular pupil or group of pupils then this would be
+unacceptable in any circumstances and is likely to constitute unlawful discrimination.
+3.32 Where individual teachers are concerned, having a view about something does
+not amount to discrimination. So it should not be unlawful for a teacher in any school to
+express personal views on sexual orientation provided that it is done in an appropriate
+manner and context (for example when responding to questions from pupils, or in an RE
+or Personal, Social, Health and Economic education (PSHE) lesson). However, it should
+be remembered that school teachers are in a very influential position and their actions
+and responsibilities are bound by much wider duties than this legislation. A teacher's
+ability to express his or her views should not extend to allowing them to discriminate
+against others.
+23
+Chapter 4 - Disability
+4.1
+As mentioned in Chapter 1, and as in previous equality legislation, the disability
+provisions in this Act are different from those for other protected characteristics in a
+number of ways.
+4.2
+The overriding principle of equality legislation is generally one of equal treatment -
+i.e. that you must treat a black person no less well than a white person, or a man as
+favourably as a woman. However, the provisions relating to disability discrimination are
+different in that you may, and often must, treat a disabled person more favourably than a
+person who is not disabled and may have to make changes to your practices to ensure,
+as far as is reasonably possible, that a disabled person can benefit from what you offer to
+the same extent that a person without that disability can. So in a school setting the
+general principle is that you have to treat male and female, black and white, gay and
+straight pupils equally - but you may be required to treat disabled pupils differently.
+Discrimination is also defined rather differently in relation to disability
+Provisions relating to disability
+4.3
+The disability provisions in the Equality Act mainly replicate those in the former
+Disability Discrimination Act (DDA). There are some minor differences as follows:
+Unlike the DDA the Equality Act does not list the types of day to day activities
+which a disabled person must demonstrate that they cannot carry out, thus making
+the definition of disability less restrictive for disabled people to meet.
+Failure to make a reasonable adjustment can no longer be defended as justified.
+The fact that it must be reasonable provides the necessary test.
+Direct discrimination against a disabled person can no longer be defended as
+justified - bringing it into line with the definition of direct discrimination generally.
+From September 2012 schools and local authorities have a duty to supply auxiliary
+aids and services as reasonable adjustments where these are not being supplied
+through Special Educational Needs (SEN) statements or from other sources (see
+paragraphs 4.15 - 4.20) In practice this will already be being done in many cases.
+24
+Definition of disability
+4.4
+The Act defines disability as when a person has a 'physical or mental impairment
+which has a substantial and long term adverse effect on that person's ability to carry out
+normal day to day activities.' Some specified medical conditions, HIV, multiple sclerosis
+and cancer are all considered as disabilities, regardless of their effect.
+4.5
+The Act sets out details of matters that may be relevant when determining whether
+a person meets the definition of disability. Long term is defined as lasting, or likely to last,
+for at least 12 months.
+Unlawful behaviour with regard to disabled pupils
+4.6
+Chapter 1 (1.17 - 1.24) explains the general definitions in the Act of direct
+discrimination, indirect discrimination, victimisation and harassment. The rather different
+and more complex provisions that apply in the case of disability are set out here.
+Direct discrimination
+4.7
+A school must not treat a disabled pupil less favourably simply because that pupil
+is disabled - for example by having an admission bar on disabled applicants.
+4.8
+A change for schools in this Act is that there can no longer be justification for
+direct discrimination in any circumstances. Under the DDA schools could justify some
+direct discrimination - if was a proportionate means of meeting a legitimate aim. What
+the change means is that if a school discriminates against a person purely because of his
+or her disability (even if they are trying to achieve a legitimate aim) then it would be
+unlawful discrimination as there can be no justification for their actions.
+Indirect discrimination
+4.9
+A school must not do something which applies to all pupils but which is more likely
+to have an adverse effect on disabled pupils only - for example having a rule that all
+pupils must demonstrate physical fitness levels before being admitted to the school -
+unless they can show that it is done for a legitimate reason, and is a proportionate way of
+achieving that legitimate aim.
+Discrimination arising from disability
+4.10 A school must not discriminate against a disabled pupil because of something that
+is a consequence of their disability - for example by not allowing a disabled pupil on
+crutches outside at break time because it would take too long for her to get out and back.
+Like indirect discrimination, discrimination arising from disability can potentially be
+justified.
+25
+Harassment
+4.11 A school must not harass a pupil because of his disability - for example, a teacher
+shouting at the pupil because the disability means that he is constantly struggling with
+class-work or unable to concentrate.
+Disability Equality Duty
+4.12 Schools previously had a statutory duty which required them to take proactive
+steps to tackle disability discrimination, and promote equality of opportunity for disabled
+pupils. Under the Equality Act, this has been replaced by the general equality duty and
+the specific duties - covered in chapter 5 of this guidance.
+Reasonable adjustments and when they have to be made
+4.13 The duty to make reasonable adjustments applies only to disabled people. For
+schools the duty is summarised as follows:
+Where something a school does places a disabled pupil at a disadvantage
+compared to other pupils then the school must take reasonable steps to try and
+avoid that disadvantage.
+Schools will be expected to provide an auxiliary aid or service for a disabled pupil
+when it would be reasonable to do so and if such an aid would alleviate any
+substantial disadvantage that the pupil faces in comparison to non-disabled pupils.
+Schools are not subject to the requirement of reasonable adjustment duty concerned with
+make alterations to physical features because this is already considered as part of their
+planning duties.
+Auxiliary aids and services
+4.14 The duty to provide auxiliary aids as part of the reasonable adjustment duty is a
+change for all schools from September 2012 and also extends to maintaining local
+authorities.
+4.15 Many disabled children will have a SEN and may need auxiliary aids which are
+necessary as part of their SEN provision; in some circumstances as part of a formal SEN
+statement. These aids may be provided in the school under the SEN route, in which
+case there will be no need for the school to provide those aids as part of their reasonable
+adjustment duty.
+4.16 Schools will have to consider whether to provide auxiliary aids as a reasonable
+adjustment for disabled children. This will particularly be the case where a disabled child
+26
+does not have an SEN statement or where the statement does not provide the auxiliary
+aid or service.
+4.17 There should be no assumption, however, that if an auxiliary aid is not provided
+under the SEN regime then it must be provided as a reasonable adjustment. Similarly,
+whilst schools and LAs are under the same reasonable adjustment duty, there should be
+no assumption that where it is unreasonable for a school to provide an auxiliary aid or
+service, for example on cost grounds, it would then be reasonable for the local authority
+to provide it. All decisions would depend on the facts of each individual case. The
+nature of the aid or service, and perhaps also the existence of local arrangements
+between schools and local authorities, will help to determine what would be reasonable
+for the school or the LA to provide. For example, where there is a centrally organised
+visual or hearing impairment service it may be reasonable for the local authority to
+provide more expensive aids or support through that service but not reasonable for an
+individual school to have to provide them.
+4.18 The term "auxiliary aids" found in the Equality Act 2010 covers both auxiliary aids
+and services but there is no legal definition for what constitutes auxiliary aids and
+services. Considering the everyday meaning of the words, is, however, helpful. Legal
+cases have referred to the Oxford English Dictionary definition of auxiliary as "helpful,
+assistant, affording aid, rendering assistance, giving support or succour" and that
+auxiliary aids and services "are things or persons which help." Examples of what may be
+considered an auxiliary aid could be; hearing loops; adaptive keyboards and special
+software. However the key test is reasonableness and what may be reasonable for one
+school to provide may not be reasonable for another given the circumstances of each
+case.
+4.19 Some disabled children will have a need for auxiliary aids which are not directly
+related to their educational needs or their participation in school life, for example, things
+which are generally necessary for all aspects of their life, such as hearing aids. It is likely
+to be held that it would be unreasonable for a school to be expected to provide these
+auxiliary aids.
+Making reasonable adjustments
+4.20 The EHRC has published guidance on the auxiliary aids duty which includes
+advice on when it would be reasonable for schools to have to make adjustments and
+what factors a school should take into account in its assessment of whether or not it
+would be reasonable to make any particular adjustment. The guidance is available at
+http://www.equalityhumanrights.com/legal-and-policy/equality-act/equality-act-codes-df.
+practice/.
+27
+4.21 A minor change for schools is that a failure to make a reasonable adjustment
+cannot now be justified, whereas under the previous disability discrimination legislation it
+could be. However this change should not have any practical effect due to the
+application of the reasonableness test - i.e. if an adjustment is reasonable then it should
+be made and there can be no justification for why it is not made. Schools will not be
+expected to make adjustments that are not reasonable.
+4.22 In addition to having a duty to consider reasonable adjustments for particular
+individual disabled pupils, schools will also have to consider potential adjustments which
+may be needed for disabled pupils generally as it is likely that any school will have a
+disabled pupil at some point. However, schools are not obliged to anticipate and make
+adjustments for every imaginable disability and need only consider general reasonable
+adjustments - e.g. being prepared to produce large font papers for pupils with a visual
+impairment even though there are no such pupils currently admitted to the school. Such
+a strategic and wider view of the school's approach to planning for disabled pupils will
+also link closely with its planning duties (covered in 4.21).
+4.23 The Act does not set out what would be a reasonable adjustment or a list of
+factors to consider in determining what is reasonable. It will be for schools to consider the
+reasonableness of adjustments based on the circumstances of each case. However,
+factors a school may consider when assessing the reasonableness of an adjustment may
+include the financial or other resources required for the adjustment, its effectiveness, its
+effect on other pupils, health and safety requirements, and whether aids have been made
+available through the Special Educational Needs route).
+4.24 Cost will inevitably play a major part in determining what is reasonable and it is
+more likely to be reasonable for a school with substantial financial resources to have to
+make an adjustment with a significant cost, than for a school with fewer resources. For
+example, a small rural primary school may not be able to provide specialised IT
+equipment for any disabled pupils who may need it and it may not be reasonable for the
+school to provide that equipment. On the other hand, a much larger school might
+reasonably be expected to provide it.
+4.25 Often, though, effective and practicable adjustments for disabled pupils will involve
+little or no cost or disruption and are therefore very likely to be reasonable for a school to
+have to make.
+4.26 Schools generally will try to ensure that disabled pupils can play as full a part as
+possible in school life and the reasonable adjustments duty will help support that.
+However, there will be times when adjustments cannot be made because to do so would
+have a detrimental effect on other pupils and would therefore not be reasonable - for
+example, if a school put on a geology field trip which necessarily involved climbing and
+walking over rough ground and after fully considering alternatives to accommodate a
+disabled pupil in a wheelchair who could not take part it determined that there was no
+viable alternative or way of enabling the disabled pupil to participate or be involved, it
+28
+would not have to cancel the trip as originally planned. This is unlikely to constitute direct
+discrimination or failure to make a reasonable adjustment
+4.27 The reasonable adjustments duties on schools are intended to complement the
+accessibility planning duties (covered in 4.28 - 31) and the existing SEN statement
+provisions which are part of education legislation, under which local authorities have to
+provide auxiliary aids to pupils with a statement of special educational need.
+Schools' duties around accessibility for disabled pupils
+4.28 Schools and LAs need to carry out accessibility planning for disabled pupils.
+These are the same duties as previously existed under the DDA and have been
+replicated in the Equality Act 2010.
+4.29 Schools must implement accessibility plans which are aimed at:
+increasing the extent to which disabled pupils can participate in the curriculum;
+improving the physical environment of schools to enable disabled pupils to take
+better advantage of education, benefits, facilities and services provided; and
+improving the availability of accessible information to disabled pupils.
+4.30 Schools will also need to have regard to the need to provide adequate resources
+for implementing plans and must regularly review them. An accessibility plan may be a
+freestanding document but may also be published as part of another document such as
+the school development plan.
+4.31 OFSTED inspections may include a school's accessibility plan as part of their
+review.
+Local authorities' duties around accessibility for disabled
+pupils
+4.32 LAs must, for the schools for which they are responsible, prepare accessibility
+strategies based on the same principle as the access plans for schools.
+4.33 Guidance on the planning duties, which offers advice to schools and LAs on how
+to develop plans and strategies and gives examples on approach, was published in 2002
+and can be accessed on The National Archives.
+4.34 Further guidance on this and all other areas of disability in schools is available in
+the "Implementing Disability Discrimination Act in Schools and Early Years Settings"
+pack, which although it refers to the repealed DDA, contains helpful advice for schools in
+the area of disability and is available from The National Archives.
+29
+Chapter 5 - The Public Sector Equality Duty
+5.1
+The Equality Act 2010 introduced a single Public Sector Equality Duty (PSED)
+(sometimes also referred to as the 'general duty') that applies to public bodies, including
+maintained schools and Academies, and extends to certain protected characteristics -
+race, disability, sex, age, religion or belief, sexual orientation, pregnancy and maternity
+and gender reassignment. This combined equality duty came into effect in April 2011. It
+has three main elements. In carrying out their functions, public bodies are required to
+have due regard to the need to:
+Eliminate discrimination and other conduct that is prohibited by the Act,
+Advance equality of opportunity between people who share a protected
+characteristic and people who do not share it,
+Foster good relations across all characteristics - between people who share a
+protected characteristic and people who do not share it.
+5.2
+Where schools are concerned, age will be a relevant characteristic in considering
+their duties in their role as an employer but not in relation to pupils.
+5.3
+All public bodies were previously bound by three separate sets of duties to
+promote disability, race and gender equality. The simpler, less bureaucratic, PSED has
+replaced those three duties.
+5.4
+With the PSED, as with the previous general duties, schools are subject to the
+need to have due regard to the three elements outlined above. What having "due regard"
+means in practice has been defined in case law and means giving relevant and
+proportionate consideration to the duty. For schools this means:
+Decision makers in schools must be aware of the duty to have "due regard" when
+making a decision or taking an action and must assess whether it may have
+particular implications for people with particular protected characteristics.
+Schools should consider equality implications before and at the time that they
+develop policy and take decisions, not as an afterthought, and they need to keep
+them under review on a continuing basis.
+The PSED has to be integrated into the carrying out of the school's functions, and
+the analysis necessary to comply with the duty has to be carried out seriously,
+rigorously and with an open mind - it is not just a question of ticking boxes or
+following a particular process.
+Schools can't delegate responsibility for carrying out the duty to anyone else.
+30
+Having "due regard"
+5.5
+The duty to have "due regard" to equality considerations means that whenever
+significant decisions are being made or policies developed, thought must be given to the
+equality implications. (This is explained more fully at para 5.4 above.) The significance of
+those implications - and the amount of thought that needs to be devoted to them - will
+vary depending on the nature of the decision. For example, a decision to change the time
+of school assembly is unlikely to have a significant impact on any particular group. On the
+other hand, deciding when and where to have a school trip may raise a range of
+considerations: are the facilities for boys and girls equivalent; are they accessible to
+disabled pupils; does the date cut across any religious holidays and so exclude some
+pupils, and so on. An initiative to raise pupil attainment in a single sex school might not
+have any gender implications, but there could be race issues that need to be considered.
+It is good practice for schools to keep a note of any equality consideration, although this
+does not necessarily need to take the form of a formal equality analysis. Publishing it will
+help to demonstrate that the due regard duty is being fulfilled.
+5.6
+It is good practice for schools to keep a written record to show that they have
+actively considered their equality duties and asked themselves relevant questions. There
+is no legal requirement to produce a formal equality impact assessment document,
+although for key decisions this might be a helpful tool.
+5.7
+If a school does not record its consideration of the general equality duty when
+making a decision or carrying out a particular function, this does not automatically mean
+that the duty to have 'due regard' has not been met. However, if challenged, it will be
+easier for a school to demonstrate that the duty has been met if a record has been made
+at the time. The duty only needs to be implemented in a light-touch way, proportionate to
+the issue being considered.
+5.8
+The Government has also introduced specific duties, which are intended to help
+public authorities to meet their obligations under the PSED. The PSED is set out on the
+face of the Act, while the specific duties are set out in secondary legislation (the Equality
+Act 2010 (Specific Duties) Regulations 2011).
+What compliance with the specific duties will mean for
+schools
+5.9
+This section is intended to provide schools with practical advice on what is
+expected of them under the specific duties regulations. Nothing in this advice is intended
+to be prescriptive - schools have freedom to meet the specific duties in ways appropriate
+to their own set of circumstances. Rather, this section should be used as a helpful guide
+to what schools might wish to do to demonstrate that they are complying with the specific
+duties.
+31
+5.10 The purpose of the specific duties is to help public bodies fulfil their obligations
+under the general duty. They are designed to be flexible, light-touch and proportionate
+rather than being bureaucratic or a "tick-box" exercise. The emphasis is on transparency
+- making information available so that the school's local community can see how the
+school is advancing equality in line with the PSED, and what objectives it is using to
+make this happen.
+5.11 The specific duties require schools:
+(a)
+to publish information to demonstrate how they are complying with the Public
+Sector Equality Duty, and
+(b)
+to prepare and publish equality objectives.
+By 6 April 2012 schools were obliged to publish their initial information and first set of
+objectives demonstrating how it complies with the general duty. School have to update
+the published information at least annually and to publish objectives at least once every
+four years.
+5.12 Obligations under the PSED can be satisfied in a way that is proportionate to the
+decision making that is taking place. The duty is not prescriptive as to how it is satisfied
+so how one school complies with the duty in relation to a decision it is making can look
+different for organisations of different sizes and with different levels of resources.
+Therefore, in terms of publishing information and setting equality objectives, the
+requirements of the duty will not be the same for a small primary school as they are for a
+large secondary school.
+5.13 Schools must publish information relating to persons who share a relevant
+protected characteristic who are affected by their policies and practices. However, data
+about employees will not need to be published where a public authority has fewer than
+150 employees. This means that for the great majority of schools, only pupil-related data
+will need to be published. If a school decides that making public some employee-related
+statistics would help them to demonstrate that they are complying with the general duty
+they may choose to do so, so long as this does not conflict with principles of data
+protection. Broadly speaking, schools must ensure that individuals are not able to be
+identified through the publication of data. The Department for Education does not
+generally publish information which relates to fewer than 3 people (school staff or pupils)
+but it will be for schools to determine whether the data they wish to publish will be
+suitable or not. The full rules to which DfE adheres on the publication of data can be
+viewed online at Gov.uk.
+5.14 The government is clear that the duties should not be overly burdensome on
+schools. Schools will not be required to collect any statistical data which they do not
+already collect routinely. A large amount of data is already collected by schools - RAISE
+online, which presents performance data for individual schools broken down by a number
+32
+of relevant characteristics (sex, race, and also SEN which can be seen as a rough proxy
+for disability) and which includes comparative analysis with national statistics and with
+comparable schools, will be a particularly useful source.
+5.15 It is also important to note that the published information does not necessarily
+have to be statistical data. Many other kinds of information can be used to show how the
+school is promoting equality, such as publishing its policies online, or publishing minutes
+of Governors' meetings (see paragraph 5.17 below).
+5.16 Under specific duties set out in previous equality legislation, schools were required
+to produce equality schemes in relation to race, disability and gender. Under the specific
+duties there are no requirements to create equality schemes. But schools may choose to
+continue producing such a scheme, if it helps them to comply with the Equality Duty, and
+they can expand it to cover the additional protected characteristics.
+Publishing information
+5.17 It is probably helpful to consider what kind of information will be relevant to
+showing how each of the three limbs of the duty is being addressed.
+Eliminating discrimination and other conduct that is
+prohibited by the Act
+5.18 Evidence that the school is aware of the requirements of the Act and determined
+to comply with the non-discrimination provisions will be relevant here. This might include
+copies of any of a range of policies (for example, the behaviour policy or anti-bullying
+policy, or the recruitment or pay policies) where the importance of avoiding discrimination
+and other prohibited conduct is expressly noted. If there has been a meeting of staff or of
+Governors where they are reminded of their responsibilities under the Act, a note of that
+meeting could also be useful evidence that due regard is being had to this part of the
+duty. Evidence of staff training on the Equality Act would also be appropriate, as would a
+note of how the school monitors equality issues.
+Advancing equality of opportunity between people who share
+a protected characteristic and people who do not share it
+5.19 Advancing equality of opportunity involves, in particular:-
+(a) removing or minimising disadvantages suffered by people which are connected
+to a particular characteristic they have (for example disabled pupils, or gay pupils
+who are being subjected to homophobic bullying);
+33
+(b) taking steps to meet the particular needs of people who have a particular
+characteristic (for example enabling Muslim pupils to pray at prescribed times) and
+(c) encouraging people who have a particular characteristic to participate fully in
+any activities (for example encouraging both boys and girls, and pupils from
+different ethnic backgrounds, to be involved in the full range of school societies).
+5.20 Attainment data which shows how pupils with different characteristics (eg boys or
+girls) are performing will obviously be relevant here, in particular in helping to identify
+whether there are areas of inequality which may need to be addressed. RAISE online
+contains much detailed analysis by relevant characteristics.
+5.21 To show that due regard is being had to the importance of advancing equality of
+opportunity, schools will also need to include information about the steps they have taken
+in response to their analysis of the available data - for example, work being done to
+support disabled children, or special steps taken to help boys improve their performance
+in writing or girls to catch up in science, or to boost the English language skills of bi-
+lingual children from certain minority ethnic groups. None of this needs to be
+complicated; most of the information will already be contained in easily available
+documents such as reports to the governing body. Evidence which shows e.g. a decline
+in bullying of disabled children, or a decrease in homophobic or transphobic bullying,
+would also be relevant here.
+5.22 For some protected characteristics - religion, and particularly sexual orientation,
+for example - statistical data about pupils is less likely to be available, and it may well not
+be considered appropriate to try to obtain it. More general data about the issues
+associated with these particular protected characteristics, from which schools should be
+able to identify possible issues which may affect their own pupils, will be easily available
+however. For example, information from groups such as Stonewall or GIRES about the
+experience of gay or trans pupils in schools generally may help schools to understand
+how best to support their own LGBT pupils. Such information (or links to/extracts from it)
+may be included among a school's published material, alongside information about any
+initiatives taken, or policies developed, to promote equality for particular groups (such as
+measures to address racist or homophobic bullying).
+Fostering good relations across characteristics - between people who share a protected
+characteristic and people who do not share it
+5.23 It should be particularly easy for schools to demonstrate that they are fostering
+good relations since promoting good relations between people and groups of all kinds is
+inherent in many things which they do as a matter of course. It may be shown through -
+for example - aspects of the curriculum which promote tolerance and friendship, or which
+share understanding of a range of religions or cultures, the behaviour and anti-bullying
+policies, assemblies dealing with relevant issues, involvement with the local communities,
+twinning arrangements with other schools which enable pupils to meet and exchange
+34
+experiences with children from different backgrounds, or initiatives to deal with tensions
+between different groups of pupils within the school itself.
+Engagement
+5.24 When deciding what to do to tackle equality issues, schools may want to consult
+and engage both with people affected by their decisions - parents, pupils, staff, members
+of the local community - and with people who have special knowledge which can inform
+the school's approach, such as disability equality groups and other relevant special
+interest organisations. Evidence of this engagement can also usefully be included in the
+published material showing how the duty has been addressed.
+How to publish information
+5.25 It will be up to schools themselves to decide in what format they publish equality
+information. For most schools, the simplest approach may be to set up an equalities
+page on their website where all this information is present or links to it are available. The
+regulations are not prescriptive and it will be entirely up to schools to decide how they
+publish the information, so long as it is accessible to those members of the school
+community and the public who want to see it.
+Equality objectives
+5.26 Schools are free to choose the equality objectives that best suit their individual
+circumstances and contribute to the welfare of their pupils and the school community.
+Objectives are not intended to be burdensome or a 'tick box' exercise, but they do need
+to be specific and measurable. They should be used as a tool to help improve the school
+experience of a range of different pupils. A school should set as many objectives as it
+believes are appropriate to its size and circumstances; the objectives should fit the
+school's needs and should be achievable.
+5.27 Although it is no longer a requirement for schools to have an equality action plan,
+those schools which do already have one (or more) of these in place, may find it helpful
+to continue with this approach and adapt it to take into account the extent of the duty.
+5.28 Equality objectives may arise from analysis schools have carried out on their
+published data or other information, where they have identified an area where there is
+potential for improvement on equalities, or they may - for example - be set in anticipation
+of a change in local circumstances. Some examples might be:
+to increase participation by black pupils in after school activities;
+to narrow the gap in performance of disabled pupils;
+35
+to reduce exclusion rates for black boys;
+to increase understanding between religious groups;
+to reduce the number of homophobic incidents;
+to raise attainment in English for boys;
+to encourage girls to consider non-stereotyped career options;
+to anticipate the needs of incoming pupils from a new group, such as traveller
+children.
+5.29 Publication of information in future years should include evidence of the steps
+being taken and progress made towards meeting the equality objectives that the school
+has already set itself.
+DfE compliance with the PSED
+The Department's own published information and objectives to demonstrate our
+compliance with the Equality Act 2010 can be found here.
+36
+Chapter 6 - Local authorities and education functions
+6.1
+The provisions in the Act extend to local authorities (LAs) generally in relation to
+their functions as a public body but this guidance does not explain those general
+provisions and LAs should refer to the EHRC guidance on service provision here for
+more details of how they will be affected. However, there are some specific provisions
+and implications in respect of their education functions and these are covered in this
+chapter.
+Establishment and closure of schools
+6.2
+As with schools generally, the provisions on age discrimination do not apply to LAs
+in relation to their functions in the provision of schools under section 14 of the Education
+Act 1996 and in the establishment, alteration and closure of schools. This means that,
+for example, an LA would not be acting unlawfully by closing a secondary school when it
+leaves the nearby primary school open.
+6.3
+Similarly, the sex and religion or belief discrimination provisions do not extend to
+LAs in relation to establishing schools - so for example, it would not be unlawful if an LA
+establishes a school for girls, following local demand, without at the same time also
+establishing a school for boys for which there is no demand - or similarly, if it establishes
+a school of one religion but not another. However, this exemption does not override an
+LA's duties under section 14 of the Education Act - that it must ensure that there are
+sufficient schools providing appropriate education to meet demand.
+School curriculum
+6.4
+The discrimination provisions on age and religion or belief do not extend to
+anything an LA does in relation to the school curriculum - so, for example, an LA would
+not be unlawfully discriminating on religion or belief grounds if it provided curriculum
+support/advice to schools in its area in subjects which some parents, due to their religion,
+may object to such as history or science - or on age grounds if the LA support for
+primary schools is more varied and comprehensive than that for secondary schools.
+School admissions
+6.5
+LAs play a key role in the school admissions process in maintained schools. The
+discrimination provisions on age do not extend to anything an LA does in relation to
+school admissions, so existing approaches in which admissions and transition between
+schools are determined by a child's age will not be open to challenge.
+37
+6.6
+The discrimination provisions on religion or belief also do not extend to anything
+an LA does in relation to admissions to a school with a religious character. For example,
+a discrimination claim against an LA in respect of its role in the admissions process of a
+school with a religious character would fail, provided the school was over-subscribed and
+therefore lawfully prioritising places to children of its religion.
+School transport
+6.7
+LAs are responsible for the provision of transport to schools for pupils living in their
+authorities and the discrimination provisions on age and religion or belief do not extend to
+these transport arrangements. So, for example, an LA would not be unlawfully
+discriminating simply if it arranges a school bus to a faith school on the outskirts of town
+but not to another maintained school in the area - or if it lays on transport to a primary
+school but not to the nearby secondary school.
+6.8
+Whilst the discrimination provisions in the above two equality areas do not extend
+to school transport, LAs still need to ensure that their transport polices do not unlawfully
+discriminate in relation to other protected characteristics or contravene the Human Rights
+Act and also that they comply with the Statutory School Transport Guidance issued in
+2007 following the Education and Inspections Act 2006. This makes clear, for example,
+that the same provision for transport should be made to enable the child of non-religious
+parents to attend a maintained school if the parent feels that this is important in view of
+his own belief system, as is made to enable the child of religious parents to attend a faith
+school which is not the nearest to their home.
+Acts of worship
+6.9
+The discrimination provisions on religion or belief do not extend to an LA's
+involvement in or arrangement of acts of worship or other religious observance in or on
+behalf of schools for which it is responsible.
+Reasonable adjustments for disabled pupils
+6.10 Chapter 4 (4.12 - 4.20) covered the responsibility on schools in relation to
+providing reasonable adjustments for disabled pupils. LAs, in relation to their education
+functions, are under the same duty - to have accessibility strategies, provide reasonable
+adjustments for school pupils, with the aim of avoiding disadvantage, and providing
+auxiliary aids and services.
+38
+Chapter 7 — How the Act is enforced
+7.1
+The enforcement mechanisms contained in this Act are similar to those under
+existing legislation. This chapter summarises very briefly how they work in relation to the
+education provisions of the Act.
+Discrimination claims - court proceedings
+7.2
+Proceedings in relation to a contravention of the education provisions of this Act
+(other than disability - see 7.5 below) will be brought in a county court by the pupil (or in
+the pupil's name).
+7.3
+Proceedings must be brought within 6 months of the date of the act to which the
+claim relates, although the county court has power to extend this period if it considers it
+just and equitable to do so.
+7.4
+If the court rules that there has been a contravention then it has the power to
+award an appropriate remedy including an award of damages.
+Discrimination claims — tribunal proceedings for disability
+cases
+7.5
+Specialist tribunals which have experience and knowledge of disability issues will
+hear cases of contravention of the education provisions on grounds of disability. In
+England this will be the First-tier Tribunal.
+7.6
+Claims of discrimination or harassment against a pupil by a school will be made to
+the tribunal by the parent of the pupil.
+7.7
+As with the county court for other types of discrimination, claims have to be
+brought within 6 months of the act to which the claim relates and the tribunal has the
+power to consider claims after that time has passed if it considers it just and equitable to
+do so.
+7.8
+If the tribunal rules that there has been a contravention then it has the power to
+make an order of a remedy which it sees as appropriate. Such a remedy will be with a
+view to removing or reducing the adverse affect on the pupil concerned. However, the
+remedy in a disability case will not include payment of compensation. It is expected that
+an education remedy will be the most appropriate - for example, if the tribunal finds that
+a school has discriminated against a disabled pupil by failing to provide extra help
+needed to compensate for her disability it may order the school to put in place the
+necessary measures to meet her needs and help her to catch up with other pupils.
+39
+Burden of proof
+7.9
+A provision for schools is the reversal of the burden of proof in cases of
+contravention of the Act's provisions in both court and tribunal cases. This brings
+education cases into line with the rest of the legislation. It means that if a complainant
+can establish facts which could lead to the conclusion that an act of discrimination has
+taken place, then it will be down to the respondent (in this case the school) to show that
+the reason for what happened was something other than discrimination. However, such
+defensive reasoning will only be necessary if a case is brought and schools are not
+expected to develop a body of evidence to justify their everyday actions.
+The 'Questions Procedure'
+7.10 The Act extends to schools procedures which already exist elsewhere for
+complainants to ask questions in respect of a contravention of the Act before a formal
+case is taken to the County Court. This means that if a pupil believes that he/she has
+been discriminated against or harassed by their school then, before deciding whether to
+bring a case, they can ask questions of the school about their treatment. Special forms
+have been developed for this purpose and these, together with advice on using them, is
+available here.
+7.11 It is hoped that this procedure will help to establish the facts in a way which may
+make it possible to address problems at local level and reduce the number of cases
+going to a court or an employment tribunal. Where cases do go further, it will be helpful to
+have a common understanding of the issues involved, and this can speed up the
+process.
+7.12 Questions asked by a pupil (either on the prescribed forms or otherwise) and the
+answer by the school can be used as part of evidence in any subsequent court or tribunal
+case.
+7.13 A court or tribunal can draw an adverse inference from a lack of a response after 8
+weeks or from a vague or evasive answer by the school - which means that giving such
+a response, or none, would not be in the school's best interests. The only exception to
+this would be if the school can show that giving a different response would have an effect
+on any criminal matters or proceedings.
+40
+Chapter 8 — Education specific employment provisions
+8.1
+The general provisions on employment apply to schools in their role as employers
+and this is briefly summarised below, however, schools should consult the EHRC's
+guidance and Codes of Practice for Employers for more detailed information on the
+employment provisions of the Act and how they will be affected as an employer (see links
+at the end of this chapter). In addition, there are some specific employment issues just
+for schools and a employment provision on health questioning which will affect schools
+and these are summarised below.
+What the Act covers
+8.2
+All of the protected characteristics, including age, are covered by the employment
+provisions of the Act.
+8.3
+As an employer, a school must not discriminate against a potential employee in
+respect of whether to offer a job or the terms on which it offers a job and it must not
+discriminate against an existing employee in respect of the benefits facilities and services
+it offers to its employees including training opportunities, promotion or dismissal. For
+example, a school must not demand higher/better qualifications from female applicants
+for teaching posts than it does for male applicants. It could not dismiss a black teacher
+who was discovered using school facilities for personal use if it also discovered a white
+teacher using the same facilities but did not dismiss him - unless the reason for the
+different treatment could be demonstrated to be something other than their race.
+Harassment (as defined at 1.19) against potential or existing employees in relation to any
+of the protected characteristics is also unlawful, as is victimisation of any person who has
+done a protected act (see para 1.22).
+Reasonable adjustments
+8.4
+Schools as employers are under the same duties to make reasonable adjustments
+in relation to disability for their employees or potential employees as they are for their
+pupils as set out in Chapter 4 (4.12 - 4.20). They must make reasonable adjustments to
+arrangements or practices to alleviate disadvantage and must also take reasonable steps
+to provide any necessary auxiliary aids and services. They are also under the duty to
+consider alterations to physical features of the school where that is reasonable to avoid
+disadvantage caused by disability.
+41
+Enquiries about health and disability
+8.5
+A provision introduced by the Act makes it unlawful for an employer to enquire
+about the health of an applicant for a job until a job offer has been made, unless the
+questions are specifically related to an intrinsic function of the work - for example
+ensuring that applicants for a PE teaching post have the physical capability to carry out
+the duties. There are potential implications in relation to establishing teachers' fitness
+and ability to teach (as required by the Health Standards (England) Regulations 2003).
+Schools are advised to review their existing practices to ensure they are complying with
+both the Health Standards Regulations and Section 60 of the Equality Act.
+8.6
+Schools should no longer, as a matter of course, require job applicants to
+complete a generic 'all encompassing' health questionnaire as part of the application
+procedure. Instead schools should ask any health questions which are necessary to
+ensure that the applicant can carry out an intrinsic function of the work for the post they
+have applied for. Schools may decide to ask necessary health questions after job offer.
+In either case, they should ensure that any health-related questions are targeted,
+necessary and relevant to the job applied for.
+8.7
+In addition, these provisions will also affect recruitment practices under the
+Safeguarding Children and Safer Recruitment in Education Guidance, section 4.34 of
+which advises schools to seek out past sickness records of candidates before interview.
+In order to ensure compliance with these provisions, schools are advised not to seek out
+past sickness records until they have made a conditional job offer.
+Employment exceptions for schools with a religious character
+8.8
+There are some specific exceptions to the religion or belief provisions of the
+Equality Act for employment by schools designated as having a religious character.
+8.9
+For the purposes of legislation, these schools fall into two broad categories -
+voluntary aided (VA) is one category and voluntary controlled (VC) and foundation
+schools together form the other. VA schools have more autonomy than VC/foundation
+schools, especially in terms of employment. Academies, free schools and independent
+schools with a religious character generally operate under conditions which mirror those
+in VA schools.
+8.10 All of the situations described here are provided for by existing legislation which
+has not been changed by the Equality Act.
+42
+Voluntary-controlled and foundation schools with a religious
+character
+Headteachers
+8.11 At VC and foundation schools, when appointing a head teacher the governing
+body may take into account any candidate's suitability and ability to preserve and
+develop the religious character of the school. The head may also be a reserved teacher -
+see below.
+Reserved teachers
+8.12 VC and foundation schools must include reserved teachers where the number of
+teaching staff is more than two. Reserved teachers are selected according to their
+competence to teach RE according to the tenets of the school's faith and are specifically
+appointed to do so. This may include the headteacher.
+8.13 The number of reserved teachers must not exceed one-fifth of the teaching staff
+(including the headteacher). For these purposes, where the total number of teaching staff
+is not a multiple of five, it will be deemed to be the next higher multiple of five. For
+example, if there were eight teachers at a school, for this purpose the total number would
+be deemed to be ten and the maximum number of reserved teachers would be two.
+8.14 These teachers must not be appointed unless the foundation governors are
+satisfied that they are suitable and competent to give religious education. The foundation
+governors can insist on dismissing a reserved teacher who fails to give suitable and
+efficient religious education.
+Other teachers and non-teaching staff
+8.15 Non-teaching staff and teachers other than those appointed as reserved teachers
+must not be treated unfavourably in any way because of their religion. This means they
+cannot be dismissed because of their religious opinions or attendance at religious
+worship, they cannot be required to deliver RE and cannot be subjected to a detriment
+for not giving RE or attending worship.
+VC/foundation schools with a religious character becoming
+academies
+8.16 A VC school or a foundation school with a religious character which chooses to
+convert to academy status will continue to be governed by the provisions described
+above which apply to VC and foundation schools.
+43
+Voluntary-aided schools, independent schools, academies
+and free schools with a religious character
+Teaching staff (including headteachers)
+8.17 Voluntary-aided schools may apply religious criteria when recruiting or dismissing
+any member of their teaching staff. In recruitment, remuneration and promotion they may
+give preference to persons:
+whose religious opinions are in accordance with the tenets of the religion of the
+school;
+who attend religious worship in accordance with those tenets; or
+who give, or are willing to give, religious education in accordance with those
+tenets.
+8.18 In considering dismissals, the governing body may have regard to any conduct
+that is incompatible with the precepts, or with the upholding of the tenets, of the religion
+of the school. A teacher appointed to teach RE may be dismissed by the governing body
+without the consent of the local authority if he fails to give such education efficiently and
+suitably.
+Non-teaching staff
+8.19 Religious criteria may not be applied to any other posts in a VA school unless
+there is a genuine occupational requirement. This would need to be justified but might,
+for example, apply to a member of staff required to give pastoral care to pupils.
+Further information
+8.20 Detailed guidance on the employment provisions of the Act can be found here and
+the statutory Code of Practice on employment here.
+44
+Department
+for Education
+© Crown copyright 2014
+You may re-use this document/publication (not including logos) free of charge in any
+format or medium, under the terms of the Open Government Licence v2.0. Where we
+have identified any third party copyright information you will need to obtain permission
+from the copyright holders concerned.
+To view this licence:
+visit
+www.nationalarchives.gov.uk/doc/open-government-licence/version/2
+email
+psi@nationalarchives.gsi.gov.uk
+About this publication:
+enquiries www.education.gov.uk/contactus
+download www.gov.uk/government/publications
+Reference: DFE-00296-2013
+Follow us on Twitter:
+f
+Like us on Facebook:
+@educationgovuk
+facebook.com/educationgovuk
+45

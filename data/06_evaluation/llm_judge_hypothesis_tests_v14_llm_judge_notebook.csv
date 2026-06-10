@@ -1,0 +1,4 @@
+metric,label,baseline_mean,hybrid_mean,mean_diff,statistic,p_value
+tone_alignment_score,Tone Alignment,4.588,4.444,-0.144,2781.0,0.00408989351310817
+accuracy_score,Accuracy,4.088,4.012,-0.076,773.0,0.03130623138243157
+grounding_score,Grounding,3.868,4.032,0.164,120.0,3.282720774316408e-08

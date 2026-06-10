@@ -1,0 +1,30 @@
+# PyTorch: the default pip wheel is often CPU-only (torch shows +cpu), so CUDA is False.
+# Install the CUDA 12.4 build for GPU training (Phase 3a), then install the rest:
+#   pip install torch torchvision torchaudio --index-url https://download.pytorch.org/whl/cu124
+#   pip install -r requirements.txt
+boto3==1.34.0
+anthropic==0.21.0
+instructor==1.2.0
+pydantic==2.7.0
+langchain==0.1.13
+chromadb==0.4.24
+langchain-cohere==0.1.5
+cohere==5.5.8
+peft==0.10.0
+sentence-transformers==2.5.1
+ragas==0.1.4
+openai==1.14.0
+httpx==0.27.2
+transformers==4.49.0
+trl==0.8.6
+datasets>=2.16.0
+accelerate>=0.28.0
+bitsandbytes>=0.43.2
+scikit-learn
+pandas
+numpy
+scipy
+seaborn
+matplotlib==3.8.3
+python-dotenv==1.0.1
+langchain-openai

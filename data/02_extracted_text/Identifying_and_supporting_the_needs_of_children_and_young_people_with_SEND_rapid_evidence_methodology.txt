@@ -1,0 +1,1122 @@
+Department
+for Education
+Identifying and supporting
+the needs of children and
+young people with SEND:
+rapid evidence methodology
+Technical report
+September 2025
+Authors: Catherine Antalek, Susana Castro-
+Kemp, Fiona Dixon, Rosanne Esposito,
+Jessica Hayton, Elisabeth Herbert, Leda
+Kamenopoulou, Joanna Kolak, Daisy Loyd,
+Amelia Roberts, Anna Melissa Romualdez,
+Matthew P. Somerville and Juhayna Taha -
+University College London
+Government
+Social Research
+Acknowledgements
+We would like to thank the members of our advisory board for their insights and support:
+Melanie Cunningham, Dr. Johanna Fitzgerald, Dr. Dennis Guiney, Hannah Hamid,
+Annamarie Hassall MBE, Professor Chloe Marshall, Dr. Miriam McBreen, Marie Neave,
+Professor Tim O'Brien, Taneisha Pascoe-Matthews, Tom Silver, Tom Staniford, Tina
+Sode, Professor Jo Van Herwegen, and Richard White. We would also like to thank
+Professor Julie Dockrell who provided expert feedback.
+In addition, we would like to thank all of the student volunteers and research assistants
+who helped with the screening of the titles and abstracts, full text screening, and data
+extraction: Alexandra Elliott, Imogen Ip, Yaomin (Raymond) Huang, Xiuhi (Cecile) Li,
+Susie Peter, Enxhi Sharxhi, and Frances Tunks.
+We also thank the Department for Education for providing valuable feedback throughout
+the duration of the project. With special thanks to Laura Hewitson and Camille Van de
+Wiele for their guidance and support.
+1
+Disclaimer
+This research does not constitute an endorsement by the Department for Education of
+any of the approaches described. It does not reflect current Government policy, nor does
+it indicate future policy direction. Materials, resources, websites, and commercially
+developed programmes or products mentioned in this report are included solely because
+they were identified and reviewed as part of the rapid evidence assessment. Other tools
+or products with similar functions may exist and their absence from this report should not
+be interpreted as a reflection of their effectiveness. Reference to specific named or third-
+party products and materials should not be seen as an endorsement by either the
+authors or the Department for Education of their use, or of any particular company or its
+offerings.
+2
+Contents
+Acknowledgements
+1
+Disclaimer
+2
+List of tables
+5
+List of figures
+6
+Executive summary
+7
+Introduction
+8
+Background and rationale
+8
+Research questions
+9
+Identification and assessment research questions
+9
+Support and intervention research questions
+10
+Working with others research questions
+10
+Scope
+11
+Methodology
+13
+Ethical approval
+14
+Search protocol
+14
+Inclusion/Exclusion criteria
+15
+Search results
+19
+Identification and assessment search results
+19
+Support and intervention search results
+21
+Working with others search results
+23
+Data extraction and appraisal
+25
+Data extraction
+25
+Identification and assessment data extraction
+25
+Support and intervention data extraction
+26
+Review-level data extraction
+26
+Intervention-level data extraction
+27
+Working with others data extraction
+28
+Quality appraisal
+29
+Appendices
+32
+3
+Appendix A: Search terms (PICOS criteria)
+32
+References
+37
+4
+List of tables
+Table 1. Studies identified for inclusion in the identification/assessment by SEND
+category
+21
+Table 2. Studies identified for inclusion in the support/intervention strand by SEND
+category
+23
+5
+List of figures
+Figure 1. PRISMA flowchart for identification/assessment search
+20
+Figure 2. PRISMA flowchart for support/intervention search
+22
+Figure 3. PRISMA flowchart for working with others search
+24
+6
+Executive summary
+This document reports on the methodology used to approach a series of six evidence
+reviews on the best practices in the identification, support, and collaborative practices of
+children and young people with SEND aged 0-25 available to teachers and early year
+practitioners working in mainstream education in England. These reviews were
+commissioned by the Department for Education in the Autumn of 2024.
+The evidence informing each review was collected by means of a rapid evidence
+assessment (REA). A search of the literature aimed at drawing out key findings for
+educational outcomes for children and young people with SEND. The literature search
+focused on systematic reviews and meta-analyses evaluating effective tools and
+strategies for the identification and support for children and young people with SEND in
+mainstream settings as well as reviews evaluating collaborative practices between
+families, schools, and healthcare providers or specialists. In total, we retrieved 82 studies
+across the areas of SEND informing our identification and assessment strand of the
+research, 196 studies informing the support and intervention strand, and finally 58
+studies were found to support the evidence around collaborative practices.
+Our search efforts prioritised high-quality and relevant research, ensuring the inclusion of
+peer-reviewed studies and robust methodologies. All studies identified in the final sample
+were either systematic reviews or meta-analyses. To evaluate the quality of these
+studies, we used the Assessing the Methodology Quality of Systematic Reviews tool 2
+(AMSTAR2) (Shea et al., 2017). Findings suggest that the evidence base is mixed
+according to this tool. Most studies were rated as high or moderate confidence in the
+results, with some rated as low due to a 'critical flaw'. The typical critical flaw was that
+many studies did not conduct a formal risk of bias assessment using a recognised tool
+(e.g., ROBINS-I, Cochrane Risk of Bias).
+7
+Introduction
+Background and rationale
+The Department for Education (DfE) commissioned our team at the Institute of Education
+at University College London (UCL) to produce a series of rapid evidence assessments
+(REA) to identify evidence-based practices in mainstream settings for children and young
+people with Special Educational Needs and Disabilities (SEND) across 5 key areas: (1)
+Social, Emotional, and Mental Health (SEMH), (2) Sensory and/or physical needs, (3)
+Cognition and Learning, (4) Autism, and (5) Speech, Language, and Communication
+Needs (SLCN). To address identification and support strategies with collaborative
+practice that span multiple areas of need, we have also included a sixth report on cross-
+cutting themes, which outlines tools and approaches and collaborative practices that can
+be used to identify, assess, or support children and young people across more than one
+type of SEND.
+The current evidence base for supporting children and young people with SEND in
+mainstream settings includes a range of valuable resources, though notable gaps
+remain. The Education Endowment Foundation (EEF) provides widely used evidence-
+based resources such as the Teaching and Learning Toolkit and accompanying guidance
+reports. These tools help educators improve practice and learning outcomes through
+synthesised research and actionable recommendations. In June 2023, according to the
+DfE School and College Panel survey, 24% of primary and secondary teachers working
+with pupils with SEND report using the EEF or other academic sources for advice (DfE,
+2023). However, the EEF resources offer limited specific recommendations tailored to
+teaching children with SEND and do not systematically incorporate input from specialist
+professionals. As such, they provide an important but partial foundation for developing
+practice in this area.
+Beyond the EEF, other non-governmental and non-profit organisations offer guidance
+focused on particular areas of SEND, such as NASEN's teacher handbook, the Nuffield
+Early Language Intervention, Speech and Language UK's resources, the Autism
+Education Trust, and the Royal National Institute of Blind People Curriculum Framework
+for Vision Impairment. Government guidance on mental health and wellbeing also
+contributes to the broader evidence landscape. These materials offer important
+contextual insight but vary in scope, strength of evidence, and accessibility.
+Our work follows earlier efforts such as the 2017 DfE-commissioned rapid evidence
+assessment, which reviewed support for learners on SEN Support. The MetaSENse
+project, funded by the Nuffield Foundation, offers a major contribution by synthesising
+international evidence on effective educational interventions for children with SEND in
+8
+mainstream schools by means of a meta-analysis and also investigates implementation
+factors through practitioner interviews. The current reviews extend these contributions by
+systematically examining not only support strategies but also the tools and approaches
+available to practitioners for the identification and assessment of SEND. In doing so, they
+also underscores the importance of collaborative working, identifying when and where
+specialist input is needed.
+We build on this landscape by conducting a targeted synthesis of best practices in
+identification, support, and collaboration for children with SEND, with a particular focus
+on strategies that are feasible in mainstream education settings. Importantly, the review
+acknowledges areas where evidence remains limited. The absence of strong or
+statistically significant findings in some domains should not be interpreted as evidence of
+ineffectiveness but rather as an indication that more robust research is required. Taken
+together, this review offers a timely and practical addition to the evidence base, directly
+aligned with the priorities of practitioners and policy makers.
+The evidence summaries for each REA draws on a series of rapid evidence reviews
+completed in the Summer of 2025. Each REA synthesises evidence on the best practices
+for: (i) identifying the needs of children and young people with SEND, (ii) implementing
+effective universal and targeted support strategies, and (iii) fostering collaborative
+practices in mainstream educational settings for children with SEND. Findings for each
+review were categorised either by need (e.g., 'literacy difficulties' rather than 'Dyslexia')
+or by approach (e.g., literacy interventions). The goal of these reviews is to build a robust
+evidence base that informs future policy, while providing practical guidance for
+mainstream teaching staff to support inclusive education and positive outcomes for all
+learners with SEND.
+This technical report summarises the approach taken to identify studies discussed in
+each of the rapid review reports.
+Research questions
+Identification and assessment research questions
+The aim of the identification and assessment section in each evidence review was to
+identify evidence-based formal and informal methods and tools that educational
+practitioners (e.g., teachers, teaching assistants, Special Educational Needs
+Coordinators (SENCos)) can use to assess and identify specific educational needs of
+children and young people. The research questions guiding this strand were as follows:
+9
+Which formal and informal methods and measurement tools are available to
+practitioners to identify different educational needs within diverse classroom
+settings?
+For which ages or age ranges can these tools be used?
+What are the performance parameters of these measurement tools (e.g.,
+reliability/validity/specificity)?
+How can these tools be used to guide decisions regarding the provision of
+universal, targeted or specialist support?
+Support and intervention research questions
+The aim of the support and intervention section in each review was to identify evidence-
+based approaches that effectively support children and young people with a range of
+special educational needs and disabilities. This includes universal high-quality teaching
+strategies and whole-class or whole-school approaches, as well as targeted and
+specialist interventions. The research questions guiding this strand were as follows:
+What are the most effective universal and targeted strategies, approaches, or
+adaptations for supporting children and young people with SEND to improve
+educational outcomes?
+What is the most appropriate level of delivery (universal, targeted or
+specialist) for each of these interventions?
+What specific age groups are targeted by these interventions?
+What types of approaches/interventions do children with [x] needs respond best
+to?
+Working with others research questions
+Effective collaborative practices involve coordinated efforts between families, educational
+settings, and practitioners. Given the central role of collaboration across both the
+identification and intervention processes, this strand is not presented as a standalone
+section. Instead, within each review strand, we highlighted where collaborative practices
+are necessary and effective, specifically in relation to identification, assessment, support,
+intervention planning, and progress monitoring. The research questions guiding this
+strand were as follows:
+What components and characteristics foster effective collaboration between
+teachers, specialists, and parents/caregivers in the identification and support for
+children and young people with SEND, and how can clear role boundaries and
+knowledge-sharing frameworks support this process?
+10
+What examples are there of different models of collaboration between the
+multidisciplinary team?
+Scope
+The evidence was collected by means of a rapid evidence assessment (REA); a search
+of the literature aimed at drawing out key findings in an area. However, our goal for these
+reviews was to provide the most practical and impactful guidance for professionals in
+mainstream education. Therefore, to avoid lengthy and unfocused reports, we chose to
+include only systematic reviews and meta-analyses.
+Our initial search of the literature was designed to be broad to determine the extent of the
+evidence base. We identified over 12,000 studies of which we screened titles and
+abstracts against our inclusion criteria and identified 336 systematic reviews and meta-
+analyses eligible for inclusion, this extensive evidence base provides a strong foundation
+for addressing each area of SEND.
+The intended audience for these reviews are mainstream educators, and as such, all
+findings are framed within their professional remit. Given this focus, the reviews
+specifically examine tools, measures, and assessments that can be administered by
+mainstream teachers, early years professionals, and/or teaching assistants, excluding
+clinical or diagnostic assessments or tools requiring specialist qualifications or training.
+The reason for this is that diagnostic-level assessments and assessments for exam
+access arrangements are governed by specific guidelines and standards (e.g., The
+Specific Learning Difficulty (SpLD) Assessment Standards Committee is a standard-
+setting group which promotes good practice and monitors standards for SpLD assessors
+and practitioners). Additionally, the administration (and even purchase) of such tools
+typically requires specialised training, making them less applicable for use in mainstream
+settings. We will, however, include specific recommendations for the circumstances
+under which specialist involvement and collaboration is necessary for identification,
+assessment, and support.
+Additionally, for the support strand in each REA, we narrowed our search to include only
+studies that examine educational outcomes (i.e., literacy, writing, maths, and general
+attainment) apart from the Speech, Language, and Communication Needs REA, which
+also included outcomes related directly to speech, language, and communication. While
+is it acknowledged that behavioural outcomes, functional skills, and occupational support
+are relevant and often necessary for inclusion and educational success, we maintain a
+narrower focus to align with the practitioner-focused aims of the review.
+Finally, the review also excludes interventions that require extensive resources beyond
+what is typically available in a mainstream classroom, ensuring that all recommendations
+11
+remain practical, accessible, and feasible for mainstream educators. Specifically, we
+refer here to the use of animals, robotics, virtual reality, and augmented reality. Beyond
+the financial constraints of these resources, access to animal therapy networks is often
+limited in most schools, and while IT solutions can be highly engaging, smaller schools or
+those outside academy chains often lack the necessary IT infrastructure and support to
+implement these solutions or address issues when they arise. In addition, we will not
+review research solely focused on interventions outside the mainstream classroom or
+school-setting (e.g., clinical or home-based interventions) and pharmacological
+interventions.
+12
+Methodology
+To address our research questions, a Rapid Evidence Assessment (REA) was conducted
+following Cochrane rapid review guidance (Garritty et al., 2024). The steps involved in
+conducting the rapid reviews included the following:
+1. Defining the research questions.
+2. Developing a search protocol: Establish a review protocol that outlines the
+purpose, inclusion/exclusion criteria, databases to search, and review timelines.
+a. These first two steps involved completing a needs assessment with DfE to
+establish the specific needs and interests of the SEND reviews as well as
+priorities and objectives.
+b. We also consulted knowledge users through an advisory board meeting to
+help further refine our research questions, eligibility criteria, and outcomes
+of interest.
+3. Searching for evidence: Conduct a targeted search of academic databases, grey
+literature, and relevant sources using specific keywords related to the research
+question. In rapid reviews, the search is often restricted to fewer databases and a
+more recent time span compared to traditional reviews.
+4. Screening studies for relevance: Use a predefined inclusion and exclusion criteria
+to screen titles, abstracts, and full-text articles.
+5. Data extraction: Extract key data from the selected studies, including study design,
+population, intervention details, and main findings.
+6. Quality assessment: Assess the quality of included studies.
+7. Synthesising findings: Summarise and synthesise the findings in a narrative
+format, highlighting the main results and identifying any gaps or inconsistencies in
+the evidence.
+a. Here we again consulted an advisory board to help with the interpretation
+and dissemination of our findings for an audience of educational
+practitioners.
+8. Report Writing: Prepare a concise report that summarises the key findings and
+their implications for practice or policy.
+The reviews adhered to the Preferred Reporting Items for Systematic Reviews and Meta-
+Analyses (PRISMA) guidelines for rapid review (Page et al., 2021).
+13
+Ethical approval
+Ethical approval for this project was granted by the Institute of Education's research
+ethics board.
+Search protocol
+To meet the objectives of each REA, we conducted three separate searches (between
+October 2024 and November 2024), addressing (1) identification, (2) support and
+interventions, and (3) collaboration with others. Rather than conducting separate
+searches for each category of need, we developed a unified pool of search terms
+incorporating terminology from across all five SEND areas. This ensured consistency and
+reduced redundancy across searches. During the title and abstract screening stage, each
+reference was reviewed and tagged according to the area of need it addressed based on
+its primary focus. This tagging allowed us to assign studies to the appropriate review for
+data extraction and synthesis.
+Search terms were comprehensive to ensure we captured as much evidence as possible,
+and to be able to map the gaps in the literature. The search strategy to identify relevant
+papers included two approaches:
+1. Database search: After discussion with an information specialist based at the
+Institute of Education, two databases most likely to yield relevant literature were
+searched for reviews of identification tools and intervention methods (Scopus:
+PsychINFO and EBSCO: ERIC). Search strategies for these databases used both
+indexing terms and free text searching and were designed for rapid retrieval by
+searching titles and records published in English. Search terms were developed
+by the team with input from knowledge users and further refined with a specialist
+librarian at the Institute of Education to ensure that the terms were balanced for
+both sensitivity and specificity. Search terms are comprehensive and follow the
+PICOS (Population, Intervention, Comparison, Outcome, Study Type) criteria. The
+search terms are listed in Appendix A: Search terms.
+2. The following additional sources of grey literature were also searched: Nuffield
+Foundation research reports, Education Endowment Foundation completed
+projects, What Works Clearinghouse, Council for Exceptional Children, Blueprints
+for Healthy Youth Development, Early Intervention Foundation, Evidence for
+ESSA/Best Evidence Encyclopaedia, European Platform for Investing in Children,
+National Dropout Prevention Centre, British Psychological Society, Nesta, National
+Foundation for Educational Research (NFER).
+For the support and intervention strand, we initially included search terms related to
+different types of intervention outcomes (e.g., behavioural, social, inclusion,
+14
+communication, and educational). However, given the large volume of papers identified
+in our search, we chose to focus on interventions and support strategies that addressed
+educational outcomes only, with the exception of the SLCN review which also reported
+outcomes in language and communication. Educational outcomes included reading,
+writing, maths, science, and general academic attainment.
+Inclusion/Exclusion criteria
+These inclusion criteria are the specific criteria we set to determine which studies should
+be included in the review. These criteria filtered our selection to only the most relevant
+and reliable research that addressed our specific research questions to ensure that the
+review focused on high-quality evidence that directly informed our topic, making the
+findings more accurate and useful. These criteria were applied to each evidence review.
+Publication type: We applied a multi-tiered evidence inclusion framework, based
+on a hierarchy of evidence, to guide the selection of studies. Systematic reviews
+(both qualitative and quantitative) and meta-analyses were prioritised to ensure a
+rapid review drawing from high-quality sources.
+Publication year: We included studies between 2014-2024 (research since the
+publication of the 2014 Children and Families Act and the 2015 SEND code of
+practice: 0 to 25 years).
+Location and language: No restriction was placed on geographical location, but all
+studies were published in English.
+Population: Studies that report on students with special educational needs aged
+between 0 and 25 years old in mainstream educational settings. Excluding adults
+and university or higher education populations. Where participants were children
+and young people with SEND, we included studies in which participants were
+identified as having SEND based on a pre-existing, independently verified
+indicator or diagnosis that classified them within a recognised SEND category.
+This could be from a clinical diagnosis of a SEND condition or indicated by an
+Education, Health and Care (EHC) plan or a standardised measure (e.g., ADOS).
+Studies that use clinical measures to identify participants who may fall within a
+SEND category were included, provided these measures were used to
+characterise the sample even if they were not standardised tools specifically
+designed for participant inclusion within the trial. The rationale for doing this was
+that some evaluations may use participants who approach the clinical threshold for
+a SEND diagnosis or who may fall into a SEND category on the specific measure
+chosen but who may not be considered in this category in an independent
+assessment, and this may moderate the reported intervention effect size.
+15
+Identification and assessment tools: The reviews focused exclusively on tools,
+measures, and assessments that can be administered by mainstream educators,
+excluding clinical or diagnostic assessments or tools requiring specialist
+qualifications or training. The reason for this is that diagnostic-level assessments
+and assessments for exam access arrangements are governed by specific
+guidelines and standards (e.g., The Specific Learning Difficulty (SpLD)
+Assessment Standards Committee is a standard-setting group which promotes
+good practice and monitors standards for SpLD assessors and practitioners).
+Additionally, the administration (and even purchase) of such tools typically
+requires specialised training to reliably administer and interpret results, making
+them less applicable for use in mainstream settings. We did, however, include
+specific recommendations for the circumstances under which specialist
+involvement might be necessary for identification and assessment.
+Intervention: We included research focused on (1) identification, (2) support, or (3)
+collaborative practices for children and young people with SEND, ensuring direct
+relevance to practice in mainstream settings. Studies must have evaluated either
+formal or informal identification and assessment methods or examine universal
+(e.g., Tier 1¹ or quality first teaching) and targeted intervention approaches (e.g.,
+Tier 2 or Tier 3 strategies) that can be implemented within a mainstream
+educational setting.
+Mainstream context: Studies were included if they were applicable to the UK
+mainstream education context. We included interventions and support strategies
+that can be implemented in the mainstream classroom. We excluded research
+solely focused on tools, assessments, or interventions delivered outside the
+mainstream classroom or school-setting (e.g., clinical, or home-based
+interventions).
+We excluded interventions that were not applicable or feasible within the
+UK mainstream educational context (e.g., interventions requiring a
+specialised professional that is not typically part of UK school staffing).
+We excluded studies assessing medical or pharmacological interventions
+without a direct link to educational practice.
+Interventions requiring extensive resources that are not typically accessible
+to an average mainstream classroom were excluded. Specifically, we refer
+here to the use of animals, virtual reality, and augmented reality. Beyond
+the financial constraints of these resources, we argue that access to animal
+1
+The graduated or tiered approach is a framework that describes how support is often provided to children
+and young people with SEND. It is from a response to intervention (RTI) and is a structured, multi-tiered
+approach to help identify and support struggling students. It focuses on providing high-quality instruction
+and interventions, typically at three different levels (i.e., tiers).
+16
+therapy networks is limited in most schools, and while IT solutions can be
+highly engaging, smaller schools or those outside academy chains often
+lack the necessary IT infrastructure and support to implement these
+solutions or address issues when they arise.
+We excluded studies not aligned with UK education policy and procedure.
+For example, studies evaluating interventions delivered exclusively within
+healthcare settings, or those based on international education systems with
+significantly different structures (e.g., U.S. Individualised Education
+Programs), were not included.
+Outcomes: Interventions identified for all areas of SEND apart from SLCN were
+included if they measured and aimed to improve educational attainment or
+academic performance outcomes. For example, improved reading ability as
+measured using standardised testing (e.g., GCSE's) or reading assessment tools
+(e.g., number of words read per minute, ability to read and articulate words etc).
+Studies measuring only outcomes that can be considered to be predictors
+of educational outcomes (e.g., visuo-spatial or motor abilities have been
+linked to mathematical outcomes and vocabulary has been linked to
+reading abilities), but not direct measures of educational performance or
+attainment were excluded (e.g., intervention studies that focus on
+vocabulary training but do not include wider reading outcomes).
+Studies that measure educational outcomes using observational protocols
+or holistic teacher judgements (e.g., teacher perceptions of improvement),
+as opposed to quantitative aggregation of marks from multiple test items
+were excluded. This is justified because of various studies showing
+systematic bias in teacher assessment in these kinds of studies.
+Studies measuring only the following outcomes only were excluded:
+Behavioural outcomes (e.g., disciplinary referrals, aggression and
+other externalising behaviours, compliance etc.).
+Social emotional outcomes (e.g., anxiety, stress, engagement, social
+skills, self-esteem, emotion regulation, grit, internalising behaviours
+etc.).
+Bullying or victimisation outcomes (e.g., experience of bullying,
+perpetration of bullying,).
+Motivational or attitudinal outcomes when not linked to educational
+outcomes (e.g., general view of school or educational setting,
+motivation to learn, enjoyment of educational setting or educational
+content etc.).
+17
+Physiological & physical development outcomes (e.g., cortisol, heart
+rate, brain activity, motor skills development, physical activity, BMI,
+consumption of fruit and vegetables etc.).
+School attendance (e.g., rate of attendance over any given time-
+period (e.g., number of days attended in a term/academic year).
+However, where studies measure multiple outcomes such as behavioural or
+mental health outcomes, we recorded these providing that the studies also
+measured educational outcomes, the primary focus of the reviews.
+We have included language and communication outcomes for papers reporting on
+children and young people with SLCN. This was because a small number of
+studies that investigated academic outcomes only were identified from our search.
+18
+Search results
+We present here the outcomes of our search, structured around the three distinct
+searches we conducted: identification, support and intervention strategies, and
+collaborative practices.
+Identification and assessment search results
+The results of the systematic search for identification and assessment are documented in
+a PRISMA flow diagram in Figure 1. Initial database searches yielded 9,734 potential
+records across the five SEND areas. The identified records from each SEND area search
+were pooled into the Covidence systematic review management platform, where 4,329
+duplicate entries were removed resulting in 5,405 unique records. A further 17 were
+identified by hand searching the grey literature.
+Titles and abstracts of the 5,422 studies were independently reviewed by two
+researchers, with exclusions applied sequentially based on the predefined eligibility
+criteria. At this stage, studies were tagged according to the specific area of SEND they
+addressed (i.e., one of the five review categories). These initial tags were later reviewed
+and validated during the full-text screening phase to ensure accurate classification. Any
+disagreements regarding the eligibility of specific studies were resolved through
+consultation with a third reviewer to ensure consistency and rigour. This resulted in a
+total of 516 eligible studies screened for full-text against the inclusion criteria. Full-text
+papers were retrieved and independently reviewed by two researchers resulting in a total
+of 82 studies included across the five REAs and a sixth cross-cutting themes review
+(Figure 1).
+Table 1 provides a breakdown of studies informing each review, with 24 studies for
+autism, 8 studies for cognition and learning, 11 studies for sensory and/or physical
+needs, 21 for SLCN, 15 for SEMH, and 3 studies that were general SEND or across
+multiple SEND areas.
+19
+Figure 1. PRISMA flowchart for identification/assessment search
+Studies from databases/registers (n =
+9734)
+References from other sources (n = 17)
+Embase (n = 5410)
+Grey literature (n = 17)
+PsycINFO (n = 4324)
+Identification
+References removed (n = 4329)
+Duplicates identified manually (n = 15)
+Duplicates identified by Covidence (n =
+4314)
+Marked as ineligible by automation tools
+(n = 0)
+Other reasons (n = 0)
+Studies screened (n = 5422)
+Studies excluded (n = 4906)
+Studies sought for retrieval (n = 516)
+Studies not retrieved (n = 0)
+Screening
+Studies assessed for eligibility (n = 516)
+Studies excluded (n = 434)
+Wrong setting (n = 31)
+Wrong outcomes (n = 78)
+Wrong intervention (n = 32)
+Wrong study design (n = 151)
+Wrong population (n = 63)
+Wrong route of administration (n = 79)
+Included
+Studies included in review (n = 82)
+20
+Table 1. Studies identified for inclusion in the identification/assessment by SEND
+category
+SEND category
+Number of studies
+Autism
+24
+Cognition and Learning
+8
+Sensory and/or Physical Impairment
+11
+Speech, Language, Communication Needs
+21
+Social, Emotional, Mental Health needs
+15
+SEND General or Multiple SEND areas
+3
+Support and intervention search results
+The results of the systematic search for support and intervention are documented in a
+PRISMA flow diagram in Figure 2. Initial database searches yielded 7,451 potential
+records across the five SEND areas. The identified records were pooled into the
+Covidence systematic review management platform, where 2865 duplicate entries were
+removed resulting in 4,586 unique records. A further 24 were identified by hand
+searching the grey literature.
+Titles and abstracts of the 4,610 studies were independently screened by two
+researchers, with exclusions applied based on the predefined eligibility criteria. At this
+stage, studies were tagged according to the specific area of SEND they addressed (i.e.,
+one of the five review categories). These initial tags were later reviewed and validated
+during the full-text screening phase to ensure accurate classification. Any disagreements
+regarding the eligibility of specific studies were resolved through consultation with a third
+reviewer to ensure consistency and rigour. This resulted in a total, 853 eligible studies
+screened for full-text against the inclusion criteria. Full-text papers were retrieved and
+independently reviewed by two researchers resulting in a total of 196 studies included
+across the five REAs and a sixth cross-cutting themes report (Figure 2).
+Table 2 provides a breakdown of studies per review, with 65 studies for autism, 54
+studies for cognition and learning, 18 studies for sensory and/or physical needs, 16 for
+SLCN, 33 for SEMH, and 10 studies that were general SEND or across multiple SEND
+areas.
+21
+Figure 2. PRISMA flowchart for support/intervention search
+Studies from databases/registers (n =
+7451)
+References from other sources (n = 24)
+Embase (n = 4475)
+Grey literature (n = 24)
+PsycINFO (n = 2976)
+Identification
+References removed (n = 2865)
+Duplicates identified manually (n = 45)
+Duplicates identified by Covidence (n =
+2820)
+Marked as ineligible by automation tools
+(n = 0)
+Other reasons (n = 0)
+Studies screened (n = 4610)
+Studies excluded (n = 3757)
+Studies sought for retrieval (n = 853)
+Studies not retrieved (n = 0)
+Screening
+Studies assessed for eligibility (n = 853)
+Studies excluded (n = 657)
+Wrong setting (n = 42)
+Wrong outcomes (n = 231)
+Wrong population (n = 66)
+Wrong intervention (n = 137)
+Wrong study design (n = 92)
+Wrong route of administration (n = 89)
+Included
+Studies included in review (n = 196)
+22
+Table 2. Studies identified for inclusion in the support/intervention strand by SEND
+category
+SEND category
+Number of studies
+Autism
+65
+Cognition and Learning
+54
+Sensory and/or Physical Impairment
+18
+Speech, Language, Communication Needs
+16
+Social, Emotional, Mental Health needs
+33
+SEND General or Multiple SEND areas
+10
+Working with others search results
+The results of the systematic search for working with others are documented in a
+PRISMA flow diagram in Figure 3. Initial database searches yielded 4,292 potential
+records across the five SEND areas. The identified records were imported into the
+removed resulting in 2,796 unique records. A further 8 were identified by hand searching
+the grey literature.
+Titles and abstracts of the 2,803 studies were independently reviewed by two
+researchers, with exclusions applied sequentially based on the predefined eligibility
+criteria. Any disagreements regarding the eligibility of specific studies were resolved
+through consultation with a third reviewer to ensure consistency and rigour. In total 170
+eligible studies were identified (Figure 3).
+A breakdown of studies by SEND need is not included here as many studies identified for
+inclusion relate to collaborative practices in general SEND provision or across different
+areas of need. Full-text papers were retrieved and independently reviewed by two
+researchers resulting in a total of 58 studies included across the five REAs and a sixth
+cross-cutting themes report.
+23
+Figure 3. PRISMA flowchart for working with others search
+Studies from databases/registers (n =
+References from other sources (n = 8)
+4292)
+Grey Literature (n = 8)
+PsycINFO (n = 2300)
+Embase (n = 1992)
+Identification
+References removed (n = 1497)
+Duplicates identified manually (n = 20)
+Duplicates identified by Covidence (n =
+1477)
+Marked as ineligible by automation tools
+(n = 0)
+Other reasons (n = 0)
+Studies screened (n = 2803)
+Studies excluded (n = 2625)
+Studies sought for retrieval (n = 170)
+Studies not retrieved (n = 0)
+Screening
+Studies assessed for eligibility (n = 170)
+Studies excluded (n = 112)
+Wrong setting (n = 3)
+Wrong outcomes (n = 19)
+Wrong intervention (n = 3)
+Wrong study design (n = 74)
+Wrong population (n = 13)
+Included
+Studies included in review (n = 58)
+24
+Data extraction and appraisal
+Data extraction
+Data extraction was completed by trained members of the team. 10% of the included
+evidence was extracted independently by two members of the review team to ensure
+data extraction was consistent.
+Identification and assessment data extraction
+For identification and assessment, we extracted descriptive information regarding the
+characteristics of each study retrieved from our search as well as characteristics of the
+identification tools from the included paper(s) where these were available.
+Data extraction framework for studies on identification and assessment tools:
+Study ID: Unique identifier for the review
+Citation: Author(s), year, title, and full reference
+Countries represented: Countries or regions where the studies were conducted
+Review type: Specify "Systematic Review," "Meta-Analysis," or "Both"
+Aim of study or research questions: Specify the aim of the study or any reported
+research questions
+Number of included studies: Total number of studies reviewed
+References of studies included: Full citations of all the studies that were included
+in the final review
+Specified age range (month/years) or educational phase: Age range for which the
+tool is designed or validated
+Number of participants: Total number of participants across studies
+SEND type(s) or profile of need addressed: Types of special educational needs
+identified or measured (e.g., reading difficulty, attention, behaviour)
+Types of studies included: Methodologies of the studies included in the review
+RCTs, Quasi-experimental, interviews, etc.
+Tool name: Names of the tools and types (e.g., diagnostic test, observation
+checklist)
+Domains covered: Specific domains and subdomains assessed (e.g., phonology,
+attention, memory)
+25
+Specific skills assessed: Detailed description of the skills measured (e.g.,
+vocabulary, grammar, speech sounds)
+Type of assessment: Format of the assessment (e.g., parental report, direct
+assessment, observation)
+Purpose: The stated purpose of the tools (e.g., identification of needs, progress
+tracking)
+Informant: Who is the tool designed to be used by (e.g., parents, students,
+teachers, SENCos)
+Performance parameters: Metrics such as reliability, validity, sensitivity, specificity,
+and predictive value
+Guidance for provision: Insights into how tools inform universal, targeted, or
+specialist support
+Costs: Purchase/licensing costs and any additional fees (e.g., per-use fees)
+User training/qualifications: Required training or qualifications to administer the
+tool (e.g., certification, formal workshops)
+Tool structure: Detailed description of the tool's format, items, time to administer,
+and scoring system where available
+Strengths and limitations: Reported strengths or weaknesses of the tools based on
+empirical studies
+Comparative insights: If more than one tool is compared, comparison of multiple
+tools addressing similar needs
+Key findings: Major conclusions of the systematic review regarding tool/s utility
+and effectiveness.
+Support and intervention data extraction
+For support and intervention, to accommodate systematic reviews that vary in scope,
+with some focusing on a single intervention and others covering multiple interventions,
+we used a two-tier data extraction framework. This framework allowed us to capture
+overarching review-level details as well as detailed data about individual interventions
+within each review where provided.
+Review-level data extraction
+The review level data captured overarching information about the systematic review or
+meta-analysis retrieved from the search.
+Data extraction framework for studies on support and intervention at the review level:
+26
+Study ID: Unique identifier for the review
+Citation: Author(s), year, title, and full reference
+Countries represented: Countries or regions where the studies were conducted
+Review type: Specify "Systematic Review," "Meta-Analysis, "Both" or Other
+Aim of study or research questions: Specify the aim of the study or any reported
+research questions
+Number of included studies: Total number of studies reviewed
+References of studies included: Full citations of all the studies that were included
+in the final review
+Population age: Age groups (e.g., Early Years, Primary, Secondary)
+Number of participants: Total number of participants across studies
+SEND Type(s) addressed: Types of special educational needs covered in the
+review
+Specific type of SEND addressed: Specific special educational need if stated
+Types of studies included: Methodologies of the studies included in the review
+RCTs, Quasi-experimental, interviews, etc.
+Intervention type(s): Broad categories (e.g., phonics, assistive technology, peer
+mentoring)
+Outcome measures: High-level outcomes assessed (e.g., Reading, Math, Writing,
+Attainment)
+Analysis or synthesis used: Meta-analysis, narrative synthesis, etc.
+Summary of findings: Summary of the review's key conclusions about
+interventions
+Reported effect size(s): Effect sizes of the meta-analysis if this is reported
+Intervention-level data extraction
+Intervention level data captured detailed information about each intervention reported in
+the systematic review. Where a review covers multiple interventions, we extracted data
+for each separately where it was provided by the study. We used the Template for
+Intervention Description and Replication (TIDieR) framework to describe components of
+the interventions (Hoffmann et al., 2014). This framework enables interventions to be
+described clearly and comprehensively, in order to support replication and use in
+practice. The components of interventions as reported in included studies were extracted
+against the following categories.
+27
+Data extraction framework for studies on support and intervention at the intervention
+level:
+Review ID: Links the intervention back to the overarching review
+Intervention ID: Unique identifier for each intervention
+Intervention Name/Description: Name or detailed description of the intervention
+Skills Targeted: Specify skills targeted by the intervention (e.g., behavioral,
+reading, phonics)
+Setting: The settings or contexts in which the intervention occurs. (e.g., small
+room, classroom)
+Level of Delivery: Universal, Targeted, or Specialist
+Rationale: The rationale, theory, or goal of the intervention
+What does it involve: Processes or activities involved in the intervention
+Materials: Detailed description of any materials used
+Who delivers it: Details about who delivered the intervention (e.g., teaching
+assistant, specialist)
+How is it delivered: The modes of delivery (e.g., in-person, online, group)
+Frequency/Dosage: The duration, frequency, and intensity of the intervention
+Tailoring: If the intervention was designed to be personalised or adapted for
+individual children or users
+Fidelity: Adherence to intervention procedures/delivered as intended
+Outcome Measure(s): Specific outcomes targeted by the intervention (e.g.,
+Reading fluency, Math)
+Effectiveness: Effect sizes (if available) or qualitative summary of effectiveness
+Cross-cutting potential: Applicability to multiple SEND types (Yes/No, explanation)
+Working with others data extraction
+Finally, for the working with others strand, we extracted descriptive information regarding
+the characteristics of each study retrieved from our search as well as characteristics of
+different training or collaborative approaches from the included paper(s) where these
+were available.
+Data extraction framework for studies on working with others:
+28
+Review details: Author(s), Year, Title, Journal, Country/Region
+Objective of the review: Summary of the review's focus on collaboration, role
+boundaries, and training methods
+Collaboration components: Key components fostering collaboration (e.g.,
+communication protocols, shared planning, goal alignment)
+Role boundaries: Characteristics or practices that define clear roles and
+responsibilities for teachers, specialists, and parents/caregivers
+Knowledge-sharing Frameworks: Frameworks or systems that facilitate effective
+sharing of knowledge (e.g., online platforms, regular meetings)
+Models of collaboration: Examples of multidisciplinary collaboration models (e.g.,
+co-teaching, consultation, integrated service delivery)
+Effectiveness of collaboration: Evidence of improved outcomes linked to specific
+collaboration models or practices
+Training methods for teachers/TAs: Types of training methods or programs used
+to prepare teachers and teaching assistants for collaboration (e.g., workshops,
+coaching, professional learning communities)
+Skills developed through training: Specific skills targeted by training programs
+(e.g., communication, teamwork, intervention delivery)
+Impact of training: Evidence of how training improves collaboration and targeted
+intervention delivery
+Challenges in collaboration: Reported barriers or challenges to effective
+collaboration (e.g., time constraints, conflicting priorities)
+Strategies to overcome challenges: Suggested strategies to address collaboration
+challenges (e.g., flexible scheduling, leadership support)
+Parent/Caregiver involvement: Approaches to engaging parents/caregivers in
+collaboration processes
+Relevance to research questions: How the review addresses your specific
+questions regarding collaboration, roles, and training
+Quality appraisal
+To evaluate the quality of each systematic review, we used the Assessing the
+Methodology Quality of Systematic Reviews tool 2 (AMSTAR2) (Shea et al., 2017). This
+tool includes sixteen domains relating to the research question, review design, search
+strategy, study selection, data extraction, and justification for excluded studies,
+29
+description of included studies, risk of bias, sources of funding, meta-analysis,
+heterogeneity, publication bias, and conflicts of interest.
+Review authors selected 'yes', 'partial yes', 'no', or 'no meta-analysis conducted' (as
+applicable) for each of the sixteen domains:
+1. Did the research questions and inclusion criteria for the review include the
+components of PICO (Population, Intervention, Comparator, Outcome)?
+2. Did the report of the review contain an explicit statement that the review methods
+were established prior to the conduct of the review and did the report justify any
+significant deviations from the protocol?
+3. Did the review authors explain their selection of the study designs for inclusion in
+the review?
+4. Did the review authors use a comprehensive literature search strategy?
+5. Did the review authors perform study selection in duplicate?
+6. Did the review authors perform data extraction in duplicate?
+7. Did the review authors provide a list of excluded studies and justify the
+exclusions?
+8. Did the review authors describe the included studies in adequate detail?
+9. Did the review authors use a satisfactory technique for assessing the risk of bias
+(RoB) in individual studies that were included in the review?
+a. Randomised controlled trials (RCTs)
+b. non-randomized studies of interventions (NRSI)
+10. Did the review report on the sources of funding for the studies included in the
+review?
+11. If meta-analysis was performed did the review authors use appropriate methods
+for statistical combination of results?
+a. RCTs
+b. NRSI
+12. If meta-analysis was performed, did the review authors assess the potential
+impact of RoB in individual studies on the results of the meta-analysis or other
+evidence synthesis?
+13. Did the review authors account for RoB in individual studies when
+interpreting/discussing the results of the review?
+14. Did the review authors provide a satisfactory explanation for, and discussion of,
+any heterogeneity observed in the results of the review?
+30
+15. If they performed quantitative synthesis did the review authors carry out an
+adequate investigation of publication bias (small study bias) and discuss its likely
+impact on the results of the review?
+16. Did the review authors report any potential sources of conflict of interest, including
+any funding they received for conducting the review?
+The overall confidence in the results of the systematic reviews proposed by the
+AMSTAR2 tool is defined as:
+High - No, or one non-critical weakness: the systematic review provides an
+accurate and comprehensive summary of the results.
+Moderate - more than one non-critical weakness but no critical flaws: the
+systematic review provides an accurate summary of the results.
+Low - one critical flaw, with or without non-critical weaknesses: the systematic
+review may not provide an accurate and comprehensive summary of the results.
+Critically low - more than one critical flaw, with or without non-critical weaknesses:
+the review should not be relied on to provide an accurate and comprehensive
+summary of the results.
+As per AMSTAR2 guidance, critical domains should be identified for each umbrella
+review (i.e., based on domains that are most important for the included reviews under
+consideration) and weighted more heavily when rating the overall confidence in the
+results of the review, due to their greater effect on the validity of the review findings
+(Shea et al., 2017). Based on guidance, we identified six critical domains: protocol
+registration; adequacy of literature search; performing risk of bias assessment;
+appropriateness of meta-analytical method; consideration of risk of bias when
+interpreting the results; and assessment of publication bias (Shea et al., 2017).
+31
+Appendices
+Appendix A: Search terms (PICOS criteria)
+We conducted 15 separate searches across five rapid review categories, each focused
+on a distinct population: SEMH, SLCN, autism, sensory and/or physical needs, and
+cognition and learning. For each population, three searches were performed, focusing
+on: identification terms, support terms, and working with others. The intervention,
+comparison, and study type remained consistent across all searches, while the
+population and outcome terms varied to capture the unique characteristics of each group.
+This approach ensured a comprehensive examination of the research literature across
+the different populations. PICOS stands for: (1) Population; (2) Intervention; (3)
+Comparison; (4) Outcomes; and (5) Study type.
+Population:
+Population terms: "adolescent" OR child* OR "children and young people" OR kid*
+OR "post 16" OR pupil* OR "school aged" OR student* OR teen* OR "young
+learner*" OR "young people" OR "young person" OR youth
+Educational setting terms: "alternat* educat*" OR class* OR "class* setting" OR
+"comprehensive school*" OR "early year*" OR educat* OR elementary OR
+"elementary school*" OR "extra-curricular setting*" OR "further educat*" OR
+"further educat* setting*" OR "grammar school*" OR "high school" OR "higher
+educat*" OR inclus* OR kindergarten OR "learning environment*" OR mainstream*
+OR "middle school*" OR nursery OR preschool OR "primary educat*" OR "primary
+school*" OR reception OR "remedi* class*" OR "school setting" OR school* OR
+"secondary education*" OR "secondary school*" OR "special educat*" OR
+"university" OR "whole school" OR "independent school"
+General SEND terms: SEND OR SEN OR "special educat* need*" OR "special
+need*" OR "learning difficult*" OR "learning disab*" OR "learning difference" OR
+"additional need*" OR impair* OR disorder* OR neurodivergent OR "additional
+learning need"
+SLCN terms: DLD OR "primary language disorder*" OR SLCN OR SLI OR SSD
+OR apraxia OR "articulat* disorder*" OR "childhood apraxia of speech" OR "cleft
+palate" OR "communicat* disorder*" OR "communicat* impair*" OR "communicati*
+dysfunction*" OR "comprehen* difficult*" OR "comprehen* disorder*" OR
+"comprehen* impair*" OR "developmental language disorder*" OR disfluen* OR
+dysarthr* OR "expressive language" OR "fluency difficult*" OR "fluency disorder*"
+OR "grammar difficult*" OR "grammar disorder*" OR "grammar impair*" OR
+"language delay*" OR "language development* disorder*" OR "language difficult*"
+32
+OR "language disabilit*" OR "language disorder*" OR "language impair*" OR
+"language need*" OR morpholog* OR morphosynta* OR "phonological disorder*"
+OR pragmat* OR "produc* difficult*" OR "produc* disorder*" OR "produc* impair*"
+OR "receptive language" OR semantic* OR "specific language disorder*" OR
+"speech difficult*" OR "speech disorder*" OR "speech dysfluen*" OR "speech
+language communication need*" OR "speech production" OR "speech sound
+disorder*" OR stammer* OR stutter* OR synta* OR "vocabulary difficult*" OR
+"vocabulary disorder*" OR "vocabulary impair*" OR voice OR "voice disorder*" OR
+"voice problem*" OR "word find*" OR "word learn*"
+Cognition and learning terms: DCD OR SpLD OR attention OR "cogniti* difficult*"
+OR "development* disab*" OR "developmental co-ordination disorder" OR
+dyscalcul* OR dyslexi* OR dyspraxia OR "general learning difficult*" OR
+"handwriting difficult*" OR "handwriting impair*" OR "learning difficult*" OR "literacy
+difficult*" OR "math* anxiety" OR "math* difficult*" OR "mild learning difficult*"
+"moderate learning difficult*" OR "numeracy difficult*" OR "profound and multiple
+learning difficult*" OR "reading difficult*" OR "reading impair*" OR "severe learning
+difficult*" OR "specific learning difficult*" OR "specific learning disab*" OR "writing
+difficult*"
+Autism terms: autistic OR autism OR "autistic disorder" OR "autisti* spectrum
+disorder*" OR "autism spectrum condition" OR "autism spectrum condition*" OR
+ASC OR ASD OR "asperger syndrome" OR "child development disorder*
+pervasive" OR asperger* OR "pervasive development*" OR "social
+communication" OR "pragmatic communication"
+SEMH terms: ADD OR ADHD OR EBD OR OCD OR SEMH OR "affect* disorder*"
+OR anxiet* OR "anxiety disorder*" OR "attention deficit disorder" OR "attention
+deficit hyperactivity disorder" OR "attention deficit*" OR "attention difficult*" OR
+"behavior disorder*" OR "behavior problem*" OR "conduct disorder*" OR "conduct
+problem*" OR depress* OR "emotion* regulat*" OR "emotional and behavioral
+difficulties" OR "emotional disorder" OR "emotional problem*" OR "emotional
+symptom*" OR "emotional wellbeing" OR hyperactivity OR inattention OR "mental
+disorder*" OR "mental health" OR "mental illness*" OR "mood disorder*" OR
+"obsessive compulsive disorder*" OR "oppositional defiant disorder*" OR "peer
+relation* problem*" OR "psychiatric disorder*" OR "psychological health" OR
+"psychosocial difficult*" OR "self-esteem" OR "self-regulat*" OR "social emotional
+and mental health" OR "social emotional*"
+Sensory and/or physical needs terms: CVI OR MDVI OR MSI OR PCHL OR
+PMLD OR SLD OR "sensory impair*" OR "vis* impair*" OR blind* OR "cerebral
+vision impair*" OR "cochlear implant*" OR "cortical vision impair*" OR deaf OR
+deafblindness OR "dual sensory impair*" OR "hard of hearing" OR "hearing
+impair*" OR "hearing loss" OR "low vision" OR "multi* need*" OR "multi* sensory
+33
+impair*" OR "multiple disabil*" OR "multiple impair*" OR "permanent childhood
+hearing loss" OR "profound deaf*" OR "residual vision" OR "sensory deprivation"
+OR "severe deaf*" OR "severe sight impair*" OR "sight impair*" OR "vision loss"
+OR "visual disab*"
+Intervention:
+Identification terms: assess* OR "assessment app*" OR "assessment tools" OR
+"behavio* checklist*" OR checklist OR "class* assess*" OR "classroom
+observation" OR "cognitive assess*" OR "computer* app" OR "curriculum-based
+measure" OR diagnos* OR "dynamic assessment" OR "early screening tools" OR
+"educational assessment tool*" OR evaluate OR "formal assess*" OR "formative
+assess*" OR "graduated approach" OR identif* OR "informal assess*" OR
+measure OR "multi-disciplinary assessment" OR MTSS OR "multi-tiered system of
+supports" OR "neuro* assess*" OR observ* OR "parent* report" OR "pupil
+observation" OR "response to intervention" OR RTI OR screen* OR "self-
+assessment" OR "self-report" OR "smartphone app*" OR "standard* test*" OR
+"student observation" OR "tablet app*" OR "teacher judgment*" OR "teacher
+observation" OR tool* OR "performance-based"
+Support terms: "classroom environment" OR "SEN support" OR "SEND support"
+OR SWPBS OR accommodat* OR adaptat* OR approach OR "assistive tech*" OR
+"classroom interve*" OR "collaborative teach*" OR curriculum OR "curriculum
+adapt*" OR "differentiat* instruction" OR "digital learning" OR "early interven*" OR
+"education* program*" OR "education* support" OR "evidence-based interven*"
+OR "evidence-informed interven*" OR "exam access arrangement*" OR "exam
+accommodat*" OR "graduated approach" OR "group intervention" OR "high-quality
+instruct*" OR "high-quality teach*" OR inclus* OR "inclusive education" OR
+"inclusive practice" OR "individual support" OR "individual* education plan*" OR
+"instruct*" OR interven* OR integrat* OR "mainstream class* support" OR
+"mainstream education" OR "mainstream environment" OR "multimedia learning
+environment" OR "multi-tiered system* of support" OR "one-to-one" OR "parental
+support" OR pedagog* OR "peer support" OR personali*ed OR provision OR
+remediat OR "school support service*" OR "school-based" OR "special* interven*"
+OR "special* support" OR "specialist teach* support" OR support* OR strateg* OR
+"targeted interven*" OR "target* teach* strateg*" OR targeted OR "targeted
+support" OR teach* OR "teach* adaptation*" OR "teach* principle*" OR "teach*
+strateg*" OR "teach* approach" OR therapy OR "tier 1 interven*" OR "tier 1
+support" OR "tier 2 interve*" OR "tier 2 support" OR "tier 3 interven*" OR "tier 3
+support" OR treat* OR "universal design" OR "universal interven*" OR "universal
+provision" OR "universal support" OR "whole-class support" OR "whole-class
+teaching"
+34
+Working with others terms: collabor* OR parent* OR carer OR caregiver OR famil*
+OR specialist* OR "specialist teacher" OR teacher OR educator OR TA OR
+"teaching assistant*" OR "support staff" OR "educational psychologist*" OR EP OR
+SLT or SLP or "speech and language therapist*" OR "speech and language
+pathologist*" OR "speech therapist" OR "speech pathologist" OR "health visitor"
+OR HV* OR "Ed Psych" OR counsel* OR "mental health support workers" OR
+"child and adolescent mental health service" OR CAHMS OR psychologist* or
+therapist* OR "learning support assistant" OR LSA OR "communication support
+worker" OR QTOD OR QTMSI OR QTVI OR "co-production" OR "joint working"
+OR "healthcare professional" OR "personal carer" OR "occupational therapist"
+"Inter-professional collaboration" OR IPC OR expert OR clinician OR nurse
+Comparison:
+Left blank to include studies without comparison groups
+Outcome:
+Identification terms: N/A - Not needed for identification terms as there is not
+always a specific outcome
+Behavioural, Inclusion, Motivation, and Engagement terms: attendance OR
+"behavio* outcomes" OR "behavio* regulation" OR "behavio* improvement" OR
+"cognitive development" OR "communication skills" OR criminal OR economic OR
+employment OR engage* OR financial OR "functional independence" OR
+"functional skills development" OR "access to learning" OR "improvement in
+learning" OR "inclusive classroom" OR "increase* inclusion" OR "independent
+living" OR independent* OR "mental health outcomes" OR motivate* OR offend
+OR "prosocial behavio* OR "reduce* learning barriers" OR "reduce* symptom*"
+OR "self-regulat*" OR "school performance" OR "school retention" OR "social
+inclusion" OR "social-emotional development" OR "teacher perceptions of student
+progress" OR "well-being" OR workplace
+Educational outcomes (General): "academic achievement" OR "academic
+progress*" OR "academic attainment" OR "academic measure" OR "academic
+performance" OR "additional learning support*" OR "educat* achievement" OR
+"educat* assess*" OR "educat* attainment" OR "educat* measure" OR "educat*
+outcome*" OR "educat* performance" OR "educat* progress" "executive function*"
+OR "functional skill* develop* OR "improve* learning" OR learn* OR "learning
+progress" OR "problem solving" OR "reduced learning barriers" OR "school
+outcome*" OR "school performance" OR "school retention"
+Literacy outcomes: read* OR literacy OR "letter recognition" OR "letter-sound
+knowledge" OR "word reading" OR phonic* OR phonolog* OR "reading
+35
+comprehension" OR "reading accuracy" OR "reading fluency" OR "reading delay*"
+OR "print knowledge" OR decod* OR "alphabet knowledge" OR "listening
+comprehension" OR "word recognition" OR "sentence completion"
+Writing outcomes: writ* OR literacy OR punctuation OR spelling OR "sentence
+writing" OR "free writing" OR "early writing" OR "emergent writing" OR "guided
+writing" OR "writing fluency" OR handwriting OR "interactive writing" OR "letter
+typing" OR "sentence completion"
+Mathematics outcomes: math* OR numer* OR numb* "number sense" OR
+arithmetic* OR geomet* OR shape OR calcul* OR algebra OR counting OR
+addition OR subtraction OR multiplication OR division OR fractions OR statistics*
+OR "place value" OR "math* competenc*" OR "math* concept*" OR "math*
+knowledge"
+Working with others terms: collaboration* or partnership* or co-practice* or
+multidisciplinary* or transdisciplinary or interdisciplinary
+Study type:
+Review type: review OR "systematic review" OR "meta-analysis" OR "narrative
+review"
+36
+References
+DEPARTMENT FOR EDUCATION. (2023). School and college panel omnibus surveys
+for 2022 to 2023. https://www.gov.uk/government/publications/school-and-college-
+panel-omnibus-surveys-for-2022-to-2023
+GARRITTY, C., HAMEL, C., TRIVELLA, M., GARTLEHNER, G., NUSSBAUMER-
+STREIT, B., DEVANE, D., & KING, V.J. (2024). Updated recommendations for
+the Cochrane rapid review methods guidance for rapid reviews of
+effectiveness. bmj, 384
+HOFFMANN, T. C., GLASZIOU, P. P., BOUTRON, I., MILNE, R., PERERA, R., MOHER,
+D., & MICHIE, S. (2014). Better reporting of interventions: template for
+intervention description and replication (TIDieR) checklist and guide. Bmj, 348.
+PAGE, M. J., MCKENZIE, J. E., BOSSUYT, P. M., BOUTRON, I., HOFFMANN, T. C.,
+MULROW, C. D., & MOHER, D. (2021). The PRISMA 2020 statement: an
+updated guideline for reporting systematic reviews. bmj, 372.
+SHEA, B. J., REEVES, B. C., WELLS, G., THUKU, M., HAMEL, C., MORAN, J., &
+HENRY, D. A. (2017). AMSTAR 2: a critical appraisal tool for systematic reviews
+that include randomised or non-randomised studies of healthcare interventions, or
+both. bmj, 358.
+37
+Department
+for Education
+© Department for Education Copyright 2025
+This publication is licensed under the terms of the Open Government Licence v3.0,
+except where otherwise stated. To view this licence, visit
+nationalarchives.gov.uk/doc/open-government-licence/version/3.
+Where we have identified any third-party copyright information you will need to obtain
+permission from the copyright holders concerned.
+Reference: RR1552
+ISBN: 978-1-83870-704-0
+For any enquiries regarding this publication, contact www.gov.uk/contact-dfe.
+This document is available for download at www.gov.uk/government/publications.
+38

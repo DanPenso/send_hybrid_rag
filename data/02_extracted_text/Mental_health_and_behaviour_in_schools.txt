@@ -1,0 +1,1169 @@
+Department
+for Education
+Mental health and
+behaviour in
+schools
+November 2018
+Contents
+Summary
+3
+About this departmental advice
+3
+Expiry or review date
+3
+Who is this publication for?
+4
+Acknowledgements
+4
+Key points and principles
+4
+Chapter 1 - Schools' responsibilities in relation to mental health
+6
+Chapter 2 - Creating a whole school culture
+8
+Embedding the culture
+9
+Chapter 3 - Understanding the link between mental health and behaviour
+11
+Mental health problems in children and young people
+11
+Prevalence of mental health problems in children and young people
+12
+Risk and protective factors
+13
+Identifying children with possible mental health problems
+16
+Identification and measurement tools
+16
+Exclusions
+17
+Adverse Childhood Experiences (ACEs) and other events that may have an
+impact on pupils
+18
+Children in Need, looked-after and previously looked-after children
+19
+Mental health and special educational needs
+19
+Chapter 4 - Providing support and collaborative working with other agencies
+21
+Additional in-school support for children with the most complex problems
+21
+Defining local services
+22
+Commissioning services directly
+23
+Working collaboratively with other schools
+23
+Referring serious cases to CYPMHS
+24
+Working with parents/carers
+24
+Working with Alternative Provision (AP)
+25
+Chapter 5 - Where to find out more
+27
+Transforming Children and Young People's Mental Health provision: Green
+Paper
+27
+Further information
+27
+2
+Summary
+About this departmental advice
+This is non-statutory, departmental advice from the Department for Education (DfE).
+Mental health problems affect many people, and most schools will have pupils who
+need mental health support. This advice aims to help schools to support pupils
+whose mental health problems manifest themselves in behaviour. Schools have an
+important role to play in supporting the mental health and wellbeing of children by
+developing whole school approaches tailored to their particular needs, as well as
+considering the needs of individual pupils. This advice:
+Sets out schools' roles and responsibilities in relation to mental health and
+behaviour, within their existing duties;
+Outlines how schools can identify whether a child or young person's
+behaviour -disruptive, withdrawn, anxious, depressed or otherwise - may be
+related to a mental health problem, and how to support them in these
+circumstances;
+Provides advice and guidance on working with other professionals and
+external agencies where appropriate; and
+Provides links to additional support available to schools, including
+frameworks, audit tools, evidence and resources.
+This advice sits alongside our non-statutory Behaviour and Discipline in Schools
+advice¹, which summarises the statutory powers and duties for school staff and
+approaches they can adopt to manage behaviour in their schools. It supports
+implementation of chapter 6 of the Special Educational Needs and Disabilities
+(SEND) Code of Practice, which sets out an expected process for identifying and
+responding to additional needs. It also reflects recent policy developments in other
+related policy areas, in particular alternative provision, exclusions, and safeguarding.
+We have updated this advice as part of our wider work to support schools and
+colleges to promote good mental wellbeing in children.
+Expiry or review date
+This advice will be kept under review and updated as necessary.
+1
+https://www.gov.uk/government/publications/behaviour-and-discipline-in-schools
+3
+Who is this publication for?
+This advice is for all school staff² working to support children. This includes school
+leadership, governing bodies, primary and secondary school teachers, pastoral
+leaders, Special Educational Needs Coordinators, mental health leads, designated
+safeguarding leads and designated teachers for looked after children.
+This advice has been written for schools and relates, among other things, to school
+duties on behaviour, and school curriculum design. But the interventions and support
+included in this guidance may also be helpful for colleges and other post-16
+institutions.
+Acknowledgements
+In developing this advice, the Department has worked with:
+Tom Bennett, Independent Behaviour Adviser
+National Children's Bureau (NCB)
+Social Emotional and Behavioural Difficulties Association (SEBDA)
+Attachment Research Community
+Educational Psychologists
+A number of effective schools
+NHS England
+Public Health England
+Ofsted
+Key points and principles
+Schools have a central role to play in enabling their pupils to be resilient and
+to support good mental health and wellbeing. It is important that schools
+promote good mental wellbeing for all pupils. Education about relationships,
+sex and health can be important vehicles through which schools can teach
+pupils about mental health and wellbeing.
+A school's approach to mental health and behaviour should be part of a
+consistent whole school approach to mental health and wellbeing. This should
+involve providing a structured school environment with clear expectations of
+2 In all types of schools including maintained schools, pupil referral units, maintained nursery schools,
+academies, free schools, and independent schools. It is also intended to be helpful to staff in
+alternative provision settings, although some of the legislation mentioned in this advice will only apply
+to those alternative provision settings that are legally classified as schools.
+4
+behaviour, well communicated social norms and routines, which are
+reinforced with highly consistent consequence systems. This should be paired
+with an individualised graduated response when the behavioural issues might
+be a result of educational, mental health, other needs or vulnerabilities.
+Schools should consider how best to use their SEN and pupil premium
+resources to provide support for children with mental health difficulties where
+appropriate.
+School staff cannot act as mental health experts and should not try to
+diagnose conditions. However, they should ensure they have clear systems
+and processes in place for identifying possible mental health problems,
+including routes to escalate and clear referral and accountability systems.
+There are things that schools can do for all pupils, as well as those at risk of
+developing mental health problems, to intervene early to create a safe and
+calm educational environment and strengthen resilience before serious
+mental health problems occur.
+As set out in Chapter 6 of the statutory SEND 0-25 years Code of Practice
+2015, schools need to be alert to how mental health problems can underpin
+behaviour issues in order to support pupils effectively, working with external
+support where needed. They also need to be aware of their duties under the
+Equality Act 2010, recognising that some mental health issues will meet the
+definition of disability.
+When schools suspect a pupil has a mental health problem, they should use
+the graduated response process (assess - plan - do - review) to put support
+in place. There are a number of identification and measurement tools, such as
+the Strengths and Difficulties Questionnaire (SDQ) and Boxall Profile, which
+can support this process.
+Schools should ensure they have clear systems and processes in place for
+early intervention and identification, referral to experienced skilled
+professionals, and clear accountability systems.
+It is important that schools have an understanding of the local services
+available, including school nurses, and how and when to draw on or
+commission them. Where required, schools should expect parents and pupils
+to seek and receive support elsewhere, including from their GP, NHS
+services, trained professionals working in specialist CYPMHS, voluntary
+organisations and other sources. Further guidance on how schools can work
+with other agencies can be found in Chapter 4.
+There are national organisations that can offer further resources, training,
+support and advice. Help and information about evidence-based approaches
+is available from a range of sources. More information can be found in
+Chapter 5.
+5
+Chapter 1 - Schools' responsibilities in relation to
+mental health
+1.1
+Schools have an important role to play in supporting the mental health and
+wellbeing of their pupils, by developing approaches tailored to the particular needs of
+their pupils. All schools are under a statutory duty to promote the welfare of their
+pupils, which includes: preventing impairment of children's health or development,
+and taking action to enable all children to have the best outcomes. Full details are
+set out in Keeping Children Safe in Education (KCSIE) statutory guidance³.
+1.2
+Early intervention to identify issues and provide effective support is crucial.
+The school role in supporting and promoting mental health and wellbeing can be
+summarised as:
+Prevention: creating a safe and calm environment where mental health
+problems are less likely, improving the mental health and wellbeing of the
+whole school population, and equipping pupils to be resilient so that they can
+manage the normal stress of life effectively. This will include teaching pupils
+about mental wellbeing through the curriculum and reinforcing this teaching
+through school actitives and ethos;
+Identification: recognising emerging issues as early and accurately as
+possible;
+Early support: helping pupils to access evidence based early support and
+interventions; and
+Access to specialist support: working effectively with external agencies to
+provide swift access or referrals to specialist support and treatment.
+1.3
+There is no requirement on schools to have a standalone mental health
+policy, although some do choose to⁴. However, schools are required to produce (and
+in some cases publish online⁵⁶) a range of policies which can be used to promote
+and support mental health and wellbeing, either as a statutory requirement7 or good
+practice as recommended by DfE. These policies need to be consistent with schools'
+duties under the Equality Act 2010. For example, where a pupil has a mental health
+condition that amounts to a disability and this adversely affects their behaviour, the
+school must make reasonable adjustments to its policies, the physical environment,
+3
+https://www.gov.uk/government/publications/keeping-children-safe-in-education-2
+4
+https://www.gov.uk/government/publications/supporting-mental-health-in-schools-and-colleges
+5
+https://www.gov.uk/guidance/what-maintained-schools-must-publish-online
+6
+https://www.gov.uk/guidance/what-academies-free-schools-and-colleges-should-publish-online
+7
+https://assets.publishing.service.gov.uk/government/uploads/system/uploads/attachment_data/file/35
+7068/statutory_schools_policies_Sept_14_FINAL.pdf
+6
+the support it offers, and how it responds in particular situations. Published
+behaviour policies need to be consistent with the legal requirement that treating all
+pupils the same may be unlawful where a disability affects behaviour. It may be
+unlawful to apply a behaviour policy that treats all pupils the same if a pupil's
+disability makes it harder for them to comply with the policy than other pupils who are
+not disabled. More detailed advice on reasonable adjustments can be found in our
+behaviour and discipline in schools advice.
+1.4
+Schools are under a duty to use their 'best endeavours' to identify and support
+pupils with SEN meet their pupils' special educational needs As part of this duty, it
+is important that schools consider how best to use some of their SEN resources to
+provide support for pupils with mental health difficulties that amount to special
+educational needs. It is also important that all the needs of those pupils who attract
+pupil premium to the school, including mental health needs, are assessed and
+support is arranged accordingly.
+1.5
+Schools should also have in place arrangements which reflect the importance
+of safeguarding and promoting the welfare of their pupils. Mental health problems
+can, in some cases, be an indicator that a child has suffered or is at risk of suffering
+abuse, neglect or exploitation. It is essential that staff are aware of their
+responsibilities, as set out in statutory guidance (Part 1 of KCSIE and in Working
+Together to Safeguard Children). If staff have a mental health concern that is also a
+safeguarding concern, immediate action should be taken, following their school's
+child protection policy and speaking to the designated safeguarding lead or a deputy.
+School and college staff are particularly important as they are in a position to identify
+concerns early, provide help for children, and prevent concerns from escalating.
+7
+Chapter 2 — Creating a whole school culture
+2.1
+The culture, ethos and environment of the school can have a profound
+influence on both pupil and staff mental wellbeing. Environments that are hostile,
+aggressive, chaotic or unpredictable can be harmful to mental health, and can lead
+to stressful teaching and working conditions. Schools are in a unique position, as
+they are able to help prevent mental health problems by promoting resilience as part
+of an integrated, whole school approach that is tailored to the needs of their pupils. A
+whole school approach is one that goes beyond the teaching in the classroom to
+pervade all aspects of school life, including:
+culture, ethos and environment: the health and wellbeing of pupils and staff is
+promoted through the 'hidden' or 'informal' curriculum, including leadership
+practice, the school's policies, values and attitudes, together with the social
+and physical environment;
+teaching: using the curriculum to develop pupils' knowledge about health and
+wellbeing; and
+partnerships with families and the community: proactive engagement with
+families, outside agencies, and the wider community to promote consistent
+support for children's health and wellbeing⁸.
+2.2
+An important element of school leadership at any level is to create a culture
+where calm, dignity and structure encompass every space and activity. This
+approach is one of the most effective ways of encouraging good mental health, in
+order to avoid circumstances where poor mental health is exacerbated. This model,
+in conjunction with an efficient system to identify common symptoms of mental
+health, followed by precise and targeted care by appropriate health care
+professionals, should be the aspiration for every school. Further advice on how to
+identify and support pupils with particular needs can be found in Chapter 3.
+2.3
+To create the culture, the leadership team should set out their vision for the
+school. This means setting clear behaviour expectations, that embody high
+expectations from all, conveyed consistently throughout the whole school
+community. The vision should be underpinned by a clear system of rewards and
+sanctions and an accountability system that sets expectations for all staff, parents
+and pupils to play their part as much as they are able; and should be aimed at all
+times to the mutual benefit of every member of the school community.
+8
+https://www.gov.uk/government/publications/promoting-children-and-young-peoples-emotional.
+health-and-wellbeing
+8
+Embedding the culture
+2.4
+As the first step in embedding the culture, the leadership team should ensure
+high levels of pupil commitment to the school vision and policies. They should
+communicate their vision clearly with the whole school community (which includes
+staff, parents/carers, pupils and partnerships with outside agencies), to ensure it is
+highly visible, embedded throughout the school and that it underpins everything the
+school does. This can be achieved through high levels of pupil and parent
+engagement in designing the vision, such as working with children to ensure the
+language is child-friendly and accessible to all.
+2.5
+The school should also emphasise the importance of promoting positive
+mental wellbeing. Schools can use various strategies to support pupils who are
+experiencing high levels of psychological stress, or who are at risk of developing
+mental health problems. This can include teaching through curriculum subjects such
+as relationships education, relationship and sex education, health education or
+PSHE; counselling; positive classroom management; developing social skills;
+working with parents/carers; or peer support. Further information on the types of
+interventions available can be found in Chapter 5.
+2.6
+In addition, schools should develop a whole school behaviour policy, which
+includes measures to prevent and tackle bullying¹⁰, along with setting out a clear
+system of rewards and sanctions. This should be paired with an individualised,
+graduated response¹¹ when the behaviour might be a result of educational, mental
+health, other needs or vulnerabilities.
+2.7
+The leadership team is responsible for determining the training needs of their
+staff within their approach to school improvement, professional development and
+performance management. The Teachers' Standards set out the expectation that all
+teachers manage behaviour effectively to ensure a good and safe educational
+environment, and requires teachers to have a clear understanding of the needs of all
+pupils, including those with mental health needs.
+2.8
+The leadership team should promote continuous professional development to
+ensure that staff are aware of some common symptoms of mental health problems:
+what is and isn't a cause for concern; and what to do if they think they have spotted
+a developing problem. Clear systems and processes should be in place to help staff
+who identify possible mental health problems, providing routes to escalate issues
+with clear referral and accountability systems. Schools should work closely with other
+9
+https://www.gov.uk/government/publications/counselling-in-schools
+10 https://www.gov.uk/government/publications/approaches-to-preventing-and-tackling-bulying
+11
+https://www.gov.uk/government/publications/send-code-of-practice-0-to-25
+9
+professionals to have a range of support services that can be put in place depending
+on the identified needs (both within and beyond the school).
+2.9
+The leadership team should also ensure there are clear policies and
+processes in place to ensure that stigma is reduced and pupils feel comfortable
+talking about mental health concerns. Pupils should know where to go for further
+information or support should they want to talk about their own, their peers', or their
+families mental health or wellbeing.
+2.10 It is important that where vulnerable pupils or groups are identified within the
+school, provision should be made to support and promote their positive mental
+health. Abuse, neglect, exploitation and a range of adverse parental, familial and
+contextual circumstances are identified risk factors for mental health problems, often
+experienced by children identified as Children in Need and supported by children's
+social care. Looked-after and adopted children may also have faced such risk
+factors. Socio-economic disadvantage is another identified risk factor for mental
+health, so this may include children currently or previously receiving Free School
+Meals and eligible for the Pupil Premium.
+10
+Chapter 3 — Understanding the link between mental
+health and behaviour
+Mental health is defined as a state of wellbeing in which every individual
+recognises his or her own potential, can cope with the normal stresses of life, can
+work productively and fruitfully, and is able to make a contribution to his or her own
+community. World Health Organisation, August 2014
+Mental health problems in children
+3.1
+Short term stress and worry is a normal part of life and many issues can be
+experienced as mild or transitory challenges for some children and their families.
+Others will experience more serious and longer lasting effects. The same experience
+can have different effects on different children depending on other factors in their life.
+For example, it is normal for children to feel nervous or under stress around exam
+times, but other factors can make such stress part of an enduring and persistent
+mental health problem for some children. When a problem is particularly severe or
+persistent over time, or when a number of these difficulties are experienced at the
+same time, children are often described as experiencing mental health problems.
+3.2
+Where children experience a range of emotional and behavioural problems
+that are outside the normal range for their age, they might be described as
+experiencing mental health problems or disordersi 12 Mental health professionals
+have classified these as:
+emotional disorders, for example phobias, anxiety states and depression;
+conduct disorders, for example stealing, defiance, fire-setting, aggression and
+anti-social behaviour;
+hyperkinetic disorders, for example disturbance of activity and attention;
+developmental disorders, for example delay in acquiring certain skills such as
+speech, social ability or bladder control, primarily affecting children with
+autism and those with pervasive developmental disorders;
+attachment disorders, for example children who are markedly distressed or
+socially impaired as a result of an extremely abnormal pattern of attachment
+to parents or major care givers;
+Trauma disorders, such as post-traumatic stress disorder, as a result of
+traumatic experiences or persistent periods of abuse and neglect; and
+2-https://www.nhs.uk/Conditions/Pages/bodymap.aspx?Subject=Mental%20health20disorders
+11
+other mental health problems including eating disorders, habit disorders,
+somatic disorders; and psychotic disorders such as schizophrenia and manic
+depressive disorder.
+3.3
+Only appropriately trained professionals should attempt to make a diagnosis
+of a mental health problem. Non-professional diagnoses, however well meant, can
+exacerbate or promote mental health problems. Schools, however, are well placed to
+observe children day-to-day and identify those whose behaviour suggests that they
+may be experiencing a mental health problem or be at risk of developing one. This
+may include withdrawn pupils whose needs may otherwise go unrecognised.
+Prevalence of mental health problems in children
+3.4
+Mental health problems affect many people, and most schools will have pupils
+who need some mental health support¹³
+3.5
+We know that where a pupil has certain types of Special Educational Need
+(SEN) there is an increased likelihood of mental health problems. Children with
+autism or learning difficulties, for example, are significantly more likely to have
+conditions such as anxiety
+3.6
+Children in Need, looked-after children and previously looked-after children
+are more likely to have SEN and to experience the challenge of social, emotional
+and mental health issues 15 than their peers. 16 For example, they may struggle with
+executive functioning skills¹ forming trusting relationships, social skills, managing
+strong feelings (e.g. shame, sadness, anxiety and anger), sensory processing
+difficulties, foetal alcohol syndrome and coping with transitions and change. Children
+in Need may be living in very chaotic circumstances and be suffering or at risk of
+suffering abuse, neglect and exploitation. They may also have less support outside
+13 On 22 November 2018, the Office for National Statistics (ONS) will publish new data on the
+prevalence of mental health conditions in children and young people.
+14
+https://sp.ukdataservice.ac.uk/doc/5269/mrdoc/pdf/5269technicalreport.pdf
+15 Social, emotional and mental health is one of the four broad areas of children's SEN identified in
+Special Educational Needs and Disability Code of Practice 0 - 25 years (see Paragraph 5.32)
+16 In 2015/16, 49% of Children in Need and 55% of looked-after children had a special educational
+needs compared with 14% of other children, with social emotional and mental health needs the most
+prevalent primary type of SEN. Based on Strength and Difficulties Questionnaire (SDQ) scores, in
+2017 only 49% of looked after children had emotional and behavioural health that is considered
+normal. (Looked After Children Statistical First Release Additional Tables)
+17 The mental processes enabling us to plan, focus attention, remember instructions, and juggle
+multiple tasks successfully. (Harvard University Centre on the Developing Child)
+12
+of school. The impact of these circumstances can have wide-ranging impacts on
+children's own behaviour, their interpersonal behaviour and emotional state. 18
+Risk and protective factors
+Factors that put children at risk
+3.7
+Certain individuals and groups are more at risk of developing mental health
+problems than others. These risks can relate to the child themselves, to their family,
+or to their community or life events. These risk factors are listed in table 1.
+3.8
+Risk factors are cumulative. For example, children exposed to multiple risks
+such as social disadvantage, family adversity and cognitive or attention problems are
+much more likely to develop behavioural problems¹⁹ Longitudinal analysis of data
+for 16,000 children suggested that boys with five or more risk factors were almost
+eleven times more likely to develop conduct disorder under the age of ten than boys
+with no risk factors. Girls of a similar age with five or more risk factors were nineteen
+times more likely to develop the disorder than those with no risk factors²⁰.
+Factors that make children more resilient
+3.9
+Research suggests that there is a complex interplay between the risk factors
+in children's lives, and the protective factors which can promote their resilience. As
+social disadvantage and the number of stressful life events accumulate for children,
+more protective factors are needed to act as a counterbalance. The key protective
+factors which build resilience to mental health problems are shown alongside the risk
+factors in table 1, below.
+3.10 In order to promote positive mental health, it is important that schools have an
+understanding of the protective factors that can enable pupils to be resilient when
+they encounter problems and challenges. The role that schools play in promoting the
+resilience of their pupils is particularly important for children with less supportive
+home lives, who may not have a trusted adult they can talk to. Schools should be a
+safe and affirming place for children where they can develop a sense of belonging
+and feel able to trust and talk openly with adults about their problems.
+18 Behavioural and emotional alerting features for abuse and neglect are set out in the NICE guideline
+on abuse and neglect
+19 Brown, E., Khan, L. and Parsonage, M. (2012) A Chance to Change: Delivering effective parenting
+programmes to transform lives. Centre for Mental Health
+20 Murray, J. J. (2010). Very early predictors of conduct problems and crime: results from a national
+cohort study. Journal Of Child Psychology & Psychiatry, 51(11), pp 1198-1207
+13
+Table 1: Risk and protective factors that are believed to be associated with
+mental health outcomes
+Risk factors
+Protective factors
+In the child
+Genetic influences
+Secure attachment experience
+Low IQ and learning
+Outgoing temperament as an
+disabilities
+infant
+Specific development delay
+Good communication skills,
+or neuro-diversity
+sociability
+Communication difficulties
+Being a planner and having a
+Difficult temperament
+belief in control
+Physical illness
+Humour
+Academic failure
+A positive attitude
+Low self-esteem
+Experiences of success and
+achievement
+Faith or spirituality
+Capacity to reflect
+In the family
+Overt parental conflict
+At least one good parent-child
+including domestic violence
+relationship (or one supportive
+Family breakdown (including
+adult)
+where children are taken
+Affection
+into care or adopted)
+Clear, consistent discipline
+Inconsistent or unclear
+Support for education
+discipline
+Supportive long term relationship
+Hostile and rejecting
+or the absence of severe discord
+relationships
+Failure to adapt to a child's
+changing needs
+Physical, sexual, emotional
+abuse, or neglect
+Parental psychiatric illness
+Parental criminality,
+alcoholism or personality
+disorder
+Death and loss - including
+loss of friendship
+14
+Risk factors
+Protective factors
+In the school
+Bullying including online
+Clear policies on behaviour and
+(cyber)
+bullying
+Discrimination
+Staff behaviour policy (also
+Breakdown in or lack of
+known as code of conduct)
+positive friendships
+'Open door' policy for children to
+Deviant peer influences
+raise problems
+Peer pressure
+A whole-school approach to
+Peer on peer abuse
+promoting good mental health
+Poor pupil to teacher/school
+Good pupil to teacher/school staff
+staff relationships
+relationships
+Positive classroom management
+A sense of belonging
+Positive peer influences
+Positive friendships
+Effective safeguarding and Child
+Protection policies.
+An effective early help process
+Understand their role in and be
+part of effective multi-agency
+working
+Appropriate procedures to ensure
+staff are confident to can raise
+concerns about policies and
+processes, and know they will be
+dealt with fairly and effectively
+In the
+Socio-economic
+Wider supportive network
+community
+disadvantage
+Good housing
+Homelessness
+High standard of living
+Disaster, accidents, war or
+High morale school with positive
+other overwhelming events
+policies for behaviour, attitudes
+Discrimination
+and anti-bullying
+Exploitation, including by
+Opportunities for valued social
+criminal gangs and
+roles
+organised crime groups,
+Range of sport/leisure activities
+trafficking, online abuse,
+sexual exploitation and the
+influences of extremism
+leading to radicalisation
+Other significant life events
+15
+Identifying children with possible mental health problems
+3.11 Negative experiences and distressing life events can affect mental health in a
+way that can bring about changes in a young person's behaviour or emotional state,
+displayed in a range of different ways, all of which can be an indication of an
+underlying problem²¹. This can include:
+Emotional state (fearful, withdrawn, low self-esteem)
+Behaviour (aggressive or oppositional; habitual body rocking)
+Interpersonal behaviours (indiscriminate contact or affection seeking, over-
+friendliness or excessive clinginess; demonstrating excessively 'good'
+behaviour to prevent disapproval; failing to seek or accept appropriate comfort
+or affection from an appropriate person when significantly distressed; coercive
+controlling behaviour; or lack of ability to understand and recognise emotions).
+3.12 Where there are concerns about behaviour, the school should instigate an
+assessment (as set out in paragraph 3.14) to determine whether there are any
+underlying factors such as undiagnosed learning difficulties, difficulties with speech
+and language, child protection concerns, or mental health problems.
+Identification and measurement tools
+3.13 There are two key elements that can enable schools to reliably identify
+children at risk of mental health problems.
+effective use of data so that changes in pupils' patterns of attainment,
+attendance or behaviour are noticed and can be acted upon; along with
+an effective pastoral system so that at least one member of staff (e.g. a
+form tutor or class teacher) knows every pupil well and has received training
+to spot where bad or unusual behaviour may have a root cause that needs
+addressing. Where this is the case, the mental health lead, pastoral system
+(including school nurses) or school policies should provide the structure
+through which staff can escalate the issue and take decisions about what to
+do next. This system should also provide the opportunity for pupils to seek
+support in a confidential way.
+21
+https://www.nice.org.uk/guidance/ng76/chapter/Recommendations/recognising-child-abuse-and-
+neglect
+https://pathways.nice.org.uk/pathways/social-and-emotional-welbeing-for-children-and-young-people
+16
+3.14 When schools suspect that a pupil is having mental health difficulties, they
+should not delay putting support in place, using the graduated response process :
+an assessment to establish a clear analysis of the pupil's needs;
+a plan to set out how the pupil will be supported;
+action to provide that support; and
+regular reviews to assess the effectiveness of the provision and lead to
+changes where necessary.
+This can happen whilst the school is gathering the evidence, and the pupil's
+response to that support can help further identify their needs. Tools such as the
+Strengths and Difficulties Questionnaire (SDQ)²² and the Boxall Profile 23 can support
+schools through this process. In addition to informing decisions on whether to seek
+specialist support, they can also provide a basis for ascertaining whether the initial
+intervention is working or whether something different needs to be tried. Further
+information on identification and measurement tools can be found in Chapter 4.
+Exclusions
+3.15 When considering excluding a pupil, schools should consider any contributing
+factors that are identified after an incident of poor behaviour has occurred, which
+could include where the pupil has mental health problems. Further guidance on how
+to identify when pupils may have possible mental health problems can be found in
+paragraph 3.13.
+3.16 Where appropriate, schools should consider if action can be taken to address
+underlying causes of disruptive behaviour before issuing an exclusion. In doing so, if
+a child has SEN or a disability and/or is a Looked After Child, there are additional
+requirements and expectations of them as set out in the relevant legislation and
+statutory guidance. Permanent exclusion, for example, needs to be very much a last
+resort. However, in all cases, schools must balance the interests of the pupil against
+of the mental and physical health of the whole school community. 24
+22 The English (UK) version of the SDQ is available here:
+http://www.sdginfo.com/py/sdginfo/b3.py?language=Englishgz(UK)
+23 https://boxallprofile.org/
+24 https://www.gov.uk/government/publications/school-exclusion
+17
+Adverse Childhood Experiences (ACEs) and other events
+that may have an impact on pupils
+3.17 The balance between the risk and protective factors set out above is most
+likely to be disrupted when difficult events happen in pupils' lives. These include:
+loss or separation - resulting from death, parental separation, divorce,
+hospitalisation, loss of friendships (especially in adolescence), family conflict
+or breakdown that results in the child having to live elsewhere, being taken
+into care or adopted, deployment of parents in armed forces families;
+life changes - such as the birth of a sibling, moving house or changing
+schools or during transition from primary to secondary school, or secondary
+school to sixth form;
+traumatic experiences such as abuse, neglect, domestic violence, bullying,
+violence, accidents or injuries; and
+other traumatic incidents such as a natural disaster or terrorist attack. Some
+groups could be susceptible to such incidents, even if not directly affected.
+For example, schools should ensure they are aware of armed forces families,
+who may have parents who are deployed in areas of terrorist activity and are
+surrounded by the issues in the media.
+3.18 It is important that schools provide support to pupils at such times, including
+those who are not presenting any obvious issues. Providing early help is more
+effective in promoting the welfare of children than reacting later, and can also
+prevent further problems (including mental health problems) arising. Further
+guidance on early help can be found in 'Working together to Safeguard Children'
+statutory guidance²
+3.19 This support may come from existing provision within the school, or it may
+require the involvement of specialist staff or support services, such as the school
+nursing service. Further information about how to support individual children through
+difficult events, and on whole school trauma and attachment awareness informed
+approaches, can be found in Chapter 5.
+25
+https://www.gov.uk/government/publications/working-together-to-safeguard-children-2
+18
+Children in Need, looked-after and previously looked-after
+children
+3.20 Where children have suffered abuse and neglect, or other potentially
+traumatic adverse childhood experiences, this can have a lasting impact throughout
+childhood, adolescence and into adulthood. These children may be receiving
+statutory social care support and recognised as Children in Need, or currently or
+previously in local authority care as looked-after children.
+3.21 It is key that school staff are aware of how these children's experiences, and
+their high prevalence of special educational needs and mental health needs, can
+impact on their behaviour and education. They should be able to reflect this in the
+design and application of behaviour policies, including through individualised
+graduated responses, balanced with the needs of the whole school community and
+its physical and mental health.
+3.22 Where a child is being supported through local authority children's social care,
+their allocated social worker can be an important source of appropriately-shared
+information about wider developmental needs, child protection concerns, and
+parental, familial and contextual circumstances. Effective multi-agency working
+between schools and social care will help to inform a school's assessment of child's
+educational and mental health needs, as well as enabling a prompt response to any
+safeguarding concerns.
+3.23 The school's designated teacher and local authority Virtual School Heads
+(VSH) are also sources of advice and expertise on looked after and previously
+looked after children. Where a school has concerns about a looked-after child's
+behaviour, the designated teacher and relevant VSH should be informed at the
+earliest opportunity so they can help decide how to support the child to improve their
+behaviour. Where a school has concerns about the behaviour of a previously
+looked-after child, the child's parents or the school's designated teacher, following
+discussions with the child's parents, may seek the advice of the VSH on strategies to
+support the child to avoid exclusion.
+Mental health and special educational needs
+3.24 Early intervention to address underlying causes of disruptive behaviour should
+include an assessment of whether appropriate provision is in place to support any
+SEN or disability that a pupil may have. The head teacher should also consider the
+use of a multi-agency assessment for a pupil who demonstrates persistent disruptive
+behaviour. Such assessments may pick up unidentified SEN, disability or mental
+health problems but the scope of the assessment could go further, for example, by
+seeking to identify housing or family problems.
+19
+3.25 Not all children with mental health difficulties will have SEN. But persistent or
+serious mental health difficulties will often meet the definition of SEN, in that they
+lead to pupils having significantly greater difficulty in learning than the majority of
+those of the same age. As set out above, the graduated response process set out in
+the SEND Code of Practice provides a framework for deciding what support to offer,
+which would be good practice regardless of whether or not a pupil has SEN.
+3.26 The majority of children with SEN will have their needs met through
+mainstream education providers and will not need Education, Health and Care plans
+(EHC plans).
+3.27 It is important that the qualified teacher who acts as the special educational
+needs co-ordinator (SENCO) ensures that all adults working in the school
+understand their responsibilities to children with SEND. This includes pupils whose
+persistent mental health difficulties mean they need special educational provision.
+Specifically, the SENCO will ensure colleagues understand how the school identifies
+and meets pupils' needs, provide advice and support to colleagues as needed and
+liaise with external SEND professionals as necessary.
+20
+Chapter 4 — Providing support and collaborative
+working with other agencies
+4.1
+There are a range of options for identifying where pupils might need extra
+support, and for helping schools to understand what sort of support might be
+suitable, including working with external agencies.
+4.2
+It is important that children are provided with support as soon as a problem
+emerges, at any point in their life. Providing early help is more effective in promoting
+the welfare of children than reacting later. Schools should have access to local
+educational psychology services, who will support children with SEND, but can also
+be well placed to advise on emerging mental health needs and either to provide
+direct intervention or signpost to other, more appropriate, forms of support.
+4.3
+Local areas should have a comprehensive range of effective, evidence-based
+services in place to address assessed needs early, and will typically include support
+for mental health. Full details regarding early help and the role of schools can be
+found in Part 1 of Keeping Children Safe in Education and Chapter 1 of Working
+Together to Safeguard Children.
+Additional in-school support for children with the most
+complex problems
+4.4
+For children with the most complex problems, additional in-school
+interventions may include:
+support for the pupil's teacher, to help them manage the pupil's behaviour
+within the classroom, taking into account the needs of the whole class;
+additional educational one to one support for the pupil to help them cope
+better within the classroom;
+an individual health care plan. Governing bodies, academy trusts and
+management committees must comply with their statutory duty in ensuring
+that schools to make arrangements to support pupils with medical conditions.
+If mental health professionals have recommended medication this should be
+detailed in the individual healthcare plan. School staff should be aware of any
+medication that children are taking, and how this should be stored and
+administered. The Department has published statutory guidance about the
+support pupils with medical conditions should receive at school²⁶;
+2 https://www.gov.uk/government/publications/supporting-pupils-at-school-with-medical-conditions-?
+21
+one to one therapeutic work with the pupil, delivered by trained mental
+health specialists (within or beyond the school), which might take the form of
+cognitive behavioural therapy, behaviour modification or counselling
+approaches. Where possible, such therapy should be scheduled so as to
+minimise the disruption to the pupil's attendance in school; and
+family support and/or therapy could also be considered by mental health
+professionals to help the child and their family better understand and
+manage behaviour.
+Defining local services
+4.5
+Schools may wish to influence their local health and wellbeing boards, who
+are responsible for collecting and analysing information about current and future
+health and social care needs and develop a strategy for commissioning the right
+balance of services. All health services used by children are within the scope of the
+health and wellbeing board, including specialist children and young people's mental
+health services (CYPMHS).
+4.6
+Until 2021 all local areas must publish a multi-agency Local Transformation
+Plan (LTP), which is refreshed each year and overseen by the Health and Wellbeing
+Board. The LTP is the strategic document setting out how services for children's
+mental health are being improved. The LTP should be available on the Local
+Authority and CCG websites.
+4.7
+Schools can feed in what they know about the needs of their pupils, such as
+information on pupils with specific impairments (such as mental health problems)
+and more broadly, share their perspective, experience and knowledge of pupil
+needs. They can also agree the role they will play in commissioning and delivering
+specialist services. This can help to shape a system that is better able to deliver for
+their pupils. To get involved, schools should approach their Director of Children's
+Services (DCS) or local Healthwatch organisation, who are responsible for engaging
+children and young people, professionals and other stakeholders in the work of the
+board. The new Mental Health Support Teams introduced in the Transforming
+Children and Young People's Mental Health Provision green paper will build on
+these arrangements. Further information can be found in Chapter 5.
+4.8
+Schools should also be aware of the role they are expected to play in the new
+multi-agency safeguarding arrangements, and how they can influence those
+arrangements. Full details are in Chapter 3 of Working Together to safeguard
+Children.
+22
+Commissioning services directly
+4.9
+Many individual schools are able to commission individual support and health
+services for pupils, which gives increased flexibility and provides an early
+intervention response.
+4.10 It is important that schools commission appropriately qualified and
+experienced external providers, as this will provide assurance they are properly
+trained, supported, professionally supervised, insured and working within agreed
+policy frameworks and standards, and accountable to a professional body with a
+clearly articulated complaints procedure. Self-reported claims of efficacy are not
+enough, and schools should be very careful not to use resources to support
+interventions that may have little impact or potentially exacerbate pupil mental health
+problems. Further guidance on good commissioning, based on evidence from the
+DfE, can be found in Chapter 5.
+4.11 It is important that schools are aware of how and when to access their local
+support services. Local voluntary and community sector (VCS) organisations can
+offer valuable services, either working directly with pupils and their families, or
+offering support and advice to schools.
+4.12 The school nursing service is confidential, and not limited to term time, so can
+provide the opportunity for early identification of physical, emotional or mental health
+needs. Schools may wish to commission extra support from school nurses and their
+teams, who can:
+Build trusting and enduring professional relationships with children and young
+people throughout their time in education.
+Support the interaction between health and education working with schools to
+provide public health expertise. They can work with mental health support
+teams to identify vulnerable children, young people and carers, and provide a
+response through tailored packages of coordinated support, referring to other
+services when appropriate.
+Engage with children and their families in their own homes; which can further
+enable early identification and interventions to mitigate problems worsening in
+the future, thus contributing to demand management in areas of statutory
+requirements.
+Working collaboratively with other schools
+4.13 Where schools are organised in clusters or run by Multi-Academy Trusts, they
+should consider collectively commissioning specialist support for identifying and
+supporting pupils with mental health needs. Such support could take the form of
+23
+mental health workers, social workers or educational psychologists. They may also
+consider providing opportunities for groups of staff to be trained jointly on identifying
+and meeting mental health needs; thereby providing opportunities to share good
+practice and learn from one another.
+Referring serious cases to CYPMHS
+4.14 The specific services offered by CYPMHS vary depending on the needs of the
+local area. The best way to influence those services overall is to get involved with the
+local health and wellbeing board, as detailed above.
+4.15 Schools have told us, however, that several things can be helpful to them in
+referring pupils effectively to specialist CYPMHS and otherwise working well with the
+service for the benefit of their vulnerable pupils. These include:
+using a clear process for identifying children in need of further support (such
+as the Strengths and Difficulties Questionnaire or Boxall Profile - for further
+information see Chapter 5);
+documenting evidence of the symptoms or behaviour that are causing
+concern (and including this with the referral);
+encouraging the pupil and their parents/carers to speak to their GP or school
+nurse, where appropriate;
+working with local specialist CYPMHS to make the referral process as quick
+and efficient as possible - for example by being clear who can refer, by
+ensuring schools have access to the relevant forms and by sharing
+information about when decisions will be taken and fed back;
+understanding the criteria that will be used by specialist CYPMHS in
+determining whether a particular pupil needs their services;
+having a close working relationship with local specialist CYPMHS, including
+knowing who to call to discuss a possible referral and allowing pupils to
+access CYPMHS professionals at school; and
+consulting CYPMHS about the most effective things the school can do to
+support children whose needs aren't so severe that they require specialist
+CYPMHS.
+Working with parents and carers
+4.16 Evidence shows that where support is provided to help manage behaviour at
+home, alongside work being carried out with the child at school, there is a much
+greater likelihood of success in reducing the child's problems, and in supporting their
+academic and emotional development. Many support services will provide this
+support as well as that for the child.
+24
+4.17 Surveys show that a large proportion of pupils and families²⁷ are not aware of
+the mental health support available in their school; and many indicate that the
+information on what the school provides is one of the most useful resources to
+support their child's mental health. It is important that schools make all aware what
+support is available.
+4.18 Whilst it is good practice to involve families wherever possible, in some
+circumstances the child may not wish to have their families involved with any
+interventions or therapies they are receiving. In these cases schools should be
+aware that those aged 16 or over are presumed to be capable of consenting to their
+own medical treatment, and any ancillary procedures involved in that treatment (by
+virtue of section 8 of the Family Law Reform Act 1969). Children under the age of 16
+may in certain circumstances consent to their own treatment if they are deemed to
+be 'Gillick competent', i.e. a relevant medical professional judges that they have
+sufficient intelligence, competence and understanding to appreciate what is involved
+in their treatment. Otherwise, an adult with parental responsibility can consent for
+them
+2829
+Working with Alternative Provision (AP)
+4.19 Local authorities are responsible for arranging suitable education for
+permanently excluded pupils, and for other pupils who because of illness or other
+reasons including social, emotional and mental health needs, would not receive
+suitable education without such provision
+4.20 Routes into AP include off-site direction from schools to improve a child's
+behaviour; and referrals from the NHS, as a result of a child's physical or mental
+health needs. In cases of health needs, local authorities are normally responsible for
+commissioning provision. Provision will differ from pupil to pupil, but there are some
+common elements that AP should aim to achieve, including the below:
+good pupil motivation and self-confidence, attendance and engagement with
+education; and
+clearly defined objectives, including the next steps following the placement
+such as reintegration into mainstream education, further education, training or
+employment.
+27
+https://www.gov.uk/government/publications/pupils-and-their-parents-or-carers-omnibus-wave-1
+survey
+28 https://www.nhs.uk/conditions/consent-to-treatment/children/
+29
+https://www.cgc.org.uk/guidance-providers/gps/nigels-surgery-8-gilick-competency-fraser-
+guidelines
+25
+4.21 There is clear evidence that schools can, and do, play a vital role in
+supporting these children to engage in education. This can include identifying special
+educational needs and mental health needs at an early stage and working jointly with
+partner agencies in health and children's social care, educational psychology, and
+children and young people's mental health services.
+4.22 Schools and AP settings should also work together to develop a plan for
+reintegration of the pupil's return to mainstream education, where this is considered
+appropriate. To facilitate reintegration, information should be shared between
+schools and AP providers; this should lead to clear plans with baselines against
+which to measure progress (including towards reintegration into mainstream
+schooling, further education, or employment). Where children have SEN, these plans
+will link to 'Education, Health and Care Plans'.
+4.23 For young people who at the end of Year 11 are still in AP, the school should
+work with the provider to ensure that the young person can move on into suitable
+education, or employment alongside part-time study or training whilst providing
+ongoing arrangements to support mental wellbeing.
+26
+Chapter 5 - Where to find out more
+Transforming Children and Young People's Mental Health
+provision: Green Paper
+5.1
+As set out in Chapter 4, it is important that schools are aware of the local
+services available, in order to ensure they are able to draw on them when required.
+The measures set out in the Green Paper³⁰ will provide further support schools to do
+this. The new Mental Health Support Teams will be established in 20-25% of
+England by 2023. Trailblazer areas will start work in 2019-20 and will test this model.
+They will improve collaboration between schools and specialist services, providing a
+wider range of support and interventions in or near schools and colleges. The teams
+will be linked to groups of schools and colleges, and will work closely with other
+professionals such as educational psychologists, school nurses, counsellors, social
+workers and others to assess and refer children for other specialist treatments if
+necessary.
+5.2
+Mental Health Support Teams will work with the Designated Senior Leads for
+Mental Health which schools are encouraged to put in place. These staff will have
+access to free of charge training in providing strategic oversight of the whole school
+approach to mental health and wellbeing. This should include how it is reflected in
+the design of behaviour policies, curriculum and pastoral support, how staff are
+supported with their own mental wellbeing and how pupils and parents are engaged.
+Further information
+5.3
+Links to further frameworks, tools and resources are provided in table 2
+below. We have only listed national services, but schools should also ensure they
+look for local services available (including those listed in the local authority's 'local
+offer' of services in the area to support children with SEND³¹).
+https://www.gov.uk/government/consultations/transforming-children-and-young-peoples-mental-
+health-provision-a-green-paper
+31 http://www.thelocaloffer.co.uk/the-local-offer-by-local-authority
+27
+Table 2 - Sources of support and information
+Creating a whole
+Creating a culture: how school leaders can optimise behaviour - Tom Bennett's independent
+school culture
+review on behaviour in schools, which looked at leadership, culture and methods to improve pupil
+behaviour
+Promoting children and young people's emotional health and wellbeing - Public Health
+England's guidance for head teachers and college principals on the eight principles for promoting
+emotional health and wellbeing in schools and colleges
+A whole school framework for emotional wellbeing and mental health - The National Children's
+Bureau's self-assessment and improvement tool for school leaders, to support them in implementing a
+whole school approach for emotional wellbeing and mental health.
+Supporting mental health in schools and colleges: pen portraits of provision - this report
+presents pen portraits of mental health provision based on case study research in 36 schools, colleges
+and other educational institutions across England
+Mentally Healthy Schools - is recommended by NAHT, and brings together quality-assured
+information, advice and resources to help primary schools understand and promote children's mental
+health and wellbeing.
+What works for wellbeing - work with a network of researchers, think tanks, businesses, government
+departments and non-profits to provide evidence, guidance and discussion papers on a range of
+subjects, including community wellbeing and measuring wellbeing.
+Children's Society - provide a range of research tools to support schools to talk to pupils about
+wellbeing and mental health.
+Supporting staff wellbeing in schools - aims to give school staff and senior leadership teams
+simple guidance and good practical examples where schools have successfully implemented staff
+wellbeing strategies.
+Supporting and
+Royal College of Psychiatrists (RCPSYCH) - Provide specifically tailored information for young
+promoting positive
+people, parents, teachers and carers about mental health through their Parents and Youth Info A-Z.
+mental health
+(including early
+National Institute for Health and Care Excellence (NICE) - NICE's role is to improve outcomes for
+intervention and
+people using the NHS and other public health and social care services, including by producing
+supporting children
+evidence-based guidance and advice. This can be useful in understanding social, emotional and
+through difficult life
+mental health conditions and their recommended treatments.
+events)
+British Association for Counselling and Psychotherapy (BACP) - Register of Counsellors and
+Psychotherapists which is accredited by the Department of Health and Social Care.
+Young Minds - Young Minds is charity committed to improving the emotional wellbeing and mental
+health of children and young people. They undertake campaigns and research, make resources
+available to professionals (including teachers) and run a helpline for adults worried about the
+emotional problems, behaviour or mental health of anyone up to the age of 25. They also offer a
+catalogue of resources for commissioning support services.
+Nasen SEND Gateway - an online portal offering education professionals free, easy access to high
+quality information, resources and training for meeting the needs of children with special educational
+needs and disabilities (SEND), including a large number of specific mental health resources.
+Schools in Mind - a free network for school staff and allied professionals which shares practical,
+academic and clinical expertise regarding the wellbeing and mental health issues that affect schools.
+MindEd - provides free e-learning to help adults to identify and understand children and young people
+with mental health problems. It provides simple, clear guidance on mental health to adults who work
+with children and young people, to help them support the development of young healthy minds.
+Counselling MindEd - Counselling MindEd is an online resource within MindEd that provides free
+evidence-based, e-learning to support the training of school and youth counsellors and supervisors
+working in a wide variety of settings.
+29
+PSHE Teacher Guidance: Preparing to teach about mental health and emotional wellbeing -
+Has been produced by the PSHE Association. It provides guidance for schools on teaching about
+mental health and emotional wellbeing as part of PSHE and signposts to organisations that can
+provide support for specific mental health conditions.
+Sexual violence and sexual harassment between children in schools and colleges -
+departmental advice which amongst other things includes detailed guidance on supporting victims of
+peer on peer sexual violence.
+Bullying and mental health: Guidance for teachers and other professionals - Free resource
+produced by the Anti-Bullying Alliance to help schools, teachers and other professionals understand
+the issues around bullying and mental health for children and young people.
+ChildLine - A confidential service, provided by the NSPCC, offering free support for children and
+young people up to the age of nineteen on a wide variety of problems.
+Place2Be - Place2Be is a charity working in schools providing early intervention mental health
+support to children aged 4-14 in England, Scotland and Wales.
+Play Therapy UK (PTUK) - is a not-for-profit professional organisation with registrants located all over
+the UK, many working in primary schools, alleviating social, emotional, behaviour and mental health
+problems. The Register managed by PTUK is accredited by the Professional Standards Authority,
+providing an assurance of the quality of the Registrant's work.
+Relate - Relate offers advice, relationship counselling, workshops, mediation, consultations and
+support face-to-face, by phone and through their website. This includes counselling for any child or
+young person who is having problems.
+Women's Aid - is the national domestic violence charity that works to end violence again women and
+children and supports domestic and sexual violence services across the country. They provide
+services to support abused women and children such as The HideOut, a website to help children and
+young people.
+30
+Nurture UK - is dedicated to improving the mental health and wellbeing of children and young people,
+and removing barriers to education by promoting nurture in education.
+Trauma Informed Schools UK - provides training for schools, communities and organisations to
+become trauma informed and mentally healthy places for all.
+Early Intervention Foundation guidebook - on trauma-focused cognitive behavioural therapy.
+Beat Eating Disorders UK - provides information on what to do if you're worried about a friend,
+family member or pupil, along with how to support someone with an eating disorder.
+Child Bereavement UK - provides information and resources to support bereaved pupils, schools
+and staff.
+Young Minds - Young Carers - information about how to spot if young carers need support, and
+how to get help.
+Information about
+MindEd - provides free online teaching to help adults to identify and understand children and young
+mental health
+people with mental health problems. It provides simple, clear guidance on mental health to adults who
+conditions,
+work with children and young people, to help them support the development of young healthy minds.
+identification and
+measurement
+Health A-Z - Conditions and treatments by subject - Mental health disorders - information from
+the NHS on mental health disorders.
+Strengths and Difficulties Questionnaire (SDQ) - the SDQ can assist schools in taking an overview
+and making a judgement about whether a pupil is likely to be suffering from a mental health problem.
+Boxall Profile - an online assessment tool for social emotional and behavioural difficulties for children
+and young people.
+Education Endowment Foundation - The Sutton Trust-EEF Teaching and Learning Toolkit is an
+accessible summary of educational research which provides guidance for teachers and schools on
+how to use their resources to improve the attainment of all pupils and especially disadvantaged pupils.
+31
+CORC outcome and experience measurements - provides easily accessible resources for
+individuals looking for information on how to measure children and young people's mental health and
+wellbeing
+Good Childhood Wellbeing Index - is an easy and free to run simple assessment of children's well-
+being in the classroom.
+Measuring and monitoring children and young people's mental wellbeing: a toolkit for schools
+and colleges - this toolkit aims to raise awareness amongst school and college staff of the range of
+validated tools that are available to help measure subjective mental wellbeing amongst the pupil
+population.
+Commissioning
+Youth Wellbeing Directory - provides a list of local and national organisations for anyone up to the
+services directly
+age of 25 (including teachers helping pupils to find support), along with additional important
+information and support.
+BOND: Learning from Practice Review - This report from BOND sets out the findings of an
+evidence based practice review, exploring the nature of the relationship between the voluntary &
+community sector and commissioners (Schools, NHS, LA), with a focus on the delivery of early
+intervention mental health services for children and young people).
+School nursing public health services - guidance produced by the Department of Health and
+Social Care and Public Health England. This guidance supports effective commissioning of school
+nursing services to provide public health for school aged children.
+Supporting public health: children, young people and families - documents to support local
+authorities and providers in commissioning and delivering children's public health services aged 0 to
+19 years.
+32
+Working with parents
+The strongest evidence supports working with parents/carers in a structured way to address behavioural
+issues through education and training programmes such as:
+Triple P - which gives parents simple and practical strategies to help them build strong, healthy
+relationships, confidently manage their children's behavior and prevent problems developing.
+The Incredible Years - a series of interlocking, evidence-based programs for parents, children, and
+teachers, supported by over 30 years of research, which aims to prevent and treat young children's
+behavior problems and promote their social, emotional, and academic competence.
+MindEd for Families - advice and information from trusted experts to help improve understanding of
+mental health problems, and how parents and carers can best support their families.
+Supporting children
+HeadMeds - website developed by the charity YoungMinds providing general information about
+with medical conditions
+common medications that may be prescribed for children and young people with mental health
+conditions.
+Health Conditions in Schools Alliance - this website offers guidance and tools to schools who are
+looking after children with health conditions. This includes a template medical conditions policy; a
+sample individual healthcare plan and advice on what it should contain; and a process for making sure
+children who require education in different settings get the support they need.
+33
+Department
+for Education
+© Crown copyright 2018
+This publication (not including logos) is licensed under the terms of the Open
+Government Licence v3.0 except where otherwise stated. Where we have identified any
+third party copyright information you will need to obtain permission from the copyright
+holders concerned.
+To view this licence:
+visit
+www.nationalarchives.gov.uk/doc/open-government-licence/version/3
+email
+psi@nationalarchives.gsi.gov.uk
+write to
+Information Policy Team, The National Archives, Kew, London, TW9 4DU
+About this publication:
+enquiries www.education.gov.uk/contactus
+download www.gov.uk/government/publications
+Reference:
+DFE-00327-2018
+Follow us on Twitter:
+f
+Like us on Facebook:
+@educationgovuk
+facebook.com/educationgovuk

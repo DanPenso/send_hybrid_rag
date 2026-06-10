@@ -1,0 +1,3706 @@
+NHS
+England
+Dynamic support register and
+Care (Education) and Treatment
+Review
+Policy and guidance
+January 2023
+Document name: Dynamic support register and Care (Education) and
+Treatment Review
+Programme name: National Learning Disability and Autism Programme
+Senior Responsible Owner: Tom Cahill, National Director,
+Learning Disability & Autism Programme
+Programme Lead:
+Sue North, Head of Improving Quality, and
+Phil Brayshaw, Acting Head of Children and
+Young People
+Version: 0.1
+Date: January 2023
+Publishing approval reference: PR1486
+This document is available in easy read and can be provided in alternative formats
+on request.
+Equality and health inequalities statement
+Promoting equality and addressing health inequalities are at the heart of NHS
+England's values. Throughout the development of the policies and processes cited
+in this document, we have:
+Given due regard to the need to eliminate discrimination, harassment and
+victimisation, to advance equality of opportunity, and to foster good relations
+between people who share a relevant protected characteristic (as cited under the
+Equality Act 2010) and those who do not share it; and
+Given regard to the need to reduce inequalities between patients in access to,
+and outcomes from healthcare services and to ensure services are provided in an
+integrated way where this might reduce health inequalities.
+Dynamic support register and Care (Education) and Treatment Review
+Contents
+Forewords
+6
+1 Introduction
+9
+2 Policy
+10
+2.1 Policy statement
+10
+2.2 Policy aims
+13
+2.3 Policy scope
+14
+2.4 Consent
+15
+2.5 Information governance
+Part A: Dynamic support registers
+17
+3 Core standards for dynamic support registers
+18
+3.1 Minimum requirements
+19
+3.2 Minimum dataset to be captured
+20
+4 Risk stratification
+21
+5 Self-referral
+24
+6 Consent for placement on the register
+24
+7 Data governance and information sharing
+24
+8 Transition planning
+24
+9 Partnership working
+25
+9.1 Care (Education) and Treatment Reviews
+25
+9.2 Keyworking
+25
+9.3 Housing
+26
+9.4 Personalised approach
+26
+9.5 Carer contingency planning
+26
+9.6 DSR information and advice
+27
+3
+Dynamic support register and Care (Education) and Treatment Review
+Part B: Care (Education) and Treatment Reviews
+28
+10 Summary of key changes to the C(E)TR policy 2017
+29
+11 Principles
+31
+12 The C(E)TR panel
+32
+13 When are C(E)TRs triggered?
+33
+13.1 Trigger points
+33
+13.2 Requesting a C(E)TR sooner than the minimum timescales
+36
+14 Focus of each type of review
+38
+14.1 C(E)TRs - community
+38
+14.2 C(E)TRs - post-admission if no community C(E)TRs held
+39
+14.3 Review C(E)TRs - inpatient
+39
+14.4 People in long-term segregation - independent care
+40
+(education) and treatment reviews
+14.5 Transfers from one hospital to another
+41
+14.6 When a diagnosis is given during an inpatient stay
+41
+14.7 When the removal of a diagnosis is being considered during
+41
+an inpatient stay
+15 Access to specialised children and young people mental
+42
+health services (CYPMHS)
+16 The review process
+43
+16.1 Sit and see
+43
+16.2 C(E)TRs and multidisciplinary team approach
+43
+16.3 Before the review
+44
+16.4 Who to invite to a review
+46
+16.5 How the review is conducted
+49
+16.6 Following the review
+53
+16.7 Key lines of enquiry responsibilities
+54
+16.8 Importance of advocacy
+55
+16.9 Importance of physical health
+56
+17 Leaving hospital: the discharge process and standards
+57
+18 Assurance and oversight: ICS oversight panels
+58
+4
+Dynamic support register and Care (Education) and Treatment Review
+19 CETR alignment with other assessment processes for children
+60
+and young people
+20 Disagreements, escalation of concerns and complaints about
+62
+the C(E)TRs process
+20.1 Concerns about lack of engagement from necessary
+62
+partners
+20.2 Clinical disagreement
+62
+20.3 Disagreement about who is responsible for
+62
+providing care
+20.4 Escalation of concerns
+62
+20.5 Complaints relating to the C(E)TR process
+63
+21 Roles and responsibilities - provider and commissioning
+64
+function
+21.1 Provider collaboratives (provider function)
+64
+21.2 Provider collaboratives - NHS lead provider
+64
+(commissioning function)
+21.3 NHS England regional teams
+65
+21.4 Local authorities (adults and children)
+65
+22 Glossary
+66
+Appendices
+69
+Appendix 1:
+Factors that may place someone at risk of admission
+70
+to a mental health hospital
+Appendix 2:
+Cheshire and Wirral Partnership dynamic support
+71
+database clinical support tool - adult and child
+Appendix 3:
+C(E)TRs principles and standards
+75
+Appendix 4:
+C(E)TRs - sit and see observation
+79
+Appendix 5:
+C(E)TR advocacy entitlements
+83
+Appendix 6:
+Safeguarding responsibilities in C(E)TRs
+88
+Appendix 7:
+12-point discharge plan
+90
+Appendix 8:
+Local area emergency protocol
+92
+Appendix 9:
+Data to monitor C(E)TR pathway implementation
+96
+outcomes
+Appendix 10: CTR policy - restricted patients
+97
+Appendix 11: Support for C(E)TR panel members and their
+99
+requirements
+5
+Dynamic support register and Care (Education) and Treatment Review
+Forewords
+When the idea for the development of a care and
+treatment review was discussed around eight years ago,
+the driving force was to assist in unblocking apparent
+barriers to discharging people with a learning disability
+from hospital.
+Over time it was also evident that a care and treatment review
+could be very effective in helping to explore alternatives to
+hospital admission when people were facing a crisis of care
+Roger Banks,
+and support in the community - particularly for children,
+National Clinical
+Director for Learning
+hence their development into Care (Education) and Treatment
+Disability and Autism,
+Reviews (C(E)TRs). The content and delivery of C(E)TRs has
+NHS England
+undergone considerable evolution over time, responding to
+increasing awareness of key issues to be addressed and how
+they can be used to maximum effect.
+This revision of the C(E)TR policy and its combination with the policy for dynamic
+support registers (DSRs) are a strong reflection of an approach that does not see
+either of these as existing in isolation. They are part of an integrated, whole system
+approach to enabling greater and more focused awareness and empowerment
+of people with a learning disability and autistic people who may require proactive
+support, intervention and advocacy to maintain their health and wellbeing and
+quality of life in the place where they live.
+This approach will only succeed where there is a shared commitment across
+organisations and key individuals to engaging with and supporting the highest
+standards of practice and quality in the delivery of DSRs and C(E)TRs. I hope that this
+revised and combined policy will direct and support such a commitment.
+6
+Dynamic support register and Care (Education) and Treatment Review
+I've faced crisis in my life. I narrowly avoided hospitalisation
+due to a lack of beds available rather than through
+proactive, caring approaches by professionals, and
+just because I avoided hospital does not mean things
+immediately became better or that support was provided. I
+was left alone, fending for myself for many more years.
+These days I work for NHS England as an expert by experience on
+projects such as this policy with the desire of ensuring no one faces
+Conor Eldred-Earl,
+the hardships of this world alone. I truly wish Care (Education) and
+Expert by Experience
+Advisor
+Treatment Reviews (C(E)TRs) as defined in this policy had existed
+when I was younger due to the difference they would have made
+for me and others. Thankfully they are here now and will help
+countless people, possibly even you reading this foreword.
+This new combined policy has taken all the learning since the inception of the C(E)TRs
+and dynamic support registers (DSRs) and has been reaffirmed through consultation
+and engagement firmly steered by those with lived experience - be they individuals
+with autism and/or a learning disability, their parents/carers or siblings. Given this lived
+experience steer many of the changes made are focused on improving the experience
+and quality of C(E)TRs for those receiving them, and marrying it up with the DSR policy
+will ensure greater accountability and follow through in line with a commonly heard
+frustration of inaction following a C(E)TR.
+There are many changes - from improving the frequency of reviews to strengthening
+the matching system, ensuring those who are diagnosed autistic and/or with a learning
+disability during their time in hospital get a rapid C(E)TR and providing greater protection
+to those who have their diagnosis challenged during admission.
+I'm very excited that the new DSR policy will better enable local areas to identify and aid
+those who need support to deliver it in a pre-emptive manner to avoid hospitalisation
+unless absolutely necessary and then to ensure community involvement continues
+throughout the admission to discharge and beyond.
+Regardless of the direction someone's life takes, this policy allows for far greater oversight,
+scrutiny and follow through, while keeping the individual, their family and all their needs
+- be they physical or psychological - at the heart of it.
+In summary this policy is for you. Having autism and/or a learning disability should never
+be a limit to a fulfilling life. We will stand with you to ensure this; you are not alone.
+7
+Dynamic support register and Care (Education) and Treatment Review
+I never expect my heart to soar with optimism when I'm
+reading policy documents, but that's exactly what happened
+when I read the dynamic support register (DSR) and Care
+(Education) and Treatment Review policy and guidance.
+For the past two years, I've been working with the DSR teams at
+NHS England who were tasked with the design and development
+of this new guidance. It's been heart-warming to see how much
+thought and careful consideration has gone into getting this right.
+Yvonne Newbold
+At the heart of every decision has been the wellbeing of those it
+MBE, Founder of
+Newbold Hope, NHS
+aims to help, and at every step along the way, they have consulted
+Assembly Member,
+and listened to both the autistic community and the learning
+Mother
+disability community, as well as their families.
+I'm also a part of these communities, through my lived experience of parenting my non-
+verbal, autistic son who has a profound intellectual disability, and through the work I do
+with families of this cohort of children and young people who develop anxiety-led difficult
+or dangerous behaviours.
+For far too long, the most vulnerable members of my community have had a very raw
+deal, made worse by both the lack of understanding and the lack of services able to offer
+any meaningful support. A complete shift in attitude and approach is long overdue, and
+this new policy and guidance could be that shift. It really has so much potential to create
+a more hopeful future for so many children, young people and adults as well as for their
+families. I'm particularly encouraged by the consistent themes throughout of both person-
+centred decision-making and the importance of involving family members wherever
+appropriate.
+Reading through this policy has made me so proud of everyone who shared their
+experiences and insights, both learnt and lived, because together we have developed a
+framework that makes a real and significant difference.
+However, no matter how well a policy is written, its success relies on how well it is
+implemented at a local level. If you are reading this in your role as a decision-maker,
+we are relying on you to do this well. Often it only takes one person with enough
+commitment and care to really make a difference to someone's wellbeing. Please be that
+person whenever you can. Thank you.
+8
+Dynamic support register and Care (Education) and Treatment Review
+1. Introduction
+Dynamic support registers (DSRs) and Care (Education) and Treatment Reviews
+(C(E)TRs) are essential elements of the pathway providing people with a
+learning disability and autistic people with appropriate support and care at
+the right time - so that they can lead the lives they want to and meet their
+ambitions and aspirations; and can stay safely and healthily in the community
+or return to this as soon as possible.
+This document provides policy and guidance on both, DSRs and C(E)TRs, for
+implementation from 1 May 2023.
+Building the Right Support (2015) and the NHS Long Term Plan (2019) set out what
+autistic people and people with a learning disability should expect when they need
+healthcare and support in the community. This includes specific intervention and support
+for their mental health needs and at times of crisis or particular difficulty for them and
+their family.
+DSRs and C(E)TRs are central to the NHS Long Term Plan commitments by 2024 to:
+reduce the number of children and adults with a learning disability and autistic
+children and adults in mental health inpatient services
+avoid inappropriate admissions to mental health inpatient settings
+develop responsive, person-centred services in the community.
+Early identification of people at risk of admission to a mental health hospital and their
+access to person-centred planning and support are essential for the prevention of
+avoidable admissions. If someone with a learning disability or an autistic person does
+need to be admitted, this should be for the shortest time possible and during their stay
+they should receive high standards of mental health and physical healthcare.
+A key finding of the Norfolk Safeguarding Adults Board's review of the deaths of
+Joanna, Jon and Ben at Cawston Park in Norfolk and the subsequent safe and
+wellbeing reviews for all people with a learning disability and autistic people in hospital
+was insufficient attention to people's physical healthcare in hospital and support for
+meaningful activity and quality of life. Importantly, we have added a key line of enquiry
+quality of life question and strengthened the focus on physical healthcare in this revised
+C(E)TR policy; to support greater questioning and challenge around people's ability to
+participate in activities and exercise and have an active, individualised programme of
+care and support that promotes both their physical and mental wellbeing.
+Note: Care and Treatment Reviews are intended for adults. Care, Education and
+Treatment Reviews include an educational element and are intended for children and
+young people. The term Care (Education) and Treatment Reviews (C(E)TR) is used when
+both approaches are being referred to.
+9
+Dynamic support register and Care (Education) and Treatment Review
+2. Policy
+2.1 Policy statement
+This policy sets out the expectations for the implementation and use of DSRs and
+C(E)TRs across England. It is the responsibility of ICBs and their delegated directors to
+ensure its implementation from 1 May 2023.
+In revising this policy we have:
+Considered the potential impact on people¹, including those with protected
+characteristics under the Equality Act 2010, and given particular attention to cultural
+sensitivities, health outcomes and the experiences of patients, communities and the
+workforce.
+Engaged and collaborated with people with lived experience, family carers, relevant
+government departments, The Association of Directors of Children's Services,
+Association of Directors of Adult Social Services, Local Government Association,
+voluntary and community sector, and other strategic partners including those who
+represent children, young people, adults and their families.
+Made changes to align it with the new NHS commissioning landscape following the
+creation of provider collaboratives, ICBs and integrated care systems (ICSs).
+2.1.1 Dynamic support registers
+Building the right support and the C(E)TR policy and guidance (2017) asked that local
+health commissioners work with their local partners, including social care and education,
+to develop and maintain a register of all people with a learning disability and autistic
+people, including those considered to be at risk of admission to a mental health hospital.
+This is now known as the dynamic support register (DSR).
+ICBs should determine the geographical footprint a DSR should cover and whether it
+should be held at local system level or with the ICB centrally.
+This policy supports local systems to use DSRs most effectively; consistency of DSRs
+across the country; and the sharing of DSR intelligence between care providers, social
+services and education settings to best inform an individual's care. It serves as a guide
+to professionals on their roles and describes the minimum standards that ensure these
+registers effectively identify and include, with consent, appropriate children, young
+people and adults (see section 3).
+¹Throughout this policy the term 'people' refers to children, young people and adults who have a
+learning disability, autistic people and those with both a learning disability and autism.
+10
+Dynamic support register and Care (Education) and Treatment Review
+DSRs are the mechanism for local systems to:
+use risk stratification to identify people at risk of admission to a mental health hospital
+work together to review the needs of each person registered on the DSR
+mobilise the right support (eg a C(E)TR, referral to a keyworker service for children and
+young people, extra support at home) to help prevent the person being admitted to a
+mental health hospital.
+The DSR enables systems to identify adults, children and young people with increasing
+and/or complex health and care needs who may require extra support, care and
+treatment in the community as a safe and effective alternative to admission to a mental
+health hospital. Additionally, they play a role in ensuring that people's needs are included
+in commissioning plans, financial plans, service delivery and development.
+See part A for detailed guidance.
+2.1.2 Care (Education) and Treatment Reviews
+C(E)TRs were developed as part of NHS England's commitment to improving the care of
+people with a learning disability and autistic people in England. They were designed to
+bring an additional challenge and scrutiny to existing health and care review processes,
+an alternative perspective and expert insight.
+For people at risk of admission or who are admitted to a mental health hospital, C(E)TRs
+are an essential person-centred process. They seek to ensure system partners are working
+with people and families to provide the right care, education and treatment to avoid the
+need for an admission to a mental health hospital, and ensure good care for all.
+When an admission is essential for the person to get the healthcare they need, C(E)TRs
+provide the opportunity to check that their care and treatment are effective and that
+they are supported to leave hospital as soon as possible.
+While the NHS is responsible for implementing C(E)TRs, the involvement of local
+authorities, education services and other partners, including housing and justice, in the
+process and its outcomes is essential.
+C(E)TRs bring together the individual, their family/carer and the organisations
+responsible for commissioning and procuring services. This will include the responsible
+health commissioner² from the provider collaborative, NHS England or ICS, consultants,
+responsible clinicians, nurses, social workers, therapists, education commissioners
+and providers, other health, education and social care professionals with independent
+clinical opinion, and those with lived experience (people and families) from diverse
+communities.
+²The responsible commissioner in relation to a patient admitted to a hospital or registered
+establishment is determined in accordance with NHS England's Who Pays? guidance.
+11
+Dynamic support register and Care (Education) and Treatment Review
+All autistic children, young people or adults and those with a learning disability are
+required to have a community C(E)TR if they have been admitted to or are considered to
+be at risk of admission to a mental health hospital. If they do not have a community
+C(E)TR they must have a post-admission C(E)TR within the required timescales - 28 days
+for adults and 14 days for children and young people.
+Review C(E)TRs must be undertaken in accordance with the guidance set out in part B.
+We have added oversight processes for senior system-level review of C(E)TR
+recommendations and progress for individuals who may hit certain thresholds. This is
+based on learning from recent safe and wellbeing reviews (see section 16.9).
+See part B for detailed guidance.
+Figure 1: Example timeline of review processes for
+a person admitted to a mental health hospital
+Post
+Added to
+Community
+admission MDT
+DSR
+C(E)TR
+(check C(E)TR
+recommendations)
+MDT (check
+Commissioner
+6-week post
+recommendations
+oversight visit (sit
+admission
+from post-
+and see) every
+C(E)TR
+admission CTR)
+6 to 8 weeks
+3 monthly C(E)TR
+or 6 monthly
+CTR
+12
+Dynamic support register and Care (Education) and Treatment Review
+2.2 Policy aims
+This policy supports the effective implementation of DSRs and C(E)TRs
+in ICSs. It:
+1. Supports effective use of DSRs to enhance the care of children, young people and
+adults across local areas.
+2. Supports the delivery of C(E)TRs for children, young people and adults in the
+community and in mental health hospitals.
+3. Ensures consistency in how DSRs are used and C(E)TRs undertaken across the
+country so that people and their families/carers know what they can expect wherever
+they live.
+4. Empowers and supports people and their families to be listened to and to be equal
+partners in their care and treatment pathway.
+5. Prevents people being admitted to mental health hospitals where this is avoidable
+through identifying community alternatives where appropriate.
+6. Ensures that any admission is supported by a clear rationale for planned assessment
+and treatment, together with defined and measurable intended outcomes.
+7. Provides regular scheduled review of the care and treatment of and discharge plans
+for people in mental health inpatient settings (or sooner by request where there is
+dissatisfaction with progress).
+8. Ensures that all agencies work together and with the person and their family to
+support discharge into the community (or if the only option, to a less restrictive
+setting) at the earliest opportunity.
+9. Ensures the involvement of all relevant organisations, including where appropriate
+children's social care, adult social care and the special educational needs (SEN) team,
+school or college so that all relevant issues can be fully addressed and solutions
+explored for the discharge of people into community-based settings or back home to
+their families.
+10. Supports a constructive and person-centred process of challenge to current and
+future intended care and treatment plans where necessary.
+11. Identifies barriers to progress and discharge, and makes recommendations for how
+these could be overcome.
+12. Results in an agreed action plan at the end of the C(E)TR that has clear actions, each
+of which is allocated to a named individual together with a specific timescale.
+13
+Dynamic support register and Care (Education) and Treatment Review
+13. Improves health outcomes through early access to the most appropriate services and
+the provision of integrated and holistic care.
+14. Enables people and their families to understand the process and have an opportunity
+to be properly engaged.
+The DSR guidance:
+describes a framework that local areas must follow
+sets out the minimum requirements for the use of a DSR in a local area; two relate
+specifically to children and young people (see section 3)
+sets out the minimum requirements for carrying out a DSR risk stratification - using a
+common red, amber, green (RAG) rating system (see section 4).
+Local systems must work with their key partners - these include people with lived
+experience - to develop locally defined processes, pathways, criteria and roles
+responsible for key elements of the process.
+2.3 Policy scope
+For DSRs, the policy relates to all children, young people and adults with a learning
+disability and autistic children, young people and adults. As a minimum, those who are
+at risk of admission to hospital must be included on a DSR (subject to their consent) and
+inclusion on the register should be one of the triggers for a C(E)TR to happen.
+For C(E)TRs, the policy relates specifically to children, young people and adults with
+a learning disability and autistic children, young people and adults who are facing
+potential admission to or are inpatients of any mental health hospital, and whose care
+is being commissioned by NHS England, a mental health learning disability and autism
+provider collaborative or an ICS.
+The policy recognises that some people's route into a mental health hospital is through
+the criminal justice system (through the courts or from prison or a young offender's
+institution). They may be subject to a Ministry of Justice (MoJ) restriction order that
+means they may have to serve a minimum sentence. The policy includes people subject
+to MoJ restrictions once they have been admitted to hospital.
+In these circumstances, although C(E)TRs cannot speed up the discharge process, they
+can check that the individual is safe and getting appropriate and effective care and
+treatment in the least restrictive setting based on their reason for admission to hospital
+(rather than prison), and that planning is underway for their discharge.
+14
+Dynamic support register and Care (Education) and Treatment Review
+2.4 Consent
+A review cannot take place or a name added to a DSR without the person's
+informed consent (see Shared decision making to comply with national
+legislation and policy). Consent must be formally documented.
+The date consent to inclusion on the DSR was obtained is part of the DSR minimum
+dataset; consent should be checked at least annually and the dates it was checked
+added.
+The responsible ICS must ensure that consent has been sought from the person for both
+the process and the information sharing that enables it. C(E)TRs take a person-centred
+approach and this requires the sharing of personal and sometimes sensitive information.
+The person must be supported to make a decision about consent by people who know
+them well and understand their communication needs. Discussion should outline what
+and how information will be shared about them and their care, as well as why (referred
+to as fair processing). It should also highlight that information may need to be shared
+more widely, such as in the event of any safeguarding concerns (see Appendix 6). This
+discussion should be appropriately recorded, along with the decision.
+The My C(E)TR Planner includes accessible information to help the individual understand
+the nature and purpose of the review.
+2.4.1 People who lack mental capacity
+If the person lacks mental capacity, informed consent should be sought from someone
+with parental responsibility, holder of a valid and applicable Lasting Power of Attorney³
+or a court appointed health and welfare deputy. If there is no lawful representative,
+a best interests decision should be taken on the person's behalf, applying the Mental
+Capacity Act (MCA) 2005 and its most recent Code of Practice.
+Where people have fluctuating mental capacity, their capacity 'at the material time' of
+the decision should be assessed.
+Any assessment of mental capacity is decision and purpose specific - in this case, it
+relates to the DSR or C(E)TR only. The purpose of sharing any information needs to be
+clear and recorded.
+People who lack mental capacity should be as fully involved as they can be in any
+decisions about their care.
+³Documented and registered at the Office of The Public Guardian.
+15
+Dynamic support register and Care (Education) and Treatment Review
+2.4.2 Children and young people
+Consent should be sought directly from young people aged 16 or 17; they are presumed
+to have sufficient mental capacity to decide about their treatment unless there is a
+reason and/or evidence to indicate otherwise.
+Children under the age of 16 can consent to a CETR and their inclusion on the DSR if
+they are considered to have sufficient competence and understanding to fully appreciate
+what is involved (Gillick competence). Otherwise, consent must be obtained on their
+behalf from someone with parental responsibility. Regardless, parents and others with
+parental responsibility should be fully involved in decisions unless that would prejudice
+the child's wellbeing.
+2.4.3 Where consent is not given
+Each local system should have a process for:
+Explaining the implications of this decision to the individual (or their representative),
+and exploring the reasons for it with them and recording these. They should be
+assured that withholding consent will not affect their current care provision or any
+resources they are entitled to, and be made aware that they can change their mind at
+any time.
+Checking whether the person has adequate support from an advocate, or would
+benefit from this, to explore their options, rights and decision-making.
+Considering alternative approaches to independent review of a person's care, eg a
+desktop review with input from those with clinical expertise.
+Regularly reviewing and recording the person's wishes to ensure that they have an
+opportunity to participate in the process should they change their mind.
+The responsible commissioner should escalate any person who declines a C(E)TR on two
+or more occasions to the ICS oversight panel (see section 18).
+2.5 Information governance
+The ICS is responsible for ensuring that people added to the DSR or people who have a
+C(E)TR understood how their data will be used (who, what, how and why) at the point
+they give consent to either process. This responsibility extends to unpaid carers where
+information about them is included on the DSR.
+The ICS must also ensure local data sharing agreements are in place to allow the
+necessary data and information flow between agencies.
+16
+Dynamic support register and Care (Education) and Treatment Review
+Part A:
+Dynamic support registers
+The DSR should be organised in such
+a way that adults, children and young
+people can be identified when their
+health and care needs are increasing or
+complex, and may require a multi-agency
+response, monitoring and prioritisation
+for extra support.
+The proactive management of the DSR should
+enable the identification of people early
+enough to enable interventions that may
+prevent the need for a C(E)TR, but if required,
+trigger a community C(E)TR at the appropriate
+time.
+Terms relating to DSRs are defined in the
+glossary (section 22).
+Dynamic support register and Care (Education) and Treatment Review
+3. Core standards for dynamic
+support registers
+The following core standards underpin best practice to reduce avoidable admissions.
+They have been tried and tested in areas with well-developed registers.
+1. The ICB learning disability and autism executive lead (usually a chief nurse or
+executive director for commissioning) have oversight of local DSRs to ensure effective
+collaboration between health organisations and local authority partners.
+2. ICBs are accountable for DSRs across their footprint. The ICB can delegate this
+responsibility to a partner organisation, such as a local authority or NHS trust.
+3. Every ICS/ICB has a named lead person with responsibility for the maintenance of the
+DSR. For children this is usually a commissioner for children and young people DSRs
+and for adults a commissioner for wellbeing.
+4. Every ICB publishes its self-referral process for people who want to request their
+addition to the DSR (see section 7). (For children and young people this must be
+published on the SEND local offer website as a minimum.)
+5. Every local area has a single point of contact for people who want more information
+about the register, including any self-referral processes.
+6. Every local area has a standard process for gaining informed consent to be added to
+the register, or for a best interest decision to be taken. (Local areas need a process
+for people who do not consent to registration on the DSR but still want to access a
+C(E)TR.)
+7. Every local area publishes its criteria for addition to the DSR - for 'at risk level', this is
+included in the local offer for children and young people.
+8. Every local area has a standard process for reviewing a person's risk to understand
+their needs. A RAG rating on the DSR (see section 4) reflects a person's risk and
+activates a timely response to changing needs.
+9. The DSR links to the local response, which must include multi-agency ways of
+working and processes and, as a minimum, referrals to access keyworker services
+and C(E)TRs. There are effective ways for information to flow between a C(E)TR and
+the DSR.
+As a minimum:
+each time a C(E)TR takes place, the person's RAG rating on the DSR is reviewe
+C(E)TR recommendations are recorded on the DSR.
+DSR stratification (see section 4) should involve review of community C(E)TR
+recommendations, and inpatient C(E)TR recommendations for those at risk of re-
+admission, plus any pertinent information from relevant meetings, eg multi-agency
+meetings and child in need meetings.
+18
+Dynamic support register and Care (Education) and Treatment Review
+10. All children, young people and adults on the DSR should have a multi-agency care
+plan and risk management plan. These should identify the lead health or social care
+professional accountable for the delivery of each action. The plans must align with
+any C(E)TR recommendations. Where a plan is not in place, the lead professional is
+responsible for creating one with the person and the agencies involved.
+11. Local areas with separate DSRs for children and adults have a clear process for
+moving children to the adult DSR.
+3.1 Minimum requirements
+DSRs must:
+1. Identify children, young people and adults with a learning, disability, autism or both
+who are at immediate risk of admission to a mental health hospital, including those
+in urgent and emergency care (UEC) departments waiting for a mental health bed
+and those at risk of mental health hospital admission (best practice areas include
+other institutional care).
+2. Identify children, young people and adults with a learning disability, autism or both
+who will be at immediate risk of admission to a mental health hospital if they do not
+receive urgent or immediate intervention.
+3. Include a specific focus on identifying autistic children, young people and adults
+at risk of admission to a mental health hospital, including those who may not be
+known to mental health and learning disability services.
+4. Ensure a clear link between the DSR and C(E)TRs so that children, young people and
+adults at risk of admission to a mental health hospital are offered a community C(E)
+TR in line with this policy.
+5. Ensure a clear link between the DSR and the children and young people's keyworker
+service.
+6. ICSs should work with all local authorities in the footprint to include on DSRs's
+children and young people who are in 52-week residential schools and colleges. They
+may be placed at a distance from home and their needs are likely to be significant
+when they return home or their education or placement changes. Their level of risk
+should be determined using the risk stratification process.
+7. Include people discharged from a mental health hospital for a period of review. This
+period should be determined by the timing of post-discharge C(E)TRs/multiagency
+meetings, risk stratification process and any post-discharge plans.
+19
+Dynamic support register and Care (Education) and Treatment Review
+8. Children, young people and adults who are placed out of area must remain on the
+DSR of the placing area or area with commissioning responsibility.
+9. Professionals who work with people on the DSR should identify whether they have
+unpaid carers and if they do, note this on the DSR. This is so that the person on the
+DSR will be cared for should their unpaid carers no longer be able to provide care
+and/or need to reduce the level of care they provide (see section 9.5).
+3.2 Minimum dataset to be captured
+All local registers should capture the minimum dataset requirements. These are:
+identifiable information (name or NHS patient number)
+name of the lead health and/or social care professional responsible for the multi-
+agency care plan
+name of current service provider or support in place through a personal budget
+whether or not the person has a current care plan that includes contingency planning
+with a current risk assessment in place
+date of last review of care plans and risk assessment
+whether or not the person is at immediate risk of placement breakdown and/or
+admission (including their RAG rating)
+date community C(E)TR(s) held
+reason why the person is at risk of placement breakdown and/or admission
+whether the person has been offered a personal budget, personal health budget or
+integrated personal budget where this is appropriate.
+date consent given for inclusion on DSR.
+20
+Dynamic support register and Care (Education) and Treatment Review
+4. Risk stratification
+All local systems must have an agreed approach to the proactive monitoring of and
+intervention for people on the DSR, including where:
+the person places themselves or others at serious and/or significant risk of harm
+the person's community placement or tenancy, residential special school or care and
+support placement is at risk of breakdown and this would pose a significant risk to the
+safety and wellbeing of the person and/or others
+the person presents to the police
+the person presents to urgent and emergency care services
+mental health hospital admission is being considered
+the person was admitted to a mental health hospital in the last year
+the person was supported by a mental health crisis team in the last year
+one or more factors put the person at increased risk of admission (see Appendix 1).
+For this, all local systems should use a RAG rating or similar locally agreed process to
+stratify the needs of those on their DSR. This is to ensure early identification of people
+whose needs may require a comprehensive response and to keep sight of those whose
+needs may escalate and require an enhanced, different or more specialist response.
+The DSR must include information on the following for all levels of risk:
+partners who need to be involved in a C(E)TR if required
+a person-centred plan that identifies needs, support being accessed and the lead
+professionals involved in the person's care
+review of carer needs (with appropriate consent)
+lead professional.
+21
+Dynamic support register and Care (Education) and Treatment Review
+Table 1 outlines the required minimum support offer for each RAG rating.
+RED
+There is an immediate risk that the person will be admitted to a
+mental health hospital.
+The person and/or their family are experiencing a crisis and the risk of admission to a
+mental health hospital are not being or cannot be managed in the community.
+Linked processes:
+a C(E)TR must take place (see part B)
+referral to the keyworker service (for people aged 0-25 years) if the person is not
+already known to this service.
+AMBER
+There will be an immediate risk that the person will be admitted to a
+mental health hospital without urgent intervention.
+There could be a significantly increased risk of the person becoming mentally unwell
+and/or placement/family breakdown.
+Linked processes:
+multi-agency meeting and/or C(E)TR
+referral to the keyworker service (0-25 years), if not already known to this service.
+GREEN
+There are some risks that could lead to the person being admitted or
+re-admitted to a mental health hospital; but currently these risks are
+being effectively managed.
+Linked process:
+clear identification of partners who would need to be involved in a C(E)TR if
+required.
+BLUE
+A separate rating must identify those children, young people and
+adults currently in inpatient services.
+Linked processes:
+this rating should be used to identify people requiring commissioner oversight
+visits and inpatient C(E)TRs.
+22
+Dynamic support register and Care (Education) and Treatment Review
+DSR risk stratification, like all other related processes in this policy, can only take place
+with informed consent (see section 2.4 for further guidance).
+The risk stratification/RAG rating processes must take account of:
+1. The person's view about their current situation, with advocacy support in line with
+this policy and legal entitlements (see section 16.8 and Appendix 5).
+2. The family's view about the current situation, with support from local parent carer
+forums, special educational needs and disabilities advice and support services or
+other locally commissioned services.
+3. Risk assessment using locally developed tools
+We recommend use of the Cheshire and Wirral Partnership dynamic support
+database clinical support tool (see Appendix 2) or similar locally developed
+alternative to support risk stratification and RAG rating.
+Cheshire and Wirral NHS Foundation Trust has developed a web-based training
+tool in the use of the DSR for health and social care staff. The training includes
+information about risk scoring people with a learning disability and autistic people
+and case studies from people who have been supported through the tool.
+For further information: www.england.nhs.uk/learning-disabilities/dynamic-registers-
+and-dynamic-systems/dynamic-support-database-dsd-and-clinical-support-tool/
+4. Professional judgement, which must include structured multi-agency assessment
+and regular review meetings.
+Local areas should facilitate regular multi-agency review meetings to manage the DSR,
+stratify risk and agree appropriate cross-system actions and support. There must be a
+shared process of accountability with a clear structure of escalation for red/amber cases.
+This will involve named senior managers across health and local authority services.
+23
+Dynamic support register and Care (Education) and Treatment Review
+5. Self-referral
+Local areas should co-produce with system partners a process for people and families
+to self-refer for inclusion on the DSR, and publish this, as a minimum on the local offer
+website. Their inclusion will then be considered against locally developed criteria. A
+process for dealing with any disputes about inclusion will also be needed.
+This process should be developed alongside accessible information and guidance about
+avoiding inappropriate admission to a mental health hospitals, the DSR and access to
+locally offered support. There should be a clear link to the information about right to
+request a C(E)TR, and people requesting C(E)TRs should be considered for inclusion on
+the DSR, depending on their level of risk and consent to this.
+6. Consent for placement on the register
+See section 2.4.
+7. Data governance and information sharing
+See section 2.5.
+8. Transition planning
+Systems should consider the benefits and challenges of holding one register for children
+and young people and one for adults, including how inclusion criteria will align.
+Where two registers are held, when a young person will move to the adult register needs
+to be agreed.
+Transitions team must have access to both registers and associated services.
+24
+Dynamic support register and Care (Education) and Treatment Review
+9. Partnership working
+Dynamic support systems and processes rely on effective partnership working between
+health, local authorities, education and social care partners. Notably, for children and
+young people, health commissioners and local authorities should work together to align
+the DSR with the disabled children's register⁴.
+9.1 Community Care (Education) and Treatment Reviews
+Best practice areas suggest C(E)TRs are most useful when they happen for people who
+are identified within the amber part of the register as a means of early identification and
+prevention.
+A community C(E)TR must take place when a person is identified as red on the DSR (at
+immediate risk of admission), unless a C(E)TR has already taken place.
+There may be occasions when a C(E)TR is held for someone who has not consented to or
+is not part of the DSR. It is not mandatory for someone to be on the DSR to be able to
+have a C(E)TR, although the reasons why they are not should be explored.
+The link between the DSR and C(E)TRs is further described in part B.
+9.2 Keyworking
+The local keyworker service should be linked to the DSR.
+By March 2024 children and young people with a learning disability, autism or both
+aged 0-25 years with the most complex needs will have a designated keyworker. Initially,
+children and young people who are inpatients or at risk of being admitted to hospital
+(as a minimum those with a red/amber rating on the DSR) should have access to support
+from the keyworker service.
+Keyworkers support children, young people and their families to avoid admission to
+a mental health hospital wherever possible. Where admission to hospital cannot be
+avoided, the keyworker should remain as a core member of the professional network
+throughout the person's period of admission, and be included in CETRs and support
+through to discharge.
+⁴The Children Act 1989 requires that: Every local authority shall open and maintain a register of
+disabled children within their area (Schedule 2 Part 1(2)).
+The Children and Families Act 2014 states "A local authority in England must exercise its
+functions with a view to securing that it identifies (a) all the children and young people in
+its area who have or may have special educational needs, and (b) all the children and young
+people in its area who have a disability." (s22 of Part 3)
+25
+Dynamic support register and Care (Education) and Treatment Review
+9.3 Housing
+Planning around housing and accommodation for adults and children should be linked to
+the DSR.
+Inappropriate housing can be a contributing risk factor for admission and delayed
+discharge (eg when a property does not meet the person's and their family's needs) and
+must be considered as such.
+Accommodation needs should be considered as early as possible, eg at the point of
+admission, as they can take time to address and resolve.
+Our housing webpage provides further information.
+9.4 Personalised approaches
+The DSR should prompt discussion of how personalised budgets and resources may
+support a person or their family.
+Where possible, people with a learning disability and autistic people should be enabled
+to have either a personal health budget (PHB; health), a personal budget (social care) or
+an integrated budget (health and social care).
+This is in line with the legal right for people who are eligible for continuing healthcare or
+Section 117 funding to have a PHB and the statutory requirements of the Care Act with
+regard to personal budgets and NHS Long Term Plan commitments. In addition, health
+and social care commissioners should consider making available flexible extra support
+that can be called on at short notice to prevent crisis or avoid hospital admission where
+possible.
+9.5 Carer contingency planning
+For persons with unpaid carers and stratified as red/amber on the DSR, professionals
+should discuss with the carer whether a contingency plan should be developed as part of
+the dynamic support offer; and if it is, support them to create it. Such plans describe the
+necessary actions should the carer no longer be able to provide care or needs to decrease
+what they provide.
+With appropriate consent, relevant information from the contingency plan should be
+shared with those professionals who may need to action it.
+Unpaid carers should be made aware of their right to a referral for a Carers Assessment
+(as set out in the Care Act 2014), what it involves and how this may support them in
+their caring role, and signposted to local health and wellbeing support offers.
+26
+Dynamic support register and Care (Education) and Treatment Review
+9.6 DSR information and advice
+Local partners should agree how people and families are made aware of the support
+available to them, eg through the local offer for children and young people⁵ and the Care
+Act requirements for adults⁶. Under Section 4 of the Care Act 2014, the local authority
+must establish, co-ordinate and maintain a service(s) that provides accessible, up-to-date,
+accurate, comprehensive but proportionate advice and local information about care and
+support for people and support for carers. For this it is good practice to work closely with
+children, young people, adults and their families and carers. Much can be learned from
+their experiences of what is and is not helpful.
+⁵Children and Families Act 2014 SEND Code of Practice 2015
+⁶s1 Care Act 2014
+27
+Dynamic support register and Care (Education) and Treatment Review
+Part B:
+Care (Education) and
+Treatment Reviews
+It is not mandatory for someone to be
+on the DSR to be able to have a C(E)TR,
+although the reasons why they are not
+should be explored.
+A C(E)TR is a person-centred review to
+ensure the care (education) and treatment
+and support needs of the individual person
+and their family are met, and that barriers to
+progress and/or discharge are challenged and
+overcome.
+Dynamic support register and Care (Education) and Treatment Review
+10. Summary of key changes to
+the C(E)TR policy 2017
+Key change
+Description
+Section
+Dynamic support
+The new policy for DSRs has been
+Sections 3 to 9
+register (DSR)
+combined with the renewed C(E)TR) policy.
+policy
+Increased focus on
+The importance of advocacy for adults,
+Section 16.8
+advocacy
+child and young people pre-C(E)TR, during
+And referenced
+the C(E)TR and post-C(E)TR is recognised.
+throughout the
+policy
+Increased focus on
+Advocacy should be facilitated throughout
+Section 16.9
+physical health
+the process.
+Increased focus on
+Increased focus in the C(E)TR key lines
+Section 16.7
+quality of life
+of enquiry (KLOE) on assessing whether
+And referenced
+physical health needs are being met.
+throughout the
+policy
+Additional trigger
+New question in the C(E)TR KLOE on
+Section 13.1
+points for C(E)TR
+quality of life and strengthened focus on
+participation in meaningful activity.
+Additional C(E)TRs should be carried out in
+the following circumstances:
+six weeks after admission to hospital if a
+community C(E)TR has been undertaken
+if a person moves between hospitals and/
+or security level within the same hospital
+if a person receives a diagnosis of a
+learning disability or autism during their
+admission in hospital
+if a clinical review identifies that someone
+who has a diagnosis of autism or a
+learning disability has been incorrectly
+diagnosed and the removal of this
+diagnosis is proposed.
+29
+Dynamic support register and Care (Education) and Treatment Review
+Key change
+Description
+Section
+Option for the
+People should be consulted as to whether
+Section 16.6
+same C(E)TR panel
+they would prefer the same panel (where
+to undertake
+possible) to undertake their next review.
+follow-up review
+There may be cases where it is considered
+beneficial to use a different panel
+although the individual's wishes should be
+considered.
+Implementation
+Each ICS must develop oversight panels
+Section 18
+of an oversight
+that convene at least quarterly and review
+process via ICS
+the C(E)TRs of people for whom there is
+oversight panels
+concern.
+Mandatory training
+All C(E)TR panel members will be expected
+Section 16.3
+for panel members
+to complete mandatory C(E)TR induction
+Appendix 11
+training.
+Payment structure
+New suggested minimum rates of pay
+Appendix 11
+for experts by
+defined for expert by experience and
+experience and
+clinical expert panel members.
+clinical experts
+30
+Dynamic support register and Care (Education) and Treatment Review
+11. Principles
+The 'spirit' in which C(E)TRs are carried out is rooted in principles of human rights,
+person-centeredness and co-production.
+Person (child, young person or adult) centred and family centred
+Evidence based
+Rights led
+Seeing the whole person
+Open, independent, and challenging
+Nothing about us without us
+Action focused
+Living life in the community.
+Appendix 3 lists the principles and associated standards. The associated C(E)TR code and
+toolkit, which includes the principles and standards, sits alongside the policy to provide
+a solid framework for C(E)TRs to be delivered to a consistently high standard across
+England.
+31
+Dynamic support register and Care (Education) and Treatment Review
+12. The C(E)TR panel
+Panel members need to familiarise themselves with the principles and standards, and
+hold each other to account on these.
+The C(E)TR panel must include:
+Chair
+The responsible commissioner. If they are unable to attend
+the review they must delegate authority to undertake this
+role to someone who can.
+Responsible for ensuring that all panel members feel able to
+contribute to the review and that their views are reflected in
+the final report and recommendations.
+Independent
+Someone with a relevant health professional qualification
+clinical expert
+and active registration with a relevant professional body.
+They should also hold professional indemnity insurance that
+covers them to practise on an independent basis.
+Independent
+Someone with relevant lived experience or a family member
+expert by
+of someone with relevant lived experience.
+experience
+If the review is for a child or young person, the inclusion of a children's social care or
+education professional on the panel should be considered.
+If the review is for a person with specific physical health needs or a complex medication
+regimen, the panel may need a further clinical expert (eg a pharmacist).
+The ICB will be responsible for the recruitment and support of experts by experience
+(often through a locally developed expert hub) and clinical experts, where appropriate,
+delegating responsibility at a place-based level.
+Appendix 11 provides information on recruiting and supporting panel members.
+32
+Dynamic support register and Care (Education) and Treatment Review
+13. When are C(E)TRs triggered?
+Note: The C(E)TR does not decide whether a person should be admitted to or discharged
+from hospital. This remains the responsibility of clinicians (or the courts/Ministry of Justice
+(MoJ) under Part 3 of the Mental Health Act 1983).
+If a clinician judges that urgent admission to an acute mental health hospital is necessary
+for someone with a mental health problem who presents a risk to themselves or others,
+then a C(E)TR should not be used to delay or obstruct this process. However, a post-
+admission C(E)TR must still be undertaken in line with the timescales given in Table 2
+below.
+Similarly, a pending C(E)TR should not obstruct or delay the normal discharge/care
+planning processes that may allow a person to leave hospital.
+13.1 Trigger points
+Table 2 sets out when adults and children and young people should have a C(E)TR, with
+each type of review described in sections 14.1 to 14.7.
+CTR pathway for adults in non-secure services, including acute mental health,
+rehab, assessment and treatment
+Type of
+Maximum time
+Minimum frequency
+Notes
+review
+for completion
+of repeat reviews
+Community
+Prior to admission
+6 weeks after admission
+Additional CTRs
+CTR
+and then 6 monthly
+if other trigger
+(unless hospital transfer
+points hit
+occurs)
+No community
+Post-admission CTR
+6 monthly (unless
+Additional CTRs
+CTR (or local
+within 28 days (20
+hospital transfer occurs)
+if other trigger
+area emergency
+working days)
+points hit
+protocol (LAEP)
+33
+Dynamic support register and Care (Education) and Treatment Review
+CTR pathway for adults in secure services via non-criminal justice route
+Type of
+Maximum time
+Minimum frequency
+Notes
+review
+for completion
+of repeat reviews
+Community
+Prior to admission
+6 weeks after admission
+Additional CTRs
+CTR
+and then 12 monthly
+if other trigger
+(unless hospital transfer
+points hit
+occurs)
+No community
+Post admission CTR
+12 monthly (unless
+Additional CTRs
+CTR (or LAEP)
+within 28 days (20
+hospital transfer occurs
+if other trigger
+working days)
+points hit
+CTR pathway for adults in secure services via criminal justice route (prison or court)
+Type of
+Maximum time
+Minimum frequency
+Notes
+review
+for completion
+of repeat reviews
+Exempt from
+Post-admission CTR
+12 monthly (unless
+Additional CTRs
+community CTR
+within 28 days (20
+hospital transfer occurs)
+if other trigger
+working days)
+points hit
+C(E)TR pathway for children and young people up to 25 if education health and
+care plan in place or if the young person remains in the CYP mental health tier 4
+hospital (post 18 years)
+Type of
+Maximum time
+Minimum frequency
+Notes
+review
+for completion
+of repeat reviews
+Community
+Prior to admission
+6 weeks after admission
+Additional CETRs
+C(E)TR
+and then 3 monthly
+if other trigger
+(unless hospital transfer
+points hit
+occurs
+No community
+CETR within 14 days
+3 monthly (unless
+Additional CETRs
+C(E)TR (or LAEP)
+(10 working days)
+hospital transfer occurs)
+if other trigger
+points hit
+34
+Dynamic support register and Care (Education) and Treatment Review
+CTR pathway (all ages) for person identified as requiring hospital transfer
+and/or change in security settings within the same hospital
+Type of
+Maximum time
+Minimum frequency
+Notes
+review
+for completion
+of repeat reviews
+C(E)TR
+Within 6 weeks of
+C(E)TRs to continue as
+transfer
+per minimum timescales
+for relevant pathway
+C(E)TR pathway (all ages) for person diagnosed as autistic or having a
+learning disability while in hospital
+Type of
+Maximum time
+Minimum frequency
+Notes
+review
+for completion
+of repeat reviews
+C(E)TR
+Refer to post-
+C(E)TRs to continue as
+admission timescales:
+per minimum timescales
+28 days (20 working
+for relevant pathway
+days) for adults and
+14 days (10 working
+days) for children and
+young people
+CTR pathway (all ages) for removal of a diagnosis of autism or a learning
+disability is being considered during an inpatient stay
+Type of
+Maximum time
+Minimum frequency
+Notes
+review
+for completion
+of repeat reviews
+C(E)TR
+C(E)TR to be
+Recommendations
+undertaken prior
+to consider impact
+to any diagnostic
+of diagnostic
+changes being
+changes and
+formally made
+possible removal
+from Assuring
+Transformation for
+individual
+35
+Dynamic support register and Care (Education) and Treatment Review
+Learning from the safe and wellbeing reviews, serious case reviews and serious incident
+reviews, along with views from stakeholders and partners, prompted a review of the
+triggers for a C(E)TR and the review timetables. The following circumstances are new
+triggers for a C(E)TR in this updated policy:
+six weeks after admission to hospital if a community C(E)TR has been undertaken
+if a person is transferred to another hospitals or to a setting within the same hospital
+with a different security level
+if a person receives a diagnosis of autism or a learning disability during their admission
+in hospital
+if a clinical review identifies that someone has been incorrectly diagnosed with autism
+or a learning disability and removal of the diagnosis is proposed.
+13.2 Requesting a C(E)TR sooner than the minimum timescales
+(adults, children and young people)
+A C(E)TR can be requested sooner than the timescales given in Table 2 by the
+following people:
+person in receipt of services
+person's family or carer
+responsible commissioner
+advocate for the person in receipt of services
+inpatient or community team supporting the person.
+It can be requested:
+both for people living in the community and those who have been admitted
+whenever there are concerns about the suitability of a service, the treatment plan, the
+individual's safety and wellbeing and/or, for inpatients, there is no clear discharge or
+transfer date and plan.
+Requests for C(E)TRs should be directed to the case manager or responsible
+commissioner. Their first response should be to address the concerns that led to the
+request as promptly and thoroughly as possible, including by arranging additional
+support if the concern relates to possible hospital admission; potentially avoiding the
+need for a review.
+Local areas must have a process for requesting a C(E)TR; how decisions are reached
+and whether an appeal can be made where a request is denied; and how decisions are
+recorded and communicated to the person and their family.
+36
+Dynamic support register and Care (Education) and Treatment Review
+Figure 2: Process for requesting a C(E)TR and managing the request
+C(E)TR
+Case
+C(E)TR is
+requested by:
+manager:
+arranged:
+person
+identify key concerns
+findings shared
+family
+consult clinical team
+through ICS
+advocate
+consider
+oversight
+clinical team
+appropriateness of a
+panel.
+commissioner.
+C(E)TR at the person's
+current stage in the
+pathway
+ensure any issues
+that do not require a
+C(E)TR are addressed
+and escalated as
+required.
+Where it is decided that a C(E)TR will not benefit the person but the applicant continues
+to feel one is necessary and appeals against the decision, the request should be escalated
+to the commissioner to consider in line with locally established protocols.
+Note: C(E)TR requests should not be regarded as a form of complaint and should not be
+handled through usual complaints channels.
+C(E)TRs undertaken outside usual timeframes will automatically be reviewed by the ICS
+oversight panel (see section 18).
+37
+Dynamic support register and Care (Education) and Treatment Review
+14. Focus of each type of review
+14.1 C(E)TRs - community
+A community C(E)TR should be initiated where mental health hospital admission for
+a person is being actively considered or sought. This will help establish whether the
+person's care, education and treatment needs could instead be met effectively and safely
+in the community through additional and/or alternative support and interventions. All
+alternatives should be explored, including consideration of flexible individual payments
+through offering a personal budget, PHB or integrated budget (whether this has been
+offered should be checked) and resources used flexibly to meet people's needs.
+Resources may include specialist health teams, local authority respite/short break
+provision (supported by specialist health teams), voluntary agencies, short breaks and
+self-advocate and carer organisations to provide peer support. The C(E)TR can ensure
+that the personal and long-term impact on quality of life and an individual's human rights
+are given high priority alongside the financial cost of appropriate intervention.
+Hospitals should only be used when not to do so would place the individual or others
+at risk of significant physical, emotional or psychological harm. This decision should be
+based on a comprehensive risk assessment by a multidisciplinary team (MDT), adhering
+to locally agreed protocols, within the context of all appropriate legal and procedural
+frameworks. The risk assessment process should reflect levels of evidenced risk and must
+seek to balance the safety needs of local communities against the rights and freedoms of
+the individual.
+A clear, detailed and outcome-focused care and treatment plan should be developed
+as part of the community C(E)TR for all individuals to be admitted to a mental health
+hospital. The plan should specify what issues require further assessment, the value of
+further assessment to the person's pathway of care and why this can only take place in a
+hospital setting.
+Admissions for assessment and treatment should not be used as 'step-down' or
+intermediate placement while planning longer-term community support.
+Planning for discharge and robust commitments to continuing support in a community
+setting should be firmly established and documented before admission.
+Where a person is at the point of 'crisis' action is urgent and it is unlikely a community
+C(E)TR can be set up quickly enough to direct this. However, even in urgent
+circumstances an assertive, fast and measured review needs to be undertaken to
+safeguard against the person being admitted unnecessarily to an inpatient service. A
+meeting, possibly virtually, should be set up to engage the person, their family and all
+those around them to think creatively about what potential alternative supports and
+interventions could be put in place. This does not constitute a community C(E)TR and
+should not be referred to as such. Appendix 8 outlines the local area emergency protocol
+38
+Dynamic support register and Care (Education) and Treatment Review
+(LAEP) that was used by Plymouth Clinical Commissioning Group to identify alternatives
+to hospital admission if appropriate. Should such people be admitted, the post admission
+C(E)TR process should be followed (see Table 2 and section 14.2).
+Discussions around the person and family's support needs should consider the person's
+advocacy needs, ideally before any community C(E)TR takes place, such as when the
+person is identified on the DSR. Advocacy will support the person's involvement in
+and understanding of the C(E)TR process and its aim of avoiding admission whenever
+possible; it should also support family carer involvement whenever possible. Where
+admission to hospital is likely, the community C(E)TR can help to describe the ongoing
+advocacy support the person may need during their admission and following discharge.
+See section 16.8 and Appendix 5 for further information on advocacy.
+14.2 C(E)TRs - post-admission if no community C(E)TR held
+If a community C(E)TR has not been possible in advance of admission, a post-admission
+review is carried out - both for those detained under the Mental Health Act and those
+admitted informally.
+This should be within 14 days (10 working days) for children and young people, and 28
+days (20 working days) for adults.
+The purpose of the post-admission C(E)TR is to:
+review the circumstances and route to admission to establish if hospital is the most
+appropriate setting for a person's care or if this could be provided in the community or
+another setting
+establish the purpose of admission, expected outcomes, timescales and expected
+length of stay
+ensure that planning is underway for discharge with preliminary timescales and any
+commissioning that may be required to support discharge (eg housing/workforce)
+begins as early as possible.
+Best practice is to use root cause analysis at this point in the pathway (NHS England
+provides resources for this approach). Learning from unplanned admissions is essential
+to understanding how to prevent these. Root cause analysis should underpin service
+development and local C(E)TRs and DSR processes.
+14.3 Review C(E)TRs - inpatient
+These reviews focus on the safety, care and future planning for people who are admitted
+to and remain in specialist inpatient assessment and/or treatment services.
+39
+Dynamic support register and Care (Education) and Treatment Review
+A person who has had a community C(E)TR but is still admitted to hospital should have
+a repeat review within six weeks if they remain an inpatient, and further repeat reviews
+according to the minimum frequency given in Table 2. These should establish the reasons
+for extended hospital stay, barriers to progression and discharge, and whether the
+correct or most effective treatments are being provided. They should be solution focused,
+looking to find ways to overcome barriers to discharge, and result in agreed actions,
+responsibilities and timelines, and how these will be monitored.
+Ideally before the 'final' pre-discharge C(E)TR and certainly at that one, the panel
+should consider the person's advocacy needs when they leave hospital and what
+statutory entitlement exists for this (see section 16.8 and Appendix 5). A self-advocacy
+organisation may help people build friendships, networks and access to things that help
+them achieve their hopes and ambitions. Post-discharge advocacy is likely to work best
+when it is arranged before discharge, giving the person the opportunity to get to know
+or even choose their future advocate(s).
+For people who are subject to Ministry of Justice (MoJ) requirements, the protocol in
+Appendix 10 supports effective working with the MoJ. It is based on learning from
+MoJ-related barriers to discharge or transfer and enables MoJ monitoring and oversight
+of C(E)TR outcomes for restricted patients with a learning disability, autism or both.
+The appendix also provides MoJ guidance on the information it needs to support the
+decision-making process for discharge. It is important that this is provided as early in
+the process as possible to avoid unnecessary delays from case workers needing to seek
+further information.
+14.4 People in long-term segregation - independent care (education)
+and treatment reviews
+On 5 November 2019, the Secretary of State for Health and Social Care announced the
+urgent review of the care of all people with a learning disability and/or autistic people
+in long-term segregation (LTS) in mental health hospitals. This work was overseen by
+Baroness Hollins.
+People in LTS should have regular C(E)TRs as per the relevant inpatient pathway but are
+also entitled to have an independently chaired review (IC(E)TR). This is a one-off review
+that can take place when a C(E)TR would have been due, and should be aligned with the
+C(E)TR process and timescales to ensure consistency with recommendations.
+For these reviews LTS is defined as:
+'Nursing or caring for a person in enforced isolation, regardless of whether the
+procedures and requirements of the MHA Code of Practice 2015 for long-term
+40
+Dynamic support register and Care (Education) and Treatment Review
+segregation are met. The enforced isolation must have been in place for 48 hours or
+more. It should still be considered segregation even if the person is allowed periods
+of interaction with staff and or peers.' (CQC Thematic review of the use of restraint,
+prolonged seclusion, and segregation for people with mental health problems a learning
+disability and/or autism 2019)
+The Department of Health and Social Care (DHSC), NHS England and the Care Quality
+Commission (CQC) together deliver IC(E)TRs. They follow the same process as for a C(E)
+TR and are co-ordinated by the responsible commissioner, but the panel is enhanced by:
+an independent chair appointed by DHSC
+a CQC Mental Health Act reviewer.
+NHS England manages this process nationally, with the NHS regional lead responsible
+for reporting to the national team every six weeks to identify people subject to LTS and
+therefore entitled to an IC(E)TR.
+14.5 Transfers from one hospital to another
+When an individual is transferred from one hospital to another or to a setting within
+the same hospital with a different level of security (an increase or decrease), a C(E)TR
+should take place within six weeks of transfer (see Table 2). The focus of this review is
+the same as for any inpatient C(E)TR, with consideration of whether the clinical aims of
+the new admission are being met and whether there is a clear rationale for why care and
+treatment cannot be safely delivered in the community.
+14.6 When a diagnosis is given during an inpatient stay
+People who are diagnosed as autistic or as having a learning disability during their stay in
+an inpatient unit will need to be added to the Assuring Transformation database and are
+entitled to a C(E)TR. This review should be arranged in line with the post-admission C(E)
+TR timescales (10 working days for children and young people and 20 working days for
+adults) (see Table 2).
+14.7 When the removal of a diagnosis is being considered during an
+inpatient stay
+The assessment and formulation process when a person is admitted to an inpatient unit
+may lead the clinical team to consider removing or changing their diagnosis of autism
+or a learning disability. A C(E)TR should be undertaken before any final decision (see
+Table 2) to ensure the individual, their family and advocate have been included in the
+decision-making process and that the impact of the change on their care, education and
+treatment has been fully considered. Removal of a diagnosis will mean the person no
+longer meets the requirements to be included in the Assuring Transformation database.
+41
+Dynamic support register and Care (Education) and Treatment Review
+15. Access to specialised children and young
+people mental health services (CYPMHS)
+Any child or young person who is at risk of admission, given the nature of their mental
+health needs, should first have had a planned community CETR. All relevant agencies in
+the local area must be invited to participate in this review (including education, health
+and social care). (The exception is where admission would be via the criminal justice
+system, from court or prison, when a post-admission CETR only would apply.)
+If the outcome of a community CETR is that referral to specialist NHS commissioning
+for access to a secure or CYPMHS bed is the appropriate option, the CETR will have
+established a foundation for the access assessment (as described in the NHS standard
+contract and service specification for NHS responsible commissioners for children and
+young people and adults). These assessments determine the most appropriate placement
+to meet the person's mental health need and provide the level of relational security they
+require.
+For children aged under 18, integration of the CETR process and access assessment
+ensures the person's whole care pathway is considered and will help widen the range
+of treatment options and support available to the child, young person and their family.
+It further ensures that all alternatives to secure provision are explored before a secure
+setting is agreed as the appropriate placement.
+42
+Dynamic support register and Care (Education) and Treatment Review
+16. The review process
+This section should be read together with the C(E)TR code and toolkit.
+The ICB will be responsible for overseeing implementation and co-ordination of C(E)TRs.
+All reviews should be a positive and inclusive experience, adhere to a prescribed level of
+quality and result in the best outcomes for the person being reviewed.
+The review process should complement the overall care pathway for the person,
+including the multidisciplinary team (MDT) process and commissioner oversight visits.
+While the C(E)TR meeting will likely take place on one day, preparation and follow-up
+work will be required to ensure the review best meets the needs of the person. The panel
+should be flexible about the agenda and as far as practicable meet the person at a time
+that is convenient for them.
+The expectation is that C(E)TRs take place face-to-face. The opportunity to meet
+the person and see their environment is essential for understanding their day-to-day
+experience.
+If a panel member has good reasons why they cannot attend in person, then a hybrid
+method (virtual and face to face) should be considered where there is no alternative and
+this will not undermine the quality of the review.
+If family, carers or professionals from relevant agencies cannot attend in person, their
+virtual attendance should be considered on a case-by-case basis.
+16.1 Sit and see
+The responsible commissioner is required to undertake an oversight visit every six weeks
+for children and every eight weeks for adults they are commissioning services for, to
+ensure their safety and wellbeing.
+At the last oversight visit before a planned C(E)TR, the commissioner should undertake a
+'sit and see' observation to inform the C(E)TR.
+The precise timing of planned C(E)TRs should consider when the person's next oversight
+visit is due, as well as other meetings, to ensure that they are receiving oversight of their
+care in a planned way.
+16.2 C(E)TRs and multidisciplinary team approach
+It is important to note the recent changes to the Care Programme Approach: NHS
+England position statement. While recommendations from C(E)TRs have previously been
+integrated into CPA meetings, this should continue within the MDT approach in the
+absence of CPA reviews.
+43
+Dynamic support register and Care (Education) and Treatment Review
+C(E)TRs are not MDT reviews, though they will cover many of the same core areas and
+can inform the local MDT process.
+The differences in C(E)TR emphasis and process are:
+provide a degree of independent scrutiny; they involve independent clinical experts and
+experts by experience
+challenge elements of the care and treatment plans where appropriate
+are chaired by and directly involve the responsible commissioner
+routinely involve local authorities.
+It is important to define the relationship between C(E)TRs and MDT meetings. The
+outcomes of a person's C(E)TR should feed directly into the MDT process, and be used to
+inform revision of the MDT plan for that person.
+The responsible clinician is responsible for completing MDT plans and sharing them with
+others, including the individual and their family. They also have overall accountability for
+the implementation of the agreed actions from a C(E)TR and for follow-up.
+MDT meetings subsequent to a C(E)TR will review whether actions have been completed,
+with progress fed back to the C(E)TR panel chair at agreed intervals. The person and their
+family will also be kept updated on progress.
+There can be benefits and challenges to holding a C(E)TR on the same day as an MDT
+review meeting. Generally, they should only be if this is the preference of the individual
+and their family. Information should be provided about the possible advantages and
+disadvantages of having both reviews on the same date. Advantages may include
+professionals and family being more likely to attend, and the person only having to
+have one day of meetings and not having to repeat any clinical updates. However, the
+MDT review could reduce the amount of time the C(E)TR panel have to talk to people
+individually and make observations on the ward. The focus of an MDT review will also be
+quite different to that of a C(E)TR and will not include independent scrutiny of the care
+the person is receiving.
+16.3 Before the review
+1. The responsible commissioner must ensure that informed consent has been sought
+from the person whose review it is (and for a child or young person, from those
+with parental responsibility as well as the child/young person) or for those who lack
+mental capacity, a holder of a valid and applicable Lasting Power of Attorney or a
+court appointed health and welfare deputy, both for the process and the required
+information sharing that enables it (see section 2.4: Consent and section 2.5:
+Information governance).
+44
+Dynamic support register and Care (Education) and Treatment Review
+2. The person should be supported so that they understand the process, are giving
+informed consent and have time to consider their views and feelings, using My C(E)
+TR planner where appropriate. This should include a discussion about the best way to
+conduct the review, including whether running it over more than one day would best
+meet the person's needs.
+3. Consideration should be given to equality and diversity, including any protected
+characteristics - both in the planning process and when appointing a panel to
+undertake the review.
+4. Consideration should be given to involving an interpreter or British Sign Language
+signer, or someone who can communicate in the person's preferred communication
+method, to ensure the person and/or their family members are appropriately
+supported to engage in the review, and arrangements made accordingly.
+5. The family, wherever appropriate, will be given information about the C(E)TR) process.
+This may involve the panel chair or one of the expert advisers telephoning them to
+discuss the process (the expert by experience may be best placed to do this, but this is
+not expected in every case).
+6. The commissioner will liaise with the inpatient or local community service to find
+an appropriate venue for the review, one that makes it easy for the person and
+their family to take part. If the family cannot be at the review in person, secure live
+video communication or phone facilities should be made available to enable their
+participation.
+7. All parties involved in the review will be sent information by the designated
+administrator explaining the process. A diverse range of expert advisers (both clinical
+experts and experts by experience) who meet the 'expert adviser' specification
+(provided in the C(E)TR code and toolkit) will be appointed.
+8. In identifying both experts by experience and clinical experts, the responsible
+commissioner or their delegated co-ordinator should ensure that the knowledge,
+skills and experience of the experts are commensurate with the needs and diagnosis
+of the person and/or any particular issues that warrant enhanced expertise. For
+example, a psychiatrist's input may be useful for contentious medication issues, or a
+clinical psychologist where issues concern behaviour management or the need for
+psychological therapies.
+9. Consideration should be given to whether an education and/or social care expert
+should be included in the C(E)TR panel.
+45
+Dynamic support register and Care (Education) and Treatment Review
+10. Where the review will discuss issues of a particularly sensitive/emotive nature,
+the responsible commissioner should be aware of these when selecting potential
+reviewers and ensure they have appropriate support during and following the review.
+11. All C(E)TR panel members will be expected to complete mandatory C(E)TR induction
+training provided via Health Education England.
+12. Review panel members will receive information about who is sitting on the panel and
+they will be working with, and the appropriate review tools.
+13. The person having the review and family members where appropriate will be sent the
+names, roles and, where possible, photographs of those on the review panel.
+14. Where possible, a designated administrator should be identified to ensure timely and
+thorough co-ordination, forward planning and communication for C(E)TRs.
+16.4 Who to invite to the review
+The person whose review it is. It is vital that the person is fully supported to
+participate in their review in whatever way they prefer.
+Parents or those with parental responsibility for children and young people.
+They should always be part of the review (unless there are exceptional circumstances or
+significant safeguarding reasons to prevent this; these should be clearly noted).
+Family carers. Unless a person who has capacity determines they do not wish their
+family to be involved or there are exceptional circumstances or significant safeguarding
+reasons to prevent this, family carers and/or members should always be invited to
+participate in the review.
+Siblings. Consider the engagement and involvement of siblings in the C(E)TR process.
+They often play a significant part in the lives, care and support of their brother or sister.
+They can also often bring a unique perspective about the difficulties that their sibling may
+be experiencing and what is important to and for them.
+Commissioners responsible for the person's care following discharge (includes
+local authority colleagues or joint commissioners). Their involvement in the review
+is essential for planning for the future and understanding and resolving any barriers to
+progress.
+Responsible clinician. The responsible clinician is an essential attendee. They are
+clinically accountable for the person's care and treatment and have an essential role in
+progressing recommendations.
+Senior nurse/clinical staff. Those senior nurse and clinical staff who are involved in the
+daily care and treatment of the person should be invited and must attend the review.
+46
+Dynamic support register and Care (Education) and Treatment Review
+Advocate. The involvement of a person's advocate in the review is essential, should
+they have one. An independent mental capacity advocate (IMCA), independent mental
+health advocate (IMHA) or professional advocate may also be needed for a person in the
+community who lacks friends and family to support them through the review process
+(see section 16.8 and Appendix 5).
+Children and young people's keyworkers. By March 2024, all children and young
+people at risk of admission to hospital or in hospital should have a named keyworker.
+The keyworker should always be invited and must attend the CETR. Keyworkers can play
+an important part in the arrangement and delivery of, and follow-up from, CETRs. In
+particular, they can help ensure links with and strengthen the consideration of education
+in CETRs for children and young people who not in school.
+Senior children's intervenors/senior intervenors. Senior children's intervenors work
+with young people with the most complex needs and discharge planning challenges,
+often those who have longer lengths of stay in hospital. Senior intervenors work
+with adults who are in the most restrictive types of care. Their role is to help facilitate
+discharge by working with systems to remove barriers. They should be invited to all C(E)
+TRs.
+Social care
+Children's social care. Each local area has individual arrangements for the organisation
+of children's social care provision, and it can be complex to ensure the right people are
+invited to the review. If the child or young person has a named social worker, the request
+to attend should be sent to them and their manager. If they do not, it should be sent to
+the director of children's services.
+While it is important to ensure a social worker who knows the child and family is
+involved, it is as important to ensure that someone senior enough to make decisions
+about service provision and support is also part of the review.
+Social care transitions team. Adult social care should be made aware of children and
+young people who have an education health and care plan (EHCP) or are likely to require
+services as adults, as they begin to 'prepare for adulthood' in year 9 of school. Young
+people begin to transition to adult services across health and social care from the age of
+16 and both adult and children's social care should be invited to a young person's C(E)TR.
+Adult social care. If the person has a named social worker, the request to attend a
+CTR should be sent to them and their manager. If they do not, it should be sent to the
+Director of Adult Social Care Services. While it is important to ensure a social worker who
+knows the individual is involved, it is as important to ensure that someone senior enough
+to make decisions about service provision and support is a part of the review.
+47
+Dynamic support register and Care (Education) and Treatment Review
+Education
+Local authority education department. Each local area has individual arrangements for
+the organisation of children and young people's education provision. It can be complex
+to ensure the right people are invited to the review - both those involved most directly in
+the child or young person's education and those who can make decisions about future
+provision, support or services.
+Where the child has an EHCP or is having an education, health and care assessment,
+the local area's special educational needs (SEN) team - the team who oversee education
+placements and other decisions about education provision - should always be involved in
+a CETR. It is not enough to only invite someone from the child or young person's current
+education setting as they cannot make decisions about new or enhanced educational
+provision.
+Education provider (multi-academy trust/school/college/pupil referral unit, etc).
+Those who provide a young person's education often have unique knowledge about and
+understanding of the young person. They are important contributors and must attend a
+CETR.
+For some children and young people, education provision may have broken down
+because of behaviours that challenge or a mental health crisis, and this may in turn lead
+to the need for a CETR. Even if the child or young person is no longer receiving a direct
+service from a school, college or other type of education provider, their former education
+provider's contribution to a CETR will be invaluable.
+Community teams
+Children and young people mental health services (CYPMHS)/community mental
+health or learning disability team. All those involved with the child or young person
+from the CYPMHS, community mental health or learning disability team should be invited
+to the review. Again, they are likely to have essential information about previous support
+and intervention.
+Housing authority or provider. Where appropriate Adults with a learning disability
+or autistic adults may live in their own home with care and support or a supported
+living arrangement, or will be going to live in their own home or a supported living
+arrangement when they are discharged. If so, a representative from the relevant team(s)
+should be invited to contribute to the review.
+Youth offending team (YOT). Where appropriate For children and young people who
+are known to (or identified by) the youth offending service, any relevant and involved
+professional from the YOT should be invited. Local authorities will have different models
+for the oversight of YOTs, and it should not be assumed that YOTs are part of a wider
+children's services department and that an invitation to the director of children's services
+will be seen as an invitation to a YOT manager.
+48
+Dynamic support register and Care (Education) and Treatment Review
+Key healthcare providers. A broad range of healthcare professionals is likely to be
+involved with people with a learning disability and autistic people, including community
+paediatricians for children and allied services such as learning disability services,
+occupational therapists and speech and language therapists. The review needs to
+understand the types of assessments and interventions a person has received to support
+their communication, particularly for those with behaviours that challenge.
+Voluntary and community sector organisations providing services or support.
+where appropriate Voluntary and community sector providers may have access to
+information or assessments of help to the C(E)TR process.
+16.5 How the review is conducted
+1. The review will be carried out in a consultative and discursive manner, and has the
+aim of exploring solutions to care and treatment issues that avoid admission or
+unblock barriers to discharge. But at the same time it is based around a framework of
+important themes and specific issues to be inquired after and, if necessary, challenged
+(see section 16.7).
+2. The C(E)TR review team have no regulatory powers but are empowered on behalf of
+the person with a learning disability or autistic person to ask questions based on a
+human rights and least restrictive framework. The team have a role in constructively
+but robustly challenging inappropriate or ineffective practice, passing on any concerns
+to relevant agencies, supporting cultural change and a shift to a community care
+model.
+3. The review will be expected to take a minimum of a day to complete; the time needed
+for preparation (see section 16.3) and follow-up (see section 16.6) will be additional.
+C(E)TRs may be carried out over more than one day if this better meets the person's
+and their family's circumstances and is their preference.
+4. The panel will meet everyone involved and set out the reason for holding the C(E)TR
+and the principles of a C(E)TR. They will discuss and agree the plan for the day with
+the current and future care team.
+5. The review team will meet at the start of the day to discuss the plan for the day
+and how they will manage the review, and to ensure they have a preliminary shared
+knowledge of the person whose review it is. A one-page profile or similar 'pen
+portrait' will be provided (a one-page profile template is available in the My C(E)TR
+Planner booklet).
+49
+Dynamic support register and Care (Education) and Treatment Review
+6. During the course of the day reviewers will meet the person whose care and treatment
+is being reviewed unless the person does not want to or they lack capacity and it has
+been assessed under the MCA that this is not in their best interests. This meeting
+should be held in an environment the person feels comfortable in and they should be
+supported by someone of their choice.
+7. Reviewers will also meet the family unless they:
+a do not wish to participate
+b the person whose review it is has not consented to their involvement.
+Where family members wish to be accompanied by their advocate, this should be
+supported, subject to the consent of the person whose review it is and that the
+purpose of support from an advocate is in line with the principles and spirit of C(E)TR.
+If the person lacks capacity, a best interest decision will need to be taken on the
+involvement of the family and a family advocate.
+8. The person and their family should be offered the choice of attending the review
+virtually, via secure video communication, rather than in person; this may be their
+preference or more convenient to them, particularly if they would need to travel long
+distances to attend in person. Meetings with them could also be held on a different
+day from the review day if this is more convenient to them.
+9. Participants' language and communication needs should be considered.
+10. The responsible clinician, senior nurse, advocate (should the person have one) and
+social care representatives must attend the review. For children and young people,
+their keyworker and social care and education representatives must also attend.
+Staff who provide direct day-to-day care and support to the individual, and often
+know them best, should be present at the C(E)TR; the review will seek information on
+specific diagnoses and formulations, including physical healthcare problems, the use of
+medication and any restrictive practices.
+Views and input from other relevant professionals should be sought if they cannot
+attend in person.
+11. For those people who have been admitted, the C(E)TR is not an inspection of the
+mental health hospital. The review will seek a picture of the person's current inpatient
+care - the ward they are on and an understanding of the therapeutic interventions
+they are receiving.
+50
+Dynamic support register and Care (Education) and Treatment Review
+12. Records will be reviewed (including care plans, person-centred plans, positive
+behaviour support plans, medication cards, communication passports, CPA review
+notes, health action plans, First Tier Tribunal reports). The service provider must
+provide all relevant information at the beginning of the day and where possible in a
+format that is clear to all members of the review team.
+13. For those people who have been admitted, members of the 'aftercare' team should
+be interviewed, eg community psychiatrist, community nurse, social worker, education
+provider.
+14. The review team will discuss with the wider professional team and the person whether
+there are more appropriate, effective and safe alternatives to hospital admission, and
+whether the person could be discharged from inpatient hospital care.
+15. The review panel will meet everyone at the end of the review to present and discuss
+their findings and recommendations, and clarify who should be named as having
+responsibility for actioning each recommendation and within what timescale. The aim
+is for people to leave C(E)TRs with an understanding of what will be implemented,
+when and by whom, and how this will be followed up.
+16. The chair is responsible for logging key findings and recommendations in the key lines
+of enquiry (KLOE) report (see section 16.7).
+17. Before concluding the review the chair will discuss with the panel what
+communications additional to the circulation of the KLOE report may be needed after
+the day (eg if a concern is raised, to confirm that action has been taken).
+18. The chair is responsible for nominating the most appropriate person to feed back
+the findings and recommendations to the person and/or their family in a format that
+meets their communication needs. The KLOE report should be circulated within two
+weeks of the review meeting.
+19. Recommendations must be clear, time-limited, embedded and followed up through
+local systems such as MDT meetings and ward rounds, and any responsibility for
+action/escalation should be documented at the time of the C(E)TR.
+20. The commissioner is responsible for raising and escalating any quality or safeguarding
+concerns with relevant agencies, and where necessary the relevant host commissioner.
+51
+Dynamic support register and Care (Education) and Treatment Review
+16.5.1 Considerations for children and young people - maintaining contact
+between them and their families
+People have a right to family life, and any period of admission and separation from family
+and friends can be difficult and stressful for all involved, particularly when the person is
+placed at a distance from their family and community. Children and young people must
+be supported to maintain contact with their family, friends and local community. The
+presumption should always be that families want to be in touch with their child and vice
+versa.
+Some families, especially those whose child or young person is placed at a distance, may
+need financial help to visit their child. The provision of financial support to cover travel
+costs should be considered at the community or post-admission CETR if admission is
+agreed to be the appropriate option.
+For children and young people who have communication impairments, particularly those
+with speech impairments that make phone calls difficult, careful consideration should be
+given to how contact can be supported, eg through use of media solutions such as Skype
+or FaceTime.
+For more information on the importance of maintaining contact, please refer to the
+Keeping in Touch with Home report from the Challenging Behaviour Foundation and
+Mencap.
+The legal framework around maintaining contact between children and young people
+and their families and communities is complex. Different legislation applies to different
+statutory organisations.
+The UN Convention of Rights of the Child (1989) article 9.3 states 'State Parties
+shall respect the right of the child who is separated from one or both parents to
+maintain personal relations and direct contact with both parents on a regular basis,
+except if it is contrary to the child's best interest.'
+The Mental Health Act 1983 Code of Practice (Section 19) sets out the
+requirements to support families to be informed, involved and in touch with their child
+or young person who is being assessed and treated.
+Local authorities are under a duty in the Children Act 1989 (Schedule 2, paragraphs
+10 and 15; and paragraphs 8A and 16) to promote contact between families and
+children or young people who are children in need, who are looked after or who have
+been living away from home because they have been admitted to hospital for three
+months of more. They must help unite families if the authority's opinion is that this is
+necessary to safeguard or promote the child or young person's welfare.
+52
+Dynamic support register and Care (Education) and Treatment Review
+16.6 Following the review
+1. The person, family members and involved professionals will receive a letter thanking
+them for their involvement in the review process and clarifying how they will be kept
+updated.
+2. Review team members will be offered debriefing/support; for the expert by experience
+this may be through a hub that supports their recruitment and training. Involvement in
+a C(E)TR can be a difficult even traumatic experience and all team members must have
+access to debriefing/support beyond the review day.
+The commissioner is responsible for ensuring that:
+the draft report is agreed by the review panel and sent to those involved in the C(E)
+TR within two weeks (10 working days) of the C(E)TR taking place
+the report is communicated in line with NHS Information Security requirements
+the panel are provided with information about how they need to destroy any
+personal information they have been given in the course of the review; the method
+to be used will be discussed and agreed at the end of the review process
+panel members have been provided with a code of conduct in the handling of
+personal information and data that is subject to non-disclosure and requires secure
+handling.
+3. The chair will feed back required data to the local/regional team on the outcome.
+4. Individuals named against specific recommendations in the C(E)TR report are
+responsible for undertaking the agreed actions within the recorded timescales. Clinical
+accountability for these actions sits with the responsible clinician.
+5. The responsible commissioner must retain overall oversight of the action plan agreed
+by the review panel. Where they have concerns that this is not being achieved, they
+will use the relevant contract management processes and/or escalate their concerns to
+the ICS oversight panel.
+6. The commissioner will follow up any specific quality or safeguarding concerns the
+C(E)TR has identified and ensure that these are raised as appropriate through local
+reporting procedures and governance pathways, with feedback to the panel members
+as appropriate.
+7. The person and their family will be informed of progress on actions, including towards
+discharge, by the commissioner or a nominated person (eg the keyworker).
+8. The KLOE report (see section 16.7) will be submitted and stored securely as part of the
+individual's medical record as agreed locally (by the commissioner).
+53
+Dynamic support register and Care (Education) and Treatment Review
+9. Following either a planned or unplanned pre/post-admission C(E)TR, where the
+outcome is admission to hospital, the individual must have a further C(E)TR within the
+defined period set out in Table 2 above (or on request).
+10. For follow-up C(E)TRs, the person should be consulted as to whether they would
+prefer the same panel to undertake their next review. There may be some cases where
+it is considered beneficial to have a different panel, although the individual's wishes
+should be considered when deciding. If a panel does undertake a repeat C(E)TR for a
+person, they must ensure each C(E)TR is person-centred, individualised and impartial.
+16.7 Key lines of enquiry responsibilities
+The C(E)TR should combine free discussion and exploration of significant care and
+treatment issues at the same time as being based around a framework of important
+themes and specific issues to be inquired after and, if necessary, challenged.
+In common with the approach taken by the CQC, the C(E)TR policy uses key lines of
+enquiry (KLOE) to guide and structure the review process alongside broader discussion
+and decision-making.
+The C(E)TR KLOE guide the review so the final report provides information and evidence
+to enable a summary, and reflects to the person:
+Am I safe?
+What is my current care like?
+What is my daily life like?
+Are my physical health needs being met? (see section 16.9)
+Is there a plan in place for my future?
+Do I need to be in hospital for my care and treatment?
+Each KLOE asks that relevant quotes from the individual and family are recorded to
+capture a more personalised understanding of the person and their views.
+Each KLOE consists of a main question followed by examples of probe questions that
+reviewers can use to explore and gather information on the main issue. Each KLOE will
+also suggest sources of evidence that the team might look or ask for to substantiate their
+findings.
+Though many KLOEs will apply across all people and settings, some of the probe
+questions are specific to children, people in secure settings, in a non-secure hospital or in
+the community.
+The primary emphasis is on facilitating a comprehensive and focused discussion, not on
+the completion of pre-determined specific questions.
+54
+Dynamic support register and Care (Education) and Treatment Review
+16.8 Importance of advocacy
+People should always be supported to self-advocate wherever possible, as listening to
+people and their families, responding to their needs and choices, and ensuring people's
+legal and human rights are upheld are integral to the DSR and C(E)TR processes.
+A key underpinning principle of advocacy is that it is independent of all other statutory
+and non-statutory services, including the service providing the person's care.
+Independent arranged advocacy can include statutory advocacy - such as from an
+independent Care Act advocate (ICAA), independent mental capacity advocate (IMCA)
+or independent mental health advocate (IMHA) - general or community advocacy, and
+advocacy provided by a self-advocacy organisation.
+Statutory advocacy covers specific things (see Appendix 5), but people with a learning
+disability and autistic people can also benefit from the support of peers (through a self-
+advocacy organisation, for instance) or general advocacy, to provide ongoing rather than
+episodic or issue-based support. The C(E)TR panel should feel confident to suggest this
+where appropriate and use the C(E)TR to explore how it could be provided.
+The responsible commissioner should ensure that the chosen advocate(s), regardless of
+whether they are paid or unpaid, are invited to the C(E)TR and given adequate time to
+plan and prepare for this, such as having enough time to spend with the person before
+and after their C(E)TR, as well as on the day. Advocacy organisations will require adequate
+notice of the C(E)TR for the advocate to support the individual to prepare for the C(E)TR. If
+the person would like their advocate to be present for the whole C(E)TR, then this should
+be made clear to the advocacy provider.
+If advocacy is not provided as appropriate the C(E)TR panel should raise their concern
+and make a specific recommendation to the person's commissioner and local authority to
+ensure this is resolved as a matter of urgency.
+See Appendix 5 for more information about C(E)TR statutory advocacy entitlements.
+Accessible resources to support the person and their advocate can be found at
+www.england.nhs.uk/my-ctr. Advocates can explore additional resources at
+www.england.nhs.uk/learning-disabilities/care/ctr/commissioners
+55
+Dynamic support register and Care (Education) and Treatment Review
+16.9 Importance of physical health
+The C(E)TR review process must consider people's physical health needs on a par with
+their mental health needs. People with a learning disability and autistic people are more
+likely to die earlier than the general population and many of these deaths are avoidable
+(LeDeR annual report 2021). The safe and wellbeing reviews also identified gaps in care in
+relation to physical health and wellbeing.
+The C(E)TR panel are in a unique position to review the physical healthcare the person is
+receiving as well as the skills and experience of the staff supporting them. The physical
+health section of the KLOE provides guidance on considering general physical wellbeing
+and medication (including STOMP and STAMP).
+The skills and experience of the panel are important in considering the physical health of
+the person. It may be necessary to invite additional clinical experts to be part of the panel
+if there are specific or complex physical health or medication needs.
+56
+Dynamic support register and Care (Education) and Treatment Review
+17. Leaving hospital: the discharge
+process and standards
+Part of the C(E)TR's role is to ask whether people need to be in hospital for their care and
+treatment, and to identify and find solutions that overcome barriers to discharge from
+hospital.
+As previously stated, the C(E)TR does not decide whether an individual is to be
+discharged or not. This is the responsibility of the treating clinician (responsible clinician
+for those detained under the MHA) and the decision will be taken through the usual
+review processes. Generally, it is not appropriate for a discharge decision to wait for a
+C(E)TR to first be convened.
+However, what happens while a person is an inpatient lays the foundations for effective
+discharge. The community or post-admission C(E)TR are therefore essential for setting
+out clear treatment pathways and planning for discharge from the point of admission. It
+may also be advisable to hold a post-discharge community C(E)TR to ensure that within
+the community the recommendations made during the final inpatient C(E)TR are being
+adequately followed up.
+Discharging autistic people and people with a learning disability from hospital is not
+always a straightforward process. Many factors can be barriers to or delay people leaving
+hospital, including legal and financial issues, multi-agency disagreements or concerns
+about supporting people whose behaviours are seen as 'higher risk' in the community,
+lack of housing or disagreements over future plans.
+Appendix 7 provides a 12-point discharge plan, and the C(E)TR code and toolkit provide
+a set of discharge standards and a stepped model for discharge, to help commissioners
+and all involved navigate this process, and enable a better experience for children, young
+people and adults and their families.
+It is a person's fundamental right to be fully involved in the planning for their discharge.
+Information to help someone with this is included in the easy read independence pack.
+57
+Dynamic support register and Care (Education) and Treatment Review
+18. Assurance and oversight: ICS
+oversight panels
+For many people, the C(E)TR process is helpful and supports their pathway, including
+into hospital and discharge. However, we recognise that despite having regular C(E)TRs,
+some people do not have an optimum experience: their length of stay can be long and/or
+extremely restrictive, and occasionally their discharge is delayed.
+The safe and wellbeing reviews introduced the concept of an ICS oversight panel to
+oversee and scrutinise the reviews. System feedback is that this process is helpful and
+supports the ICS and ICB in understanding their population and ensures they are sighted
+on individuals who do not have good experiences; those who may be in the wrong place
+or whose discharge is delayed.
+We intend to maintain the concept of a senior level ICS oversight panel as part of the
+C(E)TR process.
+Each ICS must develop (or maintain) an oversight panel that includes:
+learning disability and autism senior responsible officer/ICS named executive lead
+at least one expert by experience
+medical director
+social care/local authority senior representative
+provider collaborative representation
+senior clinician with expertise in learning disability and autism.
+Panels must convene at least quarterly (more frequently if helpful) and should review the
+C(E)TRs of people for whom concern has been expressed. This group must include, but is
+not exclusive to, people:
+with long stays:
+for children and young people, with a stay of six months or longer
+for adults, with a stay 12 months or longer (unless restricted by MoJ)
+in long-term segregation or who are regularly secluded or subject to very restrictive
+practices
+who are placed in units or wards that CQC rates as inadequate
+who have made complaints about care, or their family has, and these have not been
+resolved to the satisfaction of all involved
+for whom a safeguarding referral has been made
+who have requested escalation or their family has
+where the responsible clinician has requested escalation
+where the responsible commissioner has requested escalation
+where the advocate has requested escalation
+who have declined a C(E)TR on two or more occasions.
+58
+Dynamic support register and Care (Education) and Treatment Review
+The ICS oversight panel should review the C(E)TR report and actions, assure themselves
+that the person is safe and well, and consider if any further action is needed to support
+the person's progress or discharge.
+The panel should specifically consider:
+the care and treatment the person is receiving
+the person's physical health and wellbeing
+the person's safety; including to confirm appropriate measures have been taken in
+response to any safeguarding concerns
+for those whose discharge is delayed, whether all partners are working to support
+discharge as soon as possible
+for those subject to significant restrictions, whether measures are in place to reduce
+these as soon as possible
+for those considered to have been placed in the wrong environment, whether
+mitigating safeguards are in place to support their care and wellbeing
+whether the person's human rights are being upheld.
+ICS oversight panels should also:
+take into account all quality assurance intelligence regarding the commissioner service,
+such as host commissioner reports and safeguarding information
+take ownership of any actions that may be needed as the result of a review
+escalate any issues that cannot be addressed at the ICS level to the relevant regional
+team
+evidence how review findings feed into the ICS delivery plan.
+59
+Dynamic support register and Care (Education) and Treatment Review
+19. CETR alignment with other assessment and
+review processes for children and young people
+Children and young people with a learning disability and autistic children and young
+people and their families are likely to experience a myriad of assessment and review
+processes through their life. Many of these assessment and review processes have similar
+principles: multi-agency, person-centred and outcome focused.
+Given the bespoke purpose of a CETR, other assessments or reviews should not usually
+take place at the same time. However, as much of the information collected for and
+discussed in a CETR will be useful for other review processes (eg EHC review) and many
+of the individuals involved in a CETR will take part in other reviews, the sharing of this
+information should be considered, for efficiency and particularly to avoid repetition for
+the person. Discussions in a CETR may also lead to a need for other assessments or plan
+reviews, eg child in need plans or EHCPs.
+Below is a non-exhaustive list of the assessments or plans that children and young people
+may already have in place:
+Special Educational Needs (SEN) support
+Some children and young people may have a special educational need that can be
+supported through the SEN provision provided in a mainstream school placement.
+Children and young people who are receiving SEN support should still have an
+assessment and plan in place as to how their special educational needs will be met
+in school (SEND_Code_of_Practice_January_2015). This is managed through the
+school rather than the local authority. Children and young people whose needs
+cannot be met through SEN support usually require an assessment for an EHCP.
+CETRs should involve education representatives from the child or young person's
+local authority responsible for their educational provision as well as someone from
+their current education provider (school/college/pupil referral unit).
+Education, health and care plans (EHCPs)
+Education, health and care assessments and planning is the statutory assessment
+and planning process for children and young people with special educational
+and disability needs that cannot be met through SEN support. This process is not
+replaced in any way by the CETR but this may provide an opportunity to determine
+the need to review the EHCP, or to initiate an EHC assessment.
+CETRs should involve representatives from the child or young person's local authority
+responsible for their educational provision as well as someone from their current
+education provider.
+60
+Dynamic support register and Care (Education) and Treatment Review
+Children's social care assessment and review
+Children and young people and their families may have been assessed by and be in
+receipt of services or provision from social care.
+Disabled children and young people are considered to be 'children in need' under
+s17(10) of the Children Act 1989. This entitles them to an assessment as a child
+in need. Local authorities will have their own eligibility criteria in relation to their
+services for children in need, and their disabled children's services. Some children
+and young people, after having an assessment of need, may not be considered to
+meet the threshold for service provision and may not be known further to social
+care. If a child or young person is receiving a service from the local authority, this
+will mean they have had an assessment of need, and it has been determined they
+do meet the threshold for provision, and are being provided with service(s) that will
+be being reviewed.
+Services may be provided under a range of different legislation, depending on
+the nature and type of provision. For some children and young people receiving
+regular overnight short break, or shared care support, this may be provided under
+either s17 or s20 of the Children Act 1989. If provision is provided under s20 of the
+Children Act 1989, then the child will also be considered a looked after child (LAC)
+and will have regular LAC or child in care reviews.
+Section 17(ZA) of the Children Act 1989 requires local authorities to assess whether
+young carers within their area have support needs and if so, what those needs are.
+Section 17(ZD) of the Children Act 1989 requires local authorities to assess (if
+certain conditions are met) whether a parent carer within their area has support
+needs and if so, what those needs are.
+Some children and young people may be known to the local authority because of
+safeguarding concerns, or because there is a child protection plan in place. If this is
+the case, then regular case conferences will be taking place to review the plan.
+61
+Dynamic support register and Care (Education) and Treatment Review
+20. Disagreements, escalation of concerns
+and complaints about the C(E)TR process
+20.1 Concerns about lack of engagement from necessary partners
+A successful C(E)TR requires meaningful engagement and participation from all agencies
+involved in the care, treatment, support and education of the individual. The urgent
+nature of many C(E)TRs, particularly community C(E)TRs, may make it challenging for
+agencies to participate and engage fully, but unless they do the development of a clear
+plan that best supports the person is unlikely.
+The ICS should consider how it will manage situations where key partner agencies are
+unable or unwilling to engage and participate. Each ICB will have a lead for learning
+disability and autism, a lead for children and young people and a lead for mental health.
+Their support should be sought in developing local protocols that enable effective
+partnerships and manage challenges.
+20.2 Clinical disagreements
+Clinical disagreement about the appropriate pathway for a person must be resolved
+before planning decisions are made. Local reconciliation panels should be used or set up.
+These should be chaired by a clinical director (medical or nursing) from the local or NHS
+England team, and comprise the individual's responsible clinician, the clinical expert on
+the C(E)TR panel and an independent clinical expert.
+20.3 Disagreements about who is responsible for providing care
+Disagreements between parties about responsibility for future packages of care should
+be escalated to the relevant senior offices to resolve, including the director of nursing
+or chief clinical officer and relevant social care senior director. This is required to prevent
+the disagreement leading to a lengthy inpatient stay where an individual is ready for
+discharge (leading to a delayed transfer of care).
+20.4 Escalation of concerns
+Concerns may be raised by anyone - the person, their family and professionals. Concerns
+may be about:
+staff members:
+their conduct, including their use of physical or chemical restraint
+competency in providing person-centred care
+quality of their documentation
+environmental conditions, eg:
+lack of personalised accommodation
+lack of appropriate environmental stimuli
+lack of resource to meet a person's needs, eg:
+inability to access a social environment
+inability to meet physical health needs through attending primary and secondary care
+62
+Dynamic support register and Care (Education) and Treatment Review
+inappropriate restriction of contact between a child or young person and their family
+and/or friends.
+For concerns about the quality or safety of a service and/or provider, the C(E)TR chair or
+responsible commissioner should:
+note them in the relevant area of the KLOE report, and record the actions being taken
+feed these back to the review attendees, including family and reviewers
+ensure relevant data is appropriately captured and reported
+raise any concerns with the appropriate organisation/individual, eg the provider, CQC,
+local authority lead commissioner for establishment, as well as local forums, and ensure
+relevant paperwork is completed and actions are taken to ensure maintenance of high
+quality care
+ensure they are shared through the relevant NHS England or ICS internal reporting
+mechanisms, such as quality surveillance groups (QSGs), to ensure that where an area is
+commissioned by several commissioners relevant concerns are shared appropriately.
+The relevant route to escalate concerns will depend on the nature of the concern (or
+disagreement) but routes include:
+CQC
+local authority safeguarding team
+ICS contracting team
+provider collaborative lead
+local NHS QSGs
+NHS England contracting team
+Ofsted.
+20.5 Complaints relating to the C(E)TR process
+Complaints from a person, their family or providers about the C(E)TR process will be dealt
+with in line with usual NHS complaints processes.
+The first point of contact for complaints or concerns should usually be the C(E)TR chair
+(or the responsible commissioner in the event they are the delegated chair). They should
+seek to resolve any issues and agree any remedial actions.
+If they cannot do so, the concern/complaint should be escalated as set out in the local
+NHS policy. This will be made available to the people attending the C(E)TR.
+Where complaints are not resolved to the satisfaction of all concerned parties, the person
+should be referred to the ICS oversight panel for review (see section 18).
+Information to support people with a learning disability, autistic people, their family or
+carers to make a complaint are available through the Ask Listen Do project.
+63
+Dynamic support register and Care (Education) and Treatment Review
+21. Roles and responsibilities - provider and
+commissioning functions
+21.1 Provider collaboratives (provider function)
+Providers have existing responsibilities set out in the C(E)TR policy. These are:
+Ensure that the C(E)TR process is implemented as set out in this policy; this includes
+engaging with the community C(E)TR carried out before admission (unless the risk of
+delaying admission by doing so is deemed too great).
+Work in partnership with:
+ICSs and commissioners to facilitate C(E)TRs
+people, their family, carers and partners before, during and after the C(E)TR
+local authorities to deliver discharge/transfer plans.
+Support people with a learning disability and/or autistic people and their families
+through the C(E)TR process, including by promoting their understanding of the review
+process, and with consent and best interests as appropriate, by ensuring adequate time
+and preparation for this.
+Implement agreed relevant C(E)TR recommendations; take actions from C(E)TRs into
+ward rounds/other clinical meetings.
+Use learning from C(E)TRs and the independent opinion to improve the quality of the
+services they provide.
+Audit the C(E)TR process and outcomes, and people's experiences of C(E)TRs.
+Act on relevant concerns flagged by a C(E)TR and report actions back to the panel
+chair, the person and their family.
+Challenge any blockages the C(E)TR identifies that are the result of funding or
+community barriers outside the provider's control.
+21.2 Provider collaborative - NHS lead provider (commissioning
+function)
+Ensure that people who are entitled to a C(E)TR have been added to the DSR.
+Ensure that all providers within the collaborative are aware of the C(E)TR policy and
+their responsibilities.
+Ensure adherence with agreed guidance and standards, with specific responsibility for
+ensuring completion of the post-admission and repeat C(E)TRs in line with policy.
+Chair the C(E)TR or delegate authority to an appropriately recruited chair.
+Facilitate access to clinical experts and experts by experience to C(E)TRs in line with the
+policy.
+Ensure any immediate actions resulting from reviews are followed up.
+Track and monitor delivery of C(E)TR recommended discharge/transfer plans.
+Take an active role in the community C(E)TR carried out before admission (unless the
+risk of delaying admission by doing so is deemed too great).
+64
+Dynamic support register and Care (Education) and Treatment Review
+Ensure that a quality assurance process is in place for monitoring delivery and
+implementation of C(E)TR recommendations - providing assurance to the regional
+team.
+Respond to concerns escalated on an individual C(E)TR basis or where C(E)TR
+intelligence highlights broader concerns.
+21.3 NHS England regional teams
+Maintain an overview of concerns raised by C(E)TRs, including those that have resulted
+in alerts to safeguarding and CQC through ICS oversight panels.
+Respond to escalated concerns relating to a multi-site independent sector provider for
+which the region has oversight responsibility.
+Ensure that a quality assurance process is in place for monitoring delivery and
+implementation of C(E)TR recommendations - providing assurance to the national
+team.
+21.4 Local authorities (adults and children)
+Ensure the local area engages in C(E)TRs for local children, young people and adults
+known to them.
+Ensure any allocated actions resulting from reviews are followed up and reported on.
+Work in partnership with ICSs/NHS England to enable successful implementation of
+policy and guidance.
+Ensure any allocated actions resulting from reviews are followed up and reported on.
+Ensure where the person lacks capacity and is being discharged into the community
+with a comprehensive care plan that this follows the deprivation of liberty (DoL)
+safeguards authorisation process.
+65
+Dynamic support register and Care (Education) and Treatment Review
+22. Glossary
+Approved mental
+Mental health professional who has received specific
+health professional
+training in the legal aspects of mental health assessment
+and treatment and been approved by a authority to carry
+out certain duties under the Mental Health Act.
+Clinical expert
+Someone with a relevant health professional qualification
+and active registration with a relevant professional body.
+They should also hold professional indemnity insurance that
+covers them to practise on an independent basis.
+Dynamic support
+Dynamic support describes a range of personalised support
+and services that are flexible and respond to the changing
+needs of a person and their family to avoid inappropriate
+admission to a mental health hospitals.
+Dynamic support
+Dynamic support processes are the pathways to provide
+processes
+timely and multi-agency dynamic support to children and
+adults who are autistic, have a learning disability or both
+and their families/carers, to provide support that reduces
+escalation into crises, to support in times of crises and to
+avoid inappropriate admission to a mental health hospital.
+Dynamic support
+The register a local area uses to identify individual children,
+register (DSR)
+young people and adults with a learning disability, autism or
+both who are at risk or may become at risk of admission to
+a mental health inpatient setting without specific and timely
+dynamic support.
+The original name for this - at risk of admission register -
+continues to be used in some areas. In some areas the DSR
+is known as the dynamic support database (DSD).
+Dynamic support
+Dynamic support systems are the way in which different
+systems
+people, teams and organisations work together to deliver
+dynamic support and services in a timely and person-centred
+way to children, young people and adults who need them
+and their families.
+Expert by experience
+Someone with relevant personal lived experience or a family
+member of someone with relevant lived experience.
+66
+Dynamic support register and Care (Education) and Treatment Review
+Keyworker
+A named keyworker for all people with a clearer
+multidisciplinary team (MDT) approach to both assess and
+meet the needs of people, to reduce the reliance on care
+co-ordinators and to increase resilience in systems of care,
+allowing all staff to make the best use of their skills and
+qualifications, and drawing on new roles including lived
+experience roles. (Not to be confused with the children and
+young people's keyworker scheme - see below.)
+Children and young
+By March 2024, all children and young people with a
+people's keyworker
+learning disability, autism or both at risk of admission to a
+mental health hospital or in hospital should have a named
+keyworker. This keyworker should always be invited to
+attend the CETR. Keyworkers can play an important part
+in the arrangement, delivery and follow-up of CETRs,
+particularly by supporting links with and strengthening the
+role of education in CETRs where children and young people
+are not in school.
+Key lines of enquiry
+Framework for C(E)TRs, outlining areas of assessment, need
+(KLOE)
+and challenge.
+Long-term segregation
+A situation where, to reduce a sustained risk of harm posed
+(LTS)
+by the patient to others, which is a constant feature of their
+presentation, a multidisciplinary review and a representative
+from the responsible commissioning authority determine
+that a patient should not be allowed to mix freely with other
+patients on the ward or unit on a long-term basis (Mental
+Health Act 1983)
+Place
+A geographical area within an ICS that works to join up
+budgets, planning and service delivery for health and care
+services. The boundaries of a place are often co-terminous
+with local authority boundaries.
+Responsible clinician
+The clinician with overall responsibility for the care and
+treatment of a patient who is being assessed and treated
+under the Mental Health Act.
+67
+Dynamic support register and Care (Education) and Treatment Review
+Responsible
+The individual representing the responsible organisation
+commissioner
+paying for the services a person receives.
+This can be the ICB, a provider collaborative or NHS
+England.
+Stop The Over-
+The Over-Medication of People with a Learning Disability,
+Medication of People
+Autism or both (STOMP)
+Launched by NHS England and
+with a Learning
+the Royal College of Paediatrics and Child Health in 2018 to
+Disability, Autism or
+support the appropriate use of medication and specifically
+both (STOMP)
+stop the inappropriate use of psychotropic medication for
+autistic people and people with a learning disability.
+Supporting Treatment
+Launched by NHS England and the Royal College of
+and Appropriate
+Paediatrics and Child Health in 2018 to support the
+Medication in
+appropriate use of medication and stop the inappropriate
+Paediatrics (STAMP)
+use of psychotropic medication for autistic children and
+children with a learning disability.
+Unpaid carer
+Anyone, including children, who looks after a family
+member, partner or friend who needs help because of
+their illness, frailty, disability, a mental health problem or an
+addiction and cannot cope without their support, and is not
+paid for the care they give.
+68
+Dynamic support register and Care (Education) and Treatment Review
+Appendices
+Dynamic support register and Care (Education) and Treatment Review
+Appendix 1: Factors that may place someone at
+risk of admission to a mental health hospital
+Note: This is not an exhaustive list.
+Increasing and unstable/untreated mental illness.
+Significant behaviours that challenge.
+Pain or distress from physical health issues (both diagnosed and undiagnosed).
+History of admission(s).
+Presenting 'in crisis' at A&E department.
+Not previously known to learning disability services.
+Supported in an unstable environment or by a changing staff team.
+Recently discharged from a long-stay hospital bed.
+In acute ward settings with mental health needs, including disordered eating/avoidant
+restrictive food intake disorders.
+Undiagnosed in a mental health hospital but may receive a diagnosis during their
+admission.
+No effectively planned transition from child to adult learning disability services.
+No fixed address.
+No family carers/advocates.
+Family carer crisis/breakdown.
+Family showing increasing concern and challenge to ensure needs that prevent a mental
+health crisis are being met.
+Drug and/or alcohol addiction.
+Subject to the Mental Health Act, deprivation of liberty (DoL) safeguards or liberty
+protection safeguards (LPS).
+In contact with the criminal justice system.
+In receipt of services from youth offending teams.
+In receipt of continuing healthcare funding.
+Significant life event and/or change, such as bereavement or abuse.
+Some factors may have been heightened by the COVID-19 pandemic and associated
+response.
+These factors will not necessarily lead to inclusion on DSRs but should be carefully
+considered alongside other identified needs.
+The C(E)TR policy previously identified children and young people in 52-week residential
+schools as being at particular risk of admission to a mental health hospital; these children
+should now be routinely included on DSRs.
+70
+Dynamic support register and Care (Education) and Treatment Review
+Appendix 2: Cheshire and Wirral Partnership dynamic
+support database clinical support tool - adult and child
+Name:
+NHS
+Cheshire and Wirral
+NHS Number:
+Partnership
+NHS Foundation Trust
+Dynamic Support Database Adult - Risk rating tool
+Question
+Options
+Possible
+Risk
+Details/
+Score
+score
+comments
+Type of Accommodation
+Hospital
+Living independently
+Living with parents/carers
+Nursing home
+Residential accommodation
+Supported living
+Other
+Name of current provider
+Deprivation of Liberty (DOLS)
+Yes
+No
+Court of Protection
+Yes
+No
+Any significant life events in
+Yes
+2
+the last 6 months? If so
+No
+0
+please specify details.
+Does the person have an
+Yes
+3
+unstable or untreated mental
+No
+0
+health condition?
+Does the person have an
+Yes
+2
+unstable or untreated
+No
+0
+physical health condition?
+Has the person had previous
+Yes
+1
+admissions in the last 2
+No
+0
+years?
+Date of previous admissions
+Does the person present
+Yes
+3
+significant behavioural
+No
+0
+problems?
+Is the person being
+Yes
+3
+supported in an unstable
+No
+0
+environment or by changing
+staff team?
+Is the person previously
+Yes
+known to CLDT?
+No
+Is the person in contact with
+Yes
+2
+the criminal justice system?
+No
+0
+71
+Dynamic support register and Care (Education) and Treatment Review
+Has the person presented in
+Yes
+2
+crisis as Accident and
+No
+0
+Emergency in the last month?
+Does the person have
+Yes
+family/carers/advocates?
+No
+Does the person have a
+Alcohol
+2
+history of Drug or Alcohol
+Drugs
+2
+misuse in the last two years?
+Both
+2
+Neither
+0
+Was the person's transition
+No
+1
+from children's services
+Yes
+0
+effective in the last 12
+Not applicable
+0
+months?
+Is the person placed in
+Yes
+1
+specialist 52-week residential
+No
+0
+school?
+Has the person been recently
+Yes
+2
+discharged from long stay in
+No
+0
+hospital in the last 2 years?
+(Long stay is considered to be
+6 months or more).
+Total
+0-4=
+Green
+5-7=
+Amber
+8+ =
+Red
+Local area emergency protocol
+If admission cannot be
+If other please specify name
+avoided where will admission
+and address
+take place?
+MDT Meeting Date
+Avoidance Admission
+Meeting Date
+Community Care and
+Treatment Review Date
+Revised RAG Rating
+Post Admission Care and
+Admission Date
+Treatment Review Date
+Planned Discharge Date
+Actual Discharge Date
+Completed by
+Completed by (Clinician)
+Date Completed
+Copyright© CWP NHS Foundation Trust (2019). All rights reserved.
+Not to be reproduced in whole or in part without prior permission from the copyright owner.
+72
+Dynamic support register and Care (Education) and Treatment Review
+Name:
+NHS
+Cheshire and Wirral
+NHS Number:
+Partnership
+NHS Foundation Trust
+Dynamic Support Database Clinical Support Tool (Child)
+Question
+Options
+Possible
+Risk
+Details/
+Score
+score
+comments
+Type of Accommodation
+Hospital
+Living independently
+Living with parents/carers
+Nursing home
+Residential accommodation
+Supported living
+Other
+Name of current provider
+Deprivation of Liberty (DOLS)
+Yes
+No
+Is the CYP of CIN, CP, or LAC
+Yes
+Status?
+No
+Any significant life events in
+Yes
+2
+the last 6 months? If so
+No
+0
+please specify details.
+Does the CYP have an
+Yes
+3
+unstable or untreated mental
+No
+0
+health condition?
+Does the CYP have an
+Yes
+2
+unstable or untreated
+No
+0
+physical health condition?
+Has the CYP had previous
+Yes
+1
+admissions in the last 2
+No
+0
+years?
+Date of previous admissions
+Does the CYP present
+Yes
+3
+significant behavioural
+No
+0
+problems?
+Is the CYP being supported in
+Yes
+3
+an unstable environment or
+No
+0
+by a changing staff team?
+Is the CYP previously known
+Yes
+to LD-CAMHS/CAMHS?
+No
+Is the CYP in contact with the
+Yes
+2
+criminal justice system?
+No
+0
+Has the CYP presented in
+Yes
+2
+crisis at either: Accident and
+No
+0
+Emergency, or Emergency
+Social Care Provision in the
+last month?
+73
+Dynamic support register and Care (Education) and Treatment Review
+Does the CYP have
+Yes
+family/carers/advocates?
+No
+Does the CYP have a history
+Alcohol
+2
+of Drug or Alcohol misuse, in
+Drugs
+2
+the last two years?
+Both
+2
+Neither
+0
+Has the transition from LD-
+No
+1
+CAMHS/CAMHS to
+Yes
+0
+CLDT/AMHT started and if so
+Not applicable
+0
+has it been effective?
+Is the CYP placed in specialist
+Yes
+1
+38 or 52 week residential
+No
+0
+school or other specialist
+educational provision?
+Has the CYP recently left a
+Yes
+2
+residential school in the last 2
+No
+0
+years?
+Total
+0 - 4 = Green
+5 - 7 =
+Amber
+8+ =Red
+Local area emergency protocol
+If admission cannot be
+If other please specify name
+avoided where will admission
+and address
+take place?
+MDT Meeting Date
+Avoidance Admission
+Meeting Date
+Care, Education and
+Treatment Review Date
+Revised RAG Rating
+Post Admission Care and
+Admission Date
+Treatment Review Date
+Planned Discharge Date
+Actual Discharge Date
+Completed by
+Completed by (Clinician)
+Date Completed
+Copyright© CWP NHS Foundation Trust (2019). All rights reserved.
+Not to be reproduced in whole or in part without prior permission from the copyright owner.
+74
+Dynamic support register and Care (Education) and Treatment Review
+Appendix 3: C(E)TR principles and standards
+These standards support the implementation of the C(E)TR policy, in the community and in
+hospital. The C(E)TR code and toolkit sets these out with additional criteria that support best
+practice.
+The panel members need to familiarise themselves with the principles and standards and hold
+each other to account on these. Additionally, the standards will form the basis for quality
+assurance activity.
+Principle 1 - Person-centred and family centred
+Standard 1.1 The person and their family will be given information about the C(E)TR in advance.
+Standard 1.2 Before a C(E)TR, the responsible commissioner will ensure that the person has given
+consent or if the person lacks capacity, that a best interests decision has been made.
+Standard 1.3 The person will be supported to get ready for the C(E)TR using the 'My Care
+(Education) and Treatment Review' and 'My C(E)TR Planner' booklets.
+Standard 1.4 Reasonable adjustments should be made to the C(E)TR process as required to
+ensure that the person is fully involved, present and able to participate as they wish.
+Standard 1.5 The panel will make time available to meet separately with the person and their
+family carer. This could be meeting them all together or separately according to the person's
+wishes.
+Standard 1.6 Following a C(E)TR the person and their family are supported to understand what
+will happen next.
+Principle 2 - Evidence based
+Standard 2.1 C(E)TRs use a standardised, structured approach to the review of a person's care by
+using specifically designed key lines of enquiry (KLOE).
+Standard 2.2 The C(E)TR will look for evidence to support its findings and note these on the
+KLOE template.
+Standards 2.3 Specifically, the C(E)TR will look for evidence that clinical and best practice
+guidance has been followed; this will be recorded on the KLOE template.
+Standard 2.4 Information to help answer the KLOEs will be gathered together before the C(E)TR
+takes place.
+75
+Dynamic support register and Care (Education) and Treatment Review
+Principle 3 - Rights led
+Standard 3.1 Where there is concern that the person's human rights may not be being upheld
+appropriately this will be identified on the KLOE template and relevant action taken.
+Standard 3.2 The C(E)TR will ask about the provision of advocacy for the person and ensure any
+recommendations are included in the KLOE document.
+Standard 3.3 The C(E)TR will ask about legal representation for the person (eg at tribunals).
+Principle 4 - Seeing the whole person
+Standard 4.1 Each C(E)TR should take a minimum of a day to complete. There may be occasions
+where the review takes place over more than one day to ensure that the needs of the person are
+taken into account.
+Standard 4.2 The C(E)TR will include the people who are important to the person being
+reviewed.
+Standard 4.3 People who are, or who will be, supporting the person should be part of the C(E)TR
+- including local authority representation and advocacy.
+Standard 4.4 The review will ask about physical health, mental health and quality of daily life.
+Principle 5 — Open, independent and challenging
+Standard 5.1 The review panel is made up of three people and will include: chair (the person's
+commissioner or person with delegated authority by the commissioner); and two independent
+advisers - an expert by experience and a clinical expert.
+Standard 5.2 The chair should be able to demonstrate that they have worked in partnership with
+the panel members including agreement on the content of the report.
+Standard 5.3 The C(E)TR panel will ensure that they have provided basic information about
+themselves to the person (eg name and photograph) and introduced themselves fully when they
+meet the person.
+Standard 5.4 Where a C(E)TR panel does not reach agreement, the differing opinions will be
+noted in the KLOE template.
+Standard 5.5 The chair will ensure at the beginning that everybody who takes part knows what a
+C(E)TR is about.
+Standard 5.6 The review team will have completed mandatory C(E)TR training.
+Standard 5.7 The panel members will all declare if they have any conflicts of interest.
+Standard 5.8 The C(E)TR will ensure that the reasons for, and the expected outcomes of, an
+admission/continued admission are clearly recorded.
+76
+Dynamic support register and Care (Education) and Treatment Review
+Standard 5.9 The C(E)TR will question aspects of care and treatment that are not consistent with
+good practice or evidence-based guidelines.
+Standard 5.10 The C(E)TR will keep asking whether the person's care and treatment could be
+delivered in a non-hospital setting.
+Standard 5.11 A follow-up C(E)TR will always check why any actions previously agreed have not
+been carried out.
+Principle 6 — Nothing about us without us
+Standard 6.1 Every person will be supported to fully engage in their own C(E)TR wherever
+possible, considering how the person is supported to use their preferred method and/or tools of
+communication.
+Standard 6.2 At the C(E)TR a person will be identified who will communicate the progress on
+actions to the person and their family/carers following the C(E)TR.
+Standard 6.3 Following the C(E)TR, the commissioner will write a report about the review in
+words that all involved can understand. The commissioner will make sure the person, their family/
+carers and others who need a copy get the report within two weeks.
+Principle 7 — Action focused
+Standard 7.1 C(E)TRs check that people are safe. When a C(E)TR finds that people may not be
+safe, the chair will discuss this with the person, record on the KLOE template and raise concerns
+to the relevant authority or agency.
+Standard 7.2 The C(E)TR will identify gaps in the person's care and treatment. The panel will
+make SMART recommendations to address these gaps in order to ensure appropriate treatment
+and discharge plans are in place.
+Standard 7.3 The person's keyworker will make sure that the outcome of the C(E)TR is reflected
+in their relevant care plan and will be followed through within the planning process.
+Standard 7.4 The outcomes of the C(E)TR will identify the named individuals in the person's
+care team who will make sure the C(E)TR recommendations are embedded in other relevant
+assessment and planning processes along with clear timescales, for example education, health and
+care plan; children in need plans, risk assessments, etc.
+Standard 7.5 C(E)TRs will identify whether long-term planning to support discharge (eg housing
+or where bespoke care packages may be required) is being considered and planned for at the
+earliest opportunity including the engagement of competent service providers.
+Standard 7.6 The commissioner is accountable for follow-up after a C(E)TR and ensuring
+recommended actions are being carried out on time. Where actions are not carried out, the
+commissioner will explain to the person and their family why this is.
+77
+Dynamic support register and Care (Education) and Treatment Review
+SMART recommendations mean that the recommendations should be:
+Specific
+What exactly should happen and the name of the person responsible for
+ensuring that it is carried out.
+Measurable
+How will people know if the recommendation has been implemented
+satisfactorily?
+Action-focused
+Recommendations should be in the form of clear tasks to be carried out by
+named persons.
+Realistic
+Recommendations have to be possible to achieve not merely aspirational or
+outside the remit or capabilities of the persons named.
+Time-framed
+There should be a specific stated date by which the recommendation is to
+have been implemented or reviewed.
+Principle 8 - Living life in the community
+Standard 8.1 A record of the reasons why the person's care and treatment cannot be carried out
+in the community will be made on the KLOE, where this is the outcome of a C(E)TR.
+Standard 8.2 The C(E)TR will look for evidence of up-to-date, positive and proactive risk
+assessment and risk management plans that address the safety of the person and of others now
+and in the future.
+Standard 8.3 The C(E)TR will ask about the person's circle of support and how the person is
+being enabled to be part of their local community (including any advocacy provision).
+78
+Dynamic support register and Care (Education) and Treatment Review
+Appendix 4: C(E)TR — sit and see observation
+Reviewing the service and environment: The following questions can be used to identify
+any potential causes for concern regarding quality and safety of the service.
+The environment
+Methods for gathering this information
+The following KLOEs can be captured during a commissioner oversight visit or a one-off
+quality visit by a team of individuals to support these reviews.
+Most sit and see visits should last no less than three hours - to ensure a meaningful overview
+of the setting and care can be gathered.
+Ref:
+The following questions have been
+Comments
+Actions
+taken from the NHS England: The 15 Step
+taken
+Challenge
+2.1
+Using your senses - Consider what can I hear,
+smell, see, feel, touch?
+How does this ward/unit make me feel, how
+does it smell?
+What is the atmosphere like?
+What interactions are there between staff/
+patients/visitors?
+Is there visible information that is useful and re-
+assuring to people? What is it?
+What have I noticed that builds my confidence
+and trust that this is a safe and welcoming
+environment?
+What makes me less confident?
+Things to look out for
+Welcoming reception area.
+Welcome signs (including accessible signage).
+Acknowledgement on arrival - eye contact,
+smiles, a greeting.
+Information available, clear and visible.
+Contact information for relatives and visitors is
+visible.
+Visiting times are evident.
+Information about who the staff team are and
+who the ward manager is.
+Is there evidence that the ward is accessible
+including easy read information being available?
+79
+Dynamic support register and Care (Education) and Treatment Review
+2.2
+Safety
+What do I notice about safety issues?
+Do staff on this ward appear to think that safety
+is important?
+What information tells me about the quality of
+care here?
+What tells me that staff are concerned about
+safety and preventing harm (eg infections, falls)?
+How are medicines managed on the ward?
+What have I noticed that builds my confidence
+about safety on this ward?
+What makes me less confident?
+Does the service use CCTV?
+Is the environment well maintained, what
+condition is the environment in, including the
+bedrooms and bathrooms?
+Things to look out for
+A clean and well-maintained environment.
+Hand gels are available and used.
+Clear information about infection prevention
+and control and evidence of staff implementing
+procedures.
+Rubbish/dirty items and linen are disposed of
+appropriately and not visible.
+Food in fridges is within expiry date.
+Can I see information that says the ward is
+improving in identified areas? Is the information
+clear and understandable?
+Equipment and environment appear to be well
+maintained.
+Protected times/areas for staff to manage drugs
+and essential equipment.
+Support offered to people who require assistance
+with eating.
+Patients always have access to drinks.
+Security and fire procedures are evident.
+80
+Dynamic support register and Care (Education) and Treatment Review
+2.3
+Caring and involving
+What behaviours can I see that do or do not
+inspire confidence?
+Do staff appear to know their patients well?
+How have the staff made me feel?
+What can I understand about patient experience
+on this ward/unit?
+Are there any indicators that patients and carers
+are involved in their own care?
+How is dignity and privacy being respected?
+How are staff interacting with patients (eg do
+they talk in lower tones when having private
+conversations)?
+Can I observe good team working taking place?
+Is people's clothing in good condition?
+Things to look out for
+Staff are communicating and interacting
+positively with patients.
+Staff are always available for patients.
+Patient feedback is displayed.
+Patients are dressed to protect their dignity.
+Information for patients and carers is available in
+a clear and user-friendly format.
+Information that empowers patients (eg to
+choose their own meals, day activities).
+Signs that equality/diversity needs are being met
+and reasonable adjustments implemented.
+Visitors have access to chairs and space to visit.
+Information about how to complain and
+compliment is visible and in an accessible format.
+Signage for how to access advocacy is visible and
+in an accessible format.
+81
+Dynamic support register and Care (Education) and Treatment Review
+2.4
+Well organised and calm
+Does the ward/unit feel calm or chaotic (even if
+it is busy)?
+Is essential information about each patient
+available for staff?
+Does the unit/ward look well organised, clean
+and uncluttered?
+Things to look out for
+An uncluttered, clean environment, including
+nurses' station/office, hallways and communal
+areas.
+Clear accessible signage to rooms, toilets, etc.
+Well maintained, appropriate (eg non-slip), clean
+condition of walls, floors, windows and ceiling.
+Staff have easy access to patient information: it
+is visible and organised. There is a transparent
+and communal information board located in the
+office (eg patient status at a glance board).
+Patient boards show evidence of co-ordination
+between different departments.
+Equipment stored tidily and is managed, eg
+colour-coded, staff return equipment after use,
+stock cupboards are clearly labelled - including
+visible management (photos of content).
+82
+Dynamic support register and Care (Education) and Treatment Review
+Appendix 5: C(E)TR advocacy entitlements
+Advocacy and C(E)TRs
+We have updated the policy in relation to advocacy in light of a review of inpatient advocacy for
+people with a learning disability and autistic people carried out in 2021/22.
+The first principle is that people should always be supported to self-advocate whenever possible,
+as listening to people and their families, responding to their needs and choices and ensuring
+people's legal and human rights are upheld are integral to the C(E)TR process. Independent
+advocacy has a vital role in ensuring all of this happens - whether the person is living in the
+community and at risk of admission, is an inpatient or has left hospital.
+The person's views, wishes and preferences must be central in decision-making and people's
+preferred communication methods should be respected. This means that if people do not use
+words to express themselves, advocates and others involved in their C(E)TR must still do all they
+can to understand how the person is communicating their experience of their care, treatment and
+for children and young people, their education. If the person's 'voice' is not being heard, the panel
+should explore how they can be supported to express their wishes and make relevant decisions,
+not just in relation to their C(E)TR.
+Family carers can be advocates too
+Many people choose a family member to advocate with or for them, and where a person lacks
+capacity to make decisions, this is especially important as a family member may understand their
+relative's communication better than anyone else.
+Where a family member is an advocate, the C(E)TR should explore whether that person feels
+adequately supported in their role, providing an appropriate recommendation if not, eg the
+provision of a family advocate, steps to improve how the person's formal advocate and family
+member work together, or steps to improve how the service perceives and supports the family
+member's advocacy role.
+People can and at times should have an advocate who is paid to be their advocate (see below) as
+well as family members advocating for them - this can work really well.
+Having a family member who is an advocate is generally not a reason to withhold arranged
+independent advocacy, which is often a statutory entitlement.
+If the person has chosen not engage with an advocate, the C(E)TR panel should also explore this
+closely to ensure the person is supported to understand the many benefits of doing so, and that
+their rights to advocacy are being communicated and upheld.
+Accessible resources to support the person and their advocate can be found at www.england.
+nhs.uk/my-ctr. Advocates can explore additional resources at www.england.nhs.uk/learning-
+disabilities/care/ctr/commissioners/.
+83
+Dynamic support register and Care (Education) and Treatment Review
+Independent advocacy
+A key underpinning principle of advocacy is that it is independent of all other statutory and non-
+statutory services, including the service providing the person's care.
+Independent arranged advocacy can include statutory advocacy - such as independent Care Act
+advocacy (ICAA), independent mental capacity advocacy (IMCA) or independent mental health
+advocacy (IMHA) - general or community advocacy, and advocacy provided by a self-advocacy
+organisation. Please see below for a summary of statutory entitlements.
+Statutory advocacy covers very specific things, but people with a learning disability and autistic
+people can also benefit greatly from the support of peers (through a self-advocacy organisation,
+for instance) or general advocacy, to provide ongoing rather than episodic or issue-based support.
+The panel should feel confident to suggest this where appropriate and use the C(E)TR to explore
+how it could be provided.
+The panel chair should ensure that the chosen advocate(s), regardless of whether they are paid
+or unpaid, are invited to the C(E)TR and given adequate time to plan and prepare for this, such
+as having enough time to spend with the person before and after their C(E)TR, as well as on the
+day. Advocacy organisations will require adequate notice of the C(E)TR (at least a month ideally) to
+allocate the advocate, for the advocate to get to know the person if necessary and then support
+them to prepare for the C(E)TR. A specific time slot on the day should be offered if the advocate
+cannot be present for the whole C(E)TR.
+If the person would like their advocate to be present for the whole C(E)TR, then this should be
+made clear to the advocacy provider.
+In the community
+Consideration of the need for, and access to, advocacy services is vital for all age groups, not
+least for children and young people and their families, who may have no experience of the
+hospital system, the legal system or their legal rights. This is as relevant when admission is being
+considered as when a person is in hospital.
+Discussions around the person and family's support needs in relation to a community C(E)TR
+should consider the person's advocacy needs given the person's risk of being admitted to hospital.
+Ideally, these needs should be reviewed before a community C(E)TR takes place, such as when the
+person is identified on the DSR, so that the person has advocacy support during their C(E)TR. This
+will support the person's understanding of and involvement in the C(E)TR process and the aim of
+avoiding admission whenever possible. It should also support family carer involvement whenever
+possible.
+Where admission to hospital is likely, the community C(E)TR can help to describe the advocacy
+support the person will need throughout this and following discharge.
+While a right to statutory advocacy to support people in their community C(E)TR is clearly
+desirable, it is not currently explicit in the legislation or relevant codes of practice that this must
+be done for a C(E)TR (save for certain exceptions where an advocate must be appointed for other
+reasons - see statutory entitlements below).
+84
+Dynamic support register and Care (Education) and Treatment Review
+However, best practice would be to allow for a positive and flexible approach to supporting
+people in this situation with either access to an ICAA or IMHA. Care Act advocates may get
+involved if the C(E)TR as a result of a care and support assessment, care and support planning
+process, care and support review or a safeguarding enquiry. They are able to provide support if the
+care and support process may lead to a stay in an NHS funded placement, even if the person has
+friends or family involved.
+Support from a self-advocacy organisation (or family advocate where appropriate) or community
+advocacy can also help people with understanding processes and their rights, making decisions
+and feeling better supported in their lives, and thereby contribute to reducing the risk of
+admission.
+The C(E)TR panel should make time to explore the person's ongoing access to advocacy, including
+independent advocacy, and make necessary recommendations where they feel this could work
+better. This should take a holistic, person-centred approach to the person's needs of advocacy for
+their C(E)TR as well as their ongoing care, treatment and any concerns about how services are
+listening and responding to the person's needs. The panel should try and establish who in the
+person's circle of support at home as well as in hospital is further advocating for that person's
+needs.
+Ideally before the 'final' pre-discharge C(E)TR and certainly at that one, consideration should be
+given to the person's advocacy needs when they leave hospital and what statutory entitlement
+exists for this. The panel may also wish to consider whether other forms of advocacy could
+support the person when they leave hospital, eg a self-advocacy organisation may help people
+build friendships, networks and access to things that will help the person achieve their hopes and
+ambitions. Post-discharge advocacy is likely to work best when it is arranged before discharge,
+giving the person an opportunity to get to know or even choose their future advocate(s).
+Advocacy recommendations or actions
+If advocacy is not provided where it would have been as appropriate to do so, the C(E)TR should
+flag this as a concern, with a specific recommendation for the person's commissioner, the
+advocacy provider and commissioning local authority to ensure this is resolved as a matter of
+urgency.
+Health and social care agencies must work closely (with the advocacy provider as involved) to
+ensure people receive advocacy that is appropriate to their needs.
+Summary of statutory entitlements
+A person's statutory right to advocacy can take many forms; these should be reasonably adjusted
+to meet the specific needs of people with a learning disability and autistic people.
+Publicly-funded providers must comply with the public sector equality duty (Equality Act 2010) by
+paying due regard when carrying out their functions to eliminating discrimination and advancing
+equality of opportunity. For example, self-advocacy organisations led by autistic people and/
+or people with a learning disability offer mutual and/or peer support and friendship, which can
+complement the support a statutory advocate provides. Statutory advocates specialise in providing
+advocacy in specific situations.
+85
+Dynamic support register and Care (Education) and Treatment Review
+Local authorities are responsible for ensuring the provision of a range of independent advocacy
+for people of all ages. They are required to commission:
+advocacy under the Children Act 1989
+advocacy under the Care Act 2014
+independent mental health advocates (IMHAs)
+independent mental capacity advocates (IMCAs)
+independent Care Act advocates (ICAAs)
+paid relevant person's representatives (paid RPRs)
+NHS complaints advocacy.
+Section 26A of the Children Act 1989 and associated regulations and guidance also impose on
+local authorities the duty to make arrangements for the provision of advocacy services for care
+leavers making or intending to make representations under section 24D of the Children Act 1989
+and for children making or intending to make representations under section 26A of the Children
+Act 1989.
+Local authorities have a duty to provide information about advocacy services and offer help in
+obtaining an advocate in certain situations.
+Local authorities must provide advocacy services for a looked after child, a child in need or a care
+leaver directly making or intending to make a complaint on their own behalf. Children and young
+people should be able to secure the support of an advocate when making or intending to make
+representations for a change to the service they receive or the establishment they live in, without
+this having to be framed first as a specific complaint. Rights to advocacy do not extend to a parent
+or another person making a complaint on behalf of a child.
+Independent mental health advocates
+People of all ages are eligible for support from an IMHA if they are:
+detained under certain sections of the Mental Health Act 1983 (MHA)
+liable to be detained under the MHA, even if not actually detained, including those currently on
+leave of absence or for whom an application or court order for admission has been completed
+a conditionally discharged restricted patient, eg under section 117 of the MHA
+subject to guardianship
+subject to a community treatment order.
+People can have an IMHA regardless of whether friends and family are supporting them as well.
+The Care Act 2014 places a duty on local authorities to provide access to independent advocacy
+for adults over the age of 16 who have no appropriate individual(s) - carer, family or friend - to
+support their involvement and where they would otherwise struggle to be involved in care and
+support 'processes'.
+People aged 16 or over who lack capacity to make particular decisions and who have no
+appropriate friends or family to represent them may be entitled to an IMCA.
+86
+Dynamic support register and Care (Education) and Treatment Review
+If through care and support assessment or planning it is likely that the person will be admitted
+to an NHS-funded hospital (including assessment and treatment units) for 28 days or more or a
+care home for eight weeks or more, the local authority must provide independent advocacy (even
+for those who have an 'appropriate individual' to support them) if it is satisfied that advocacy
+would be in the best interests of the individual. ICAAs are often involved when someone is being
+discharged from hospital.
+Some advocates can be the person's IMHA, IMCA and ICAA at different points in their life; the
+benefit of an advocate changing role is that the person will not need to get to know someone
+new.
+Where someone is eligible, IMCAs provide support in relation to decisions about where someone
+is going to live, about serious medical treatment and if a liberty protection safeguard (LPS) is being
+sought. They might also provide support in safeguarding situations, although Care Act advocacy is
+most likely to be provided in safeguarding situations.
+Relevant person's representatives (RPRs), who may be paid, provide support and representations
+to people under an LPS authorisation (formerly a standard authorisation) in all matters relating to
+their deprivation of liberty (DoL). The RPR can support the person to challenge the LPS.
+Where a person lacks capacity to consent to those restrictions, an IMCA can be instructed to
+work with them alongside their RPR or as their RPR. The standard authorisation system applies to
+patients in hospitals and people in care homes; the LPS (when enacted) will apply to a wider range
+of living situations.
+Note: There is the potential for some people to have an array of advocates. If the person and their
+family (where involved) feel this is not working as well as it could, the C(E)TR panel may want to
+discuss this and propose an arrangement that better meets the person's needs, for the placing
+commissioner and local authority to progress.
+87
+Dynamic support register and Care (Education) and Treatment Review
+Appendix 6: Safeguarding responsibilities
+within C(E)TRs
+All professionals who work with vulnerable children and adults have a responsibility to act
+appropriately if they have reason to believe that the individual has suffered or is likely to suffer
+significant harm.
+The Care Act 2014 section 42 defines a vulnerable or at-risk adult as anyone over the age of 18
+who:
+a) has needs for care and support
+b) is experiencing, or is at risk of, abuse or neglect, and
+c) as a result of those needs is unable to protect themself against the abuse or neglect or the risk
+of it.
+It also requires the local authority to make (or cause to be made) whatever enquiries it thinks
+necessary to decide whether any action should be taken in the adult's case and, if so, what and by
+whom.
+For those being cared for in hospital, it is likely that they have suffered traumatic and possibly
+abusive experiences within their life, and throughout their journey in the education and care
+system. The use of restrictive practices is likely to have an adverse impact on their human rights,
+wellbeing and for many adds additional trauma to their experience.
+There are clear processes in place for commissioners, providers, professionals and families to raise
+safeguarding concerns if they have any in relation to the person they are caring for or their family
+member.
+If C(E)TR panels have concerns about the safety and wellbeing of a person, the chair - along
+with the other panel members - should consider these issues seriously to determine what
+additional actions may be necessary. The chair should always ensure that there is a collaborative
+discussion with the other panel members to help determine consensus about an appropriate way
+forward, while remaining clear that each panel member also has an individual and professional
+responsibility to raise safeguarding concerns if they believe they are present.
+If the chair (and/or panel) believe there are safeguarding issues relating to the care provided to the
+person, they will take responsibility for alerting the provider, commissioner and where appropriate
+the individual and family, and make the referral. They are also responsible for ensuring there is
+immediate feedback regarding the issues to the commissioner (if they have delegated authority)
+and the provider so appropriate internal escalation processes can also be triggered.
+Different levels of seriousness of safeguarding issues may require a different level of response.
+While every circumstance needs to be considered individually, below are some suggested levels of
+response for issues.
+88
+Dynamic support register and Care (Education) and Treatment Review
+Situation
+Suggested response
+Responsible individual
+There are serious concerns
+C(E)TR should be halted. Immediate
+Chair (alongside
+about the safety and
+escalation to regional director of nursing,
+responsible commissioner
+wellbeing of the person.
+commissioner and provider.
+if authority has been
+delegated)
+Chair/panel considers it
+Urgent referral made to the local authority
+is unsafe for the person
+on the day of the review.
+to remain in their current
+situation.
+The panel are required to remain until a
+response mitigates the risk and ensures the
+individual is appropriately safeguarded.
+Ensure CQC is appropriately notified.
+There are serious concerns
+Issues to be immediately identified with
+Chair (alongside
+about the safety and
+relevant individual/providers.
+responsible commissioner
+wellbeing of the patient
+if authority has been
+that need urgent attention.
+Referral made to the local authority on the
+delegated)
+day of the review.
+Chair/panel does not think
+the concerns pose such
+Review concludes and its clear
+imminent and urgent risk
+recommendations and actions include the
+to the person that they are
+safeguarding concerns and actions.
+likely to require a move that
+day.
+Chair and panel are assured that some
+immediate steps are being taken to
+safeguard the individual.
+Ensure CQC is appropriately notified.
+At the conclusion of
+Review concludes and clear
+Chair (alongside
+the review, the chair/
+recommendations are made.
+responsible commissioner
+panel believes there are
+if authority has been
+safeguarding concerns
+Issues to be identified with relevant
+delegated)
+about the individual that
+individuals/provider immediately and before
+require a response but they
+the chair/panel leaves the review.
+are not at risk of immediate
+significant harm.
+Referral made to the local authority the
+following day.
+In the days following
+Chair communicates this to the provider/
+Chair (alongside
+the C(E)TR and after
+commissioner/relevant individuals.
+responsible commissioner
+consideration, the chair/
+if authority has been
+panel feels there are
+Chair makes the safeguarding referral.
+delegated)
+safeguarding issues that
+need further scrutiny/
+redress.
+89
+Dynamic support register and Care (Education) and Treatment Review
+Appendix 7: 12-point discharge plan (part of Assuring
+Transformation dataset reporting requirements)
+The NHS Long Term Plan confirms that every area will "implement and be monitored against a
+12-point discharge plan to ensure discharges are timely and effective." NHS Long Term Plan 3.36
+The 12-point discharge plan is a tool that should be used to support commissioners, partners, the
+individual and their families to ensure appropriate steps are in place to support a timely discharge.
+Some individuals may not need every element of the plan utilised to support their discharge,
+but it is a helpful prompt to ensure that steps are being appropriately considered at the earliest
+possible stage so there are no delays to discharge due to last minute considerations of planning,
+commissioning or managing legal processes.
+Progress of individuals against the discharge plan is monitored via the Assuring Transformation
+dataset.
+90
+Dynamic support register and Care (Education) and Treatment Review
+1.
+Person in active treatment - start discharge planning.
+2.
+Person identified as ready for discharge - person centred service specification
+outline to be commenced.
+3.
+Capacity assessment to be completed (community accommodation and support).
+4.
+Risk assessment - community based risk assessment to be completed.
+5.
+Service specification complete - ready to be advertised/tendered.
+6.
+Procurement process to be undertaken (where required).
+7.
+Accommodation search to be identified and secured and adaptions completed.
+8.
+8.1 Funding (for discharge support) to be agreed and in place.
+8.2 Additional funding (other relevant funding agreed and in place - where required).
+9.
+9.1 Workforce provision - ensure provider staff are recruited.
+9.2 Workforce provision - community multidisciplinary team personnel identified.
+10.
+10.1 Legal framework - Mental Health Tribunal (if appropriate).
+10.2 Legal framework - Court of Protection (if required).
+10.3 Legal framework - Parole Board application (if required).
+10.4 Legal framework - Ministry of Justice application (if required).
+11.
+11.1 Community move/discharge - communicate and commence transition plan.
+11.2 Community move/discharge - s17 leave underway as part of transition to
+community placement.
+12.
+Discharge.
+91
+Dynamic support register and Care (Education) and Treatment Review
+Appendix 8: Local area emergency protocol
+In circumstances where an admission is unplanned, urgent or someone is in 'crisis' it is recognised
+that a C(E)TR may be, on a practical level, very difficult to set up due to short time scales, level of
+risk and the need for urgent action.
+The aim of the local area emergency protocol (LAEP) is to provide the commissioner with a set of
+prompts and questions both to prevent people with a learning disability or autistic people from
+being admitted unnecessarily to a mental health hospital; and where there is a clearly supported
+clinical indication for admission to ensure that the intended outcomes and timescales are clear.
+It is also intended to help identify barriers to supporting a person to remain in the community and
+to make clear and constructive recommendations as to how these barriers could be overcome by
+working together and using resources creatively.
+It is important to note that the LAEP does not replace the community C(E)TR and should
+only be used by exception. Where a community C(E)TR has not taken place, the pathway
+for a post-admission C(E)TR must be followed.
+This protocol describes when this response is needed and suggests who should attend and
+what should be discussed. Organisations need to agree to using this protocol locally to support
+prioritisation of their time and resource to respond both flexibly and at short notice to a request
+for a meeting.
+For NHS England specialist commissioned services, a referral for an access assessment may happen
+alongside this protocol if it is felt that the individual may need to be admitted to a secure service
+or children and young people's mental health service (CYPMHS).
+The protocol
+Anyone involved in the care of a person with a learning disability, autism or both, and who is at
+risk of being admitted to hospital unnecessarily, can raise concerns about them. This ordinarily
+should lead to a community C(E)TR being arranged. This protocol is to be used where there is no
+prior knowledge of the escalating risk of admission or the time to set up or hold a C(E)TR.
+The lead commissioner will be responsible for ensuring that a LAEP meeting is organised and
+chaired.
+Every effort must be made to involve the individual and/or their representative/advocate and
+family to gain their views on options for treatment and support and what could help avoid
+admission to hospital. The format of the LAEP is therefore most likely to be a virtual meeting to
+allow people to participate at short notice, but it can be a face-to-face meeting.
+It is important for all involved to agree to a 'no blame' principle, to give individuals or services the
+confidence to speak up should they face difficulties fulfilling their contracted role(s).
+92
+Dynamic support register and Care (Education) and Treatment Review
+Role
+Involvement
+Person being considered
+To give a first-hand account of issues and what would help. Listening to the
+for admission
+person is essential and should be prioritised and facilitated.
+Family member(s)
+To give additional information. Listening to the family's views, ideas and
+wishes should be prioritised and facilitated.
+Psychiatrist
+To provide feedback on assessed clinical needs and risks. Role in MHA
+processes.
+Community learning
+Co-ordination role; provider of clinical information.
+disability nurse
+Children's social worker, care manager; involvement in assessment and care
+planning.
+Social worker
+As appropriate - to advocate for the individual.
+IMHA/IMCA/independent
+advocate
+Commissioner
+To provide funding for alternatives to institutional care.
+GP
+To ensure effective support around health needs as required.
+School/education provider/
+To ensure education considerations are fully understood.
+commissioner
+Protocol steps
+1.
+The chair is made known to people and the current situation is shared.
+2.
+Understanding the person.
+The needs and wishes of the person are identified, including hearing from the person
+and if appropriate, their family, relevant carers and clinicians.
+3.
+The current risks are identified.
+4.
+Care, education and treatment needs.
+Options considered (see preference list on page 95).
+5.
+Current resources and potential resources are identified.
+6.
+Decision made and support plan agreed. Responsible people are identified to
+follow up.
+93
+Dynamic support register and Care (Education) and Treatment Review
+Questions that help focus discussions
+1
+Gather a pen picture. 'Understanding me?'
+2
+What are my and my family's/carers' views of the current situation?
+3
+What are my symptoms?
+How is my physical health?
+Does any of this mean I need to be in hospital?
+Have I had an annual health check and do I have a health action plan?
+4
+What are the current issues and risks and how can I stay safe and keep others around me safe?
+5
+What's working well/what doesn't work? (Everyone's views, including about what has helped
+me before.)
+6
+What support has been/can be put in place so I can stay in the community?
+7
+What treatment am I currently receiving, including medication, therapy, diet and care?
+Does this need reviewing?
+Is it helping?
+8
+Can the care, education and treatment I need be given in a community setting?
+9
+What additional support is needed to keep me/others safe in the community?
+10
+What resources are available/can be created or used in a different way to support me?
+11
+What additional support does my family/carers need?
+Has there been a carers assessment?
+12
+Do I have advocacy to support me to understand my care and treatment?
+13
+What is the reason for considering inpatient admission?
+14
+What would the outcomes of an admission be for me?
+15
+What would the impact of admission be on me and others around me? (For example, moving
+away from home and the people I know to a new environment.)
+The outcomes of this meeting should be recorded as per local policy and lead to an updated care
+plan and risk assessment (or education, health and care plan (ECHP) for a child or young person).
+94
+Dynamic support register and Care (Education) and Treatment Review
+Preference list
+No placement should take place 'out of area' without the commissioner's agreement.
+The preference order for support arrangements is:
+Preference 1 Support the person at home (with the relevant help given there). Additional
+support packages will be considered favourably by commissioners.
+Preference 2 Support the person in a local non-inpatient unit, using residential nursing or via a
+short break service.
+Preference 3 Admit the person to an inpatient service in their local ICS area. Note that mental
+health needs should be met in acute mental health services and underlying
+physical health needs in acute hospitals.
+Out-of-area placements should be avoided if at all possible. The commissioner needs to approve
+out-of-area placements in line with the contracting process. These will only be considered when
+the move is justified by clinical need and/or risk management, and all other avenues have been
+exhausted. Any such agreed placement should be time limited.
+Any gaps in local delivery that mean needs cannot be met locally should be reported to the
+relevant commissioner.
+Follow-up
+If an individual is at risk of admission and does not have a care pathway, they should be allocated
+a lead professional or keyworker to follow-up the agreed care plan. For an individual under 25,
+this may trigger a review of their ECHP.
+The revised care plan will require regular review by the keyworker to ascertain its effectiveness and
+quality. The individual will now be placed on the local DSR that identifies people who are at risk of
+admission, if they consent and are not already on it.
+Should an individual be admitted following a LAEP meeting, a full C(E)TR will need to take place
+within 10 working days for children and young people and within 20 working days for adults.
+95
+Dynamic support register and Care (Education) and Treatment Review
+Appendix 9: Data to monitor C(E)TR pathway
+implementation and outcomes
+The effectiveness of C(E)TRs will be measured using local, regional and national anonymised
+datasets, alongside tools such as feedback questionnaires and local audit.
+Most of the required data can be accessed via existing routes, including the Assuring
+Transformation dataset.
+Regional learning disability and autism teams will require access to anonymised C(E)TR
+information to quality assure the C(E)TR process. Using the information gathered they will
+seek to determine:
+if each area has a DSR and a way to monitor its effectiveness in ensuring provision of
+additional support and/or predicting admissions
+whether the C(E)TR policy is being adhered to
+whether the C(E)TR standards are being met
+whether or not people are admitted following a community C(E)TR and, for those admitted,
+whether length of stay following C(E)TRs are falling
+rates of admission among people whose admission was previously avoided through the
+provision of additional support, and of re-admission following discharge from an inpatient
+setting
+whether C(E)TRs are a positive experience for people and their families
+whether people and families have an improved experience of care and support following a
+C(E)TR
+whether C(E)TR intelligence is being collated and acted on in response to concerns raised
+about the quality of care, both at individual and collective levels (eg regarding specific
+providers).
+96
+Dynamic support register and Care (Education) and Treatment Review
+Appendix 10: CTR policy — restricted patients
+This appendix concerns patients subject to Ministry of Justice restrictions. Please refer to
+https://www.gov.uk/government/publications/mentally-disordered-offenders-the-restricted-
+patient-system in conjunction with the flow chart below for guidance.
+CTR flowchart for restricted patients
+Ready for discharge (or care and treatment can be provided in a less restrictive
+environment).
+As part of the recommendations, RC to contact MoJ within one week, specifying
+outcome of CTR.
+CTR outcome
+Contact with MoJ should be made via MHCSmailbox@justice.gov.uk with 'outcome
+of CTR' in the subject heading.
+RC to feedback to lead commissioner on outcome of contact with MoJ.
+Lead commissioner to record information in monitoring template (see below).
+97
+Monitoring template for patients subject to MoJ restrictions
+The responsible commissioner should use this template to track outcomes and follow-up for restricted patients.
+Reference
+C(E)TR
+C(E)TR
+Provider
+Responsible
+Responsible
+Type of referral
+Date of
+Narrative
+Any
+number
+date
+outcome
+name
+clinician
+commissioner
+(request
+response
+reopens
+escalation
+name
+referral date
+for leave,
+from MoJ
+to MoJ
+discharge)
+Dynamic support register and Care (Education) and Treatment Review
+98
+Dynamic support register and Care (Education) and Treatment Review
+Appendix 11: Support for C(E)TR panel
+members and their requirements
+Recruitment
+ICSs and provider collaboratives should ensure that panel members are recruited through a
+robust process that includes shortlisting and interviewing against a set of core competencies.
+Clinical experts should be able to provide evidence of qualification and a current registration with
+their relevant professional body.
+Individuals should be subject to usual pre-employment checks as per the local HR policy for any
+roles that include working with vulnerable adults and/or children and young people.
+Induction
+Panel members will be required to undertake mandatory training prior to commencing their role
+and should be offered additional skills training modules as identified as part of their induction
+process. Shadowing an experienced C(E)TR panel (subject to consent of the person and their
+family) should also be considered as part of the induction to ensure a greater understanding of
+the expectations of the role.
+Training requirements
+Health Education England is working with partner agencies to develop a suite of C(E)TR training
+modules. These will include core, mandatory and skills modules that will be available to all
+panel members at no cost to local systems. For existing panel members, they will be expected
+to undertake the mandatory modules within six months of the release date of the training. New
+panel members will be expected to undertake the mandatory training prior to commencing their
+role.
+Conflicts of interest
+Due to the independent nature of the expert by experience and the clinical expert, conflicts of
+interest are an important consideration in the C(E)TR process. Panel members are responsible
+for declaring any potential conflicts of interest as soon as they become aware of them. They
+should do so by raising any potential conflict with the commissioner immediately so that it can be
+discussed and, where required, an alternative panel member sought as soon as possible.
+Examples of conflicts are:
+previously having worked with the person in a clinical capacity
+previously having worked for the provider
+having been an inpatient at the hospital
+having a family member who has been or is an inpatient at the hospital
+having a family member who has been or is under the clinical care of a member of the MDT.
+Ongoing support and supervision
+Local areas should ensure that panel members are offered regular supervision and support, in
+addition to the debrief process. This could be in the form of a monthly peer support group or on
+a one-to-one basis. For subcontracting arrangements, this can be undertaken by the employing
+organisation.
+99
+Dynamic support register and Care (Education) and Treatment Review
+Reasonable adjustments
+It is essential that panel members are asked about any reasonable adjustments they require prior
+to undertaking the review. This is particularly important for the expert by experience role where
+panel members may be autistic or have a learning disability. Their sensory and communication
+needs will be an important consideration when undertaking the review and they (or their
+supporter) should be given the opportunity to share this information in advance. Adjustments
+may need to be made with the sharing and allowed reading time of any documentation as well
+as considering whether some of the review may be better undertaken using a hybrid model (part
+face to face and part through online platforms).
+Payment
+Payment for panel members is made in several different ways:
+For reviews commissioned by NHS England or provider collaboratives, experts are required to be
+'employed' for tax purposes.
+For reviews commissioned by ICSs, experts are required to invoice for payment and are
+responsible for their own tax arrangements.
+In some areas, third-sector organisations have a 'subcontracting arrangement' for experts by
+experience.
+The suggested minimum rates of pay have been increased as shown below.
+Role
+Suggested new minimum rate of pay
+Expert by experience
+£250 per review (previously £150)
+Clinical expert
+£350 per review (previously £300)
+These rates should not be viewed as a 'day rate'. They are for the whole review, including any
+advance reading requirements and panel follow-up actions. For experts by experience they reflect
+the NHS England policy for working with patient and public voice partners.
+The role of the expert by experience and clinical expert should be equally valued for the different
+skills and experience they bring to the panel.
+It is recognised that the clinical expert will be professionally accountable for their role within
+the C(E)TR in accordance with the requirements of the professional body that they hold active
+registration with.
+Expenses
+Expenses are also claimed in several ways:
+Experts who are employed should contact their recruiting manager to clarify the process for
+claiming expenses from the employing organisation.
+Other panel members who invoice for payments should contact the commissioner to confirm
+what they can claim expenses for and the agreed amount (such as for mileage).
+100

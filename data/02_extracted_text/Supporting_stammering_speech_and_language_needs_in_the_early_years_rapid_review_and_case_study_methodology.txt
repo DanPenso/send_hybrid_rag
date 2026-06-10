@@ -1,0 +1,1496 @@
+Department
+for Education
+Supporting
+stammering, speech
+and language needs
+in the early years:
+rapid review and case
+study methodology
+Methodology report
+September 2025
+Authors: McKean, c., Charlton, J.,
+Knowland, V., Stringer, H., Thomas, U.,
+Whelan, A., Millard, S., Levickis, P.,
+Murray, L., Richardson, E.
+Contents
+List of figures
+3
+List of tables
+4
+Executive summary
+5
+Introduction
+5
+Identification and assessment methods
+5
+Intervention and support methods
+5
+Working together methods
+6
+Introduction
+7
+Work package 1: Identification and assessment
+9
+Research questions
+9
+Methods
+9
+Search strategy
+9
+Inclusion criteria
+10
+Search results
+11
+Extraction and appraisal of data
+12
+Characterising the tools
+12
+Appraisal
+13
+Work package 2: Intervention and support
+14
+Research questions
+14
+Methods
+14
+Search strategy
+15
+Inclusion criteria
+16
+Systematic reviews
+16
+Intervention studies
+16
+Search results
+17
+Review and evaluation of intervention studies
+18
+Data extraction and appraisal
+18
+Template for Intervention Description and Replication (TIDieR) framework
+19
+Study quality indicators
+20
+1
+Effect sizes
+21
+Levels of evidence
+22
+Analysis of approaches used in specialist interventions
+23
+Work package 3: Working together
+24
+Research questions
+24
+Rapid literature review methods
+24
+Search strategy
+25
+Peer reviewed articles
+25
+Grey literature, thesis and websites
+26
+Case study methods
+28
+Ethics
+29
+Participants
+29
+Procedure
+29
+Data analysis
+30
+Appendices
+31
+Appendix A: Definitions of key psychometric constructs
+31
+Appendix B: Criteria for psychometric quality judgements
+33
+Appendix C: Working together search terms
+35
+Appendix D: Case study email template
+36
+Appendix E: Early years settings interview questions
+37
+References
+39
+Systematic reviews identified in our review
+40
+2
+List of figures
+Figure 1. Flow chart for identification and assessment search
+12
+Figure 2. Flow chart for intervention and support search
+18
+Figure 3. Evidence hierarchy
+22
+Figure 4. Flow chart for the working together search of peer-reviewed articles
+26
+Figure 5. Flow chart for the working together search of grey literature articles
+28
+3
+List of tables
+Table 1. Effect size table and corresponding months of progress and impact (using EEF
+guidance)
+21
+4
+Executive summary
+Introduction
+This rapid review, commissioned by the Department for Education (DfE) and conducted
+from February to July 2024, aimed to identify the best available evidence to guide early
+years practitioners in supporting children aged 0-5 with speech, language, and
+communication needs (SLCN), specifically stammering, speech sound issues, and
+language development. Excluding autism-related communication needs, the review
+focused on three areas: (1) identification and assessment, (2) intervention and support,
+and (3) working together. Varied evidence sources and tailored methods for each work
+package were employed.
+Identification and assessment methods
+This work package of the rapid review focused on identifying and evaluating tools that
+non-specialist early years staff can use to identify stammering, speech, and language
+needs in young children. Using a multi-source search strategy, including database
+searches, web reviews, and expert input, we identified 22 relevant tools and assessed
+their characteristics and psychometric properties (e.g. reliability, validity, usability,
+accuracy in identifying needs). The review aimed to determine which tools are most
+suitable for formative assessment and decision-making around universal, targeted, or
+specialist support.
+Intervention and support methods
+This part of the rapid review examined the effectiveness of speech and language
+interventions for children that can be delivered by early years practitioners, using existing
+systematic reviews and the What Works database. While no suitable studies were found
+for stammering interventions at universal or targeted levels, 25 studies on speech and
+language were identified and appraised for their characteristics, effectiveness, and
+quality.
+Using the TIDieR framework, each intervention was detailed by its components, delivery
+method, and rationale, while study quality was assessed using nine indicators (e.g.
+fidelity, blinding, validity). Effect sizes were calculated using Hedges g and interpreted
+using Education Endowment Foundation (EEF) guidance to show impact in months of
+progress. Additionally, techniques from specialist interventions were reviewed to identify
+safe, practical strategies that could be adapted for universal or targeted use by non-
+specialists. The findings aim to guide practitioners in selecting appropriate interventions
+5
+based on children's needs, the level of support required, and the best fit to their setting's
+unique context.
+Working together methods
+This section of the rapid review explored collaborative models between early years
+settings and professionals such as speech and language therapists (SLTs), health
+visitors (HVs), educational psychologists (EPs), and parents to support children's speech,
+language, and stammering needs. Using peer-reviewed and grey literature alongside
+case studies analysed through the Theoretical Domains Framework and COM-B model,
+the review identified nine academic papers and five grey literature sources, highlighting
+key components of effective collaboration including training, knowledge exchange, and
+flexible intervention pathways.
+6
+Introduction
+This rapid review was commissioned by the Department for Education and was
+completed between February and July 2024. The aim was to identify the best current
+evidence to inform the provision of universal and targeted support for children with
+speech, language and communication needs (SLCN) by early years practitioners.
+The review focuses on identification, support and interventions, and working
+collaboratively for children with stammering, speech or language needs (aged 0-5):
+Stammering (also known as stuttering) is characterised by whole and part-word
+repetitions, prolongations and blocking of sounds, and may be accompanied by
+physical tension, additional movements, and/or avoidance of words or speaking.
+Speech refers to the production and use of speech sounds including consonants
+(e.g. p, b, m, s) and vowels (e.g. ah, ee, oo) to convey a message in a given
+language.
+Language is the understanding and use of words, sentences and grammatical
+markers (e.g. -ing; -ed) to share meaning.
+The review does not address the needs of children with autism and/or pragmatic or social
+communication needs. This was both because a parallel review for autism was planned
+where we anticipated relevant research for communication needs would be identified and
+to ensure the scope of the review was possible with the available resources and time
+frame.
+The review comprised three work packages to identify evidence relevant to the non-
+specialist early years workforce with respect to:
+1. Identification and assessment
+2. Intervention and support
+3. Working together
+This methodology report describes the methods used to identify studies discussed in our
+review Supporting stammering, speech, and language needs in the early years. A
+Supplementary Evidence Report is also available and published by Newcastle University,
+which provides additional detailed results, data extraction tables and analyses.
+Rapid review methods provide an overview and synthesis of the available evidence of
+relevance to each work package. As such, they do not guarantee a fully comprehensive
+identification of all available evidence. The nature of available evidence for each work
+package varied. For example, in work package 1: Identification and assessment tools,
+evidence consisted of assessment manuals and peer-reviewed papers; for work package
+7
+2: interventions and support, evidence was peer-reviewed papers; and for work package
+3: working together, the literature was peer-reviewed papers and grey literature, as well
+as qualitative case studies. Given this, differing methods were used to identify, appraise
+and synthesis the evidence for each, and are outlined in turn.
+8
+Work package 1: Identification and assessment
+In order to meet the goals of this rapid review we carried out a desk-based review of
+available measures and tools for identifying stammering, speech and language needs in
+early childhood by non-specialist staff.
+Research questions
+The aim of the work package was to identify and compare the effectiveness of different
+measures and tools for identifying stammering and potential speech and language needs
+during formative assessment.
+Which measurement tools are available to early years practitioners to identify
+children's stammering, speech, and language needs across the early years?
+What are the performance parameters of these measurement tools (e.g. reliability/
+validity/ specificity)?
+Which measurement tools are most appropriate for use by staff in early
+years settings? What are the advantages and disadvantages of the different
+tools?
+How can these tools be used to guide decisions regarding the provision of
+universal, targeted or specialist support? What profiles of need require specialist
+approaches?
+Which profiles of need are likely to require immediate specialist referral?
+Methods
+We applied recognised search, and data extraction strategies and methods of data
+extraction, summary and appraisal used in 'desk-based' and/or scoping reviews (Grant
+and Booth, 2009).
+Search strategy
+The search strategy to identify published tools included 5 approaches:
+1. A list of prespecified tools in the specification from DfE
+2. Tools identified in existing systematic reviews of identification tools known to
+the research team (Feltner et al., 2024, Baker et al., 2022)
+3. Web searches of UK assessment publishers: GL Assessment; Pearson Clinical
+Assessment UK; Gov.UK; and Grey literature (e.g. on Speech and Language
+Therapy and Early Years services webpages)
+9
+4. Database search: Three databases most likely to yield relevant literature were
+searched for reviews of identification tools (Embase; Scopus; EBSCO: ERIC).
+Search strategies for these databases used both indexing terms and free text
+searching and were designed for rapid retrieval by searching titles and records
+published in English. Search terms included: Review AND Language OR
+Speech OR Communication OR Stammer*ing OR Stutter*ing AND Tool*s OR
+Identification OR Screening
+5. Finally, the team reviewed the list and added additional tools which they are
+aware are in widespread use, but which did not appear in the above searches.
+This was, in the main, due to the date of development being earlier than 2013
+Once the tools were identified we sourced publications to provide the necessary details
+to summarise the characteristics of the tools and appraise the tools psychometric
+properties. To do this we first identified manuals and primary papers which described the
+development and psychometric properties of the tools. We then conducted searches in
+SCOPUS and EBSCO for papers published after the date of the manual publication,
+which included the name of the tool in the title or abstract to check if further evaluation
+had been conducted. We also checked with the authors themselves on whether further
+evaluations had been published.
+As this is a rapid review it cannot be guaranteed that our search yielded a fully
+comprehensive list, but we can be confident that it included the large majority of those
+available and in use.
+Inclusion criteria
+Tools were included for appraisal applying the following inclusion and exclusion criteria
+Include if:
+Prespecified in DfE specification
+Early Language Identification Measure (ELIM)
+Language Screen
+WellComm
+Progress checker
+Infant Language Link
+Every Child a Talker (ECAT)
+Or if:
+Covered relevant age range
+10
+Assessed stammering, speech, and/or language
+Can be used by early years educators
+UK developed/adapted
+Where no or limited available tools for a specific domain were available (i.e. stammering,
+speech or language), then inclusion criteria were relaxed to consider:
+Non-UK tools
+Professional guidelines
+Tools were excluded if they were:
+For children aged above 6 years of age
+Published pre-2013 (with the exception of tools specified by DfE or known to be in
+widespread use)
+Search results
+The results of the search for identification and assessment are documented in a flow
+diagram in Figure 1. Existing reviews retrieved via database searching yielded a total of
+26 reviews and combined with the 6 existing reviews known to the Newcastle team,
+resulted in a total of 32 studies. After duplicates and those that did not meet the inclusion
+criteria were removed, a total of 23 studies were retrieved from database searching.
+The wider web and grey literature yielded a further 50 studies, with 40 of the studies then
+excluded due to not meeting the inclusion criteria (wrong age, specialist, not
+standardised), resulting in 10 papers being included. 6 tools were also requested by DfE
+to be included.
+After duplicates removed, a total of 22 studies across searching via databases, the wider
+web and tools already known and/or requested were included in the review.
+11
+Figure 1. Flow chart for identification and assessment search
+Tools requested
+Existing reviews known: n= 6
+Existing reviews retrieved via databases:
+Wider web + grey literature
+from DfE: n = 6
+tools:
+Baker, Anzai, Dockrell,
+EMBSCO n = 20 (1 relevant)
+Law, Denman, Feltner
+EMBASE n = 110 (13 relevant)
+GL Assessment n = 5
+Scopus n = 181 (12 relevant)
+Pearson Clinical UK n = 37
+Gov.UK n = 2 (ELIM/EYFS)
+Total reviews: n = 26
+Grey n = 6
+Total: n= 50
+Total Duplicates: n = 19
+Met initial inclusion criteria: n = 7
+Law 2000, Feltner, Nelson, So, Sim,
+Wallace, Larson
+Duplicates across known and retrieved reviews: n = 2
+Total reviews included: n = 11
+Total number of tools in reviews: n = 158
+Excluded:
+Excluded:
+Specialist n = 19
+Not UK n = 88
+Wrong age n = 1
+Not standardised n = 17
+Specialist n = 37
+Not standardised n = 2
+Not SLCN n = 9
+Wrong age n = 2
+Included: n = 6
+Included: n = 23
+Included: n = 10
+Duplicates: n = 17
+Included: n = 22
+Extraction and appraisal of data
+Characterising the tools
+We extracted descriptive information regarding the characteristics of the tools from the
+manual, websites and primary research paper(s) where these were available, including:
+Name of the measure
+Age group(s) assessed (i.e. 0-12 months; 1-3 years; 3-5 years; 5-6 years)
+Stammering, speech and/or language domain covered
+Specific skills assessed (e.g. vocabulary, speech sounds, grammar)
+Type of assessment (e.g. parental report, observation, direct assessment)
+Designed for use by which practitioner groups
+Brief description
+Purpose (i.e. identification of needs, tracking progress, profiling strengths and
+weaknesses)
+Specified age range (month/years)
+12
+Cost
+User training or qualifications
+Appraisal
+We extracted and evaluated information regarding the psychometric properties of the
+tools identifying whether or not they were reported in the sources we identified. Appendix
+A: Definitions of key psychometric constructs provides a list of key psychometric terms
+and their definitions. The psychometric properties considered are drawn and adapted
+from Asunta et al., 2019, and based on classical test theory as these were reported for
+the majority of tools:
+Normative sample: consideration of the sample used to develop, standardise and
+create norms for the tool in terms of representativeness of the UK population and
+size.
+Usability: a qualitative judgement regarding how feasible, practical and easy a tool
+is for practitioners to use.
+Accuracy in identifying needs: Measured using sensitivity/specificity metrics.
+Validity: considering concurrent, discriminant and face validity.
+Cross-cultural: consideration as to whether tools had been evaluated in in non-
+monolingual and/or non-English speaking groups or if the tools, at a minimum,
+advise regarding its use with these groups.
+Reliability: considering internal consistency, test-retest reliability and inter-rater
+reliability.
+It is important to note that classical test theory has been challenged in recent years with
+respect to potential inaccuracies (Cappelleri et al., 2014). In addition to these classic
+psychometric properties, we therefore also noted if tool development had included more
+modern methods of development, including Rasch analysis and Item response theory.
+These approaches enable higher confidence in a tool's ability to detect individual
+differences between children and in individual children over time (Jabrayilov et al., 2016).
+Once identified, the level of quality for each metric was rated using recognised guidance
+for each metric where available as: not reported; reported but unclear; reported but
+quality rating not applicable (i.e. relating to qualitative characteristics); low quality;
+moderate quality; and good to excellent. The definitions for quality ratings for each metric
+are in Appendix B: Criteria for psychometric quality judgements.
+13
+Work package 2: Intervention and support
+To meet the goals of the rapid review on intervention and support, we carried out a
+review of existing systematic reviews of interventions to support speech and language,
+and children who stammer. Interventions and approaches included in the review were
+those that are suitable for delivery by early years education professionals.
+Research questions
+To identify the effectiveness of different approaches to supporting children with speech
+and language needs or children who stammer at universal, targeted and specialist levels.
+To identify techniques and strategies from specialist approaches that require delivery by
+a speech and language therapist (SLT) that may be applicable for use by early years
+professionals.
+What Universal and Targeted approaches are effective at addressing different
+types of need across stammering, speech and language for children aged 0-5
+years?
+What interventions are effective at addressing different types of needs (across
+stammering, speech and language) for children at different points across the 0-5
+age range (e.g. 0-12 months, 1-3 years, 3-5 years) and with what size of effect?
+What is the most appropriate level of delivery (Universal, Targeted, Specialist) for
+each of these interventions?
+What types of children (with what types of need) appear to respond most to the
+different types of approach / intervention?
+What recommendations for practice flow from this analysis? In particular, what
+advice can we give practitioners to help them to select the most relevant
+intervention / approach in individual cases.
+Methods
+In order to complete this review, we first used existing systematic reviews to identify
+intervention studies listed in those which met our inclusion criteria (see under 'Inclusion
+criteria'). This reduced the time needed and allowed us to quickly identify relevant studies
+with randomised control trial (RCT) and/or quasi-experimental designs.
+Following this, we then identified the individual intervention studies in the reviews, which
+met our inclusion criteria. We then supplemented this list with the knowledge of the
+14
+review team and expert colleagues regarding any studies we may have missed and with
+a search of the 'What Works' database.
+As the focus of this rapid review is for universal and targeted interventions deliverable by
+early years practitioners, a detailed summary and synthesis of studies evaluating
+interventions at these levels was completed. Although early years practitioners are not in
+a position to provide specialist interventions independently, we also extracted data
+regarding the characteristics of effective specialist interventions. These were summarised
+and synthesised to describe approaches that might have relevance and offer additional
+insights regarding the provision of effective universal and targeted approaches. Each of
+these steps were completed for language, speech and stammering interventions.
+Search strategy
+Our goal was to identify intervention studies published in the last 10 years at universal,
+targeted and specialist levels. We identified recent systematic reviews (published in the
+last 5 years) of interventions to support children's speech, language and communication
+or stammering as these would provide a rapid method for identifying the relevant
+intervention papers published in the previous 10 years. These reviews included those
+already known to the research team and any further reviews found via database
+searching.
+Systematic reviews were identified via:
+Systematic reviews known to the research team
+Database searches: Six databases most likely to yield relevant literature were
+searched for reviews of intervention for speech, language and communication and
+stammering/stuttering including (1) EBSCO: ERIC; (2) EBSCO British Education
+Index; (3) Embase; (4) Scopus; (5) Medline; and (6) Web of Science. Search
+strategies for these databases used both indexing terms and free text searching
+and were designed for rapid retrieval by searching titles and records published in
+English in the last 5 years (2018-2023). Search terms included: Systematic
+AND/OR review; Language OR Speech OR Communication OR Stammer*ing OR
+Stutter*ing AND Intervention
+Intervention studies were identified via:
+The studies listed in the systematic reviews identified met the inclusion criteria
+15
+The 'What Works' database¹ (hosted by Speech and Language UK). The What
+Works database of interventions for speech, language and communication was
+searched for interventions that met the inclusion criteria
+Inclusion criteria
+The degree to which evidence was available for individual domains of speech, language,
+and stammering was variable. Historically and to date there is a larger body of literature
+reporting approaches for supporting language than for speech and stammering. In
+consideration of this, we applied an 'extended' inclusion criteria for reviews of
+interventions for speech and stammering to enable us to gather the most robust and
+informative evidence for these. Inclusion and exclusion criteria applied to systematic
+reviews and to interventions.
+Systematic reviews
+Systematic reviews were included if:
+Published in last 5 years (2018-2023) for language interventions and the last 10
+years (2013-2023) for speech and stammering interventions
+Published in English
+Relevant interventions for children aged 0-5 years
+Systematic review methods
+Thematic or non-systematic reviews were included for stammering only
+Excluded if:
+Published before 2018 for language interventions and 2013 for speech and
+stammering interventions
+Reports intervention for age 6 and above or adults
+Reports intervention for broader neurodevelopmental conditions (e.g., Autism,
+Downs Syndrome, Intellectual Disability) or Cleft Palate
+Not published in English
+Doctoral thesis/unpublished/not peer-reviewed
+Intervention studies
+Include if:
+1 What Works database: A database of evidenced interventions to support children's speech, language and
+communication skills.
+16
+Published in the last 10 years (2013-2023) for language interventions, the last 20
+years (2004-2023) for speech interventions, and the last 20 years (2004-2023) for
+stammering interventions
+An RCT or quasi-experimental design
+Relevant for children aged 0-5 years (mean age above 6 years of age)
+Published in English
+Suitable for early years practitioners to deliver
+Exclude if:
+Published pre-2013, pre-2004 (speech)
+Not RCT or quasi-experimental design
+Reports intervention for age 6 and above or adults
+Reports intervention for broader neurodevelopmental conditions (e.g., Autism,
+Downs Syndrome, Intellectual Disability)
+Reports intervention for specific populations (e.g., Cleft Palate, hearing
+impairment, Childhood Apraxia of Speech) (for speech interventions)
+Reports only data from children who speak a language other than English (for
+speech interventions)
+Not published in English
+Not suitable for early years practitioners to deliver (i.e. specialist/SLT)
+Doctoral thesis/unpublished/not peer-reviewed
+Search results
+Figure 2 describes the process of identification of systematic reviews and individual
+studies. The systematic reviews identified and used as sources are listed in a separate
+list of references at the end of this report.
+Existing reviews retrieved via database searching yielded a total of 60 reviews and
+combined with the 20 existing reviews known to the Newcastle team and 84 interventions
+sourced from the What Works database, resulted in a total of 164 studies. After
+duplicates and those that did not meet the inclusion criteria were excluded, a total of 83
+papers were longlisted. Of these, 51 studies focused on language and 23 studies on
+speech and 9 were found for stammering. Once shortlisted, 20 papers were included on
+language interventions and 5 papers on speech interventions. No papers on stammering
+interventions were included.
+17
+Figure 2. Flow chart for intervention and support search
+Existing reviews known:
+Existing reviews retrieved via databases
+What Works interventions n = 84
+Language n 9
+EBSCO ERIC n = 55 (14 relevant)
+Speech n = 7 (5 extended criteria)
+EBSCO British Education Index n = 22 (6 relevant)
+Stammering n = 4 (2 extended
+Scopus n = 107 (14 relevant)
+Excluded:
+criteria)
+EMBASE n = 36 (5 relevant)
+Outside data range n = 62
+Total reviews n = 20
+Medline n = 18 (5 relevant)
+Not RCT/Quasi n = 5
+Web of Science n = 98 (16 relevant)
+Outside age range n = 4
+Autism n 3
+Total reviews n = 60
+Specialist n = 2
+Duplicates n = 41
+Included reviews total n = 39: Language n = 24; Speech n = 8; Stammering n = 7
+Included n = 8
+Papers reviewed total n = 669: Language n = 480; Speech n = 151; Stammering n = 38
+Excluded:
+Not RCT/Quasi, paper > 10 yrs old, not English n = 379
+Specific populations (e.g. ASD, Downs Syndrome) n = 196
+No effect of intervention n = 1
+Duplicates n = 20
+Long list papers total n = 83: Language n = 51; Speech n = 23; Stammering n = 9
+Language Interventions
+Speech Interventions
+Stammering Interventions
+Education setting n = 31
+Excluded:
+Parenting n = 19
+Education settings n = 3
+Education setting = 1
+Clinic 17
+Computer programme
+Clinic 2
+Clinic 1
+not applicable to UK
+Clinic Home n = 6
+practice 3
+Universal n 10
+Universal n 0
+Universal + Targeted n = 5
+Universal + Targeted n = 1
+Universal n = 0
+Targeted n 27
+Targeted n = 4
+Universal + Targeted n = 0
+Specialist n = 9
+Specialist n = 15
+Targeted n. 0
+Specialist n = 9
+Included: n = 16 (20 papers)
+Included: n = 2 (5 papers)
+Included: n = 0
+Universal n = 4
+Universal + Targeted n = 1
+Universal + Targeted n = 2
+Targeted n = 1
+Targeted n = 10
+Specialist n = 0
+Review and evaluation of intervention studies
+There were no studies found from our search relevant to universal and targeted
+interventions for stammering. Therefore, the review and evaluation of the intervention
+studies applied to studies related to speech and language interventions.
+We systematically extracted relevant data from the intervention studies identified in the
+literature reviews to provide an analysis of the characteristics, efficacy, and study quality
+of the interventions. This was to support practitioners and settings to evaluate the fit and
+feasibility of the interventions for their settings and pupils. We summarised the
+characteristics of the interventions using an adaptation of the TIDieR framework
+(Hoffmann et al., 2014), the effects using the EEF framework methods for interpreting
+effect sizes (Higgins et al., 2012) and summarised study quality using the (Durán et al.,
+2016) framework adapted from Cirrin and Gillam (2008) (Shobbrook et al., 2024).
+Data extraction and appraisal
+Data was extracted for each intervention study into an overarching excel database and
+the key characteristics for each intervention were then transferred and inputted into
+evidence tables.
+18
+These key characteristics include:
+1. Evidence paper reference (author name and date)
+2. Age of children the intervention is appropriate for
+3. Speech and language skills targeted by the intervention
+4. Participant characteristics (country, universal or targeted, language(s) spoken,
+age)
+5. Sample size
+6. Outcomes measured (speech and language-related only)
+7. Summary of findings (speech and language related only)
+8. Reported effect size(s) (for statistically significant outcomes only)
+Some interventions had more than one paper that met the inclusion criteria. Where this
+was the case, we report the key characteristics of each paper associated with the
+intervention.
+Template for Intervention Description and Replication (TIDieR) framework
+We used an adaptation of the TIDieR framework to describe components of the
+interventions (Hoffmann et al., 2014). This framework enabled interventions to be
+described clearly and comprehensively to support replication and use in practice. The
+components of interventions as reported in included studies were extracted against the
+following categories:
+Name of intervention (Where interventions were not named, we have allocated a
+name that represents the key components of intervention)
+Why use it? (rationale)
+What does it involve?
+Materials to deliver it
+Who delivers it?
+Where is it delivered?
+How is it delivered? (e.g. face to face)
+How often and how much? (Frequency/dosage, i.e., session duration, over what
+period of time)
+Tailoring (if the intervention was designed to be personalised or adapted for
+individual children or users)
+19
+Fidelity: can it be delivered as intended? (adherence to intervention
+procedures/delivered as intended)
+Where interventions have more than one evidence paper, the TIDieR summaries include
+combined information extracted from all papers.
+Study quality indicators
+Each evidence paper was included in this review because its study design (level of
+evidence) is relatively robust in that it uses an RCT or quasi-experimental design. RCTs
+are higher level of evidence; whether a study uses an RCT design is indicated in the
+evidence summary tables. However, the quality of execution of various aspects of these
+study designs (procedures/methods) varies substantially. Each evidence paper was
+therefore appraised using the (Durán et al., 2016) framework adapted from Cirrin and
+Gillam (2008) against a pre-specified set of 9 quality indicators:
+1.
+For RCTs, the randomisation procedure is clear
+2.
+There is initial group similarity
+3.
+Fidelity is reported (adherence to intervention procedures)
+4.
+Fidelity level is acceptable (more than 80%)
+5.
+There is blinding of assessors (i.e., assessors were not aware which group
+(intervention/control) children were allocated to)
+6.
+The intervention description is sufficient for replication
+7.
+Measures are valid and reliable
+8.
+p values are reported for all outcomes
+9.
+Effect size(s) are reported
+These quality indicators are all important and should be considered together when
+appraising evidence.
+Whether a criterion was 'met' or 'not met' by evidence is indicated in an evidence
+appraisal table for each intervention. Where an intervention had multiple evidence
+papers, quality indicators were judged collectively considering indicators met/not met
+across all papers. The term 'unclear' indicates where evidence is mixed across multiple
+papers (for example, when one paper does meet a criterion, and one does not). For
+single evidence papers 'unclear' refers to lack of clarity in the information provided in the
+paper.
+20
+Effect sizes
+Effect sizes allow us to describe the size of the difference in outcomes between an
+intervention and control/comparison group in a standardised and comparable way.
+Measures of effect size vary between studies; therefore, calculated effect size allows us
+to standardise and compare effects across multiple interventions. Calculated effect sizes
+are only provided for statistically significant outcomes post-intervention to allow
+comparison of positive impact across interventions. Effect sizes are calculated using
+post-intervention descriptive data (Mean, standard deviation) comparing the intervention
+group with the control or comparison group. Outcomes that lack the required descriptive
+data to calculate a standard effect size using Hedges g, we report as 'unable to
+calculate'. Details about effect sizes reported in evidence papers and those that we have
+calculated, for all study outcomes are found in Supplementary Evidence Report.
+The effect sizes we have calculated are Hedges g, a calculation which includes a
+correction for small and/or uneven sample sizes between groups. We interpret them
+using the Education Endowment Foundation toolkit guidance (EEF, 2023a) which
+categorises effects from 'very low' to 'very high' and translates them into the number of
+months' progress children gain as a result of the intervention (Table 1).
+Table 1. Effect size table and corresponding months of progress and impact (using
+EEF guidance)
+Effect sizes (Hedges g)
+Progress (months)
+Impact
+-0.05-0.05
+0
+No or very low
+0.06-0.18
+1-2
+Low
+0.19-0.44
+3-5
+Moderate
+0.45-0.69
+6-8
+High
+0.70-1.00
+9-12
+Very high
+1.00+
+More than 12
+Very high
+For each intervention we provide an effect size summary table of its highest and lowest
+calculated effect size and report any outcomes where there was no effect. For highest
+and lowest effect sizes we also indicate level of impact using EEF descriptions, as shown
+in Table 1. Alongside these summary tables we provide a narrative overview of effect
+sizes and study quality which includes whether the sample sizes of the evidence paper(s)
+are small, moderate, or high. We consider a sample size to be 'small' if it includes less
+than or equal to 30 children per group (intervention and control); 'moderate' if it includes
+31-40 children per group; and 'large' if it includes more than or equal to 60 children per
+group. These categories are based on our knowledge of typical sample sizes included in
+studies reporting children's speech and language needs.
+21
+Levels of evidence
+Levels of evidence may be represented as a hierarchy which ranks studies based on the
+robustness of their design. This hierarchy is depicted in the pyramid in Figure 3 and is
+adapted from Lo-Biondo-Wood, G. P. & Haber, J. (2010). Nursing research: Methods and
+critical appraisal for evidence-based practice (7th Ed.) St Louis, MO: Mosby Elsevier.
+Systematic reviews and meta-analyses are considered the most robust evidence, and
+opinion pieces and reports the least robust. All studies included in our review were either
+Randomised Controlled Trials (RCT) or quasi experimental studies (QES).
+Figure 3. Evidence hierarchy
+Systematic
+review
+Randomised
+control trial
+Quasi-experimental
+Case-control or cohort studies
+Systematic review of descriptive and
+qualitative studies
+Single descriptive or qualitative studies
+Opinion of authorities, reports from expert commitees,
+narrative reviews
+22
+Analysis of approaches used in specialist interventions
+The DfE requested that in addition to identifying specific universal and targeted
+interventions that we review specialist interventions identified in the search to extract
+from them any approaches or techniques which might be applied to teaching practices
+within early years settings as potential universal or targeted techniques.
+We found nine specialist intervention papers for stammering, 16 for speech and nine for
+language within included systematic reviews. For each paper, we extracted the skills
+targeted by the intervention, and author-reported intervention approaches and/or
+techniques that we considered as appropriate for use within early years settings with
+universal and targeted children. These were approaches that would not require
+specialist-level knowledge for implementation and would not cause harm or have
+negative effects on children's stammering, speech or language if delivered by non-
+specialist practitioners. These approaches/techniques were then viewed across all
+evidence papers to explore commonality and group together papers that reported the
+same approach/technique. In total, appropriate approaches/techniques were extracted
+from three of the specialist papers for stammering, five of the specialist papers for
+speech and all nine for language.
+23
+Work package 3: Working together
+To answer the research questions related to working together, a rapid review of peer-
+reviewed literature and resources published in reports or doctoral theses (known as grey
+literature) and a series of case studies of examples from practice were completed. The
+case studies were analysed using qualitative framework analysis based on the theoretical
+domains framework (TDF) (Cane et al., 2012) and mapped onto the COM-B model
+(Michie et al., 2011).
+Research questions
+What examples are there of different models of collaboration between early years
+settings with other professionals for identifying and providing support for children's
+stammering, speech and language needs. These other professionals include:
+SLTs; Health Visitors (HVs); Educational Psychologists (EPs); and parents and
+caregivers
+What recommendations can be made about optimal components and
+characteristics of collaboration between early years settings, other professionals
+and parents and carers to support identification and intervention for children's
+stammering, speech and language needs.
+Rapid literature review methods
+The remit for this rapid review of literature about working together with early years
+settings was to conduct a database search for peer-reviewed evidence published in the
+last 10 years, and a search of grey literature, including doctoral thesis and reports using
+the same parameters:
+All sources were described with respect to the evidence/theoretical base
+Target cohort characteristics
+Evidence of knowledge exchange
+Training content and availability
+Assessment and intervention content
+Effectiveness
+Evidence of sustainability/normalisation
+Flexibility and tracking through universal, targeted, specialist intervention
+pathways
+24
+As this is a rapid review, it cannot be guaranteed that a fully comprehensive list of
+literature about working together has been generated.
+Search strategy
+Peer reviewed articles
+One of the issues with conducting a rapid review of the literature on 'working together'
+was the lack of consistent terminology used to describe it or what is meant by it.
+Therefore, we had to make decisions regarding the search terms used but are cognisant
+of the fact that this will have resulted in many studies and papers not appearing in the
+results of the database or grey literature searches. Endeavouring to mitigate this was
+addressed by adding filters for synonyms and mapped terms. Advice was taken from
+Newcastle University Library specialist librarian to ensure we were searching all available
+and relevant databases for both peer reviewed and grey literature.
+Five key databases were identified to conduct the rapid review including: The British
+Education Index (EBSCO), SCOPUS, Medline (OVID), Web of Science and ERIC
+(Educational Information Resources Centre).
+Following identification of search terms, searches took place firstly with all terms
+comprising age, setting, type of need, pathway, and collaboration (see Appendix C:
+Working together search terms). With few results being returned, the searches were run
+again with terms Universal* OR targeted* OR specialist* removed. An additional series of
+searches was also run that included specified partners. The searches were limited to the
+time frame of January 1st, 2014, to the end of February 2024.
+The results of searches for each separate database were combined and duplicates
+removed. The abstracts were read and exclusion criteria applied (age range of children
+(0-5); focus on collaboration; focus on speech, language and communication;
+involvement of early years practitioners and settings). The results from each database
+were combined and duplicates removed. Non-UK studies were removed. This resulted in
+15 studies.
+All studies were read in full and exclusion criteria applied, resulting in five papers being
+included in the rapid review. The reference lists of these papers were also followed up
+and exclusion criteria applied, resulting in a further four results. Additional results were
+then also read in full. A total of nine papers were included in the rapid review on working
+together (Figure 4).
+25
+Figure 4. Flow chart for the working together search of peer-reviewed articles
+EBSCO
+Scopus
+Medline
+Web of
+ERIC
+Search 1: using terms 1-5
+n=13
+n=8
+n=44
+Science
+(EBSCO)
+n=211
+n= 77
+Search: 2 using terms 1-3 plus
+EBSCO
+Scopus
+Medline
+Web of
+ERIC
+5
+n=130
+n=42
+n=1059
+Science
+(EBSCO)
+n=1511
+n= 10
+Searches 1 and 2 combined,
+EBSCO
+Scopus
+Medline
+Web of
+ERIC
+duplicates removed, each
+n=13
+n=4
+n=4
+Science
+(EBSCO)
+abstract was read and the
+n=29
+n= 10
+exclusion criteria applied
+Results combined n= 60
+Duplicates and non-UK studies
+Non-UK studies removed n=
+excluded
+Duplicates removed n=56
+15
+Full texts read and exclusion
+criteria applied n= 5
+Total results N=9
+References followed up and
+where inclusion criteria applied
+were read in full: n= 4
+Grey literature, thesis and websites
+Three search engines/databases were identified to conduct the grey literature rapid
+review including: (1) Google Advanced Search; (2) The Bielefeld Academy Search
+Engine (BASE), an open access repository containing 100 million documents; and (3)
+ProQuest TM Dissertations & Theses Citation Index.
+The British Library online search facility for theses was unavailable due to a Cyber
+incident in October 2023.
+Drawing on the experience of the academic database searches, the search terms were
+limited to in order to have a broader scope and obtain more potential results. Additional
+filters were added, based on the exclusion criteria used in the academic database
+search.
+26
+The filters applied for the search engine and database searches were as follows:
+Google advanced search:
+Contain all of these words (speech, language, communication, early years,
+collaboration, partnership)
+Language: English
+Region: UK
+Last update: anytime
+Terms appearing: in the whole page
+File type: any
+BASE:
+Filter: Time: 2014-2024
+Filter: UK
+Filter: text
+Filter: subject: communication
+Filter: Language: English
+ProQuest™ Dissertations & Theses Citation Index:
+Filter: Time: 2014-01-01 to 2024-06-11
+Filter: Included thesis and dissertations in England
+Following this search of Google (websites, links); BASE and ProQuest (titles and
+descriptions) the results were followed up and inclusion criteria applied. This resulted in
+four relevant sources. Knowledge of a relevant thesis was also followed up. This yielded
+a total of five sources (Figure 5).
+27
+Figure 5. Flow chart for the working together search of grey literature articles
+ProQuest TM
+BASE (Bielefeld
+Dissertations &
+Search 1: using search terms and
+Google Advanced
+Academy Search
+Theses Citation
+filters applied
+search n=281
+Engine) n=737
+Index n=12
+ProQuest TM
+BASE (Bielefeld
+Dissertations &
+Search 2: Exclusion criteria applied
+Google Advanced
+Academy Search
+Theses Citation
+search n=10
+Engine) n=0
+Index n=0
+Texts, reports, websites read and
+followed-up n=4
+Total Results n=5
+Research team knowledge of
+relevant thesis n=1
+Case study methods
+A range of case studies of good practice in working together to support children with
+speech and language needs in the early years were identified and examined in order to
+consider how different approaches can be or are effective. Each locality has different
+needs, the services are organised differently and the professionals that come together
+bring different knowledge and expertise. Each approach is unique, yet there are
+commonalities across them. Our goal was to describe good practices such that localities
+that aim to develop their own model of working together may find that one of the
+examples will meet their need or that parts from each example will best fit their context.
+Additionally, we aimed to identify cross-cutting themes of best practice to inform service
+and policy development.
+Structured interviews were used to collect data which were then analysed using the
+Theoretical Domains Framework (Cane et al., 2012). This is a model from behavioural
+sciences that has been validated for use in the identification of barriers and enablers in
+contexts where conditions are identified and interventions implemented (Cane et al.,
+2012). The TDF maps onto the Capability, Opportunity, Motivation-Behaviour (COM-B)
+Model (Michie et al., 2011) which can be used to help us better understand the
+components that contribute in positive or negative ways to the desired outcomes.
+28
+Ethics
+Ethical approval was given by the Newcastle University Ethics Committee. Information
+and consent documents were emailed to participants for completion.
+Participants
+Participants were identified through the research team's existing professional networks
+and from a list of contacts provided by the DfE. We aimed to recruit participants from
+different regions and with different models of working together. Emails were sent to the
+named contact explaining the scope and purpose of the work and they were asked if they
+thought their work aligned with our aims. From this we recruited four speech and
+language therapy services and one Academy Trust whose early years settings worked
+together with one of the speech and language therapy services. Three of the speech and
+language therapy services recruited early years settings whom they thought were typical
+of their working together model. EPs and an associated settings were later recruited
+through personal contacts. Despite multiple attempts we were unable to recruit a Health
+Visitor.
+Procedure
+Questionnaires for use in online interviews with representatives from the different
+organisations were devised to address the research questions. Modified versions of the
+same questions were developed for use with SLTs, HVs, EPs, and managers of early
+years settings. The introductory email for early years practitioners is in Appendix D: Case
+study email template. The questions used for the early years setting interviews are in
+Appendix E: Early years settings interview questions.
+The interview questions were emailed in advance to the participants so they could
+prepare their responses. In addition, they were asked to provide the following information
+by email:
+Name of organisation
+Title of working together/partnership/collaborative work (if there is one)
+Geographic location
+Type of working together (collaboration, partnership etc.)
+Who is working together (please just provide job titles involved e.g. teaching
+assistant, head teacher, SLT, parent etc.)
+Who leads the working together (please provide job titles and organisation names)
+How children's progress is tracked/measured
+29
+Types of interventions implemented by early years practitioners
+What training do early years practitioners receive to prepare them for
+implementing interventions for children with SLCN? [for early years settings only]
+What training do specialist professionals receive to support collaborative or
+partnership working with early years settings? [for SLTs, EPs, HVs only]
+If you have online information about your work, please provide the link
+Interviews between the participant and research associate took place online using Zoom.
+With permission, the interviews were recorded and automatically transcribed using the
+routine Zoom software. The transcripts were checked and edited for accuracy by the
+research associate.
+Data analysis
+The interview transcripts were analysed using the TDF domains by Thomas.
+Approximately 20% of the analyses were checked by H. Stringer (Newcastle team
+member). No classification was changed at this stage. However, as the case studies
+were populated some of the information moved categories to support clarity and follow
+themes within the case study, e.g. goal setting occurred in different categories depending
+upon the process in the working together.
+30
+Appendices
+Appendix A: Definitions of key psychometric constructs
+Psychometric term
+Definition
+Concurrent validity
+The degree to which a measure aligns with another well-
+established measure which is often a standardised "gold
+standard" test.
+Construct validity
+The theoretical basis of the measure and ability to
+differentiate between groups with known differences in ability
+e.g. with age. Does the test measure the concept it is
+intended to measure.
+Correlation
+A statistical test measuring the degree to which two sets of
+scores are related to one another such that if one increases
+then the other also increases or vice versa.
+Cronbach's alpha
+A statistical test measuring agreement between scores.
+Cross-cultural validity
+The degree to which a measure is applicable across cultures
+and/or has been adapted for use in other languages.
+Discriminant validity
+Verifies that measures or components of measures that
+should not be related are not related.
+Face validity
+A qualitative, subjective judgement by those who use the tool
+as to whether it measures what it aims to measure.
+Internal Consistency
+Assesses how well the different items within the
+measurement tool measure the same underlying construct.
+Inter-rater reliability
+Assesses the degree to which two different users of the
+measure or raters of the child's performance agree with one
+another.
+Intra-class Correlation
+A statistical test can measure inter-rater reliability and test-
+retest reliability.
+Normative sample
+The sample of children used to develop the norms for a given
+measure. That is to generate the average range of scores for
+a given tool and/or the age when a certain behaviour or skill
+would be expected to have developed.
+31
+Psychometric term
+Definition
+Reliability
+The consistency and precision of the measure. This can
+include consideration of consistency over time, between
+different people using the measure and across items within
+the measure. Lack of reliability introduced error into the
+measurement process reducing the confidence we can have
+that it is providing a true representation of the child's abilities.
+Sensitivity
+The proportion of people with a given condition that have a
+positive result on a screening test. A test that is 100%
+sensitive means all individuals with a given condition are
+correctly identified i.e. there are no false negatives (i.e.
+people who have the condition but are not identified by the
+test). As sensitivity increases specificity decreases.
+Specificity
+The proportion of people without a given condition that have a
+negative result on a screening test. A test that is 100%
+specific means all individuals who do not have a given
+condition are correctly identified i.e. there are no false
+positives. As specificity increases, sensitivity decreases.
+Usability
+A qualitative judgement regarding how feasible, practical and
+easy a tool is for practitioners to use.
+Validity
+The degree to which an assessment tool measures the
+construct it is designed to be measured. There are multiple
+types of validity.
+32
+Appendix B: Criteria for psychometric quality judgements
+Criteria
+Quality judgement
+Normative sample size
+Tertiles were created of the sample sizes used for
+standardization in the included assessment tools, where
+tertile 1 was low (0-65); tertile 2 was moderate (606-
+1516); and tertile 3 was good to excellent (1517-
+350,000).
+Normative sample
+No quality rating given. A qualitative judgement as to
+representativeness
+whether developers consider Geography,
+socioeconomic status, age and sex in sampling
+methods.
+Usability
+No quality rating given. A qualitative judgement
+regarding how feasible, practical and easy a tool is for
+practitioners to use.
+Sensitivity and specificity
+Categories of quality adapted from (Law et al., 2000,
+Michael et al., 2013) where good to excellent was
+greater than 80% in both sensitivity and specificity;
+moderate was when the sum across sensitivity and
+specificity greater or equal to 150; and low, when the
+sum across sensitivity and specificity was below 150.
+Concurrent validity
+Measured using correlations between measure and
+"gold standard". Higher correlations equalled higher
+concurrent validity. The categories of correlation
+coefficient adapted from (Portney and Watkin, 2007)
+where, less than 0.25 was small, between 0.25 and 0.5
+was moderate; between 0.5 and 0.75 was good; and
+above 0.75 was excellent.
+Discriminant validity
+Measured using correlations between aspects of
+measure measuring differing domains and/or
+measurement tools assessing differing constructs.
+Lower correlations equalled higher discriminant validity.
+Face validity
+No quality rating given. A qualitative judgement by those
+who use the tool as to whether it measures what it aims
+to measure.
+33
+Criteria
+Quality judgement
+Internal Consistency
+Measured using Cronbach's alpha. Categories of quality
+in Cronbach's alpha (Cronbach, 1951) where less than
+or equal to 0.5 was unacceptable (low); between 0.5
+and 0.6 was poor (low); between 0.6 and 0.7 was
+questionable (low); between 0.7 and 0.8 was acceptable
+(moderate); between 0.8 and 0.9 was good; and above
+0.9 was excellent.
+Test-retest reliability
+Measured using Intra Class Correlations (ICC).
+Categories of quality in ICC (Koo and Li, 2016) where
+less than 0.5 was poor reliability; 0.5 to 0.75 indicated
+moderated reliability; 0.75 to 0.9 was good reliability;
+and above 0.9 was excellent reliability.
+Inter-rater reliability
+Measured using Intra Class Correlations (ICC).
+Categories of quality in ICC (Koo and Li, 2016) where
+less than 0.5 was poor reliability; 0.5 to 0.75 indicated
+moderated reliability; 0.75 to 0.9 was good reliability;
+and above 0.9 was excellent reliability.
+34
+Appendix C: Working together search terms
+Criteria
+Terms
+Age
+Child* OR boy* OR girl*
+Setting
+Preschool* OR nursery* OR reception* OR "Early Years"
+Type of need
+Phon* OR "speech, language and communication needs"
+OR SLCN* OR Language* OR speech* OR "speech
+needs" OR "speech sound disorders" OR SSD* OR
+dysfluency* OR stuttering* OR stammering* OR fluency*
+OR semantics* OR vocabulary* OR syntax* OR
+grammar* OR morphology* "expressive language" OR
+"receptive language"
+Pathway
+Universal* OR targeted* OR specialist*
+Collaboration
+Collaboration* OR partnership* OR co-practice* OR
+multidisciplinary* OR "knowledge exchange" OR training*
+Speech, language and
+"Speech and language therapist" OR "speech therapist"
+communication partners
+OR "speech pathologist" OR "speech language
+pathologist" OR "speech AND language pathologist" OR
+"health visitor" OR HV* OR "Educational Psychologist"
+OR "Ed Psych" OR EP*
+School partners
+Teachers* OR practitioners* OR "Teaching assistant" OR
+TA*
+Parent/carers
+Parents* OR care*
+35
+Appendix D: Case study email template
+Dear [Name]
+Thank you for agreeing to be interviewed about the way you provide support to children
+with speech, language and communication needs (SLCN) in the Early Years (EY). We
+are compiling case studies for the Department of Education National Standards Unit
+about how early years settings and early years practitioners work with parents/caregivers
+and specialist professionals to effectively support EY children with SLCN. In each case
+we are interviewing representatives of at least two organisations so that we can get a
+more rounded view of the process and why it is successful.
+To save time at the interview we request that you email some background information
+about how EY children with SLCN are supported. Please let us have your answers to the
+background questions a few days before the interview.
+The questions that we will ask in the interview are attached to this email. Please read
+them and if necessary, discuss them with others in your organisation.
+So that we are all talking about the same concepts when we are considering working
+together across organisations, we are using the following definitions:
+Collaboration is when two or more people with different skills and knowledge work
+effectively with each other to complete the same piece of work or to achieve the same
+goal. The work evolves as each person contributes. The arrangement can be informal,
+and collaborators may change during the work as they start or finish their contribution.
+Collaborators may not have equal status in the relationship and may not bear the same
+responsibility for completing the work or achieving the goal.
+Partnership is a more formal arrangement than a collaboration. There is a high level of
+commitment and an expectation that the partnership will be long lasting. Partners share
+risk and responsibility and contribute similar levels of expertise and resource.
+Partnerships may facilitate several different collaborations and have several projects or
+pieces of work at the same time.
+Parallel working is when the different professionals work separately with the same
+child/children, each contributing their specialist knowledge. Each professional bears
+responsibility individually to achieve their goals, which may have been set with no
+consultation with other professionals. Parents/caregivers may be more involved with
+each professional in this model. Information about progress is reported from the
+professional to the educational setting, other involved professionals and parent/caregiver.
+There may or may not be a two-way flow of information.
+36
+Appendix E: Early years settings interview questions
+1. Please tell me about the way you work together with other services (SLT, HV, EP)
+and parents/caregivers to support children in your setting with SLCN. Please think
+about how the partnership with other professionals (SLT, HV, EP) started; what
+you think helps the partnership to last over time (sustainability); how senior
+leaders support the working together (e.g. is there a strategic plan? Do you have a
+strategy document?); the training available to your staff that supports the work with
+children with SLCN, (who provides it and who funds it); which areas of speech,
+language and communication you support with universal or targeted interventions;
+the interventions you use (e.g. Talk Boost, Phonological Awareness, Language
+Steps etc.); how resources are managed, including the materials needed for the
+interventions, the allocated staff time and physical space for the
+interventions/support; if you fund any of the support from specialists e.g. buying in
+extra speech and language therapy; how you make best use of the free NHS
+service that children are entitled to.
+2. How do you know that the way you work together with other services (SLT, HV,
+EP) and parents/caregivers is achieving its goal of successfully supporting
+children with SLCN in your setting? Please think about how the attainment profile
+of the children has changed; how the number and nature of referrals to speech
+and language therapy have changed since you have been working together in this
+way; what aspects of the working together you think are most important in
+contributing to its success; if all children benefit equally or do some benefit more,
+(e.g. children from poorer backgrounds, bilingual children with SLCN in all their
+languages, boys etc.); how parents/caregivers are involved; how is information
+about individual children shared across organisations/with parents/caregivers and
+how are decisions about children made.
+3. What were the biggest barriers/major concerns you had to overcome to establish
+successful working together? Please think about how these issues were identified;
+who worked together to overcome them.
+4. How has the nature of the working together changed over time? Please think
+about how sustainable it is even if key personnel leave or change roles within the
+organisation; how you link up with others to share good practice; if your staff,
+especially teaching assistants, have opportunity to support and learn from each
+other in relation to the working together to support children with SLCN; If you think
+this way of working is now just normal for you?
+5. What advice would you give to other EY settings who would like to change their
+practice to better support children with SLCN in the early years? Please think
+about the important things you have learnt along the way; whose strategic support
+37
+you need e.g. executive managers/officers, commissioners; how you get staff at all
+levels of the organisation on board; how you get parents/caregivers on board?
+38
+References
+ASUNTA, P., VIHOLAINEN, H., AHONEN, T. & RINTALA, P. 2019. Psychometric
+properties of observational tools for identifying motor difficulties - a systematic
+review. BMC Pediatr, 19, 322.
+BAKER, S., HARDING, S., HOLME, C., LEWIS, R., SEIFERT, M. & WREN, Y. 2022.
+Review of early language screening suitable for children in wales from birth to 5
+years.
+CANE, J., O'CONNOR, D. & MICHIE, S. 2012. Validation of the theoretical domains
+framework for use in behaviour change and implementation research.
+Implementation Science, 7.
+CAPPELLERI, J. C., JASON LUNDY, J. & HAYS, R. D. 2014. Overview of classical test
+theory and item response theory for the quantitative assessment of items in
+developing patient-reported outcomes measures. Clin Ther, 36, 648-62.
+CIRRIN, F. M. & GILLAM, R. B. 2008. Language Intervention Practices for School-Age
+Children with Spoken Language Disorders: A Systematic Review. Language,
+Speech, and Hearing Services in Schools, 39, S110-S137.
+CRONBACH, L. J. 1951. Coefficient alpha and the internal structure of tests.
+Psychometrika, 16, 297-334.
+DURÁN, L. K., HARTZHEIM, D., LUND, E. M., SIMONSMEIER, V. & KOHLMEIER, T. L.
+2016. Bilingual and home language interventions with young dual language
+learners: A research synthesis. Language, Speech, and Hearing Services in
+Schools, 47, 347-371.
+FELTNER, C., WALLACE, I. F., NOWELL, S. W., ORR, C. J., RAFFA, B., MIDDLETON,
+J. C., VAUGHAN, J., BAKER, C., CHOU, R. & KAHWATI, L. 2024. Screening for
+Speech and Language Delay and Disorders in Children 5 Years or Younger:
+Evidence Report and Systematic Review for the US Preventive Services Task
+Force. JAMA, 331, 335-351.
+GRANT, M. J. & BOOTH, A. 2009. A typology of reviews: an analysis of 14 review types
+and associated methodologies. Health Information & Libraries Journal, 26, 91-108.
+HIGGINS, S., KOKOTSAKI, D. & COE, R. 2012. The teaching and learning toolkit.
+Education Endowment Foundation and Sutton Trust.
+39
+HOFFMANN, T. C., GLASZIOU, P. P., BOUTRON, I., MILNE, R., PERERA, R., MOHER,
+D., ALTMAN, D. G., BARBOUR, V., MACDONALD, H., JOHNSTON, M., LAMB, S.
+E.,
+DIXON-WOODS, M., MCCULLOCH, P., WYATT, J. C., CHAN, A.-W. & MICHIE, S. 2014.
+Better reporting of interventions: template for intervention description and replication
+(TIDieR) checklist and guide. BMJ: British Medical Journal, 348, g1687.
+JABRAYILOV, R., EMONS, W. H. M. & SIJTSMA, K. 2016. Comparison of Classical Test
+Theory and Item Response Theory in Individual Change Assessment. Appl Psychol
+Meas, 40, 559-572.
+KOO, T. K. & LI, M. Y. 2016. A Guideline of Selecting and Reporting Intraclass
+Correlation Coefficients for Reliability Research. Journal of Chiropractic Medicine,
+15, 155-163.
+LAW, J., BOYLE, J., HARRIS, F., HARKNESS, A. & NYE, C. 2000. The feasibility of
+universal screening for primary speech and language delay: Findings from a
+systematic review of the literature Developmental Medicine and Child Neurology,
+42, 190-200.
+MICHAEL, P., GREG, F. & MICHAEL, W. 2013. Principles for high-quality, high-value
+testing. Evidence Based Medicine, 18, 5.
+MICHIE, S., VAN STRALEN, M. M. & WEST, R. 2011. The behaviour change wheel: a
+new method for characterising and designing behaviour change interventions.
+Implementation Science, 6.
+PORTNEY, L. G. & WATKIN, M. P. 2007. Foundations of clinical research: Applications
+to practice, New Jersey, Prentice Hall.
+SHOBBROOK, K., YOUNG, P., BEEKE, S. & BEST, W. 2024. Making oral
+comprehension interventions TIDieR: A narrative synthesis of interventions
+improving comprehension in children from 1 to 5 years with language difficulties.
+International Journal of Language & Communication Disorders.
+Systematic reviews identified in our review
+BAKER, E., WILLIAMS, A. L., MCLEOD, S. & MCCAULEY, R. 2018. Elements of
+Phonological Interventions for Children with Speech Sound Disorders: The
+Development of a Taxonomy. Am J Speech Lang Pathol, 27, 906-935.
+BAXTER, S., JOHNSON, M., BLANK, L., CANTRELL, A., BRUMFITT, S., ENDERBY, P.
+& GOYDER, E. 2015. The state of the art in non-pharmacological interventions for
+40
+developmental stuttering. Part 1: a systematic review of effectiveness. Int J Lang
+Commun Disord, 50, 676-718.
+BELLON-HARN, M. L., MORRIS, L. R., MANCHAIAH, V. & HARN, W. E. 2020. Use of
+Videos and Digital Media in Parent-implemented Interventions for Parents of
+Children with Primary Speech Sound And/or Language Disorders: A Scoping
+Review. J Child Fam Stud, 29, 3596-3608.
+BRIGNELL, A., KRAHE, M., DOWNES, M., KEFALIANOS, E., REILLY, S. & MORGAN,
+A. 2021. Interventions for children and adolescents who stutter: A systematic
+review, meta-analysis, and evidence map. J Fluency Disord, 70, 105843.
+CROWE, K., CUERVO, S., GUIBERSON, M. & WASHINGTON, K. N. 2021. A
+Systematic Review of Interventions for Multilingual Preschoolers with Speech and
+Language Difficulties. J Speech Lang Hear Res, 64, 4413-4438.
+DAVIDOW, J. H., ZAROOGIAN, L. & GARCIA-BARRERA, M. A. 2016. Strategies for
+Teachers to Manage Stuttering in the Classroom: A Call for Research. Lang Speech
+Hear Serv Sch, 47, 283-296.
+DEVENEY, S. L. & PETERKIN, K. 2022. Facing a Clinical Challenge: Limited Empirical
+Support for Toddler Speech Sound Production Intervention Approaches. Lang
+Speech Hear Serv Sch, 53, 659-674.
+DOBINSON, K. L. & DOCKRELL, J. E. 2021. Universal strategies for the improvement of
+expressive language skills in the primary classroom: A systematic review. First
+Language, 41, 527-554.
+DONOLATO, E., TOFFALINI, E., ROGDE, K., NORDAHL-HANSEN, A., LERVÃG, A.,
+NORBURY, C. & MELBY-LERVÂG, M. 2023. Oral language interventions can
+improve language outcomes in children with neurodevelopmental disorders: A
+systematic review and meta-analysis. Campbell Syst Rev, 19, e1368.
+DOWDALL, N., MELENDEZ-TORRES, G. J., MURRAY, L., GARDNER, F., HARTFORD,
+L. & COOPER, P. J. 2020. Shared Picture Book Reading Interventions for Child
+Language Development: A Systematic Review and Meta-Analysis. Child Dev, 91,
+e383-e399.
+FAVOT, K., CARTER, M. & STEPHENSON, J. 2021. The effects of oral narrative
+intervention on the narratives of children with language disorder: A systematic
+literature review. Journal of Developmental and Physical Disabilities, 33, 489-536.
+GOLDFELD, S., BEATSON, R., WATTS, A., SNOW, P., GOLD, L., LE, H. N. D
+EADIE, P. 2022. Tier 2 oral language and early reading interventions for preschool
+41
+to grade 2 children: a restricted systematic review. Australian Journal of Learning
+Difficulties, 27, 65-113.
+GREENWOOD, C. R., SCHNITZ, A. G., CARTA, J. J., WALLISCH, A. & IRVIN, D. W.
+2020. A systematic review of language intervention research with low-income
+families: A word gap prevention perspective. Early Childhood Research Quarterly,
+50, 230-245.
+HEIDLAGE, J. K. 2019. The effects of parent-implemented language interventions on
+child linguistic outcomes: A meta-analysis. Early Childhood Resaearch Quarterly,
+50, 1-18.
+HOFSLUNDSENGEN, H., KIRMESS, M., GUTTORMSEN, L. S., NAESS, K. B. &
+KEFALIANOS, E. 2022. Systematic review of implementation quality of non-
+pharmacological stuttering intervention trials for children and adolescents. J Fluency
+Disord, 71, 105884.
+JENSEN DE LÓPEZ, K. M., KRALJEVIĆ, J. K. & STRUNTZE, E. L. B. 2022. Efficacy,
+model of delivery, intensity and targets of pragmatic interventions for children with
+developmental language disorder: A systematic review. Int J Lang Commun Disord,
+57, 764-781.
+LAIHO, A., ELOVAARA, H., KAISAMATTI, K., LUHTALAMPI, K., TALASKIVI, L., POHJA,
+S.
+VUORIO, E. 2022. Stuttering interventions for children, adolescents, and
+adults: a systematic review as a part of clinical guidelines. J Commun Disord, 99,
+106242.
+LARSON, A. L., CYCYK, L. M., CARTA, J.J., HAMMER, C. S., BARALT, M.,
+UCHIKOSHI, Y. WOOD, C. 2020. A systematic review of language-focused
+interventions for young children from culturally and linguistically diverse
+backgrounds. Early Childhood Research Quarterly, 50, 157-178.
+LAW, J. & CHARLTON, J. 2022. Interventions to Promote Language Development in
+Typical and Atypical Populations. In: LAW, J., REILLY, S. & MCKEAN, C. (eds.)
+Language Development: Individual Differences in a Social Context. Cambridge:
+Cambridge University Press.
+LAW, J., CHARLTON, J., MCKEAN, C., BEYER, F., FERNANDEZ-GARCIA, C.,
+MASHAYEKHI, A. & RUSH, R. 2018. Parent-child reading to improve language
+development and school readiness: A systematic review and meta-analysis.:
+Newcastle University and Queen Margaret University.
+42
+LEE, A. S. & GIBBON, F. E. 2015. Non-speech oral motor treatment for children with
+developmental speech sound disorders. Cochrane Database Syst Rev, 2015,
+Cd009383.
+LEVICKIS, P., PATEL, P., MCKEAN, C., SMITH, J., HACKWORTH, N., LAW, J. &
+REILLY, S. 2022. A Review of Interventions to Promote Language Development in
+Early Childhood. In: LAW, J., REILLY, S. & MCKEAN, C. (eds.) Language
+Development: Individual Differences in a Social Context. Cambridge: Cambridge
+University Press.
+MARKUSSEN-BROWN J., JUHL, C. B., PIASTA, S. B., BLESES, D., HØJEN, A. &
+JUSTICE, L. M. 2017. The effects of language- and literacy-focused professional
+development on early educators and children: A best-evidence meta-analysis. Early
+Childhood Research Quarterly, 38, 97-115.
+NAIR, V. K. K., CLARK, G. T., SIYAMBALAPITIYA, S. & REUTERSKIÖLD, C. 2023.
+Language intervention in bilingual children with developmental language disorder: A
+systematic review. International Journal of Language & Communication Disorders,
+58, 576-600.
+NOBLE, C., SALA, G., PETER, M., LINGWOOD, J., ROWLAND, C., GOBET, F. & PINE,
+J. 2019. The impact of shared book reading on children's language skills: A meta-
+analysis. Educational Research Review, 28, 100290.
+OXLEY, E. & DE CAT, C. 2018. A systematic review of language and literacy
+interventions in children and adolescents with English as an additional language
+(EAL). The Language Learning Journal, 49, 265 - 287.
+PARRY, C.-R. L., KUMAR, S. & GALLINGANE, C. 2024. Integration of Tablets in
+Phonological Awareness and Phonics Instruction: A Systematic Review. Journal of
+Research in Childhood Education, 38, 559-576.
+PICO, D. L., HESSLING PRAHL, A., BIEL, C. H., PETERSON, A. K., BIEL, E. J.,
+WOODS, C. & CONTESSE, V.A. 2021. Interventions Designed to Improve
+Narrative Language in School-Age Children: A Systematic Review with Meta-
+Analyses. Lang Speech Hear Serv Sch, 52, 1109-1126.
+RINALDI, S., CASELLI, M. C., COFELICE, V., D'AMICO, S., DE CAGNO, A. G., DELLA
+CORTE,
+G., ZOCCOLOTTI, P. 2021. Efficacy of the Treatment of
+Developmental Language Disorder: A Systematic Review. Brain Sci, 11.
+RODGERS, L., HARDING, S., REES, R. & CLARKE, M. T. 2022. Interventions for pre-
+school children with co-occurring phonological speech sound disorder and
+43
+expressive language difficulties: A scoping review. Int J Lang Commun Disord, 57,
+700-716.
+SEDGWICK, A. & STOTHARD, J. 2018. A systematic review of school-based,
+mainstream, oral language interventions for key stage 1 children. Support for
+Learning, 33, 360-387.
+SHOBBROOK, K., YOUNG, P., BEEKE, S. & BEST, W. 2024. Making oral
+comprehension interventions TIDieR: A narrative synthesis of interventions
+improving comprehension in children from 1 to 5 years with language difficulties. Int
+J Lang Commun Disord, 59, 1351-1370.
+SJØSTRAND, Å., KEFALIANOS, E., HOFSLUNDSENGEN, H., GUTTORMSEN, L. S.,
+KIRMESS, M., LERVÃG, A.,
+BOTTEGAARD NAESS, K.A. 2021. Non-
+pharmacological interventions for stuttering in children six years and younger.
+Cochrane Database Syst Rev, 9, Cd013489.
+SUGDEN, E., LLOYD, S., LAM, J. & CLELAND, J. 2019. Systematic review of ultrasound
+visual biofeedback in intervention for speech sound disorders. Int J Lang Commun
+Disord, 54, 705-728.
+TARVAINEN, S., STOLT, S. & LAUNONEN, K. 2020. Oral language comprehension
+interventions in 1-8-year-old children with language disorders or difficulties: A
+systematic scoping review. Autism Dev Lang Impair, 5, 2396941520946999.
+WALKER, D., SEPULVEDA, S. J., HOFF, E., ROWE, M. L., SCHWARTZ, I. S., DALE, P.
+S
+BIGELOW, K. M. 2020. Language intervention research in early childhood
+care and education: A systematic survey of the literature. Early Childhood Research
+Quarterly, 50, 68-85.
+WREN, Y., HARDING, S., GOLDBART, J. & ROULSTONE, S. 2018. A systematic review
+and classification of interventions for speech-sound disorder in preschool children.
+Int J Lang Commun Disord, 53, 446-467.
+44
+Department
+for Education
+© Department for Education Copyright 2025
+This publication is licensed under the terms of the Open Government Licence v3.0,
+except where otherwise stated. To view this licence, visit
+nationalarchives.gov.uk/doc/open-government-licence/version/3
+Where we have identified any third-party copyright information you will need to obtain
+permission from the copyright holders concerned.
+Reference: RR1554
+ISBN: 978-1-83870-706-4
+For any enquiries regarding this publication, contact www.gov.uk/contact-dfe.
+This document is available for download at www.gov.uk/government/publications.
+45

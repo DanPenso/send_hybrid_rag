@@ -1,0 +1,1479 @@
+4/5/26, 4:14 PM
+NHS England » Improving the physical health of people living with severe mental illness
+NHS
+England
+Date published: 10 January, 2024
+Date last updated: 23 September, 2025
+Improving the physical health of people living with severe
+mental illness
+Guidance for integrated care systems
+Publication (/publication)
+Content
+Summary.
+Purpose of this guidance
+The SMI register and SMI annual physical health checks
+Follow-up interventions, support and care
+Service design considerations
+Data sharing
+Leadership, workforce and training
+Annex A: Case studies
+Annex B: Training resources
+Annex C: Clinical terminology, definitions and codes
+Annex D: Relevant NICE clinical guidelines
+Annex E: Tools and resources
+Contributors
+References
+10 key actions
+Read our 10 key actions for improving the physical health of people living with severe mental illness
+(https://www.england.nhs.uk/long-read/10-key-actions-improving-the-physical-health-of-people-living-with-severe-
+mental-illness/).
+Summary
+This guidance supports integrated care systems (ICSs) and service providers to improve the physical health care of adults
+living with severe mental illness (SMI), through improved physical health checks and supported follow-up interventions.
+People living with SMI face one of the greatest health equality in England
+(https://www.gov.uk/government/statistics/severe-mental-illness-smi-profile-may-2022-update). Their life expectancy is 15-
+20 years shorter than that for the general population, [1] and this disparity is largely due to preventable physical illnesses.
+[2] Work to address this inequality is part of Core20PLUS5 (https://www.england.nhs.uk/about/equality/equality-
+hub/national-healthcare-inequalities-improvement-programme/core20plus5/) NHS England's flagship approach for tackling
+health inequalities.
+ICSs are strongly encouraged to consider the physical health needs of all people severely affected by their mental illness, in
+line with community mental health transformation (https://www.england.nhs.uk/wp-content/uploads/2019/09/community-
+mental-health-framework-for-adults-and-older-adults.pdf) commitments. NICE guidance (CG185
+(https://www.nice.org.uk/guidance/cg185), CG178 (https://www.nice.org.uk/guidance/cg178) and NG181
+(https://www.nice.org.uk/guidance/ng181/chapter/Recommendations/person-centred-care-planning-througb-assessment.
+and-formulation)) recommends that primary care should keep an up-to-date register of people living with bipolar disorder,
+schizophrenia and other psychoses who require monitoring of their physical and mental health.
+https://www.england.nhs.uk/long-read/improving-the-physical-health-of-people-living-with-severe-mental-illness
+1/27
+4/5/26, 4:14 PM
+NHS England » Improving the physical health of people living with severe mental illness
+It is important that the SMI physical health checks start at the point of initial diagnosis. The 6 elements of the 'core' annual
+SMI physical health check are:
+alcohol consumption status
+blood glucose or HbA1c test (as clinically appropriate)
+blood pressure
+body mass index
+lipid profile
+smoking status.
+Anyone prescribed antipsychotics or mood stabilisers (regardless of diagnosis) should also have their physical health
+monitored from initiation of these medications in line with British National Formulary guidelines (https://bnf.nice.org.uk/ or
+summary of product characteristics (SmPC).
+It is recommended that ICSs commission services to deliver a more comprehensive annual physical health check, one that
+also includes:
+medical and family history
+blood-borne virus and liver function screening
+cardiovascular risk assessment (including QRisk)
+relevant national immunisation programmes
+support to access relevant national screening programmes, including cancer screening
+oral health advice and brief interventions
+assessment of physical activity levels
+sexual and reproductive health assessment and advice (including contraception)
+substance use assessment
+medicines reconciliation and monitoring.
+Support should not end with the physical health check. Rather, 'don't just screen, intervene'
+(https://www.rcpsych.ac.uk/docs/default-source/improving-care/ccgi/national-cinical-audits/ncap-libar/lester-tool-june-
+2023.pdf?sfvrsn=c08e2847_4), by supporting people living with SMI to access follow-up interventions that are tailored to
+their needs. This guidance outlines best practice in providing tailored physical health support, including by signposting to
+relevant NICE guidance for follow-up interventions for all aspects of the check. All follow-up support should form part of
+peraliedcareand supportplanning(hps//wwwengland.nhs.uk/long-read/personalised-care-and-support-planning-a
+brief-summary-guide/), in line with shared decision-making. Local areas should consider the use of patient decision aids
+(https://www.nice.org.uk/about/nice-communities/nice-and-the-public/making-decisions-about-your-care/patient-decision-
+aids) and a personal health budget (https://www.nhs.uk/nhs-services/help-with-health-costs/what-is-a-personal-health-
+budget/) where a person is eligible for this.
+People offered an SMI annual physical health check may have a history of trauma. It is vital that delivery of the checks and
+follow-up care is trauma informed(https://www.gov.uk/government/publications/working-definition-of-trauma-informed-
+practice/working-definition-of-trauma-informed-practice) and considers how someone's mental health may impact on how
+they experience their physical health, the health check and ability to make lifestyle changes. Reasonable adjustments
+should be made to assist people to access SMI annual physical health checks and follow-up interventions (a statutory
+anticipatory duty under the Equality Act). (https://www.legislation.gov.uk/ukpga/2010/15/notes/division/3/16/19)
+Service design considerations include:
+Care that advances health equality. The premature mortality experienced by people living with SMI is a persistent
+inequality, but other inequalities can add to this. For example, people from racialised and ethnically and culturally
+diverse communities or LGBTQ+ people can have a poorer experience of care and outcomes. Health equality for all
+should be factored into care provision (see section: Care that advances equality.).
+Clarity on roles and responsibilities. The physical health care of people living with SMI can fall into a gap between
+services. ICSs should ensure a local comprehensive model of care and develop a protocol defining roles and
+responsibilities across primary care, secondary care (mental health and acute) and voluntary, community and social
+enterprise (VCSE) services to optimise the physical health care of people living with SMI and improve both physical
+and mental health outcomes (see section: Roles and responsibilities).
+Dedicated services. Commissioning locally enhanced or dedicated services to deliver SMI annual physical health
+checks and support to access follow-up interventions improves both the quantity of checks delivered and the
+experience of those receiving checks (see section: Dedicated services and outreach programmes).
+Outreach. Given the barriers that people living with SMI face in accessing services, including SMI annual physical
+health checks, it is recommended that outreach programmes are co-produced with people with lived experience.
+These can include proactive communications and support to attend appointments, as well as delivery of checks in
+homes and at community hubs (see section: Dedicated services and outreach programmes)
+https://www.england.nhs.uk/long-read/improving-the-physical-health-of-people-living-with-severe-mental-illness
+2/27
+4/5/26, 4:14 PM
+NHS England » Improving the physical health of people living with severe mental illness
+A range of roles can deliver the SMI annual physical health checks and support for follow-up interventions, and some may
+also be well placed to deliver proactive outreach. Roles include GPs, nurses, pharmacists, occupational therapists,
+healthcare assistants, health coaches and VCSE staff. Consider:
+workforce capacity and multidisciplinary team functions
+whether the person can administer all or only certain elements of the 'core' check
+access to relevant IT systems
+review and follow-up of the results by an appropriately trained professional and an action plan agreed with the patient
+cost effectiveness
+appropriate training including increasing understanding of SMI and how SMI affects physical health. For information on
+training, see section: Leadership, workforce and training.
+SMI annual physical health checks and support to access follow-up interventions require ICS leadership to address
+persistent inequality and drive improvements.
+Purpose of this guidance
+An NHS Long Term Plan (https://www.ongtermplan.nhs.uk/publication/nhs-mental-health-implementation-plan-2019-20-
+2023-24/) commitment is that 390,000 people living with SMI will receive an annual physical health check by 2023/24. This
+guidance supports ICSs and service providers to improve the physical health care of adults living with SMI, through
+improved physical health checks and supported follow-up interventions. This includes ICSs clearly outlining roles and
+responsibilities across primary care, secondary care and VCSE services. Annual SMI physical health checks are also a
+clinical focus of Core20PLUS5 (https//www.england.nhs.uk/about/equality/equality-hub/national-healthcare-inequalities-
+improvement-programme/core20plus5/), NHS England's flagship approach for tackling health inequalities.
+This guidance has been developed in partnership with people who have experience of mental illness and frontline clinicians
+(see section: Contributors) to ensure that it meets the needs of those requiring and delivering SMI annual physical health
+checks and follow-up interventions.
+Adults living with SMI have an almost five times increased risk of dying prematurely compared to those living without SMI,
+and premature deaths of people living with SMI are increasing.[3] An estimated 50% of deaths in people living with SMI are
+attributable to smoking.[4] The best single modifiable candidate for increasing life expectancy of people living with
+schizophrenia is smoking, and for people living with bipolar disorder it is sedentary behaviour.
+People living with SMI have:
+6.6 times increased risk of respiratory disease
+6.5 times increased risk of liver disease
+4.1 times increased risk of cardiovascular disease
+2.3 times increased risk of cancer[6]
+are 3 times more likely to lose their natural teeth
+Medication has a nuanced role in the physical health and life expectancy of people living with SMI. For example,
+antipsychotics and mood stabilisers increase life expectancy, likely due to both the treatment of mental health symptoms
+and more timely access to healthcare interventions due to continued medication monitoring. [8] However, medication has
+side effects that impact on people's physical health, including weight gain, diabetes and increased lipids. Side effects can
+be mitigated and treated if identified. Therefore, monitoring someone's physical health and acting early to address problems
+is vital to improve health outcomes and quality of life. This needs to be done through a process of shared decision-making,
+and people should be supported to make lifestyle changes and access treatments and care.
+Moreover, physical illnesses can be underdiagnosed and undertreated in those living with SMI, because the co-occurring
+psychiatric diagnosis overshadows recognition of physical health symptoms. This diagnostic overshadowing also
+undermines trust in health services, resulting in people not making or attending appointments. [9]
+The SMI register and SMI annual physical health checks
+The 'core' check
+ICSs are strongly encouraged to consider the physical health needs of all people severely affected by their mental illness,
+in line with community mental health transformation (https/www.england.nhs.uk/wp-content/uploads/2019/09/community-
+mental-health-framework-for-adults-and-older-adults.pdf) commitments. This includes, but is not limited to, those with a
+https://www.england.nhs.uk/long-read/improving-the-physical-health-of-people-living-with-severe-mentalilness
+3/27
+4/5/26, 4:14 PM
+NHS England » Improving the physical health of people living with severe mental illness
+diagnosis of personality disorder, eating disorder or severe depression, and people with mental health rehabilitation needs -
+some of whom may have co-existing conditions; for example, frailty, cognitive impairment, neurodevelopmental conditions
+or substance use.
+NICE guidance (CG185 (https://www.nice.org.uk/guidance/cg185). (https://www.nice.org.uk/guidance/cg178 and
+NG181 (https://www.nice.org.uk/guidance/ng181/chapter/Recommendations#person-centred-care-planning-througb-
+assessment-and-formulation) recommends that primary care should keep an up-to-date register of people living with
+bipolar disorder, schizophrenia and other psychoses who require monitoring of their physical and mental health (the 'SMI
+register'). For more information on diagnostic terms and SNOMED codes, please see annex C.
+At a minimum the 6 elements of the core annual physical health check should be provided to those on the SMI register:
+alcohol consumption status
+blood glucose or HbA1c test (as clinically appropriate)
+blood pressure
+body mass index
+lipid profile
+smoking status.
+Importantly, all patients taking antipsychotics or mood stabilisers (regardless of whether they are on the SMI register or not)
+should have medication reviews and their physical health monitored in line with summary of product characteristics (SmPC)
+and/or British National Formulary guidelines on:
+antipsychotics(https://bnf.nice.org.uk/treatment-summaries/psychoses-and-related-disorders/#monitoring) (includes
+those prescribed antipsychotics without a mental health diagnosis, such as people with a learning disability whose
+behaviour challenges; see NICE guideline NG11 (https://www.nice.org.uk/guidance/ng11/)
+ithium(https//gbr01safelinks.protection.outlook.com/?url=https3A2F%2Fbnf.nice.org.uk%2Fdrugs2Flthium-
+carbonate%2F&data=05%7C01%7Cleila.reyburn%40nhs.net%7Cd6b6915866c54eb658ba08db1b0b29ad%7C37c354f
+sodium valproate (https://bnf.nice.org.uk/drugs/sodium-valproate/) (should not be used in women/girls of childbearing
+potential unless conditions of the Pregnancy Prevention Programme are met; MHRA drug safety update April 2018)
+(https://assets.publishing.service.gov.uk/media/5adee63eed915d0ba92893c4/DSU-April-2018-PDE.pdf).
+The above guidelines specify the required elements of physical health monitoring and their frequency for each type of
+medication.
+It is important that secondary care services notify the general practice a patient is registered with promptly and in writing
+when they initiate a person on any mental health medication. This should include Early Intervention in Psychosis (EIP)
+services, which may prescribe antipsychotics to patients. This communication is needed irrespective of whether ongoing
+prescribing is to be managed in secondary or primary care. Secondary care also needs to inform primary care of a new
+diagnosis, or in the case of EIP a first episode of psychosis, so that the individual can be added to the SMI register and thus
+be invited for physical health checks.
+Adults on the SMI register should be offered all 6 recommended physical health assessments as part of a routine check at
+least annually (NICE clinical guidelines CG185 (https://www.nice.org.uk/guidance/cg185), CG178
+(https://www.nice.org.uk/guidance/cg178) and NG181
+(https://ww.nice.org.uk/guidance/n11/chapter/Recommendations#perso-entred-careplanning-througb-assemet-
+and-formulation)). Assessments should be more frequent if required based on clinical need:
+a. to monitor specific antipsychotics or other medications (local policies and procedures may apply according to the local
+Drug and Therapeutic Monitoring Committee); or
+b. for those with co-existing SMI and substance use, or where a significant physical illness or risk of a physical illness has
+already been identified (NICE clinical guideline CG120 (https://www.nice.org.uk/guidance/cg120?
+unlid=768649178201512254048)).
+For physical health checks for young people under the age of 18, please see:
+NICE clinical guideline CG155 (https://www.nice.org.uk/guidance/cg155)
+NICE quality standard QS102 (https://www.nice.org.uk/guidance/gs102)
+Implementing the early intervention in psychosis access and waiting time standard (https://www.england.nhs.uk/wp-
+content/uploads/2023/03/B1954-implementing-the-early-intervention-in-psychosis-access-and-waiting-time-
+standard.pdf).
+The 6 elements of the 'core' health check can be delivered separately within a 12-month time period, but it is highly
+recommended that they are completed during one appointment (unless this is not the patient's preference). This supports
+the Making Every Contact Counthttps://www.england.nhs.uk/wp-content/uploads/2016/04/making-every-contact-count.pd
+https://www.england.nhs.uk/long-read/improving-the-physical-health-of-people-living-with-severe-mentalillness
+4/27
+4/5/26, 4:14 PM
+NHS England » Improving the physical health of people living with severe mental illness
+approach and reduces the number of visits a patient needs to make. A core health check delivered within primary care will
+often require a longer than standard appointment. Further appointment(s) may be required to discuss results and any
+appropriate follow-up interventions.
+People who are in remission will remain on the SMI register in case they relapse, but should not be invited for an annual
+physical health check. A remission code (under the SNOMED cluster MHREM_COD) should only be applied if the patient
+has had none of the following for at least 5 years:
+record of antipsychotic or mood stabiliser medication
+mental health inpatient episode
+secondary or community care mental health follow-up.
+Please note the above definition of remission is for guidance and clinical discretion should be applied. A small group of
+patients may not have any of the above, are seen solely in primary care, are still unwell and should not be coded as in
+remission.
+If after reviewing the patient record a clinician considers that someone is incorrectly on the SMI register (eg due to an
+incorrect diagnosis), they can apply a code of 'unsuitable' and record the reason for this.
+General practices should validate their SMI register on an annual basis to ensure it is accurate and up to date. This should
+include a review of people coded as 'in remission' in case they have relapsed, and searches for patients who have no
+record of medication or secondary mental health intervention for more than 5 years as they can have the 'in remission' code
+applied. Other searches may include those for patients taking antipsychotic medication who are not on the SMI register as
+on review by a clinician they may qualify to be added. Applying and removing 'in remission' codes or considering whether
+someone should be included or removed from an SMI register should be carried out by a clinician, although searches to aid
+the process may be carried out by a member of the broader primary care team.
+The 'comprehensive' check
+Beyond the 'core' health assessments, best practice supports a comprehensive health check, which builds on the Lester
+positive cardiometabolic health resource(https/www.rcpsych.ac.uk/docs/default-source/improving-care/ccgi/national-
+clinical-audits/ncap-library/lester-tool-june-2023,pdf?sfvrsn=c08e2847_4) (updated in 2023). It is recommended that ICSs
+commission services to deliver a more comprehensive annual health check, with consideration given to inclusion of the
+following:
+Medical and family history
+Blood-borne virus and liver function screening
+Blood-borne viruses are prevalent among those living with SMI.[10] Be alert to the possibility of blood-borne
+infectious diseases in people who could be at risk, eg because of homelessness, intravenous drug use or a
+history of sexually transmitted disease (in line with NICE guidance NG181
+(https://www.nice.org.uk/guidance/ng181).
+Cardiometabolic risk assessment
+Approved risk assessment tools such as QRISK3 (https://qrisk.org/), which calculates an individual's 10-year risk
+of having a heart attack or stroke, can be used to assess cardiometabolic risk. Until electronic clinical systems
+with QRISK2 embedded are updated with QRISK3, it may be necessary to use the online version of QRISK3.
+Both QRISK2 and QRISK3 may underestimate the 10-year CVD risk in these populations, although QRISK3 is
+recommended by NICE as it performs better than QRISK2 (see NICEguidance CG181
+(https://www.nice.org.uk/guidance/cg181).
+Relevant immunisation programmes
+The Joint Committee on Vaccination and Immunisation has identified those with schizophrenia, bipolar disorder
+or any mental illness that causes severe functional impairment (and their carers) as a priority cohort for Covid
+vaccinations (within cohort 6).
+People living with SMI are highly likely to be eligible for a flu vaccine due to co-existing long-term health
+conditions.
+Support to access relevant national screening programmes
+It is important to support those living with SMI to attend relevant screening and follow-up interventions as needed:
+Abdominal aortic aneurysm (AAA) screening: local AAA screening providers send invitations to men during the
+year they turn 65. Older men can self-refer.
+Bowel cancer screening: for everyone aged 60 to 74. People aged 75 and over can request a screening kit every
+2 years. The programme started expanding in April 2021 with the aim over 4 years of making this screening
+available to everyone aged 50 to 59 years.
+Breast screening: for women aged 50 up until their 71st birthday. Women aged 71 and over can self-refer.
+Cervical screening: offered to women and people with a cervix aged 25 to 64: every 3 years for those aged 25 to
+49, and every 5 years from 50 to 64.
+Diabetic eye screening: for anyone with diabetes aged 12 or over.
+The population screening timeline(https://www.gov.uk/guidance/population-screening-explained#printable-
+htps://www.england.nhs.uk/long-read/improving-the-physical-health-of-people-living-with-severe-mental-illness,
+5/27
+4/5/26, 4:14 PM
+NHS England » Improving the physical health of people living with severe mental illness
+screening-information-resourceoutlines) outlines all the NHS screening_programmes
+(https://www.gov.uk/government/collections/population-screening-programmes-document-collection) ofered in
+England.
+Oral health advice and brief interventions
+Enquire about oral health and signposting to a dental service for those not attending regular check-ups (in line
+with guidance NG181 (https://www.nice.org.uk/guidance/ng181)). See Right to smile consensus statement
+(https://www.lancaster.ac.uk/media/lancaster-university/content-
+assets/documents/fhm/spectrum/RightToSmileV1.3b.pdf) for more information and Annex B for information on
+'Restart Smiling', an oral health training resource for staff delivering physical health checks and/or supporting the
+physical health of people living with SMI.
+Levels of physical activity
+Clinicians can use the general practice physical activity questionnaire (GPPAQ),
+(https://www.gov.uk/government/publications/general-practice-physical-activity-questionnaire-gppag)
+Sexual and reproductive health assessment and advice (including contraception)
+Substance use assessment (illicit or non-prescribed drug use)
+See NICE guideline CG120 (https://www.nice.org.uk/guidance/cg120/chapter/Key-priorities-for-implementation),which
+recommends that if a person has been identified as having used substances they should be asked the following:
+particular substance(s) used
+quantity, frequency and pattern of use
+route of administration
+duration of current level of use
+and an assessment of dependency conducted.
+Medicines reconciliation and monitoring
+Ensure medication is up to date, accurately recorded and this is cross-checked with all electronic records.
+Conduct any additional medication monitoring according to the particular medication summaries of product
+characteristics (SmPC), eg lithium level, U&Es, LFTs, prolactin, ECG if indicated. Clinicians can use the Glasgow
+antipsychotic side-effect scale (GASS)(https://www.phenxtoolkit.org/protocols/view/661701) or LUNSERS
+https://innovation.ox.ac.uk/outcome-measures/liverpool-university-neuroleptic-side-effect-rating-scale-lunsers/).
+Open questions on what is important to their health and wellbeing
+A physical health check is an important opportunity to identify wider social and economic factors that may be
+impacting on someone's physical or mental health and wellbeing, such as isolation, housing or employment.
+Consider referral to relevant social and community support; for instance, a social prescribing link worker or other
+relevant services such as Welfare Benefits Advice and Individual Placement and Support (IPS).
+Consider asking whether they have a carer and if they do whether the carer may want to apply for a carer's
+assessment (https/www.nhs.uk/conditions/social-care-and-support-guide/support-and-benefits-for-carers/carer-
+assessments/). For carers, consider offering a carer-focused education and support programme, which may be
+part of a family intervention for psychosis and schizophrenia, as early as possible (see NICE guideline CG178
+(https://www.nice.org.uk/guidance/cg178) and quality standard QS80
+(https://www.nice.org.uk/guidance/qs80/chapter/quality-statement-8-carer-focused-education-and-support).
+All physical health assessment results and agreed actions should be entered into the electronic patient record (EPR).
+Trauma-informed delivery and reasonable adjustments
+Annual SMI physical health checks are an important opportunity to build relationships with people who may struggle to
+access support for their health needs. People eligible for these checks may also present with a history of trauma. This may
+include emotional, physical and/or sexual trauma and a range of other adverse life experiences. [11]
+It is vital that delivery of the physical health checks is trauma-informed and considers how someone's mental health may
+impact on how they experience the check and their physical health. A positive experience of the annual SMI physical health
+check (and follow-up support) will greatly increase the likelihood that people will partake in these checks in future years.
+Continuity of professional providing the annual SMI physical health checks and support to access follow-up interventions is
+highly recommended where possible within a service.
+Under the Equality Act (https://www.legislation.gov.uk/ukpga/2010/15/notes/division/3/16/19) there is a statutory anticipatory
+duty to make reasonable adjustments, meaning services must plan in advance to meet the access needs of disabled
+people, including those living with SMI.
+Things to consider when inviting people for and delivering a physical health check are:
+different and proactive ways of inviting people for an annual SMI physical health check - letters, texts, phone calls -
+and the content of these invitations
+providing clear information on why someone has been invited for an annual SMI physical health check
+explaining the reasons for each element of the check
+explaining how each element of the check is carried out
+https://www.england.nhs.uk/long-read/improving-the-physical-health-of-people-living-with-severe-mental-illness
+6/27
+4/5/26, 4:14 PM
+NHS England » Improving the physical health of people living with severe mental illness
+explaining what will happen based on the results and how the person will be supported to implement suggested
+actions
+explaining that reasonable adjustments can be made, what these may be, agreeing what the person would find helpful
+and recording this on their record (the Reasonable Adjustment Flag_(https://digital.nhs.uk/services/reasonable-
+adjustment-flag) can be used to indicate that an individual requires reasonable adjustments and, optionally, include
+details of their significant impairments and key adjustments that should be considered)
+asking if they have any questions
+where possible, continuity of professional providing the different elements of the health check and follow-up
+interventions
+the Mental Capacity 2005(https://www.legislation.gov.uk/ukpga/2005/9/contents).
+Examples of reasonable adjustments that can be made when delivering the annual SMI physical health check include:
+tailored communications; all communications should as a minimum meet the Accessible Information Standard
+(https://www.england.nhs.uk/about/equalityequality-hub/patient-equalitites-programme/equality-frameworks-and-
+information-standards/accessibleinfo/)
+a longer appointment and/or an appointment at the start of the day to avoid the person needing to sit in a busy waiting
+room, or an appointment later in the day if medication side effects make early appointments more challenging for them
+if possible, offering a quieter place to wait when the waiting room is busy
+offer choice in how to access an appointment (face to face, telephone/virtual appointments) for appropriate aspects of
+the health check
+support with transport to the GP surgery
+a home visit if a person is unable to leave their home
+consideration of sensory needs (see Sensory-friendly (https://www.england.nhs.uk/publication/sensory-
+friendly-resource-pack/)
+offering that a carer, family member, friend or trusted professional (eg support worker) attends with the person
+additional reassurance or support for those afraid of needles who are having a blood test or vaccination
+a sign language or translation service.
+Follow-up interventions, support and care
+'Don't just screen, intervene'
+It is important to intervene early. For instance, people living with SMI are vulnerable to obesity related to sedentary
+behaviours, poor diet and social factors such as poverty. People can experience rapid weight gain when starting
+antipsychotic medications, [12] but this is not an inevitable side effect and tailored support can help prevent obesity. [13]
+Importantly dietitian-led interventions have greatest impact on weight gain if offered as soon as antipsychotics are initiated.
+[14]
+As well as supporting people to access generic sources of support for improving their health, such as those on the Better
+Health website (https://www.nhs.uk/better-health/), ICSs should commission tailored support to meet the needs of their local
+population living with SMI. Likewise, mental health trusts should consider how they can embed into their services tailored
+support for the physical health of their patients, including for inpatients.
+Case study 1: A weight off your mind: achieving a healthy weight for people living with SMI
+(https://www.england.nhs.uk/long-read/a-weight-off-your-mind-achieving-a-healthy-weight-for-people-living-with-
+smi/) and case study 2: community mental health team improving SMI physical health checks
+(https://www.england.nhs.uk/long-read/a-community-mental-health-team-improving-smi-physical-health-checks/)
+provide examples of how mental health trusts have addressed the physical health of the patients they work with.
+Access to follow-up interventions should be enabled through:
+ICS protocols clearly outlining roles and responsibilities across primary care, secondary care and VCSE services
+regarding onward referral and treatment
+clear and effective communications (such as texts and phone calls, not just paper letters) with patients and carers
+(when consent is in place) about the recommended follow-up
+clear and robust referral processes to NHS, relevant local authority provided services (for instance, stop smoking
+services) and locally commissioned services where appropriate.
+See:
+Annex D for all relevant NICE clinical guidance, including for the comprehensive annual physical health check
+Implementing the early intervention in psychosis access and waiting time standard. (https://www.england.nhs.uk/wp-
+content/uploads/2023/03/B1954-implementing-the-early-intervention-in-psychosis-access-and-waiting-tine-
+https://www.england.nhs.uk/long-read/improving-the-physical-health-of-people-living-with-severe-mental-illness
+7/27
+4/5/26, 4:14 PM
+NHS England » Improving the physical health of people living with severe mental illness
+standard.pdf)
+Evidence-based follow-up
+SMI physical health check
+NICE guidelines
+interventions and resources
+Coexisting severe mental illness
+(psychosis) and substance misuse:
+assessment and management in
+healthcare settings [CG120]
+Consider referral to specialist
+(https://www.nice.org.uk/guidance/cg1
+substance misuse service,
+20?unlid=768649178201512254048).
+psychological interventions and
+Alcohol consumption status
+medication as appropriate, and
+Alcohol-use disorders: diagnosis,
+signposting to relevant VCSE support
+assessment and management of
+where available.
+harmful drinking (high-risk drinking)
+and alcohol dependence [CG115]
+(https://www.nice.org.uk/guidance/cg1
+15).-
+For those at risk of developing Type 2
+diabetes, consider referral to Healthier
+You
+(https://www.england.nhs.uk/diabetes/
+diabetes-prevention/) (NHS Diabetes
+Prevention Programme), a 9-month,
+evidence-based lifestyle change
+programme. It is a joint service from
+NHS England and Diabetes UK.
+Care for those at high risk of diabetes
+and diabetic care should include
+Type 1 diabetes diagnosis and
+integrating diabetes action plans into
+management [NG17
+care planning and providing adequate
+(https://www.nice.org.uk/guidance/ng1
+psychological support to help people
+7),NG18
+with SMI manage their diabetes.[15]
+(https://www.nice.org.uk/guidance/ng1
+Follow-up interventions should
+8) and NG19
+include:
+(https://www.nice.org.uk/guidance/ng1
+Blood glucose or HbA1c test (as
+9)]
+1. Referral to weight management
+clinically appropriate)
+lifestyle change programmes (see
+Type 2 diabetes prevention and
+body mass index below). For example,
+treatment [PH38
+Diabetes awareness and rehabilitation
+(https://www.nice.org.uk/guidance/ph3
+training_(DART)
+8) and NG28
+(https://www.ncbi.nlm.nih.gov/pmc/arti
+(https://www.nice.org.uk/guidance/ng2
+cles/PMC3881287/) is a 24-week,
+8)]
+group-based, diabetes management
+intervention designed for middle-aged
+and older patients with schizophrenia
+and schizoaffective disorder and Type
+2 diabetes, and has been shown to
+achieve significant health-related
+improvements.
+2. Eye screening for anyone with
+diabetes aged 12 or over (this is
+particularly important as diabetic eye
+screening is significantly lower for
+people living with bipolar disorder.[16])
+https://www.england.nhs.uk/long-read/improving-the-physical-health-of-people-living-with-severe-mentalilinest
+8/27
+4/5/26, 4:14 PM
+NHS England » Improving the physical health of people living with severe mental illness
+Evidence-based follow-up
+SMI physical health check
+NICE guidelines
+interventions and resources
+Offer lifestyle advice (diet, physical
+Hypertension in adults: diagnosis and
+activity, stop smoking, and reducing
+management[NG136]
+alcohol, caffeine and salt).
+Blood pressure
+(https://www.nice.org.uk/guidance/ng1
+36).
+Offer antihypertensive therapy if safe
+and appropriate.
+Tailored weight management is an
+important intervention for people living
+with SMI, especially when delivered at
+the start of initiating antipsychotic
+medications. The Equally Well UK
+review(https://equallywell.co.uk/wp-
+content/uploads/2020/05/Equally-
+Well_Healthy-Weight-
+Management_Review-1.pdf) of
+healthy weight management in people
+living with a SMI found that lifestyle
+interventions such as exercise and
+dietary advice can reduce the BMI of
+people living with SMI, but the impact
+is small unless the intervention lasts
+for longer than 6 months. Qualified
+professionals such as dietitians are
+more effective than other health
+professionals in helping people reduce
+their BMI.
+Overweight and obesity management
+Support available will be different in
+[NG246]
+each area. Consider referral to:
+(https://www.nice.org.uk/guidance/ng2
+46)
+1. local authority commissioned weight
+Body mass index
+management programmes.
+Physical activity: brief advice for adults
+in primary care [PH44]
+2. the national NHS Digital Weight
+(https://www.nice.org.uk/guidance/ph4
+Management Programme
+4)
+(https://www.england.nhs.uk/digital-
+weight-management/), which supports
+adults living with obesity who also
+have a diagnosis of diabetes.
+3. local VCSE organisations that
+provide tailored support; for example,
+see case study 3: VCSE organisations
+supporting_people living with SMI to
+improve their physical health
+(https://www.england.nhs.uk/long-
+read/vcse-organisations-supporting-
+people-living-with-smi-to-improve-
+their-physical-health/).
+Rethink has produced a physical
+activity toolkit
+(https://www.rethink.org/media/5333/re
+think-mental-illness-physical-activity-
+toolkit.pdf) for support groups helping
+people living with SMI to become
+more active.
+https://www.england.nhs.uk/long-read/improving-the-physical-health-of-people-living-with-severe-mental-illnes)
+9/27
+4/5/26, 4:14 PM
+NHS England » Improving the physical health of people living with severe mental illness
+Evidence-based follow-up
+SMI physical health check
+NICE guidelines
+interventions and resources
+Offer lifestyle advice (diet, physical
+Cardiovascular disease: risk
+activity, weight management (see
+assessment and reduction, including
+above), stop smoking, reducing
+Lipid profile
+lipid modification [NG238]
+alcohol).
+(https://www.nice.org.uk/guidance/ng2
+38)
+Offer lipid lowering therapy if safe,
+appropriate and can be monitored.
+Tobacco dependence treatment is
+effective in people living with SMI, [17]
+particularly when support is tailored to
+their needs. NHS England is
+implementing 7 specialist mental
+health tobacco dependency service
+pilots, informed by the SCIMITAR+
+(https://www.thelancet.com/journals/la
+npsy/article/PIIS2215-0366(19)30047-
+1/fulltext) model which has been
+Tobacco: preventing uptake,
+shown to increase quit rates among
+promoting quitting and treating
+people living with SMI.
+Smoking status
+dependence [NG209]
+(https://www.nice.org.uk/guidance/ng2
+Importantly, any intervention that
+09)
+seeks to reduce or stop the tobacco
+dependence of someone living with
+SMI must factor in interactions with
+medications. Smoking can affect the
+metabolism of psychotropic
+medications. Change in smoking
+status may require prompt dose
+alteration of certain antipsychotics,
+especially clozapine which can have
+rapid and serious toxicity (within a
+week).
+Personalised care
+People living with SMI will need tailored support to access follow-up interventions to support their physical health. Services
+must consider that individuals who have pre-existing co-morbid physical and mental health problems may vary in their
+ability to self-manage their conditions and may also face social challenges. [18]
+A range of roles may assist people living with SMI to get the best out of the follow-up interventions they have been referred
+to. For example:
+Peer support workers can help reduce barriers to engagement, address social isolation and support behaviour
+change.
+Health and wellbeing coaches can support people to increase their ability and motivation to self-manage, and work
+with people to set personalised goals.
+Care co-ordinators can play a key role in improving the pathway for people living with SMI. With their in-depth
+knowledge of local services, they can point people in the right direction, approach services on an individual's behalf
+and support people to attend appointments where appropriate.
+Social prescribing link workers can work across health, social care and VCSE organisations, including faith groups, to
+help people find the support that best meets their needs.
+Non-clinical staff should be supported to be aware of the access routes and appropriateness of activities they sign post and
+support access to, based on the physical health check.
+Personalised care and support planning can support people living with SMI to make the lifestyle and behaviour changes
+needed to achieve and sustain better physical health. It aims to have a better or different conversation between a person
+and their health and social care practitioner to create a more equal relationship. It should address the full needs of the
+individual, taking steps to combat loneliness, isolation and promoting wider engagement with self-care, exercise, healthy
+https://www.england.nhs.uk/long-read/improving-the-physical-health-of-people-living-with-severe-mental-ilnes/
+10/27
+4/5/26, 4:14 PM
+NHS England » Improving the physical health of people living with severe mental illness
+eating and lifestyle. Crucially, this should involve shared decision-making between the patient and the professionals
+supporting them (see NICE guidelines on shared decision making_(https://www.nice.org.uk/about/what-we-do/our-
+programmes/nice-guidance/nice-guidelines/shared-decision-making).
+Personalised support and care planning should include jointly agreeing:
+what matters to the person and what good support looks like for them
+personal physical health goals (motivational interviewing techniques can help people decide what their personal health
+goals are)
+approaches to self-care, eg health coaching
+referrals to follow-up interventions, social prescribing or onward signposting
+follow-up appointments
+roles and responsibilities of other named supporting professionals
+addressing social factors that might be impacting on someone's physical and mental health such as isolation,
+employment or housing.
+The Rethink Mental Illness - Physical health check ol (https://www.rethink.org/media/4862/interactive-physical-health-
+check-tool.pdf) can help personalise support for a SMI physical health check and follow on interventions. It has been co-
+produced with people with lived experience.
+The NICE patient decision aids (https/www.nice.org.uk/about/nice-communities/nice-and-the-public/making-decisions-
+about-your-care/patient-decision-aids). can support conversations and help patients make informed choices. If eligible, a
+personal health budget(https://www.nhs.uk/nhs-services/help-with-health-costs/what-is-a-personal-health-budget/) r may be
+appropriate to enable people to access follow-up support for their physical health goals. See case study 4: Mental health
+personal health budgets: redesigning the recovery_pathway,(https://www.england.nhs.uk/long-read/mental-health-personal-
+health-budgets-redesigning-the-recovery-pathway/) for an illustration of the role of personal health budgets in supporting
+the physical health of people living with SMI.
+Service design considerations
+Care that advances equality
+The NHS is committed to ensuring that everyone receives high quality healthcare, regardless of their background. There is
+also a legal duty to advance equality, diversity and inclusion for everyone accessing health services, as laid out in the
+Equality Act (https://www.legislation.gov.uk/ukpga/2010/15/contents), including by providing reasonable adjustments, and in
+the Health and Care Act 2022.(https://www.legislation.gov.uk/ukpga/2022/31/contents/enacted) NHS England has set out
+its plan to deliver more equitable access, experience and outcomes in mental health services in its Advancing mental health
+equalities strategy (https://www.england.nhs.uk/wp-content/uploads/2020/10/00159-advancing-mental-health-equalities-
+strategy.pdf), and has launched the patient and carer race equality (PCREF)
+(https://www.england.nhs.uk/mental-health/advancing-mental-health-equalities/pcref). to improve the experiences of mental
+health services among racialised and ethnically and culturally diverse communities.
+Providing annual SMI physical health checks is also a core clinical focus of Core20PLUS5
+(https://www.england.nhs.uk/about/equality/equality-hub/national-healthcare-inequalities-improvement-
+programme/core20plus5/), NHS England's flagship approach for tackling health inequalities, which includes the
+Core20PLUS Connector Programme (https://www.england.nhs.uk/about/equality/equality-hub/national-healthcare-
+inequalities-improvement-programme/core20plus5/core20plus5-community-connectors/) and Core20PLUS ambassadors.
+(htps://www.england.nhs.uk/about/equality/equality-hub/national-healthcare-inequalities-improvement-
+programme/core20plus5/core20plus-ambassadors/) Importantly, socioeconomic disadvantages and stigma and
+discrimination associated with living with SMI can themselves influence the health of and access to healthcare among this
+population.[19]
+To support progress in advancing health equality, this section provides guidance on ways to tailor services to improve
+access and outcomes for:
+people from racialised and ethnically and culturally diverse communities
+people with a learning disability and autistic people
+people with a co-occurring alcohol and/or drug problem
+LGBTQ+ communities
+older adults
+young people
+people in inclusion health (https://www.gov.uk/government/publications/inclusion-health-applying-allour-
+health/inclusion-health-applying-all-our-health) groups who are less likely to be registered with a GP or consistently
+accounted for in electronic health databases (such as people who experience homelessness, vulnerable migrants,
+Gypsy, Roma and Traveller communities, sex workers, people in contact with the justice system and victims of modern
+slavery).
+https://www.england.nhs.uk/long-read/improving-the-physical-health-of-people-living-with-severe-mental-ilnes/
+11/27
+4/5/26, 4:14 PM
+NHS England » Improving the physical health of people living with severe mental illness
+It is also important to recognise that people's identities and experiences are multifaceted, and that being a member of
+multiple groups that experience inequalities may compound poorer experiences and outcomes of care. These group-level
+considerations should always be applied in the context of seeing people as individuals, avoiding blanket assumptions, and
+working with people to understand and put in place support that meets their needs and aspirations, and considers their
+strengths.
+People from racialised and ethnically and culturally diverse communities
+Research indicates that people living with SMI from certain ethnic groups are more likely to experience
+multimorbidity. For instance, a 2022 study found that among people with psychosis (controlling for
+sociodemographic factors and duration of care), those of Black African, Black Caribbean and Black British ethnicity
+have higher odds of multimorbidity than White British people. 20].(https://www.england.nhs.uk/wp-
+admin/post.php?post=237184&action=edit#_ftn20)
+Despite having higher rates of multimorbidity, a Race Equality Foundation report
+(https://raceequalityfoundation.org.uk/health-and-care/physical-health-checks-report/) i in 2022 found that Black
+African and Black Caribbean people living with SMI had variable or low awareness of annual SMI physical health
+checks and were apprehensive about using services based on previous bad experiences.
+Racialised and ethnically and culturally diverse communities include people with very different cultural
+backgrounds and identities. The suggestions below are therefore general, with the overarching aim to centre care
+on people's individual needs in relation to their race, ethnicity and faith:
+Provide co-produced culturally appropriate resources that explain why annual SMI physical health checks are
+important and what they involve, including in non-written formats such as videos (see resources developed
+by the Race Equality Foundation_(https:/raceequalityfoundation.org.uk/health-care/physical-health-checks
+for-people-with-severe-mental-illness/).
+Provide key information in different languages and formats and ensure ready access to independent
+interpreters (instead of relying on family members to translate).
+Engage with VCSE organisations that support people from racialised and ethnically and culturally diverse
+communities who are living with SMI, and work with community assets (such as faith buildings and
+community centres) to raise awareness of the importance of annual SMI physical health checks, what they
+involve and how they can support people to access them.
+Tailored outreach programmes to support people from racialised and ethnically and culturally diverse
+communities to access annual SMI physical health checks, including using community assets to deliver the
+checks and follow-up interventions (see section: Dedicated services and utreach.programmes
+(https://www.england.nhs.uk/wp-admin/post.php?post=237184&action=edit#dedicated))
+Provide staff training to develop cultural competency and the skills needed to plan and deliver care in a way
+that is culturally appropriate.
+Improve recording and monitoring of ethnicity data, including in primary care records, to help identify variation
+in uptake of the annual SMI physical health checks to inform actions to reduce this.
+Review organisational policies, procedures and practices to ensure that training, interventions and care
+delivery are anti-racist, and improve the experience and outcomes of people from racialised and ethnic
+minority communities.
+People with a learning disability
+People with a learning disability are more likely to experience poorer physical health and die at a younger age than
+the general population, and there is also sizeable cross-over between people living with SMI and having a learning
+disability. Data from GP records found that 7.5% of those with a recorded learning disability also had a SMI
+diagnosis. [21]_(https://www.england.nhs.uk/wp-admin/post.php?post=237184&action=edit#_ftn21)
+In line with the Health and Care Act 2022, all NHS staff should receive training on learning disability and autism
+that is appropriate to the person's role, including the OliverMcGowan mandatory training_(https://www.e-
+fh.org.uk/programmes/the-oliver-mcgowan-mandatory-training-on-learning-disability-and-autism/).
+To improve the support that people with a learning disability receive, you may want to consider the following:
+https:/www.england.nhs.uk/long-read/improving-the-physical-health-of-people-living-with-severe-mentalilness
+12/27
+4/5/26, 4:14 PM
+NHS England » Improving the physical health of people living with severe mental illness
+People aged 14 and over with both a learning disability and SMI should receive a health check that combines
+the elements of both the learning disability and SMI health checks (avoiding duplication of checks). More
+information on the learning disability health checks is available on the NHS England website
+(https://www.england.nhs.uk/learning-disabilities/improving-health/annual-health-checks/).
+Staff skills to support someone with a learning disability to access a check, such as speech and language
+therapists to support communication issues and understanding of the check, results from the check and
+ongoing interventions.
+Autistic people
+Autistic people experience poorer health than the general population, and are over 6.7 times more likely to be
+treated with antipsychotics than those not recorded as having autism. 22]_(https://www.england.nhs.uk/wp-
+admin/post.php?post=237184&action=edit#_ftn22)
+To improve the support that autistic people receive, you may want to consider the following:
+As part of the NHS Long Term Plan, an autism health check has been co-developed and is being tested in a
+randomised controlled trial with Newcastle University. This study is due to complete in summer 2024. The
+autism health check has been piloted with primary care to explore the challenges and enablers to future
+implementation with varying workforces.
+Autistic people living with SMI should currently receive the annual SMI physical health check. They may need
+certain reasonable adjustments to help them access this check. Work with the autistic person and their
+chosen carer(s) to understand their individual needs and what adjustments should be made, such as using
+the y-friendly resource pack (https://www.england.nhs.uk/publication/sensory-friendly-resource-pack/)
+or Green Light Toolkit (https://surveys.ndti.org.uk/), and record key preferences as an alert on the person's
+EPR.
+Autism peer education for parents and carers - Autism Central. (https://www.autismcentral.org.uk/).
+Autism_peer support workers (https://www.hee.nhs.uk/our-work/autism/current-projects/developing-autism-
+peer-support-worker-roles).
+People with co-occurring substance use
+Substance use is common among people with mental health problems, and often leads to poor health and earlier
+death. [23]_(https://www.england.nhs.uk/wp-admin/post,php?post=237184&action=editt_ftn23) People
+experiencing co-occurring mental health challenges and substance use often experience other challenges, such
+as homelessness, frequent contact with the criminal justice system and domestic abuse, all of which can increase
+social exclusion. They can mistrust services following previous poor experiences of traditional services that do not
+meet their needs. People with co-occurring substance use may not prioritise annual SMI physical health checks,
+meaning more proactive communication is required about why health checks are important.
+To improve the support that people with co-occurring substance use receive, you may want to consider the
+following:
+Services should act on the principles of 'no wrong door' and 'everybody's job' so that people can access
+holistic care for their mental health, physical health and substance use problems. [24]
+(https://www.england.nhs.uk/wp-admin/post.php?post=237184&action=edit#_ftn24)
+To adopt a 'no wrong door' approach, there is a need for robust and proactive joint working by professionals
+working with people experiencing co-occurring substance use and referral processes should be agreed.
+Consider the need for outreach services for these individuals, including:
+use of a variety of approaches to communicate with people (especially as they may change their phone
+numbers and addresses more frequently than others)
+provision of easy read materials for people with brain injury or low literacy
+provision of annual SMI physical health checks in non-traditional settings, such as homelessness
+accommodation, community substance use treatment services or other settings where people with co-
+occurring substance use are more likely to be and feel more comfortable
+being flexible if appointments are repeatedly missed.
+https://www.england.nhs.uk/long-read/improving-the-physical-health-of-people-living-with-severe-mental-iles/
+13/27
+4/5/26, 4:14 PM
+NHS England » Improving the physical health of people living with severe mental illness
+Follow-up interventions are supported and tailored to consider living conditions and other support needs.
+LGBTQ+ communities
+LGBTQ+ people are more likely to develop mental health problems than the general population. The reasons for
+this are complex, but one contributory factor is that they often experience prejudice and discrimination.
+To improve the support that LGBTQ+ people receive, you may want to consider the following:
+Have clear posters and signage within services to show that they are LGBTQ+ friendly, to help create an
+open environment.
+Use inclusive language, ask about preferred pronouns and name, and do not make assumptions about
+people's relationships and gender.
+Signpost people to support from LGBTQ+ VCSE organisations.
+Provide staff training to develop understanding of the health inequalities experienced by LGBTQ+ people and
+the challenges they may face accessing healthcare.
+Review organisational policies, procedures and practices to ensure that all training, interventions and care
+improve the experiences and outcomes of people from LGBTQ+ communities.
+Older adults
+SMI in older adults can be long-standing or may present for the first time in later life. Psychotic depression is more
+common in later life, with an estimated average age of onset of 51.2 years, and older adults with schizoaffective
+disorder appear to have more severe illness with worse outcomes. [25]
+To improve the support that older adults receive, you may want to consider the following:
+Different methods for inviting someone to an SMI physical health check. Older adults are more likely to
+experience digital exclusion.
+Physical access needs, such as adequate transport and accessibility of a building. Home visits may
+sometimes be appropriate.
+Timing of the appointment, eg some older adults may find it difficult to attend an early appointment or may
+not want to travel when it is dark.
+Longer appointments, as some older adults may need more time, eg to remove clothes to have a blood
+pressure reading taken.
+The need to ensure reasonable adjustments are in place for people who have any cognitive or sensory difficulties;
+these are more common in older adults.
+Young people
+Schizophrenia and bipolar disorder usually start in late adolescence and early adulthood. [26] [27]
+To improve the support that young people receive, you may want to consider the following:
+Recognise the importance of transitions in a young person's life, and how these might impact on their mental
+and physical health, including the effect of transitioning between CYP and adult mental health services.
+Ensure there is a strong interface, relationship and joint working protocols with EIP teams. Regular liaison
+and training arrangements across services can help colleagues to be confident in identifying first episode
+psychosis and at-risk mental states in young people, leading to rapid referrals and reduced durations of
+untreated psychosis.
+Young people may be more transient, for instance university students may reside and move between two
+locations and this can affect contact with a GP and other services. Support transitions for young people
+https://www.england.nhs.uk/long-read/improving-the-physical-health-of-people-living-with-severe-mental-iles/
+14/27
+4/5/26, 4:14 PM
+NHS England » Improving the physical health of people living with severe mental illness
+taking up university places and ensure appropriate signposting and referral to university health and welfare
+services. Transitions and transfers of care should be ably supported through care planning across teams.
+Make sure arrangements are in place to support care leavers; that is, joint working between primary care, mental
+health services and local authority social care.
+People in inclusion health groups
+A range of people may be less likely to be registered with a GP or consistently accounted for in electronic health
+databases, which means they will be less likely to be invited to a SMI annual physical health check. Local areas
+should identify such groups in their area, but they are likely to include (non-exhaustive list):
+people who experience homelessness
+vulnerable migrants
+Gypsy, Roma and Traveller communities
+sex workers
+people in contact with the justice system
+victims of modern slavery.
+To improve the support that these communities receive, you may want to consider the following:
+Work with system partners to gather quantitative and qualitative data to understand the characteristics and
+needs of inclusion health groups locally and to target resources to improve access, experience and
+outcomes.
+Translate materials into different languages, and provide interpreters and other communication options for
+those who cannot read.
+Ensure it is clearly communicated to primary care staff that there is no regulatory requirement for people to
+prove their identity, address or immigration status to register at a GP surgery.
+Set up drop-in sessions to see a GP at convenient times without having booked an appointment, where
+possible.
+Roles and responsibilities
+Joint working between primary care, secondary mental health providers and VCSE organisations is at the heart of the
+Community Mental Health Framework (https://www.england.nhs.uk/publication/the-community-mental-health-framework-for-
+adults-and-older-adults/), and is essential for improving the physical health care of people living with SMI. By working
+together these services can ensure:
+patients get the right care, at the right time
+people do not fall into gaps in our care, or need to repeat their stories and undergo duplicate tests and examinations
+patients are provided with consistent advice as they move between services
+an exchange of learning between healthcare professionals, eg improving mental health clinicians' understanding of
+physical health and primary care clinicians' understanding of mental health
+work is not duplicated by different services, creating inefficiencies and unnecessary burden to patients.
+Mental health practitioners within primary care can play a role in upskilling the wider primary care workforce in delivering
+SMI annual physical health checks and supporting access to follow-up interventions in a tailored and trauma-informed way.
+However, given the limited mental health workforce, particularly within primary care, they should not deliver physical health
+care checks, other than by exception when this is identified as the only way someone will access their annual physical
+health check.
+SMI annual physical health checks are expected to be delivered mostly in primary care and are included in the Quality and
+Outcomes Framework (QOF). Specialist mental health care can support people to engage with primary care and, in certain
+situations, it will be appropriate for secondary care or VCSE services to deliver these checks.
+ICSs should ensure a local comprehensive model of care is provided so that people living with SMI receive an annual
+physical health check in a way that meets their needs. The model should include a protocol outlining roles and
+responsibilities across primary care, secondary care and VCSE services to optimise the physical health care of people
+living with SMI. The protocol should:
+htps://www.england.nhs.uk/long-read/improving-the-physical-health-of-people-living-with-severe-mental-ilnest
+15/27
+4/5/26, 4:14 PM
+NHS England » Improving the physical health of people living with severe mental illness
+Follow the principles of NICE guidance CG178, which ensures clarity on who is responsible for the physical health
+monitoring of patients.
+Include information sharing and data flow requirements. This will enable alignment of the SMI register between
+primary and secondary care, allowing accurate and timely identification of patients requiring an annual SMI physical
+health check (or elements of the check), and avoiding duplication.
+Clarify who is responsible for each step, including undertaking the check, analysing the results, and supporting the
+patient to access further support, interventions and care as required (eg services such as smoking cessation and
+personal health budgets).
+If someone is an inpatient in a mental health setting, options may include:
+Physical health checks are delivered by secondary care services, with data flowed to primary care SMI registers to
+ensure primary care services can refer or deliver follow-up interventions as required.
+Primary care provides an in-reach service to deliver annual SMI physical health checks within mental health inpatient
+settings, and arranges referral or follow-up interventions as required.
+If someone is supported by a community mental health team but is struggling to engage with primary care services,
+options may include:
+Physical health checks are delivered by secondary care services, with data flowed to primary care SMI registers to
+ensure primary care services can refer or deliver follow-up interventions as required.
+Secondary care or a VCSE organisation supports someone to attend a primary care delivered physical health check.
+A commissioned dedicated service delivers physical health checks 'remotely' in homes or hubs where people feel
+comfortable, and data is flowed to primary care SMI registers to ensure primary care services can refer or deliver
+follow-up interventions as required.
+If someone is not responding to invitations to a primary care delivered annual SMI physical health check, options may
+include:
+Outreach supports someone to attend a primary care delivered physical health check. This may be through primary
+care, secondary care or a VCSE organisation.
+A commissioned dedicated service delivers physical health checks 'remotely' in homes or hubs where people feel
+comfortable, and data is flowed to primary care SMI registers to ensure primary care services can refer or deliver
+follow-up interventions as required.
+Dedicated services and outreach programmes
+To increase uptake of SMI physical health checks and follow-up interventions, ICSs should consider commissioning
+enhanced or dedicated services and outreach programmes.
+Before considering commissioning arrangements, undertake strategic planning including:
+use local data (eg from Joint Strategic Needs Assessments and OHID's Fingertips Profile) to understand the health
+needs of the local SMI population and existing inequalities
+establish relationships with parallel programmes such as NHS Health Check and Learning Disability Annual Health
+Check
+review current performance and plans for future delivery
+develop a plan to improve levels of interoperability and effective information sharing between primary and secondary
+care (see section: Data sharing).
+Consider the most effective models for commissioning improvements in the context of local needs. This may include
+commissioning one or more of the following:
+a) A local enhanced service as an addition to the core primary care contract. This might include services that go beyond
+the existing QOF indicators, such as:
+delivery of a comprehensive annual physical health check beyond the 'core' 6 elements of the SMI physical health
+check.
+delivery of SMI physical health checks to a wider group than those on the primary care SMI register.
+b) A dedicated service commissioned for delivery of SMI physical health checks. This could be commissioned from a
+primary care provider, secondary mental health care provider or a VCSE organisation, which may deliver this service within
+or linked into primary care settings.
+See case study 5: A dedicated physical health check service for people with severe mental illness
+(https://www.england.nhs.uk/long-read/a-dedicated-physical-health-check-service-for-people-with-severe-mental-illess/).
+https://www.england.nhs.uk/long-read/improving-the-physical-health-of-people-living-with-severe-mental-illness
+16/27
+4/5/26, 4:14 PM
+NHS England » Improving the physical health of people living with severe mental illness
+c) An outreach programme to support people to access SMI physical health checks and follow-up interventions delivered
+in primary care (see below).
+See case study 6: Using. peer mentors to increase engagement with SMI physical health checks
+(htps://www.england.nhs.u/ong-read/using-peer-mentors-to-increase-engagement-with-smi-physical-health-checks/)and
+case study 7: VCSE outreach supporting_person-centred SMI physical health (https://www.england.nhs.uk/long-
+read/vcse-outreach-supporting-person-centred-smi-physical-health-checks/).
+When designing your service or programme, consider the following:
+Co-production with people living with SMI and people from their support networks, including family and carers.
+Developing and promoting clinical leadership and collaborative working between provider organisations, eg by
+appointing a clinical mental health lead within each primary care network (PCN) to liaise with secondary mental health
+teams (see section: Leadership, workforce and training).
+Develop a clear protocol outlining roles and responsibilities across primary and secondary care and VCSE
+organisations, as well as communications and information sharing requirements, ensuring robust shared care
+arrangements are in place, so that people do not fall into gaps in care.
+Staffing requirements, including which roles would be suitable to deliver the services, training needs, where they will
+work from and how to refer to follow-up interventions, including information sharing with other staff who make referrals
+or deliver physical and mental health treatments (see section: Leadership, workforce and training).
+Key deliverables and outcomes (including uptake of a more comprehensive annual physical health check, and support
+to access follow-up interventions) and an evaluation which includes patient and staff experience.
+Outreach programmes
+A range of barriers can prevent people living with SMI from accessing annual physical health checks and follow-up
+interventions, and outreach programmes can be designed to overcome these.
+Barriers can include:
+previous poor experiences of statutory services, including health services
+lack of awareness of physical health check provision
+lack of understanding of the reasons for the check and why it is important (including the relationship between their
+mental and physical health)
+difficulty engaging with invitations sent via traditional routes (for instance, not opening post)
+previous poor experiences of the check, or expectation that the check will not be tailored to the needs of someone with
+mental illness
+concerns about the check itself (that it will only provide 'bad news') and what it will involve (eg fears about blood tests,
+being weighed)
+poor mental health at the time of being invited (eg low motivation, psychosis, anxiety)
+access barriers such as finding it difficult to get to an appointment, language barriers, transportation, etc
+lack of confidence or support to access follow-up interventions.
+This is a non-exhaustive list, and other barriers may be more common for communities in your area, which is why co-
+producing an outreach service is so important.
+Strategic planning and co-production with people with lived experience can identify the key communities that may benefit
+from an outreach programme in your area. These may include those less likely to be registered with a GP or consistently
+accounted for in electronic health databases, who mistrust services or have language barriers. This may include groups
+outlined in section: Care that advances equality.
+Working with the VCSE sector
+It can be valuable to commission VCSE organisation(s) to run outreach programmes as they have expertise in reaching
+people in communities and overcoming barriers to service access. Things to consider when commissioning a VCSE
+organisation(s) include:
+Development of a robust partnership agreement, including the role of lived experience and how co-production will be
+undertaken.
+Different commissioning options when commissioning smaller organisations (which may be particularly skilled in
+reaching certain communities), eg commissioning a larger VCSE provider to act as a lead provider that subcontracts
+delivery to smaller, more specialist organisations.
+htps://www.england.nhs.uk/long-read/improving-the-physical-health-of-people-living-with-severe-mental-illness
+17/27
+4/5/26, 4:14 PM
+NHS England » Improving the physical health of people living with severe mental illness
+Find a common ground for risk management that balances strong NHS processes and VCSE flexibility and innovation.
+Data sharing - involve IT and HR staff early in implementation, as VCSE staff may require honorary contracts and
+NHS email addresses where current IT systems do not easily facilitate data sharing through other mechanisms (see
+section: Data sharing).
+See A framework for addressing practical barriers to integration of VCSE organisations in integrated care systems
+(https://www.england.nhs.uk/long-read/a-framework-for-addressing-practical-barriers-to-integration-of-vcse-organisations-
+in-integrated-care-systems/) for a range of case studies.
+Staff training
+Outreach work may require additional staff training on the relationship between mental and physical health, the importance
+of the health checks and how to provide reasonable adjustments and support people to access follow-up interventions. It is
+advised that training is co-produced and delivered with people with lived experience. See Annex B for training resources.
+Patient and carer awareness
+Many people living with SMI may be unaware that they should be receiving an annual physical health check and why it is
+important. They may also be unaware that they are on an 'SMI register' and what this means. Co-producing
+communications with people with lived experience, their families and carers, and VCSE organisations can help promote
+awareness. This includes invitations to annual SMI physical health checks to make sure they are seen as relevant,
+welcoming and safe. Also consider different communication formats, including videos, easy reads and translated resources.
+Building trust
+Some people may not be accessing SMI physical health checks because they mistrust services. Effective outreach services
+will need to build trusting relationships with identified individuals, and this may be most effectively done by local VCSE
+organisations, including peer support workers, and staff members who reflect the demographics of the communities they
+are trying to reach.
+Building trust can take time and may require multiple attempts through multiple communication channels, including:
+letters
+texts/SMS2
+phone calls
+attendance at secondary care mental health clinics (such as depot and clozapine clinics, which people may be
+accessing already)
+attendance at community 'hubs' such as those hosted by VCSE organisations
+engaging community leaders to reach people from particular backgrounds
+home visits.
+Outreach will need to follow-up those who do not attend booked appointments to understand the reasons why and to try
+and put support in place to ensure attendance at a future appointment.
+Supporting people to attend appointments and reasonable adjustments
+Many people will require support and a range of reasonable adjustments to attend an annual SMI physical health check and
+follow-up interventions. See section: Trauma-informed delivery and reasonable adjustments for examples of reasonable
+adjustments.
+Remote delivery of SMI physical health checks
+https://www.england.nhs.uk/long-read/improving-the-physical-health-of-people-living-with-severe-mental-ilnes
+18/27
+4/5/26, 4:14 PM
+NHS England » Improving the physical health of people living with severe mental illness
+Remote delivery of annual SMI physical health checks outside a clinical setting can support outreach programmes to reach
+people who may be less likely to come to a primary care setting. One way to deliver remote checks is through using
+portable technologies and point of care testing (POCT) equipment. POCT equipment can often record results electronically,
+reducing clinical time and transcription error where there is interoperability with local electronic patient records (EPRs).
+POCT blood test equipment does not rely on the need for pathology labs and can provide a result which can be actioned at
+the time of contact.
+Having worked to understand which communities you should try to reach through remote checks (see section: Care that
+advances equality.), engage PCNs and clinicians, including pathology teams, in your area to understand which portable
+equipment and technology (testing and digital integration) options are compatible with their systems and needs, and provide
+the required diagnostic value.
+Assessments to consider when procuring POCT equipment and designing a programme for delivery of remote annual SMI
+physical health checks include:
+Does the technology/equipment have the capability to undertake every element of the annual SMI physical health
+check ('core' and comprehensive) that you wish to be delivered?
+Does the remote delivery of elements of the check, including blood tests, meet local clinical safety and governance
+requirements (clinical benchmarks, safety processes and testing governance)?
+If remote delivery of some elements of the check do not meet diagnostic clinical requirements, are you happy for parts
+of the check to be used as an initial screening to aid outreach.
+Is the recorded data compatible with local primary care IT systems (electronic patient records), and can it populate
+these or does it need to be downloaded and entered into records?
+Does the recording and sharing of data when using this equipment meet local information governance requirements?
+How will results be actioned and linked to referrals and follow-up interventions?
+Who will deliver the remote annual SMI physical health checks and what training and support do they need to use this
+equipment?
+What ongoing calibration, checks, maintenance or quality control of the equipment will be required?
+Other practical aspects to consider when procuring equipment include:
+portability (size, weight)
+testing times
+testing and sampling processes
+accuracy and precision
+alignment with laboratory results where applicable
+limitations, including issues regarding contamination
+IT equipment and functions provided
+interface and/or integration requirements for results
+consumable storage requirements
+warranty
+costs (equipment, consumables, maintenance, laboratory support if required).
+As an example, see using POCT equipment for SMI annual physical health checks in Greater Manchester.
+(https://transform.england.nhs.uk/covid-19-response/technology-nhs/bringing-holistic-services-within-reach-for-people-with-
+severe-mental-ilness/).
+Data sharing
+For safe, effective and joined-up care between primary care, secondary care and VCSE services, appropriate sharing and
+exchange of accurate and up-to-date information between practitioners is key. Data from annual SMI physical health checks
+conducted outside primary care should flow back to the individual's primary care record. Non-primary care staff may also
+need to access primary care data systems so they can run reports or audits to identify patients on the SMI register and
+those yet to receive an annual physical health check.
+Data sharing should be a key component of any protocol outlining roles and responsibilities across primary care, secondary
+care and VCSE services. This should cover sharing results including interpretation of health assessments and how relevant
+information entered into IT databases will reach the right healthcare professional(s) promptly for follow-up care. Consider if
+data needs to be shared across multiple organisations at a system or regional level.
+Data can be shared in a variety of ways with different degrees of interoperability. Considerations when designing how data
+on annual SMI physical health checks and follow-up interventions will be shared include:
+A clear and consistent template for inputting data. See case study 8: Standardising the monitoring of SMI physical
+health to improve interoperability(https://www.england.nhs.uk/long-read/standardising-the-monitoring-of-smi-physical-
+health-to-improve-interoperability/).
+https://www.england.nhs.uk/long-read/improving-the-physical-health-of-people-living-with-severe-mental-illness
+19/27
+4/5/26, 4:14 PM
+NHS England » Improving the physical health of people living with severe mental illness
+Facilitating secondary care and VCSE providers to input data directly into primary care information systems. Third
+party organisations may need to be granted network access, including through honorary contracts, and provided with
+laptops with NHS smartcards to enable access to patient records and data sharing.
+Integration of annual SMI physical health check data into local shared care records.
+Patient records should only be shared in accordance with local information governance agreements and with due regard to
+confidentiality, as outlined in the EU General Data Protection Regulation (GDPR), the Data Protection Act 1998 and human
+rights legislation.
+It is vital to work with any commissioned VCSE organisations from the start to address data sharing challenges. It is
+advised that:
+Data requirements are built into contracting processes.
+Commissioners take responsibility for providing guidance and relevant IT equipment to meet the requirements of
+VCSE organisations.
+Consideration is given to commissioning a VCSE Alliance to help with data flow where a large number of small VCSE
+providers are involved.
+Leadership, workforce and training
+Leadership
+Improvements in the physical health of people living with SMI need to be driven by embedding leadership in this area at
+integrated care board (ICBs), mental health provider and PCN level. Mental health leads and health inequality leads in ICBs
+should recognise this as a strategic priority in line with Core20PLUS5. It is also recommended that non-executive directors
+on ICBs and the boards of mental health providers are supported to understand the importance of improving the physical
+health of those living with SMI, and to seek assurance from and hold the executives to account for tackling this health
+inequality. Consideration should also be given to lived experience leadership roles to support work in this area.
+A group or forum that brings together the different stakeholders focused on the physical health of people living with SMI is
+recommended. These stakeholders will include representatives from primary care, secondary mental health care, the VCSE
+sector and the local authority, including public health teams, as well as those with lived experience and clinical leads.
+Workforce
+A wide range of roles across primary care, secondary care and the VCSE sector can be involved in the delivery of the
+annual SMI physical health check and support for follow-up interventions, including GPs, nurses, pharmacists, occupational
+therapists, healthcare assistants, health coaches and VCSE staff.
+When deciding which roles can deliver the physical health check, it will be important to consider:
+The whole multidisciplinary team - you may want to use roles other than GPs to deliver the checks due to workforce
+capacity.
+Whether a role is trained to deliver all or some of the elements of the physical health check. Some services may use
+roles that can deliver all elements of the check. Others may use roles that can deliver the check other than the blood
+tests, which they book this with colleagues.
+Whether a role has access to the relevant IT systems to record the checks or a system for the data to flow into the IT
+systems.
+Whether a role can analyse and action the results, or there is a process for this to be done by an appropriately trained
+colleague. This should include whether a role can support access follow-up interventions.
+Whether a role can consider the wider needs of an individual and provide or refer to those who can assist with
+personalised support and care planning (see section: Personalised care).
+Cost effectiveness of using particular roles.
+The training roles will require, including on increasing understanding of SMI and how SMI affects physical health.
+Training
+Ensuring that practitioners have the correct knowledge, skills and attitudes is essential to delivering high quality care and
+addressing the stigma that contributes to the known mortality gap for people living with SMI.
+All staff delivering annual SMI physical health checks and supporting access to follow-up interventions should feel
+competent and confident to support people to better manage their physical health. Staff need to:
+Understand what SMI is and how it might be experienced by people.
+Understand the excess risks of poor physical health, including oral health, and how people can be engaged and
+supported to access appropriate physical health care.
+https://www.england.nhs.uk/long-read/improving-the-physical-health-of-people-living-with-severe-mentalillnes
+20/27
+4/5/26, 4:14 PM
+NHS England » Improving the physical health of people living with severe mental illness
+Feel confident and empowered to talk about health holistically, including mental and physical health, healthy lifestyles
+and risk reduction.
+Have the technical skills and expertise to carry out physical health assessments, and action and communicate the
+results as required.
+Understand the appropriate next steps following delivery of an annual SMI physical health check in line with their role
+to ensure a person is supported to access follow-up interventions as required.
+To achieve this a comprehensive approach to workforce development could include:
+A high-quality training offer covering core mental health awareness, physical health promotion and behaviour change
+for people living with SMI.
+Protected time for staff to access relevant training.
+Appropriate supervision and opportunities for reflective practice.
+Access to multidisciplinary team structures as part of continued development.
+Co-producing training with people with lived experience - and seeking participation from those who are less frequently
+heard - can ensure that staff fully understand why people living with SMI need an annual SMI physical health check, have a
+positive experience of the check and are supported to access follow-up interventions. Training delivered by those with lived
+experience can be particularly effective as it brings real-life examples of challenges and ideas for service delivery.
+Areas where training has been developed collaboratively between primary care, secondary care and the VCSE sector have
+shown that this is not only invaluable for sharing knowledge but also for promoting closer working relationships, which
+increases the effectiveness of shared care delivery.
+See Annex B for a list of available training resources, and Annex E for further tools and resources.
+Annex A: Case studies
+You can read 8 case study examples(htps://www.england.nhs.uk/publication/case-studies-physical-health-support-
+services-for-people-living-with-severe-mental-illness) of the collaborative work taking place to deliver physical health
+support services for people living with severe mental illness (SMI).
+Annex B: Training resources
+UCLP-Primrose resources
+UCLP-Primrose is a framework for primary care teams to maximise the benefit of physical health checks for people living
+with SMI and improve their outcomes. Training resources (https://uclpartners.com/our-priorities/cardiovascular/proactive-
+care/uclpartners-primrose-implementation-uide/uclpartners-primrose-e-learning-training-and-resources-for-clinica-
+staff/what-training-resources-are-available-to-support-delivery-of-uclp-primrose/). support use of the framework.
+Mental health nurse training to promote good physical health for people living with SMI in their care (The
+Charlie Waller Trust)
+Training for mental health nurses (https://www.charliewaller.org/what-we-offer/nurses-and-allied-health-care
+professionals/training/physical-health-in-smi) covers:
+why the physical health of people with SMI is our problem
+physical health and keeping healthy
+supporting someone with SMI to be healthy
+the annual health check
+making the physical health of a person with SMI part of our everyday care.
+How to improve the physical health of people with SMI (NHS England South East, The Charlie Waller Trust
+and Health Education England)
+Endorsed by the Royal College of Nursing (RCN), this free online 30-minute training film for primary care professionals
+(http://www.southeastclinicalnetworks.nhs.uk/phsmi/) covers:
+factual information about the main types of severe mental illness
+practical advice on how to talk and respond to people with severe mental illness
+how to encourage people with severe mental illness to attend appointments
+how to do physical health checks and medication reviews
+how to offer a care plan and ongoing support.
+https://www.england.nhs.uk/long-read/improving-the-physical-health-of-people-living-with-severe-mental-illness
+21/27
+4/5/26, 4:14 PM
+NHS England » Improving the physical health of people living with severe mental illness
+Primary care training to ensure patients with mental health problems receive appropriate help (The Charlie
+Waller Trust)
+Training for nurses and liedhealthcare professionals (http://www.charliewaller.org/what-we-offer/nurses/training/primary-
+care-training) working in primary care to ensure patients with mental health problems receive appropriate help. This training
+can also be used in a train the trainer programme. It covers:
+promoting wellbeing: includes factors that contribute to wellbeing and how to help people maintain their wellbeing
+encouraging healthy behaviour: includes lifestyle behaviours that keep people healthy, and how to assess readiness to
+change behaviour, motivate change at each stage of readiness, and support people to change their behaviour
+common mental disorder: includes a definition of common mental disorder and how to recognise, measure and treat
+common mental disorder
+severe mental illness: includes how a person with SMI might be affected, recognising relapse in mental health and
+how to improve their physical health.
+Physical health in mental illness (the Royal College of Nursing (RCN) in collaboration with the Charlie
+Waller Memorial Trust)
+Three short e-learning sessions (https://www.rcn.org.uk/Log-In?returnUrl=https%3a%2f%2fscadmin.rcn.org.uk%2fclinical-
+topics%2fmental-health%2fphysical-health-in-mentalilness), presented by Dr Sheila Hardy, that encourage nurses to
+proactively consider the physical health needs of people with severe mental illness. You need to be a RCN member to
+access this resource.
+Restart Smiling, oral health training for staff supporting the physical health of people living with SMI
+Co-developed with experts by experience, mental health and dental professionals, this 2-hour training resource covers:
+importance of good oral health for people living with SMI
+links between oral health, mental health and physical health
+barriers to maintaining good oral health in people living with SMI
+responsibility for promoting good oral health in people living with SMI
+key questions to ask, and key advice to give and actions to take for supporting good oral health in people living with
+SMI (including oral hygiene, dry mouth, mouth cancer, diet and accessing dental care)
+importance of promoting good oral hygiene in people living with SMI
+oral hygiene equipment
+delivery of oral hygiene advice through a step-by-step behavioural change approach.
+To access Restart Smiling, please contact RESTART Smiling on restartsmiling1@gmail.com
+(mailto:restartsmiling1@gmail.com).
+Core20PLUS5 (NHS England)
+Free e-learning training for NHS health and care organisation staff on the Core20PLUS5 (http://www.e-
+Ifh.org.uk/programmes/health-inequalities/) approach.
+Physical health competency framework for mental health and learning disability settings (Health Education
+England)
+Framework of knowledge and skills (http://www.e-fh.org.uk/wp-content/uploads/2020/04/Physical-Health-Competency-
+Framework-v2.9.pdf) for registered clinical staff working in mental healthcare and/or learning disability settings who need to
+be able to meet the physical health needs of service users with SMI and/or a learning disability.
+National Centre for Smoking Cessation and Training Mental Health Specialty Module
+An online training module and resource for anyone who works with smokers with mental health issues.
+(https://elearning.ncsct.co.uk/england). It focuses on supporting clients with a diagnosed mental health condition, who may
+be treated in the community or a specialist setting.
+The mental health and smoking course is open to NCSCT certified stop smoking practitioners, who have taken the training
+and passed the assessment.
+https://www.england.nhs.uk/long-read/improving-the-physical-health-of-people-living-with-severe-mental-ilness
+22/27
+4/5/26, 4:14 PM
+NHS England » Improving the physical health of people living with severe mental illness
+NHS Health Check competency framework
+The NHS Health Check Competency Framework (https://www.e-lfh.org.uk/wp-content/uploads/2020/04/Physical-Health-
+Competency-Framework-v2.9.pdf) outlines the core competence required to carry out the NHS Health Check. It also
+provides a template for minimum standards when commissioning or creating training packages, highlighting training needs
+for staff delivering the NHS Health Check programme. It is supported by the NHS Health Check - national
+(https://www.healthcheck.nhs.uk/commissioners-and-providers/national-guidance/)- guidance (updated March 2020) and an
+NHS Health Check Training_Hub.(https://www.e-lfh.org.uk/programmes/nhs-health-check/
+Annex C: Clinical terminology, definitions and codes
+The term severe mental illness (SMI) in this guidance refers to all individuals who have received a diagnosis of psychosis,
+schizophrenia or bipolar affective disorder. This definition should not be seen to imply that other diagnoses are not 'serious'
+or 'severe', or that they do not carry any associated physical health risk, but is used to align this guidance with NICE
+guidance for physical health checks and the scope of the Quality and Outcome Framework SMI register.
+NICE specifies that primary care should keep an up-to-date register of all individuals living with SMI, and the QOF indicator
+MH001 requires contractors to establish and maintain a register of individuals with a diagnosis of schizophrenia, bipolar
+affective disorder and other psychoses and other patients on lithium therapy.
+The SMI register should comprise all people with a recorded diagnosis of psychosis, schizophrenia or bipolar affective
+disorder: QOF register name - MH1_REG. Other patients on lithium therapy are recorded under QOF register MH2_REG.
+An annual physical health check is currently recommended for all patients under QOF register MH1_REG. Patients without
+a diagnosis of schizophrenia, bipolar affective disorder and other psychoses are not automatically offered this annual
+check, in line with current NICE guidance. However, all patients taking antipsychotics or mood stabilisers (regardless of
+whether they are on the SMI register or not) should have medication reviews and their physical health monitored in line with
+Summary of Product Characteristics (SmPC) and/or British National Formulary guidelines on:
+antipsychotics (https://bnf.nice.org.uk/treatment-summaries/psychoses-and-related-disorders/monitoring) (includes
+those prescribed antipsychotics without a mental health diagnosis, such as people with a learning disability whose
+behaviour challenges; see NICE guideline (https://www.nice.org.uk/guidance/ng11/)
+thium (https://gbr01.safelinks.protection.outlook.com/2url=https%3A%2F%2Fbnf.nice.org.uk%2Fdrugs2Flthim-
+carbonate%2F&data=05%7C01%7Cleila.reyburn%40nhs.net%7Cd6b6915866c54eb658ba08db1b0b29ad67C37c354lD
+sodium valproate (https://bnf.nice.org.uk/drugs/sodium-valproate/) (should not be used in women/girls of childbearing
+potential unless conditions of the Pregnancy Prevention Programme are met; MHRA, Drug Safety Update April 2018)
+(https://assets,publishing.service.gov.uk/media/5adee63eed915d0ba92893c4/DSU-Apri-2018-PDF.pdf).
+While people in remission should be kept on the SMI register in case of relapse, they will not be 'active' on the register, and
+so reported register numbers should exclude those in remission.
+In respect of SMI registers, all SNOMED codes under the SNOMED Cluster MH_COD have been used to define this
+cohort, minus all SNOMED codes under the SNOMED Cluster MH_REM (those in remission). All relevant SNOMED codes
+under the MH_COD cluster can be found on the Primary Care Domain Reference Set Portal. (https://digital.nhs.uk/data-
+and-informationdata-colections-and-data-sets/data-collections/quality-and-outcomes-framework-gof/quality-and-outcome
+framework-qof-business-rules/primary-care-domain-reference-set-portal The content of clusters is dynamic and can be
+updated several times throughout the year. Please refer to the portal/txt files for the most up to date content.
+Annex D: Relevant NICE clinical guidelines
+Identification of risk for or presence of a disease following the recommended assessments should be managed in
+accordance with the relevant disease-specific NICE clinical guidelines.
+Core NICE guidelines and quality standards addressing the physical health needs of those living with SMI
+Psychosis and schizophrenia in adults: prevention and management [CG178
+(https://www.nice.org.uk/guidance/cg178)]
+Psychosis and schizophrenia in adults [QS80 (https://www.nice.org.uk/guidance/qs80)]
+Bipolar disorder: assessment and management [CG185_(https://www.nice.org.uk/guidance/cg185)]
+Bipolar disorder in adults [QS95 (https://www.nice.org.uk/guidance/qs95)]
+Bipolar and schizophrenia in children
+(https://www.nice.org.uk/guidance/qs102)
+Coexisting severe mental illness (psychosis) and substance misuse: assessment and management in healthcare
+settings [CG120 (https://www.nice.org.uk/guidance/cg120)]
+https://www.england.nhs.uk/long-read/improving-the-physical-health-of-people-living-with-severe-mental-illness
+23/27
+4/5/26, 4:14 PM
+NHS England » Improving the physical health of people living with severe mental illness
+Coexisting severe mental illness (psychosis) and substance misuse: community health and social care settings
+NG58]_(https://www.nice.org.uk/guidance/ng58)
+Relevant NICE clinical guidance to deliver interventions for raised risk of cardio-metabolic disease
+identified during physical health assessments
+Overweight and obesity management [NG246]_(https://www.nice.org.uk/guidance/ng246)
+Cardiovascular disease: risk assessment and reduction, including lipid modification [NG238]
+(https://www.nice.org.uk/guidance/ng238)
+Type 2 diabetes: prevention in people at high risk [PH38] (https://www.nice.org.uk/guidance/ph38)
+Hypertension in adults: diagnosis and management [NG136]_(https://www.nice.org.uk/guidance/ng136
+Physical activity: brief advice for adults primary care [PH44]_(https:/www.nice.org.uk/guidance/ph44)
+Diagnosis and management of type 1 diabetes in children, young people and adults [NG17
+(https://www.nice.org.uk/guidance/ng17), NG18 (https://www.nice.org.uk/guidance/ng18) and NG19
+(https://www.nice.org.uk/guidance/ng19)]
+Type 2 diabetes in adults: management [NG28] (https://www.nice.org.uk/guidance/ng28)
+Relevant NICE clinical guidance to deliver interventions for smoking, alcohol or substance use, and oral
+health
+Tobacco: preventing uptake, quitting and treating dependence [NG209]
+(https://www.nice.org.uk/guidance/ng209)
+Tobacco: dependence [QS207]_(https://www.nice.org.uk/guidance/gs207)
+Alcohol-use disorders: prevention [PH24] (https://www.nice.org.uk/guidance/ph24)
+Alcohol-use disorders: diagnosis and clinical management of alcohol-related physical complications [CG100]
+(https://www.nice.org.uk/guidance/cg100)
+Alcohol-use disorders: diagnosis, assessment and management of harmful drinking and alcohol dependence [CG115]
+(https://www.nice.org.uk/guidance/cg115)
+Drug_misuse in over 16s: psychosocial nterventions_[CG51]_(https://www.nice.org.uk/guidance/cg51)
+Drug_misuse in over 16s: opioid detoxification_[CG52]_(https://www.nice.org.uk/guidance/cg52)
+Oral health: local authorities and partners PH55]_(https://www.nice.org.uk/guidance/ph55)
+Annex E: Tools and resources
+The Lester Tool (2023)
+The Lester Positive Cardiometabolic Health Resource (https://www.rcpsych.ac.uk/docs/defaultsource/improving-
+care/ccgi/national-clinical-audits/ncap-library/lester-tool-june-2023.pdf?sfvrsn=c08e2847_4) provides practitioners with a
+simple assessment and intervention framework to protect the cardiovascular and metabolic health of people living with SMI
+receiving antipsychotic medication.
+Supporting indicators to assess own performance
+ICSs should use indicators and datasets to assess their performance in improving the physical health care for people with
+SMI within primary care, for example:
+Excess under 75 mortality rate in adults with SMI (http://www.data.gov.uk/dataset/6d638303-458c-4215-96e1-
+4319496d15f/excess-under-75-mortality-rate-in-adults-with-serious-mental-illness-formerly-indicator-1-5-nhsof-1-5-i)
+Quality and Outcomes Framework data (https://digital.nhs.uk/data-and-information/publications/statistical/quality-and-
+outcomes-framework-achievement-prevalence-and-exceptions-datafabout-this-publication
+Equally Well resources
+Equally Well has produced a range of resources (http://www.equallywell.co.uk/resources/) on the physical health of people
+with mental illness.
+Rethink Mental Illness resources
+Rethink Mental Illness has developed resources to build confidence and raise awareness of the physical health needs of
+people living with SMI, including:
+Physical health guide for carers, families and (https://www.rethink.org/media/2255/physical-health-guide-for-
+carers.pdf)
+https://www.england.nhs.uk/long-read/improving-the-physical-health-of-people-living-with-severe-mental-illness
+24/27
+4/5/26, 4:14 PM
+NHS England » Improving the physical health of people living with severe mental illness
+Take the first step towards control of your physical health (https://www.rethink.org/media/4865/take-the-first-step
+towards-taking-charge-of-your-ph-handout.pdf) - information leaflet explaining what the SMI physical health check is
+and FAQs
+Physical Health Check Tool(https://www.rethink.org/media/4862/interactive-physical-health-check-too1,pdf) - supports
+people living with SMI before, during and after their physical health check
+What's reasonable? (https://www.rethink.org/media/4808/whats_reasonable - gp adjustments - resource
+for GP surgeries on making reasonable adjustments for people affected by mental illness.
+Physical health assessment invitation letters
+Hardy S, Gray R (2012). Is the use of an invitation letter effective in promoting. patients with severe mental illness to
+attend a primary physical health check? (https//www.cambridge.org/core/journals/primary-health-care-research-
+and-development/article/is-the-use-of-an-invitation-letter-effective-in-prompting-patients-with-severe-mental-illness-to
+attend-a-primary-care-physical-health-check/CF93E69755E2853DC67C2963D1BB504F) Prim Health Care Res Dev
+13(4): 347-352.
+Contributors
+Andy Bell - Chief Executive, Centre for Mental Health
+Ed Beveridge - Presidential Lead for Physical Health, Royal College of Psychiatrists
+Carolyn Chew-Graham - Professor of General Practice Research, Keele University
+Kiren Collison - Interim Medical Director for Primary care, NHS England
+Matt Cook - Senior Manager: Quality and Outcomes Framework Incentives and Outcomes, NHS England
+lan Davidson - National Clinical Lead, GIRFT programme: Crisis and Acute Mental Health, NHS England
+Mark Farmer - Expert Advisor, Adult Mental Health Programme, NHS England
+Nicola Gitsham - Head of Healthcare Inequalities Improvement and Personalisation, NHS England
+Jodie Hall - Clinical Lead Occupational Therapist and Physical Health Lead, Sheffield Primary & Community Mental
+Health Team
+Sheila Hardy - Educator for Nurses and Allied Healthcare Professionals, The Charlie Waller Trust
+Paul Hebdon - Digital & Medical Technology lead, NHS England South West
+Kevin James - Expert Advisor, Adult Mental Health Programme, NHS England
+Easter Joury - NIHR Clinical Lecturer/Specialty Registrar in Dental Public Health, Queen Mary University of London
+Dimple Khatiri - Mental Health Clinical Pharmacist, Broxbourne Alliance PCN
+Phil Moore - Chair of the Mental Health Commissioners' Network, NHS Confederation
+Peter Pratt - Specialist Mental Health Pharmacy Advisor, NHS England
+Leila Reyburn - Programme Manager, Adult Mental Health Programme, NHS England
+David Shiers - Carer and Honorary Reader in Early Psychosis, University of Manchester
+Ben Taylor - Chief Executive, Bromley, Lewisham & Greenwich Mind
+Kirsten Taylor Scarff - Senior Policy Officer, Rethink Mental Illness
+Tasha Suratwala - Expert Advisor, Adult Mental Health Programme, NHS England
+Amanda Thompsell - National Specialty Advisor for Older People's Mental Health, NHS England
+Emma Tiffin - National GP Advisor for Community and Primary Care: Adult Mental Health Programme, NHS England
+Darren Vella - West Midlands Mental Health Clinical Network, NHS England Midlands
+Louisa Whait - Senior Programme Manager, Learning Disability and Autism Programme, NHS England
+Antoinette Wong - Expert Advisor, Adult Mental Health Programme, NHS England
+References
+[1] Public Health England (2018). Severe mental illness (SMI) and physical health inequalities: briefing
+(https://www.gov.uk/government/publications/severe-mental-lness-smi-physical-health-inequalities/severe-mental-ilnes-
+and-physical-health-inequalities-briefing).
+[2] Office for Health Improvement & Disparities (2023). Premature mortality in adults with severe mental illness (SMI).
+(htps://www.gov.uk/government/publications/premature-mortality-in-adults-with-severe-mental-illness/prenature-mortalty
+in-adults-with-severe-mental-illness-smi)
+[3] Office for Health Improvement & Disparities (2023). Premature mortality in adults with severe mental illness (SMI).
+[4] Tidey JW, Miller ME (2015). Smoking cessation and reduction in people with chronic mental illness. BMJ 351: h4065.
+[5] Dregan A, McNeill A, Gaughran F, et al (2020). Potential gains in life expectancy from reducing amenable mortality.
+among. people diagnosed with serious mental illness in the United Kingdom.
+(https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7100972) PloS One 15(3): e0230674.
+https://www.england.nhs.uk/long-read/improving-the-physical-health-of-people-living-with-severe-mental-illness
+25/27
+4/5/26, 4:14 PM
+NHS England » Improving the physical health of people living with severe mental illness
+[6] Office for Health Improvement & Disparities. Severe mental illness data (https://fingertips.phe.org.uk/profile-
+group/mental-health/profile/severe-mental-
+Iness/data#page/1/gid/8000039/at/15/id/93581/age/181/sex/4/cat/-1/ctp/-1/yr/3/cid/4/tbm/1/page-optons/car-do-0_car-
+ao-1).
+[Z] Joury E, Kisely S, Watt RG, Ahmed N, Morris J, Fortune F, Bhui K (2023). Mental disorders and oral diseases: future
+research directions (https/journals.sagepub.com/doi/10.1177/002203452211205107ur_ver=Z39.88-
+2003&rfr_id=ori:rid:crossref.org&rfr_dat=cr_pub%20%200pubmed). J Dent Res 102(1): 5-12.
+[8] Dregan A, McNeill A, Gaughran F, et al (2020). Potential gains in life expectancy from reducing amenable mortality.
+people diagnosed with serious mental illness in the United Kingdom.
+(https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7100972/) PloS One 15(3): e0230674.
+[9] Disability Rights Commission (2006). Equal treatment: closing the gap: a formal investigation into physical health
+inequalities experienced by people with learning disabilities and/or mental health problems (https://disability-
+studies.leeds.ac.uk/wp-content/uploads/sites/40/library/DRC-Health-FI-main.pdf).
+[10] Ayano G, Tulu M, Haile K, et al (2018). A systematic review and meta-analysis of gender differences in epidemiology of
+HIV, hepatitis B, and hepatitis C infections in people with severe mental illness. Ann Gen Psychiatry 17: 16.
+[11] Varese F, Smeets F, Drukker M, et al (2012). Childhood adversities increase the risk of psychosis: a meta-analysis of
+patient- control, prospective- and cross-sectional cohort studies. Schizophr Bull 38:661-671.
+[12] Dayabandara M, Hanwella R, Ratnatunga S, Seneviratne S, Suraweera C, de Silva VA (2017). Antipsychotic-
+associated weight gain: management strategies and impact on treatment adherence.
+(https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5574691/) Neuropsychiatr Dis Treat 13: 2231-2241.
+[13] Green CA, Yarborough BJH, Leo MC, et al (2015). The STRIDE weight loss and lifestyle intervention for individuals
+taking antipsychotic medications: A randomized trial. (https://ajp.psychiatryonline.org/doi/10.1176/appi.ajp.2014.14020173)
+Am J Psychiatry 172(1): 71-81.
+[14] Teasdale SB, Ward PB, Rosenbaum S, Samaras K, Stubbs B (2018). Solving_a weighty_problem: Systematic review
+and meta-analysis of nutrition interventions in severe mental illness (https://www.cambridge.org/core/journals/the-british-
+journal-of-psychiatry/article/solving-a-weighty-problem-systematic-review-and-metaanalysis-of-nutition-interventions-in-
+severe-mental-illness/535381FBA97776C85CED2B6111B5188D). Br J Psychiatry 210(2): 110-118.
+[15] Mulligan K, McBain H, Lamontagne-Godwin F, et al (2018). Barriers to effective diabetes management - a survey of
+people with severe mental illness. (https://bmcpsychiatry.biomedcentral.com/articles/10.1186/s12888-018-1744-5) BMC
+Psychiatry 18: 165.
+[16] Scheuer SH, Fleetwoo KJ, Licence KAM, et al on behalf of the Scottish Diabetes Research Network (2022). Severe
+mental illness and quality of care for type 2 diabetes: A retrospective population-based study.
+(https://www.sciencedirect.com/science/article/pi/S0168822722008403) Diabetes Res Clin Pract 190: 110026.
+[17] Banham L, Gilbody S (2010). Smoking_cessation in severe mental illness: what works? (https://doi.org/10.1111/j,.1360-
+0443.2010.02946.x) Addiction 105: 1176-1189.
+[19] Gronholm PC, Chowdhary N, Barbui C, et al (2021). Prevention and management of physical health conditions in
+adults with severe mental disorders: WHO recommendations. Int J Ment Health Syst 15(1):22.
+[20] Fonseca de Freitas D, Pritchard D, Shetty H, et al (2022). Ethnic inequities in multimorbidity_among_people with
+psychosis: a retrospective cohort study_(https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9305726/),_Epidemiol Psychiatr Sci
+31: e52.
+[21] NHS Digital (2022). Health and care of people with learning disabilities, experimental statistics 2021 to 2022.
+(https://digital.nhs.uk/data-and-information/publications/statistical/health-and-care-of-people-with-learning-
+disabilities/experimental-statistics-2021-to-2022)
+[22] Autism Health Inequalities Dashboard (https://gbr01.safelinks.protection.outlook.com/?
+url=htps%3A%2F%2Ffuture.nhs.uk%2FNationalAutismStrategyDashboards%2Fview%3FobjectID%3D40119824&data=05%
+[23] Hayes RD, Chang C-K, Fernandes A, et al (2011). Associations between substance use disorder sub-groups,
+expectancy and all-cause mortality in a large British specialist mental healthcare service)
+(https://pubmed.ncbi.nlm.nih.gov/21440382/).Dru Alcohol Depend 118(1):56-61.
+[24] O'Connor R (2020). Alcohol dependence and mental health. UK Health Security Agency blog.
+(https://ukhsa.blog.gov.uk/2020/11/17/alcohol-dependence-and-mental-health/)
+https://www.england.nhs.uk/long-read/improving-the-physical-health-of-people-living-with-severe-mental-illness
+26/27
+4/5/26, 4:14 PM
+NHS England » Improving the physical health of people living with severe mental illness
+[25] Tampi RR, Young J, Hoq R, Resnick K, Tampi DJ (2019). Psychotic disorders in late life: a narrative review.
+(https://www.ncbi.nlm.nih.govpmc/articles/PMC6796200/#:-:text=Older/20aduts%20with%20schizoafective620disorder,re
+Ther Adv Psychopharmacol 9: 2045125319882798.
+[26] Marshall M, Lewis S, Lockwood A, Drake R, Jones P, Croudace T (2005). Association between duration of untreated
+psychosis and outcome in cohorts of first-episode patients: a systematic review. Arch Gen Psychiatry 62: 975-983.
+[27] Royal College of Psychiatrists. Bipolar disorder - for young (https://www.rcpsych.ac.uk/mental-health/parents-
+and-young-people/young-people/bipolar-disorder-for-young-people)
+Publishing ref: B1955
+Date published: 10 January, 2024
+Date last updated: 23 September, 2025
+Back to top
+https://www.england.nhs.uk/long-read/improving-the-physical-health-of-people-living-with-severe-mental-illnes
+27/27

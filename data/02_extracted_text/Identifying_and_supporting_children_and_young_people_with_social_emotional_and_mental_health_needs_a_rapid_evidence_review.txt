@@ -1,0 +1,2686 @@
+Department
+for Education
+Identifying and supporting
+children and young people
+with social, emotional and
+mental health needs: a
+rapid evidence review
+Research report
+September 2025
+Authors: Catherine Antalek, Fiona
+Dixon, Daisy Loyd, Susanne Peter,
+Amelia Roberts, Enxhi Sharxhi and
+Matthew P. Somerville - University
+College London
+Government
+Social Research
+Disclaimer
+This research does not constitute an endorsement by the Department for Education of
+any of the approaches described. It does not reflect current Government policy, nor does
+it indicate future policy direction. Materials, resources, websites, and commercially
+developed programmes or products mentioned in this report are included solely because
+they were identified and reviewed as part of the rapid evidence assessment. Other tools
+or products with similar functions may exist and their absence from this report should not
+be interpreted as a reflection of their effectiveness. Reference to specific named or third-
+party products and materials should not be seen as an endorsement by either the
+authors or the Department for Education of their use, or of any particular company or its
+offerings.
+1
+Contents
+Disclaimer
+1
+List of tables
+4
+Executive summary
+5
+Background
+5
+Approach
+5
+Key findings
+5
+Identification
+5
+Support
+6
+Conclusions
+7
+Introduction
+8
+Aims
+10
+Methods
+11
+Identification and assessment of need
+13
+Impact of knowledge, beliefs and training on identification of SEMH needs
+19
+Direct observation
+20
+Screening tools
+21
+Screening for SEMH needs summary
+25
+Progress monitoring tools
+25
+Progress monitoring for SEMH needs summary
+27
+Identification and assessment summary
+28
+Support and intervention
+30
+High quality teaching and universal support
+31
+Whole-school and whole-class strategies
+32
+Whole-school strategies
+32
+Whole-school support strategies summary
+35
+Whole-class strategies
+35
+Classroom-level support strategies summary
+36
+Instructional strategies
+37
+Instructional support strategies summary
+41
+2
+Targeted intervention and support
+41
+Classroom behaviour and general attainment
+41
+Targeted approaches for classroom behaviour and general attainment summary43
+Exam support for children and young people with ADHD
+43
+Targeted exam support for children and young people with ADHD summary
+44
+Self-regulation and organisation skills
+44
+Targeted self-regulation and organisational interventions summary
+47
+Reading interventions
+47
+Reading instruction approaches
+47
+Reading and behavioural interventions
+48
+Targeted reading interventions summary
+52
+Writing interventions
+52
+Summary of support and intervention findings
+53
+Conclusions
+55
+Appendices
+56
+Appendix A: Search terms (PICOS criteria)
+56
+References
+60
+3
+List of tables
+Table 1. Number of identified studies informing each strand
+11
+Table 2. Definitions of identification terms in the educational and clinical context
+15
+Table 3. Specialists and healthcare providers who may be involved in collaboration
+17
+4
+Executive summary
+Background
+In the SEND Code of Practice (DfE/DoH, 2015), the area of Social, Emotional and Mental
+Health (SEMH) needs refer to a wide range of emotional, behavioural, and social
+challenges that can impact learning, engagement and participation, mental health, and
+wellbeing for children and young people. This rapid evidence assessment (REA) reviews
+how mainstream education professionals can identify and support SEMH needs in
+children and young people, with a focus on improving educational outcomes including
+participation and engagement.
+Approach
+The evidence was collected by means of a rapid evidence assessment (REA). A search
+of the literature aimed to retrieve key findings for children and young people with SEMH
+needs aged 0 to 25. The literature search focused on systematic reviews and meta-
+analyses evaluating effective tools and strategies for the identification and support for
+educational outcomes for children and young people with SEMH needs in mainstream
+classrooms, as well as reviews evaluating collaborative practices between families,
+schools, and healthcare providers or specialists.
+Key findings
+Our REA identified 15 studies evaluating methods of identification and assessment, and
+33 studies examining interventions and support strategies that mainstream educators can
+use to address SEMH needs.
+Identification
+It is important to foster a positive and supportive social and learning environment driven
+by whole-school initiatives and supported by senior leaders for children and young
+people with SEMH needs. To this end, key findings from our REA highlight the significant
+impact of educators' understanding and beliefs surrounding SEMH needs.
+Misunderstandings and stigma can negatively impact timely support and outcomes for
+children with SEMH needs. Thus, comprehensive training and ongoing professional
+development is important in developing a foundational understanding of mental health
+and social and emotional needs of children and young people which underpins timely and
+accurate identification and ongoing monitoring.
+5
+Although much of the evidence, particularly in relation to mental health difficulties,
+focused on tools restricted to clinicians or specialists, our REA also identified several
+reliable identification and assessment tools that can be used by mainstream educators.
+Direct observation of behaviours or patterns of behaviours that is structured can be a
+useful tool for both identification of needs and for progress monitoring. Structured
+observations can identify areas where support may be needed and help inform
+intervention plans for students with or at risk of developing SEMH needs.
+Similarly, teacher nomination (based on professional judgement) can be a useful
+screening method to identify children and young people who may demonstrate difficulties
+in their setting and are in need of further assessment or support. However, our REA
+found that structured screening tools such as questionnaires and checklists were found
+to be more accurate than teacher nomination. This may be especially important in the
+identification of internalising difficulties which are not always visible to teachers. One
+such tool was the Strengths and Difficulties Questionnaire which was one of the most
+frequently reviewed screening tools across studies in our REA and was useful in
+screening for Attention Deficit Hyperactivity Disorder (ADHD), mental health, and as a
+social-emotional and behavioural screener.
+Although many screening tools may be effective and freely available to screen for SEMH
+needs, these tools should be interpreted with caution by mainstream educators without
+specialist qualifications. Even interpretation of the Strengths and Difficulties
+Questionnaire results should be treated with caution. While this could be a useful tool for
+intervention planning or flagging potential issues, it should not be used for labelling,
+identifying specific personality traits or diagnosis. Rather these screeners should be used
+to identify critical areas of need that may impact a student's academic performance. Our
+REA also highlights that the identification and assessment of SEMH needs is most
+effective when drawing on data from multiple informants (e.g., parents, teachers, and
+pupils) and using a range of tools, as different informants notice different aspects and
+tools vary in accuracy.
+Support
+In terms of support, at the whole-school level, approaches that reinforce positive
+behaviours and provide a positive and supportive environment are important for allowing
+pupils to develop and promote learning outcomes. Examples of effective whole-school
+approaches were token economies and check-in/check-out systems which were found to
+be effective, particularly for students with behavioural challenges, but only when
+supported by strong senior leadership and applied flexibly to individual needs. A positive
+school climate is crucial to ensure these strategies foster inclusion rather than alienation.
+At the classroom level, targeted praise, rewards, choice in instruction, and hands-on
+activities were associated with improved engagement and academic outcomes.
+6
+Instructional methods such as Direct Instruction, explicit teaching, scaffolding, modelling,
+prompting, mnemonics, and daily report cards were consistently effective, reducing
+cognitive load, supporting self-regulation, and strengthening home-school
+communication.
+Targeted interventions reinforced these findings, with Self-Regulated Strategy
+Development showing positive effects on writing and skills such as organisation and
+monitoring, though some strategies require specialist training. Reading interventions
+highlighted the consistent effectiveness of Direct Instruction programmes (e.g. Corrective
+Reading, Reading Mastery, Sound Partners, Stepping Stones to Literacy), particularly for
+younger pupils. Peer-mediated approaches and small-group delivery also showed
+promise, though repeated reading produced weaker effects. Evidence for combined
+reading-behaviour interventions was mixed.
+Conclusions
+This REA highlighted some key gaps in the evidence base for identification, assessment,
+and support for children and young people with SEMH. First, many screening tools in the
+evidence base had a lack of standardisation or required specialist training for use, limiting
+their practical application in school settings. Further, there was a disproportionate focus
+on externalising behaviours, particularly those associated with ADHD. This focus limits
+the extent to which internalising behaviours may be identified and supported for children
+and young people with SEMH which could lead to poorer academic outcomes, or a lack
+of participation and engagement. More research is needed here to provide an evidence-
+base for tools that can be used and feasibly implemented in mainstream education
+settings.
+Further, a substantial proportion of studies relied on single-case designs, which provide
+useful insights into individual responses but limit generalisability. More robust, teacher-
+led evaluations in mainstream school contexts are needed to establish effectiveness at
+scale.
+The role of the pupil voice was also underrepresented. Although this REA emphasised
+the importance of including identification and assessment tools that rely on the pupil as
+an informant, there was a lack of research on how students may self-identify or have a
+role in planning their support. Embedding pupil perspectives into the identification and
+support process could help ensure that assessment is not only systematic and structured
+but also that support is properly aligned with pupil need and preference.
+7
+Introduction
+In England, during the 2024/25 academic year, approximately 1.44 million pupils with
+identified special educational needs (SEN) are educated in mainstream state-funded
+primary and secondary schools. This includes around 1.17 million pupils receiving SEN
+support, and a further 271,000 pupils with an Education, Health and Care (EHC) plan.
+As of 2025, 23.6% of pupils (279,230 pupils) receiving SEN support have Social,
+Emotional and Mental Health (SEMH) difficulties identified as their primary need,
+alongside 16% (71,304 pupils) with an EHC plan (DfE, 2025). SEMH needs refer to a
+wide range of emotional, behavioural, and social challenges that can impact learning,
+engagement and participation, mental health, and wellbeing. In recent years, there has
+been ongoing debate regarding the terminology used to describe children with SEMH
+difficulties. The term Social, Emotional and Mental Health (SEMH) was introduced in the
+revised SEND Code of Practice (DfE/DoH, 2015) as a broad, needs-based descriptor for
+pupils who "experience a wide range of social and emotional difficulties." Prior to this
+revision, terminology in both policy and research typically emphasised behavioural
+presentation, with terms such as Emotional and Behavioural Difficulties (EBD) or Social,
+Emotional and Behavioural Difficulties (SEBD). These earlier terms have been criticised
+for their ambiguity and for lacking clear diagnostic boundaries, potentially leading to
+inconsistency in identification and support. To reflect current policy and promote a needs-
+led perspective, this rapid evidence assessment (REA) adopts the term SEMH in
+alignment with the SEND Code of Practice (DfE/DoH, 2015).
+As defined in the SEND Code of Practice (DfE/DoH, 2015), SEMH needs refer not to a
+specific diagnosis but to a broad category of need that may be expressed through
+externalising behaviours (e.g., aggression, oppositionality) or internalising behaviours
+(e.g., anxiety, withdrawal), often in combination. For example, one pupil may present with
+persistent defiance and disruption, while another may appear quiet and disengaged, yet
+both may be struggling with underlying emotional distress. Additionally, SEMH needs
+frequently co-occur with other learning or developmental needs, including language or
+communication difficulties, literacy difficulties, and autism, which can lead to a complex
+profile of strengths and challenges requiring holistic assessment and support. This review
+adopts a needs-based perspective in line with the SEND Code of Practice (DfE/DoH,
+2015), recognising the importance of identifying and responding to individual profiles
+rather than focusing solely on behaviours or labels. However, it can be useful to
+conceptualise the distinct characteristics of conditions that fall under the SEMH category
+such as ADHD, anxiety, or depression, as a way of better understanding how they
+present in educational settings. These are described briefly in the following paragraphs.
+Children with SEMH needs may experience a range of underlying mental health
+difficulties, the most common being anxiety and depression. Anxiety disorders account
+for approximately 40% of mental health disorders in children (UNICEF, 2021), with
+8
+conditions such as generalised anxiety disorder (GAD), social anxiety disorder (SAD),
+obsessive-compulsive disorder (OCD), and post-traumatic stress disorder (PTSD) often
+affecting school participation and performance. These disorders manifest through a
+variety of symptoms, including emotional, behavioural, and physiological changes, and
+require sensitive recognition and support from educational professionals. Anxiety is
+particularly prevalent in neurodivergent populations, including autistic children, where
+comorbid rates are significantly elevated (van Steensel et al., 2011).
+Mood disorders such as major depression and bipolar disorder also affect a smaller but
+significant proportion of school-aged children, with rates increasing through adolescence
+(WHO, 2024). These conditions may present as persistent low mood, loss of motivation,
+emotional volatility, or suicidal ideation, and frequently intersect with school
+disengagement, poor academic outcomes, and social difficulties. Again, prevalence is
+higher among children with neurodevelopmental conditions, particularly autism.
+Attention Deficit Hyperactivity Disorder (ADHD) is characterised by persistent challenges
+with inattention, hyperactivity, and impulsivity (defined as action taken without foresight)
+(Lange et al., 2010). These pupils may exhibit externalising behaviours (e.g.,
+hyperactivity, oppositionality) or internalising symptoms (e.g., anxiety, low self-esteem),
+particularly when ADHD co-occurs with other conditions.
+The development and expression of SEMH needs are shaped by a range of interacting
+factors including biological vulnerability, school experience, trauma exposure,
+discrimination, and the presence of other special educational needs or disabilities.
+Without timely identification and support, SEMH needs can escalate and contribute to
+long-term adverse outcomes, such as academic underachievement, exclusion, and
+reduced participation in education, employment, or training (Arnold & Baker, 2013; Hurry
+et al., 2018; Martin-Denham, 2020; Nye et al., 2016). It is therefore important that schools
+and early years settings adopt a proactive, evidence-informed approach to the early
+identification and educational support of SEMH, framed by collaboration with families and
+specialist services.
+This review focuses specifically on two of the most commonly presenting needs of SEMH
+needs within school contexts: externalising and internalising difficulties. These were
+selected not only due to their prevalence but because of their strong association with
+reduced educational attainment, school disengagement, and Emotionally Based School
+Avoidance (EBSA). For example, pupils with ADHD often experience difficulties with
+attention, impulse control, and behavioural regulation that disrupt classroom routines and
+social relationships, while those with anxiety may quietly disengage or avoid school
+altogether. Children who experience externalising and/or internalising difficulties
+frequently struggle to access and participate fully in learning without timely and
+appropriate support.
+9
+Aims
+The goal of this review is to synthesise evidence-based strategies in the identification,
+support, and collaborative practices available to mainstream teachers in supporting
+children and young people with SEMH difficulties. Our research questions are as follows.
+Identification:
+Which formal and informal methods and measurement tools are available to
+practitioners to identify SEMH needs within diverse classroom settings?
+For which ages or age ranges can these tools be used?
+What are the performance parameters of these measurement tools (e.g.,
+reliability/validity/specificity)?
+How can these tools be used to guide decisions regarding the provision of
+universal, targeted or specialist support?
+Support:
+What are the most effective universal and targeted strategies, approaches, or
+adaptations for supporting children and young people with SEMH needs to
+improve educational outcomes?
+What is the most appropriate level of delivery (universal, targeted or
+specialist) for each of these interventions?
+What specific age groups are targeted by these interventions?
+What types of approaches/interventions do children with SEMH needs respond
+best to?
+Working with others:
+What components and characteristics foster effective collaboration between
+teachers, specialists, and parents/caregivers in the identification and support
+for children and young people with SEMH. How can clear role boundaries and
+knowledge-sharing frameworks support this process?
+What examples are there of different models of collaboration between the
+multidisciplinary team?
+10
+Methods
+To address these research questions, a Rapid Evidence Assessment (REA) was
+conducted following Cochrane rapid review guidance (Garritty et al., 2024). This REA
+followed the Preferred Reporting Items for Systematic Reviews and Meta-Analysis
+(PRISMA) statement when selecting relevant articles.
+We conducted a targeted search in October 2024 of two academic databases (i.e.,
+Scopus: PsychINFO and EBSCO: ERIC) as well as grey literature using specific
+keywords related to the research questions (see Appendix A: Search terms). We
+identified systematic reviews and meta-analyses published in English between 2014 and
+2024, focusing on children and young people aged 0-25 with identified SEMH difficulties
+in mainstream educational settings. Included studies evaluated identification, support, or
+collaborative practices that are feasible in UK classrooms, excluding medical, home-
+based, or highly resource-dependent interventions (e.g. beyond what is typically available
+in a mainstream classroom such as animals, robotics and virtual reality). Identification
+tools had to be usable by mainstream staff (not clinicians), and SEND status were
+independently verified through diagnosis, EHC plan, or standardised measures. Studies
+relying solely on teacher judgement were excluded. Studies reporting measurable
+educational attainment outcomes (e.g., maths, science, literacy or general attainment)
+were included (i.e., excluding behavioural, social or emotional outcomes).
+Titles and abstracts were initially screened for relevance by trained members of the team,
+followed by full-text review, resulting in the inclusion of 48 studies in the final review, with
+15 studies on identification and assessment, and 33 studies on support and intervention
+(see Table 1). Given the central role of collaboration across both the identification and
+intervention processes, this strand is not presented as a standalone section. Instead,
+within the identification and support sections, we highlight where collaborative practices
+are necessary and effective. Additionally, as many studies identified for inclusion relate to
+collaborative practices in general SEND provision or across different areas of need, a
+breakdown of studies specific to SEMH is not included here, with collaborative practices
+across the categories of SEND addressed in the Cross-Cutting Themes Report.
+Table 1. Number of identified studies informing each strand
+Strand
+Number of studies included
+Identification and assessment
+15
+Support and intervention
+33
+Total
+48
+Data from each study were then extracted by trained members of the team. We extracted
+descriptive information regarding the characteristics of each study as well as information
+11
+about identification tools and support strategies from the included paper(s) where
+available.
+Our search efforts prioritised high-quality and relevant research, ensuring the inclusion of
+peer-reviewed studies and robust methodologies. All studies identified in the final sample
+are either systematic reviews or meta-analyses. To evaluate the quality of these studies,
+we used the Assessing the Methodology Quality of Systematic Reviews tool 2
+(AMSTAR2; Shea et al., 2017). Quality assessment suggested that the evidence base is
+mixed according to this tool. Most studies were rated as high or moderate confidence in
+the results, with some rated as low due to a 'critical flaw' (detailed in our Technical
+Report). The most frequent critical flaw was that many studies did not conduct a formal
+risk of bias assessment using a recognised tool (e.g., ROBINS-I, Cochrane Risk of Bias).
+For a full account of our methodology including search terms, inclusion, and exclusion
+criteria, PRISMA flow diagram, and extraction variables, and quality appraisal see the
+Technical Report.
+12
+Identification and assessment of need
+The aim of this section is to review the studies retrieved by our search that focused on
+identification and assessment strategies suitable for use by mainstream education
+professionals in identifying children with SEMH needs. These approaches can help
+teachers and school staff in recognising students' strengths and challenges, guide
+decisions about support, or highlight cases where referral for specialist assessment may
+be warranted.
+It is important to emphasise that subject and class teachers are not responsible for the
+formal identification or assessment of learners' needs. In line with the SEND Code of
+Practice (DfE, 2015), their role is to support the early recognition of students who may be
+experiencing difficulties, particularly those affecting educational progress. Therefore, the
+approaches identified in this REA are not intended to diagnose any conditions, but they
+can help mainstream educators in recognising children and young people's strengths and
+challenges to guide decisions about support or to highlight cases where referral for
+specialist assessment may be warranted. Where concerns are identified, these should be
+discussed with the school's Special Educational Needs Coordinator (SENCo) and the
+child's family to determine appropriate next steps, including referral and formal
+assessment where necessary. These processes are often involved in the graduated
+approach, outlined in the SEND Code of Practice (2015). The graduated approach is a
+four-stage process used by schools to identify and respond to SEND. It involves (1)
+assessing a child's needs, (2) planning appropriate support, (3) delivering that support,
+and (4) reviewing its effectiveness. The class or subject teacher remains responsible for
+implementing support, with guidance from the SENCo and, where appropriate, external
+specialists. It is primarily used for pupils receiving SEN support (those without an
+Education, Health and Care Plan) and aims to ensure that needs are met in a timely and
+responsive way.
+Further, although many screening and assessment tools may be effective at identification
+and needs-based assessment, these tools should be interpreted with caution by
+mainstream educators without specialist qualifications. This is because many screening
+tools and assessments are founded on psychometric principles (e.g., reliability, validity,
+and standardisation) which determine how the results should be interpreted and used.
+Without specific training in these areas, it may be difficult to interpret how scores
+compare to typically developing populations or whether they represent meaningful results
+or what it means when scores fall within clinical ranges. In practice, this ambiguity places
+greater reliance on professional judgement, which can lead to variability in how results
+are interpreted, particularly among assessors with limited initial training or experience
+with complex learning profiles or co-occurring difficulties. While educators play a vital role
+in completing these tools as informants, accurate interpretation should typically be
+assisted by an individual with specialist training. While the strategies detailed in this REA
+13
+can be useful for intervention planning or flagging potential issues, they should not be
+used for labelling or identifying specific personality traits or diagnosis. Rather these tools
+should be used to identify critical areas of need that may impact a student's academic
+performance.
+The terms 'identification', 'screening', 'assessment', and 'profiling' are often used
+inconsistently across research, policy, and practice and can have different meanings in
+relation to educational versus clinical practice. For example, the term 'screening' in an
+educational context typically refers to the process by which a tool or a strategy is used to
+flag potential needs in a population (e.g., whole-school or whole-class) to inform
+provision of timely support or targeted interventions in educational settings. In contrast,
+screening for clinical purposes is typically carried out by health or mental health
+professionals using standardised tools to determine whether a child meets criteria for a
+specific diagnosis, such as ADHD, with the goal of planning for further assessment or
+clinical treatment. However, some processes can overlap. For example, a school-based
+behavioural checklist such as the Strengths and Difficulties Questionnaire (SDQ) might
+be used to identify early signs of social, emotional, or behavioural difficulties, prompting
+classroom-level support or pastoral interventions. That same tool could also be used by
+mental health professionals as part of a broader assessment for SEMH-related
+diagnoses, such as anxiety disorders or ADHD, or to track response to intervention over
+time. For clarity throughout this document, we define each term within an educational
+context. Definitions of terms are provided in Table 2.
+14
+Table 2. Definitions of identification terms in the educational and clinical context
+Term
+Educational use
+Clinical use
+Needs-based
+The process of recognising that a
+Not a formal clinical term;
+identification
+child may have additional
+overlaps with early signs that
+educational needs (whether they do
+may prompt diagnostic
+or do not have a diagnosis), often
+referral but is not sufficient for
+based on parental or child concern,
+diagnosis.
+observations, or professional
+judgement; however, this process
+can also include informal
+assessments.
+Informal assessments are flexible
+methods of gathering data to identify
+areas of need, guide interventions
+and monitor progress. These tools
+include checklists, questionnaires,
+or more structured assessments
+(e.g., handwriting speed, reading
+fluency).
+Screening
+A brief tool or procedure used to flag
+Tools used to determine
+or identify potential strengths and
+whether further diagnostic
+challenges across a population. In
+assessment is warranted,
+educational contexts, the goal is to
+often as a first step in a
+flag potential needs early so that
+medical or psychological
+timely support or targeted
+evaluation pathway.
+interventions can be put in place
+Typically, these tools should
+within the school setting. Screeners
+meet certain principles and
+are not diagnostic tools but
+should be administered by a
+designed to flag potential risk.
+trained specialist (UK Health
+However, given that screeners are
+Security Agency, 2015).
+typically quick to complete and
+usually measure only a specific area
+of concern, they should be
+interpreted with caution.
+15
+Term
+Educational use
+Clinical use
+Assessment
+Refers to a systematic structured
+A systematic and structured
+process of data gathering from
+process of data collection for
+standardised tools to understand
+diagnostic purposes.
+individual strengths and needs in
+Assessment is conducted by
+order to plan intervention or monitor
+specialists (e.g., educational
+progress. For educational purposes,
+psychologists) and involves
+these can be informal or formal
+standardised diagnostic tools
+assessments.
+to determine specific
+Formal assessments are structured,
+conditions or development
+standardised tools used to evaluate
+profiles
+a student's performance against
+national or normative standards.
+These include GCSEs and A-levels
+but also standardised assessments
+of literacy or other types of skills.
+Formal assessments sometimes
+require input from specialists to
+administer and/or interpret results.
+Formal assessment may result in a
+diagnosis or eligibility for additional
+provision such as exam access
+arrangements.
+Profiling
+A holistic summary of a child's
+Less commonly used as a
+functioning, strengths, and areas of
+standalone concept;
+difficulty, often used to guide
+elements of profiling are
+provision. Includes data from
+embedded in comprehensive
+multiple informants and through
+diagnostic assessments that
+multiple methods.
+explore functional impact
+across domains.
+Unlike conditions such as ADHD, depression, or anxiety, SEMH difficulties itself is not a
+clinical diagnosis. Instead, SEMH difficulties is a descriptor of a range of challenges used
+within educational contexts such as difficulties with emotion regulation, social interaction,
+or mental health that impact the ability to engage in learning. In the UK, SEMH needs are
+identified largely through educational assessment rather than formal medical diagnosis,
+although clinical diagnoses may sometimes be involved for certain conditions like
+anxiety, depression, or ADHD.
+Identification may begin in school, where teachers or other staff observe behaviours in a
+child or young person that are influencing their engagement or participation in learning.
+16
+These behaviours, such as persistent disruptive behaviour, emotional withdrawal,
+difficulty forming relationships, or signs of anxiety or low mood may indicate SEMH
+needs. It is also important to be aware that children sometimes express mental health
+problems through physical symptoms rather than words. For example, teachers or staff
+might observe unexplained physical complaints (like headaches or stomach-aches),
+changes in eating habits or sleep disturbances (Morabito et al., 2021).
+Schools follow a graduated approach to assessing and supporting these needs, using the
+cycle of "Assess, Plan, Do, Review." This involves gathering information through
+observation, discussion with parents and carers, and use of informal assessment tools. If
+a pupil's needs are complex or do not respond to school-based interventions, external
+professionals such as educational psychologists, Child and Adolescent Mental Health
+Services (CAMHS), or local authority SEMH teams may be involved. These services can
+offer specialist assessment and input, and in some cases may lead to a formal diagnosis
+of a mental health condition such as depression, anxiety or ADHD. However, a diagnosis
+is not required for SEMH support to be put in place. See Table 3 for a list of specialists
+and healthcare professionals who may be involved in the identification and support
+processes for children and young people with SEMH.
+Table 3. Specialists and healthcare providers who may be involved in collaboration
+Specialist
+Role
+Clinical Psychologist
+May be part of CAMHS. Assesses behaviour,
+cognition, and emotional functioning; may
+administer diagnostic tools and standard
+assessments. May also provide treatment or
+manage mental health conditions.
+Educational Psychologist
+May be part of CAMHS. Provides insights from
+school-based assessments; contributes to
+understanding educational needs.
+Emotional Literacy Support
+ELSAs are usually school-based staff who receive
+Assistant (ELSA)
+specialist training to deliver support focussed on
+emotional regulation and social relationships.
+General Practitioner (GP)
+First point of contact for families; makes referrals to
+specialist services.
+Occupational Therapist (OT)
+May be part of CAMHS. Evaluates sensory
+processing, motor coordination, and functional
+independence.
+17
+Specialist
+Role
+Paediatrician
+May be part of CAMHS. Leads or participates in
+developmental assessments; takes detailed
+medical/developmental history.
+Psychiatrist
+May be part of CAMHS. Medical doctors that may
+diagnose and manage more complex mental health
+conditions or prescribe medication.
+School SENCo or Teacher
+Provides observational reports and educational
+context; may flag concerns to parents/GP.
+Social Worker (if involved)
+Contributes family background or safeguarding
+information where relevant.
+Where SEMH needs are severe and long-term, schools or families may request an EHC
+plan. An EHC plan outlines the child's needs, and the support required across education,
+health, and social care. While some children with SEMH may have diagnosed mental
+health conditions, others may not have a formal diagnosis but still present significant
+needs that warrant intervention and support. Thus, educators must be vigilant in
+recognising SEMH needs, which may be secondary to other types of SEND. However,
+identification of difficulties associated with SEMH may be difficult, resulting in variation in
+timely assessment and support.
+As stated in the introduction of this review, children with SEMH needs may exhibit
+internalising and externalising symptoms which may affect academic outcomes.
+Internalising and externalising behaviours are two broad categories used to describe how
+children and young people may express social, emotional, and mental health difficulties
+and are often part of SEMH identification and assessment. Internalising problems refer to
+difficulties that are directed inward, such as anxiety, depression, withdrawal, low self-
+esteem, and excessive worry. These behaviours may not be immediately disruptive in the
+classroom but can significantly affect a child's well-being and ability to engage in
+learning. Children with internalising problems might appear quiet, passive, or overly
+compliant, which can lead to their needs being overlooked.
+Externalising behaviours are outwardly directed actions such as aggression, defiance,
+hyperactivity, and disruptive conduct. These behaviours, including physical, verbal, and
+gestural aggression, classroom disruption, and off-task activity, are frequently observed
+in students identified with emotional and behavioural difficulties (Walker et al., 2004).
+Externalising behaviours may also present differently between girls and boys. For
+example, girls may be better at masking or developing compensatory strategies to avoid
+negative social consequences (Hinshaw et al., 2021; Mansfield & Soni, 2024; Quinn &
+Madhoo, 2014). However, this difference in presentation should not always be assumed.
+It is important to recognise that both internalising and externalising problems can stem
+18
+from underlying emotional distress, and children may move between the two categories
+over time. Effective support requires a holistic understanding of a child's emotional world,
+rather than focusing only on the behaviours that are most noticeable.
+Identification of SEMH needs in schools should be systematic, structured, and proactive
+to ensure timely support. Teachers and other school-based educators can play an
+important role in the identification and assessment of SEMH needs and there are a
+number of different methods that can be employed. These methods may include teacher
+nomination, structured direct observations, examining attendance records, academic
+performance, behavioural logs or universal screening (parent, teacher, or student report).
+These methods are discussed in the following sections.
+Impact of knowledge, beliefs and training on identification of
+SEMH needs
+Before exploring the tools and methods used to identify, screen, and assess children and
+young people with SEMH needs, it is important to first consider how understandings of
+mental health and behavioural challenges, as well as the beliefs and stigma surrounding
+it, can influence early identification and access to support in mainstream educational
+settings. One major theme that emerged across the studies included in the current REA
+is that knowledge, beliefs, and understanding of SEMH needs from educational
+professionals can influence accurate and timely identification as well as professional
+help-seeking (e.g., for referral or intervention planning) and support options (e.g., Jorm,
+2012; Jorm et al., 1997; Martin-Denham, 2021). Misconceptions and stigma surrounding
+SEMH needs especially around mental health and ADHD are common. Educational
+professionals may also hold these misunderstandings themselves (e.g., Sciutto, et al.,
+2000; 2016). This can be problematic as negative beliefs and attitudes towards SEMH
+can influence support strategies and student performance outcomes (e.g., Sherman et
+al., 2008). Thus, it is important that educational professionals have a foundational
+understanding of SEMH needs and how these needs may influence engagement and
+participation in learning with accurate and up-to-date information to effectively identify
+and provide support for students with SEMH needs.
+Three systematic reviews in our REA specifically investigated the impact of teacher and
+school staff's knowledge, understanding, and beliefs about SEMH on identification.
+According to a systematic review by Johnson and colleagues (2023) teachers with
+greater knowledge of ADHD were more likely to recognise the need for professional
+assessment and to express an intention to seek help for a child showing signs of the
+condition. In contrast, educators with less knowledge were more inclined to manage the
+child's difficulties on their own, without external support. In some cases that were
+reported, teachers with more negative beliefs about ADHD (e.g., the belief that ADHD
+students have lower IQ than non-ADHD students) were less likely to use evidence-based
+19
+behavioural management strategies. However, findings also indicated that teachers'
+knowledge and understanding of mental health and ADHD may improve with first-hand
+experience with children with these difficulties and through specialised training
+programmes. Johnson et al.'s (2023) review also demonstrated that teacher training
+could lead to more positive attitudes and beliefs about conditions such as ADHD, which
+in turn may lead to increased use of evidence-based behavioural management
+strategies. Another review investigating early identification of eating disorders also found
+that training led to better identification of eating disorder by school staff (Kalindjian et al.,
+2022).
+A third review (Olssen et al., 2023) found that some of teachers' perceptions of pupils'
+ADHD-related difficulties may be influenced by gender. For example, teachers tended to
+rate girls' academic, social, or emotional challenges as more severe than boys', even
+when impairments were comparable. However, the review also noted that these
+gendered perceptions did not appear to influence the instructional strategies or
+interventions teachers selected in response.
+While the studies in this REA did not examine specific training programmes, findings
+suggest that providing teachers and school staff with information on definitions, signs and
+symptoms, causes, effects, and treatment options can enhance understanding of SEMH
+needs. For example, training such as Mental Health First Aid has been shown to improve
+mental health literacy among educators (Morgan et al., 2018). Similarly, a systematic
+review and meta-analysis by Ward et al. (2022) found that ADHD-specific teacher
+training programmes significantly improved teachers' knowledge and positive behaviours
+towards pupils with ADHD-type behaviours. However, there was limited evidence that
+these interventions led to measurable improvements in pupil outcomes, highlighting the
+need for training to be embedded within broader systems of support.
+Direct observation
+Direct observation of different behaviours and patterns can be a useful way of identifying
+SEMH and related needs. Direct observation offers real-time insight into a child's
+behaviours at a specific time point (e.g., during classroom transitions) or during a specific
+task (e.g., a whole-class literacy task). It allows for more objective data collection (versus
+questionnaire responses which can be more subjective) and can capture non-verbal cues
+such as body language, facial expressions, or movement which can indicate emotional or
+sensory needs.
+Direct observation may involve coding behaviours by hand. For example, an observer will
+record what a child is doing every 30 seconds during an activity such as a science
+lesson. However, this form of direct observation can be very time-consuming and
+requires the observer to have some training in the use of structured tools (e.g., interval
+20
+recording, frequency counts, event sampling) and in using coding systems reliably,
+ensuring inter-rater consistency if multiple observers are involved. Digital approaches
+such as Multi-Option Observation System for Experimental Studies (MOOSES; Tapp &
+Wehby, 1993), Behavioural Observation of Students in Schools© (BOSS; Shapiro 2011),
+and the Mainstream Code for Instructional Structure and Student Academic Response
+(MS-CISSAR; Greenwood et al., 2000) can be helpful in minimising the resource burden
+and in maintaining reliability and consistency of observations.
+One review demonstrated that direct observation by hand or via computer-assisted
+approaches can be helpful in investigating a behaviour of interest in order to track
+progress over time and guide the choice of interventions (Adamson, 2014). However,
+screeners may be more useful in providing standardised findings which may be more
+consistent and reliable.
+Screening tools
+Screeners for children and young people at risk of developing or experiencing social,
+emotional, behavioural, or academic difficulties that may affect their learning and
+wellbeing in school can be useful tools in the identification and assessment process.
+They may help evaluate an entire classroom or all students in a mainstream setting to
+flag potential needs for intervention purposes or for referral for formal diagnostic
+assessment. Research findings across the studies identified in our search indicate that
+there are a number of different ways that students can be screened by educators in
+school settings. One method of screening which can also aid in clinical assessment or
+further educational assessment and support planning is via teacher nomination. Here,
+teachers indicate the students that they believe may be struggling with internalising or
+externalising difficulties based on their day-to-day observations and professional
+judgement. Questionnaires and checklists can be completed by teachers, parents, or
+students themselves. Tools completed by teachers can provide insight into classroom
+behaviour and how learning may be affected. Parent-report tools can give important
+information on behaviour in different setting such as in the home or different community
+settings. Student-report tools may be useful in giving more direct insight into the internal
+thoughts and feelings which can be helpful for identifying less visible internalising issues
+such as low mood or social anxiety. These methods will be discussed in more detail
+related to their evidence in the subsequent paragraphs.
+Becker-Haims et al (2020) reviewed available brief, free, and accessible measures of
+overall mental health, anxiety, depression, disruptive behaviour, traumatic stress,
+disordered eating, suicidality, bipolar/mania, psychosis, and substance use that can be
+used to guide mental health care provision. While most of these tools are intended for
+clinical screening use and require specialist interpretation, the Strengths and Difficulties
+Questionnaire (SDQ) stands out as a reliable and accessible mental health screening
+21
+tool that can also be used by mainstream educators to identify areas of need in everyday
+school settings. The SDQ was also found to be a useful social-emotional and behavioural
+screener in another systematic review (i.e., Jenkins et al, 2014) and as a screener for
+ADHD in another systematic review in our REA (i.e., Mulraney et al., 2022).
+The Strengths and Difficulties Questionnaire (SDQ; Goodman, 2001) is a brief
+behavioural screening tool designed to identify emotional and behavioural issues in
+children and young people aged 2 to 17. The questionnaire consists of 25 items divided
+into five subscales: emotional symptoms, conduct problems, hyperactivity/inattention,
+peer relationship difficulties, and prosocial behaviour. The first four subscales combine to
+form a Total Difficulties Score, while the prosocial scale is reported separately to highlight
+the child's strengths. There are versions of the SDQ for parents (ages 2-17), teachers
+(ages 4-17), and self-report by young people (ages 11-17). It typically takes 5 to 10
+minutes to complete and can be administered on paper or digitally. Respondents are
+asked to rate each item in the questionnaire based on their observations of the child. The
+SDQ is freely available for use on the official SDQ website. According to developers, this
+tool is not recommended for progress monitoring of interventions.
+Allen et al. (2018) reviewed 18 screeners that can be used to assess internalising
+behavioural risk. These screeners were categorised as either Broadband screening tools
+or Narrowband screening tools. Broadband screening tools assess a wide range of
+behavioural, emotional, and social domains to identify general areas of concern (e.g., the
+Strengths and Difficulties Questionnaire), and are useful for initial screening across
+multiple conditions. On the other hand, narrowband screening tools target specific
+disorders or symptom clusters (e.g., the Conners 3 ADHD Index), providing more
+detailed information about a particular area of concern and supporting diagnostic
+decisions or intervention planning. Their review analysed a variety of behaviour rating
+scales, teacher nomination processes, student-completed rating scales, and peer
+nomination of classroom peers. Findings suggested that these screening methods are
+generally effective, and research supports the use of both broad and specific screening
+tools for identifying internalising difficulties in students. These tools can be used either on
+their own or as part of a wider assessment of students' emotional and behavioural needs.
+Although most of these screeners should be administered and interpreted by trained
+clinicians or specialists, there are four tools that can be used by mainstream educators
+without specialist qualifications:
+1. The Social, Academic, Emotional Behavior Risk Screener (SAEBRS; Kilgus & von
+der Embse, 2014) is a US-based teacher observation rating scale that may be
+completed using a computer or tablet. Ratings correspond to the frequency of
+various behaviours in the previous month (Never, Sometimes, Often, Almost
+Always). Schools can use this screener for school-aged children to identify
+students who are at risk for social, academic, and emotional behaviours.
+22
+2. The Student Internalizing Behavior Screening Scale (SIBS; Cook et al., 2011) is
+another US-developed student self-report scale that measures internalising
+behaviours in children and adolescents. This tool can help educators identify risk
+factors (such as anxiety or depression) that may negatively impact students'
+academic and personal lives. This scale can be administered up to two times a
+year to monitor progress.
+3. The SIBS can be used in tandem with the Student Risk Screening Scale -
+Internalizing and Externalizing (SRSS-IE; Drummond, 1994; Lane & Menzies,
+2009). This tool is a brief, teacher-completed behavioural screening tool used in
+schools to help identify students who may be at risk for internalising and
+externalising difficulties. This tool can also be used for monitoring purposes.
+4. Finally, the Effective Behavior Support (EBS; Sugai & Horner, 2002) tools were
+found to be effective. EBS is not a specific tool itself, but a framework (part of the
+Positive Behavioural Interventions and Supports) and includes tools like checklists
+and screening protocols that are completed by teachers.
+However, the review by Allen et al (2018) found that these screeners were not strong at
+predicting outcomes like behaviour referrals, suspensions, or academic performance.
+Hence, if schools want to predict those outcomes, alternatives tests may be needed. The
+research also does not clearly show which informants (e.g., teachers VS. students) or the
+ages that are best for using these screeners. Some studies suggested teachers are more
+accurate informants for younger children, while students may be better at reporting their
+own emotional needs in secondary school. More research is needed to confirm these
+patterns across different settings and age groups. Therefore, it is recommended that
+these screeners are used with the help of clinicians or specialists who are trained in their
+use.
+Each screening method discussed offers a distinct perspective, drawing on different
+sources of information and carrying its own strengths and limitations. However, results
+from one systematic review indicate that one screening tool completed by a single
+reporter is not likely to accurately flag every SEMH case in large-scale screening (e.g.,
+Mulraney et al., 2022). Further, evidence suggests that the choice of screening tool (and
+informant) may influence outcomes. For example, Keating et al. (2022) found that
+reported rates of sensory modulation difficulties (SMD) in children with ADHD varied
+depending on the type of assessment used. Caregiver reports and behavioural tools tend
+to identify more difficulties than physiological measures. This suggests that tool selection
+should be guided by the specific focus of screening and the goal of the screening
+process. For example, caregiver report may be most useful for measuring daily
+behaviours, while psychological tools may be more useful for understanding underlying
+mechanisms driving those behaviours.
+23
+Similarly, Anderson et al. (2019) reviewed studies comparing different methods of
+identifying anxiety and depression, behavioural and socioemotional difficulties, and risk of
+suicide. Although these findings do not focus on evaluating specific screening tools, they
+offer valuable insight into which informants are most effective in completing screening
+tools for different types of difficulties, and how the use of screeners compares to teacher
+nomination. The results of Anderson et al.'s (2019) review indicated that when screening
+for depression, teacher nomination might be more accurate than universal screening
+tools but may still have high rates of false positives (up to 70% of children flagged for
+depression did not actually have depression). In terms of social anxiety, screening may
+be more accurate with only 20% of false positives while teacher nomination often missed
+identification of students later diagnosed with social anxiety. While some studies in this
+review did suggest that teachers could correctly accurately identify a higher proportion
+(41-68%) of students who screen positive for depression or anxiety, these studies lacked
+follow-up clinical interviews, which makes it difficult to know exactly how reliable these
+numbers are. It is also important to note that while teachers may notice signs or
+indicators of mental health difficulties, is it not their responsibility to diagnose these
+difficulties. Identification of mental health difficulties should be treated with sensitivity, to
+ensure that results are interpreted carefully and, where necessary, followed up with
+appropriate professional assessment rather than being used as stand-alone indicators.
+In terms of behavioural and social emotional difficulties, structured screening tools such
+as checklists were generally found to be more accurate than teacher nomination and
+other methods such as examination of attendance. Suggesting that these tools may be
+more reliable than teacher observations. Findings suggested that both parents and
+teachers are typically more accurate at identifying children at risk of externalising than
+internalising difficulties. Similarly, student-report screeners identified twice as many at-
+risk students as teacher nomination, especially in terms of internalising difficulties. This
+result likely occurred because teachers are more likely to notice and nominate students
+with more obvious or severe difficulties, such as frequent disruptive behaviour. Screeners
+may also be better than teacher nomination at identifying ADHD needs. This was also
+supported in the review by Mulraney et al. (2022) who found that parent-report and
+student self-report were the most accurate when screening for ADHD, however, teacher-
+report scales can still be effective (Staff et al., 2021). The accuracy of teacher-nomination
+was also found to be low for students at risk of suicide.
+In another systematic review of screening methods, Garcia-Rosales et al. (2024)
+investigated agreement between parent report and teacher report on screeners for ADHD
+behaviours. Most studies showed strong agreement between parent and teacher ratings
+of ADHD symptoms, meaning both groups understood and used the symptom criteria in
+similar ways. However, there were some differences in how parents versus teachers
+rated behaviours. Parents tended to rate some behaviours, like carelessness,
+forgetfulness, and being overly active, more strongly, while teachers rated other
+24
+behaviour like difficulty waiting or interrupting more strongly. Parents were also quicker to
+say a child was not listening or was easily distracted, while teachers were quicker to say
+a child did not follow instructions. Despite these differences, both groups agreed
+consistently when rating behaviours like being disorganised, unmotivated, fidgety,
+talkative, or struggling to stay seated.
+Finally, the accuracy of student self-reporting may vary by age. Internalising difficulties
+such as anxiety and depression tend to increase in prevalence during adolescence, and
+older students may have greater metacognitive awareness and capacity for self-
+reflection. This means secondary-aged pupils are generally better able to recognise and
+report internal states than younger children, who may lack the developmental maturity to
+accurately articulate their experiences (Villarreal et al., 2022). This developmental
+difference has important implications for how schools interpret pupil-reported data and
+choose age-appropriate assessment tools.
+Taken together, the findings from these systematic reviews suggest that screening may
+be the most effective method of school-based identification of mental health risk,
+however, the rate of false-positive results is still high. Screening from multiple informants
+may provide more holistic insight. For example, student-report screening may be best to
+identify internalising difficulties while teacher or parent-report screening might provide
+insight into externalising difficulties. A combination of teacher nomination and screening
+may improve accuracy, but further research is needed to confirm this.
+Screening for SEMH needs summary
+The Strengths and Difficulties Questionnaire
+The Social, Academic, Emotional Behavior Risk Screener
+The Student Internalizing Behavior Screening Scale
+Student Risk Screening Scale - Internalizing and Externalizing
+The Effective Behavior Support
+Teacher nomination may be useful, but structured screening tools may be more
+accurate
+The choice of tool and informant should be made carefully, and the use of multiple
+screeners and informants is recommended to improve accuracy and reliability
+Progress monitoring tools
+In addition to the initial identification of SEMH needs, it is essential to use progress
+monitoring tools to assess whether interventions and support strategies are having the
+desired impact. These tools help practitioners track changes over time, evaluate
+25
+effectiveness, and adapt provision in a timely and responsive manner. A wide range of
+tools are available, many of which are curated and quality assured by the Child
+Outcomes Research Consortium (CORC), including validated measures of mental health,
+wellbeing, and functioning. The deliberate selection of such tools should be guided by the
+strength of the evidence base, psychometric properties¹, and the practical feasibility
+within school settings. Moreover, access to support and training on how to administer,
+interpret, and act upon such measures, such as that provided by CORC, is critical to
+ensuring data is used meaningfully and ethically in practice.
+Dart et al. (2019) reviewed 15 assessment tools used for progress monitoring of
+internalising symptoms. Progress monitoring was defined as "an assessment that can
+detect small changes in functioning and that is designed for frequent (i.e., at least
+weekly) administration to provide information on intervention progress and inform
+intervention decisions". Many of the tools reviewed in this paper were originally
+developed to monitor more complex needs in clinical settings. However, some
+assessments appear potentially suitable for school settings, particularly those that meet
+practical criteria set by the researchers such as a short administration time (under 5
+minutes) or a brief format of 12 items or fewer.
+1. One tool is the Direct Behavior Rating (DBR) is a brief teacher-completed tool
+designed to monitor students' emotional and behavioural functioning in real time,
+particularly focusing on signs of internalising difficulties such as anxiety, sadness,
+and social withdrawal (Chafouleas, 2011). It is typically used with primary and
+secondary school-aged students and is well-suited for progress monitoring or
+screening purposes within a school setting. Teachers rate specific behaviours
+such as how frequently a student appears anxious, withdrawn, or sad based on
+direct observations made over a set period, often during a single class or school
+day. For example, a teacher rates a student's level of on-task behaviour at the end
+of each lesson using a quick scale. The behaviours that are rated are typically in
+line with the goals of a given intervention based on the students' individual needs.
+Ratings are usually completed using a simple scale (e.g., 0-10) and take only a 1-
+2 minutes per student. The specific DBR tool reviewed by Dart et al (2019) was
+the Social, Academic, and Emotional Behavioural Risk Screener (SAEBRS; Kilgus
+& von der Embse, 2014).
+2. Daily Point Sheets (DPS) can also be used by educators to monitor internalising
+symptoms. DPS are simple, structured behaviour tracking tools used in school
+settings to monitor and reinforce student behaviour throughout the day. They
+typically list specific behaviour goals depending on the students' individual needs
+1
+Psychometric properties refer to the features of an assessment tool that indicates its methodological
+quality. These typically include reliability (whether the results of the tool are consistent over time) and
+validity (whether the tool measures what it intends to measure). A tools should be both reliable and valid.
+26
+(e.g., "stays on task," "follows instructions," "uses kind words") and break the
+school day into intervals, such as by lesson or period, where students can earn
+points or ratings for meeting each goal. These sheets are most commonly used
+with primary and secondary school students and can be completed by teachers,
+teaching assistants, or support staff in real time and often shared with students
+and parents to promote communication and consistency.
+3. Brief Behaviour Rating Scales (BBRS) are short, teacher-completed tools used to
+monitor specific student behaviours over time. While DBRs might be used daily
+and in-real time, BBRS are typically used on a weekly basis to measure broader
+behaviours. They are designed to be quick and easy to use, typically taking under
+two minutes, and focus on a small number of clearly defined behaviours such as
+attention, task completion, social interactions, or emotion regulation. The specific
+BBRS reviewed by Dart et al. (2019) was developed and analysed by Gresham et
+al. (2010). This version is comprised of 12-items: (1) "Responds appropriately
+when hit/pushed," (2) "Follows your directions," (3) "Disturbs ongoing activities,"
+(4) "Ignores peer distractions," (5) "Overall classroom behavior," (6) "Is easily
+distracted," (7) "Cooperates with peers," (8) "Argues with others," (9) "Gives
+compliments to peers," (10) "Joins ongoing activity or group," (11) "Volunteers to
+help peers," and (12) "Accepts peer ideas".
+4. Finally, Systematic Direct Observation (SDO) can also be used for progress
+monitoring of internalising behaviours. SDO is a formal, structured method where
+an observer watches and records a student's behaviour in real time, using a pre-
+defined coding system (e.g., time sampling or event recording). For example, a
+SENCo may code the number of times a child stays on task during a lesson or the
+number of peer interactions during a 30-minute time frame.
+Although further assessments were identified by Dart et al. (2019), none of the studies in
+their review demonstrated the use of these assessments in schools. Thus, further
+research is needed to determine whether these assessments could also be appropriate
+for use in schools.
+Progress monitoring for SEMH needs summary
+Many tools curated through the Child Outcomes Research Consortium (CORC)
+Direct Behavior Rating
+Daily Points Sheets
+Brief Behaviour Rating Scales (BBRS)
+Systematic direct observation
+27
+Identification and assessment summary
+Our REA identified 15 studies that evaluated identification and assessment methods that
+can be used by mainstream educators to identify, screen, or monitor SEMH needs.
+Overall, findings indicate that effective identification is preceded by sufficient training and
+ongoing professional development to develop a foundational understanding of mental
+health and social and emotional needs of children and young people. Such training
+should include an understanding of how different social, emotional, or mental health
+needs might present differently across ages, genders, and cultural backgrounds and how
+they may impact learning. Training should include clear information on any definitions,
+signs and symptoms (e.g., internalising and externalising difficulties) relevant to
+identification, as well as potential underlying impact factors and evidence-based support.
+This can help improve understanding and enable staff to recognise and support students
+more effectively.
+Many different identification and assessment tools were found to have a reliable evidence
+base in our REA. First, direct observation emerged as a valuable tool for both identifying
+and monitoring progress in relation to pupil behaviour, including behaviours associated
+with internalising difficulties.
+Second, a number of screening tools and methods were identified across different
+reviews in our REA. Findings from the suggest that although teacher nomination can be
+useful, structured screening tools may be more accurate than teacher nomination in
+identifying and screening for SEMH needs. The Strengths and Difficulties Questionnaire
+was one of the most frequently reviewed screening tools and was useful in screening for
+ADHD, mental health, and as a social-emotional and behavioural screener. There are a
+few other screening tools identified in this REA that are effective at measuring
+internalising behaviours. This REA highlights that broadband and narrowband
+internalising screeners are psychometrically robust for assessing emotional difficulties
+but have limited utility in predicting outcomes like academic performance or disciplinary
+actions.
+Although many screening tools may be effective and freely available to screen for SEMH
+needs, these tools should be interpreted with caution by mainstream educators without
+specialist qualifications. Even interpretation of the Strengths and Difficulties
+Questionnaire results should be treated with caution. While this could be a useful tool for
+intervention planning or flagging potential issues, it should not be used for labelling,
+identifying specific personality traits or diagnosis. Rather these screeners should be used
+to identify critical areas of need that may impact a student's academic performance.
+Given that screeners tend to outperform teacher nomination in accurately identifying
+behavioural and socioemotional needs, schools may benefit from clearer guidance on
+when structured screening tools should supplement or replace reliance on teacher
+28
+observation. Without such guidance, there is a risk that internalising difficulties, often less
+visible to staff, may go undetected, or that behavioural difficulties may be misattributed
+leading to delayed or inadequate support. A balanced, evidence-informed approach is
+needed to determine when systematic screening is warranted to complement
+professional judgement.
+A recurring theme is the inconsistent use and validation of screening tools across
+different SEMH areas. For instance, many assessments included in the reviews (e.g., the
+Childhood Anxiety Sensitivity Index) were not recommended in this current REA due to
+lack of standardisation or impracticality for school settings. Emerging research supports a
+multi-informant approach and tailored use of instruments depending on whether
+behavioural, emotional, or physiological data are being sought. Importantly, this REA
+calls for more rigorous research into developing tools suitable for educational settings,
+and clarity on the age range in which tools are most appropriate and accurate, as well as
+better training for educators and carers in early identification and referral. Despite some
+encouraging findings, the overall picture suggests a pressing need for more
+standardised, accessible, and psychometrically robust tools, especially for use in early
+years settings and educational contexts.
+Another limitation of the evidence base is its disproportionate focus on externalising
+behaviours, particularly associated with ADHD, within the broader category of SEMH
+needs (Blanco-Bayo et al., 2025). This narrow emphasis risks obscuring the complexity
+and heterogeneity of SEMH presentations, including internalising difficulties such as
+anxiety and withdrawal. As a result, identification practices and interventions may
+overlook pupils whose needs are less visible but equally significant, reinforcing existing
+inequalities in access to support.
+Despite increasing emphasis on early identification of SEMH needs, the role of pupil
+voice remains underexplored. A systematic review by Hickinbotham and Soni (2021)
+found that most children and young people identified as having SEMH difficulties were
+unaware of the label and had little opportunity to contribute to how their needs were
+described. The authors argue for greater staff awareness of the implications of both
+formal and informal language used around SEMH needs, as such labelling can shape
+teacher perceptions and influence the pupil experience. Embedding pupil perspectives
+into the identification process could help ensure that assessment is not only systematic
+and structured but also participatory and person-centred.
+29
+Support and intervention
+The aim of this section is to review the studies from our REA that evaluated support and
+intervention strategies suitable for use by mainstream education professionals to support
+children and young people with SEMH needs. Children and young people with SEMH
+needs often struggle with learning and academic outcomes across different content areas
+(e.g., reading and maths). In fact, children and young people with SEMH needs often
+show academic profiles that are comparable to those of peers with general or specific
+learning difficulties (Reid et al., 2004; Rivera et al., 2006; Vaughn et al., 2002; Wehby et
+al., 2003).
+It is important to note here that some of the studies reviewed in this section use language
+and diagnostic categories that may now be considered outdated or inconsistent with
+current definitions of SEMH (as discussed previously in our Introduction section of this
+review). For example, Emotional and Behavioural Difficulties (EBD) is often a term used
+across studies, particularly in reviews of US-based studies. The term EBD was previously
+used to describe children and young people who experience significant challenges in
+managing their emotions and behaviour in ways that affect their learning and social
+relationships (Kauffman and Landrum, 2013). In the US, this term may still refer to
+children who receive special education services under the category of emotional
+disturbance (U.S. Department of Education, 2020). However, the term has largely been
+replaced in England by Social, Emotional and Mental Health (SEMH) needs, as defined
+in the SEND Code of Practice (DfE/DoH, 2015). We have retained original terms where
+necessary for clarity and where specific profiles or needs were not available or not
+discussed, but interpret findings through a more contemporary, inclusive lens. Given the
+diverse pathways leading to SEMH difficulties, ranging from academic challenges to
+biological or contextual factors, the effectiveness of an intervention may depend on how
+well it aligns with the specific underlying causes of the SEMH need for a given student.
+When reporting on intervention and support strategies in this REA, we refer to effect
+sizes reported in the included studies. Effect sizes, typically ranging from 0 to 1, indicate
+the magnitude of an intervention's impact, beyond whether the result is statistically
+significant. A small effect (around 0.2) suggests modest improvement, a medium effect
+(around 0.5) indicates moderate progress, and a large effect (0.8 or above) reflects
+substantial impact on learning or behaviour. However, it is important to interpret these
+values with caution. In education research, large effect sizes are relatively rare due to the
+complexity of influencing factors, including context, implementation fidelity, and individual
+variability. Meta-analyses suggest that average effect sizes for educational interventions
+typically fall between 0.2 and 0.4 (Lipsey et al., 2012; Kraft, 2020), meaning that even
+modest effects may reflect meaningful improvements in practice.
+Additionally, the strength and generalisability of findings depend on study design. Single-
+case designs offer insight into individual responsiveness and consistency of effects, while
+30
+group designs such as randomised controlled trials provide population-level
+generalisability but may mask important variability. A robust evidence base ideally
+triangulates across multiple types of study design.
+We also refer to standardised assessments or outcome measures versus researcher-
+created or bespoke outcome measures. Standardised assessments are norm-referenced
+tools that have been trialled on large, representative samples to establish reliability
+(consistency of scores) and validity (that the test really measures what it claims). These
+allow for comparison of a student's performance to a representative against a
+representative sample of age-matched peers, allowing for an estimate of whether a
+student is performing above, at or below expected levels. By contrast, researcher-created
+or bespoke measures are tailored to the exact targets of an intervention or teaching
+programme for example, a bespoke word-definition task featuring the precise vocabulary
+items taught and practised. Although research-created measures tend to be more
+sensitive to the incremental progress students make over short instructional periods,
+these measures lack the normative data and the extensive psychometric testing of
+standardised tools.
+High quality teaching and universal support
+Children with SEMH needs may experience lower academic achievement compared to
+their age-matched peers (Campbell et al., 2018; May et al., 2021; van Poortvliet, 2024).
+They may also display challenging behaviours in the classroom, which can disrupt
+learning and create difficulties not only for the child, but also for the teacher and their
+peers (Abikoff et al. .,2002; Greene et al., 2002). Research suggests that externalising
+behaviours, such as aggression, may be more strongly linked to poor academic
+performance than internalising behaviours, like anxiety (DiLalla et al., 2004; Nelson et al.,
+2004).
+Academic difficulties among children and young people with SEMH needs may stem from
+underlying challenges with executive functions, including attention, working memory,
+planning, and organisation, as well as mental health, social-emotional and behavioural
+factors (e.g., Becker & Luthar, 2002; Darney, et al., 2013). These difficulties can affect
+their ability to manage tasks, retain information, and engage effectively with learning.
+These challenges can also indirectly impact learning by reducing classroom engagement
+and disrupting social relationships, both of which are important for academic success.
+Based on this, instructional approaches that support executive functioning and
+behavioural challenges can be effective for these students (for a review of executive
+functions see our Cross-Cutting Themes Report).
+Support for students with SEND, including SEMH difficulties can be provided at different
+levels, starting with universal strategies delivered to all students through evidence-based
+31
+'quality first' teaching approaches. Universal provision, or 'tier 1' consists of evidence-
+based pedagogical approaches and may be delivered as whole-class teaching, small
+groups, or even individual activities. When universal approaches aren't enough to meet
+the educational needs of students, targeted ('tier 2') support can be offered, tailored to
+individual needs, and implemented either in small groups or through one-to-one
+interventions. Finally, if this second 'tier 2' is still not effectively addressing the needs of
+students, support can be offered at the third 'tier 3' which consists of specialist support
+which may involve external professionals such as Educational Psychologists or
+coordinated multi-agency support (e.g., through an Education, Health, and Care Plan).
+This so-called tiered approach to support children's educational needs is well established
+in the UK educational context (e.g., see SEND Code of Practice, 2015). Similar models
+are also used in the US educational context such as response to intervention models
+(Fuchs & Fuchs, 2006) or multi-tiered systems of support (McIntosh & Goodman, 2016),
+where children who do not progress with effective universal treatment are offered more
+individualised and targeted support.
+The SEND Code of Practice defines high-quality teaching: high-quality teaching,
+differentiated for individual pupils, is the first step in responding to pupils who have or
+may have SEND. Additional intervention and support cannot compensate for a lack of
+good quality teaching (DfE, 2015, p. 99). By providing high-quality teaching that is
+evidence-based and differentiated, schools may reduce the likelihood that students will
+require additional, more intensive support. Effective quality-first language teaching relies
+on strong classroom management and instruction, supplemented by targeted or
+specialist oral-language support when needed (Fuchs & Fuchs, 2006; 2009). A range of
+inclusive whole-school policies, instructional strategies and classroom design
+approaches can support children and young people with SEMH at this first tier. The
+approaches identified in our REA include instructional techniques and adjustments to the
+physical or social environment.
+Whole-school and whole-class strategies
+Whole-school strategies
+As noted, behavioural and social-emotional development can influence academic
+outcomes, just as academic challenges can, in turn, affect behaviour and emotional
+wellbeing. The social context of the classroom, including teacher attitudes and relational
+dynamics, plays a key role in shaping academic engagement and social inclusion for
+children and young people with SEMH needs (e.g., Carroll & Hurry, 2018; Sherman et al.,
+2008; Gwernan-Jones et al., 2015a).
+Whole school approaches which support inclusive practice, promote valuing of student
+diversity and prioritise staff training create a school climate which improves mental health
+32
+and wellbeing generally (Wang et al., 2020). Schools that value a positive relationship
+between staff, families and young people may offer a protective effect on overall SEMH.
+Before narrowing the focus to behavioural approaches, schools should consider the ways
+in which they operate to promote flourishing in all pupils. One area of potential impact is
+that of behavioural policies, whereby inflexible policies may have a negative impact on
+student wellbeing (Izas et al., 2024). Having a good relationship between school and
+students improves overall wellbeing (Korpershoek et al., 2020; Yuen & Wu, 2024). There
+is growing interest in trauma informed approaches, which seem to offer catalytic validity
+in encouraging compassionate approaches to children and young people (Cafaro et al.,
+2023). Central to such approaches is the creation of a nurturing and inclusive classroom
+climate, underpinned by strong, trusting relationships between teachers and pupils and
+among peers. These relational foundations are critical for fostering belonging,
+participation, and wellbeing.
+Two studies identified in our REA focused on whole-school approaches designed to
+promote a positive and inclusive learning environment, while six studies examined
+strategies aimed at enhancing pupil motivation and engagement at the classroom level.
+Both types of approaches were associated with improvements in academic outcomes,
+highlighting the value of supportive relational climates and proactive engagement
+practices.
+Fabiano et al. (2015) report on three meta-analyses examining the effects of
+psychosocial interventions on externalising behaviours and various academic outcomes
+for children and young people with ADHD. These interventions included a range of
+approaches designed to support educators, parents ,and caregivers in creating
+structured, consistent, and emotionally supportive environments. This encompassed
+parent training programmes and classroom-or-school-based strategies.
+Parent training was considered alongside school-based support to provide a more
+comprehensive and coordinated approach. This training typically involves structured
+sessions in which caregivers are supported to build positive communication, set clear
+and appropriate expectations, respond constructively to challenging behaviour, and
+promote emotional regulation and problem-solving skills. Such programmes aim to
+strengthen the parent-child relationship and equip parents with practical strategies for
+supporting their child's development.
+The review also included contingency management approaches (e.g., using positive
+reinforcement such as praise or rewards, or response cost systems like loss of
+privileges).
+Fabiano et al. (2015) found that parent training interventions yielded moderate to large
+effect sizes, particularly in improving parenting practices and reducing disruptive
+behaviours in children. However, findings related to contingency management strategies
+33
+were mixed, with some studies reporting large effects and others showing no significant
+impact. These inconsistencies may reflect variation in methodology or implementation,
+indicating that the evidence for such approaches remains inconclusive.
+Other studies found in our REA have indicated that token economies and Check-
+in/Check-Out systems can also be effective in motivating and teaching self-regulation
+and goal-setting skills to children and young people with SEMH needs (Therrien et al.,
+2014). With these approaches, it is important to maintain strong coordination among all
+educational staff to ensure these approaches are implemented consistently and
+effectively. Leadership from senior staff plays a critical role in guiding, supporting, and
+aligning the implementation process across the school.
+1. A token economy is a behaviour management system in which students earn
+tokens for displaying desired behaviours. These tokens can later be exchanged for
+rewards or privileges. These whole school approaches are useful in setting
+expectations, providing immediate feedback, and encouraging motivation through
+rewards.
+2. The Check-In/Check-Out (CICO) system is a structured school-based intervention
+designed to support students who are experiencing mild to moderate behavioural
+or social-emotional difficulties. It provides a consistent daily routine that helps
+students start the day positively, stay on track during lessons, and reflect on their
+progress. Each day begins with a morning check-in, where the student meets with
+a designated adult, such as a teaching assistant or mentor, to review behaviour
+goals and receive a daily point sheet. Throughout the day, teachers rate the
+student's behaviour at regular intervals based on specific, agreed-upon targets,
+such as staying on task or following instructions. At the end of the day, the student
+checks out with the same adult to review their progress, reflect on successes or
+challenges, and receive encouragement or rewards based on their performance.
+The point sheet is often sent home to keep parents informed and engaged. CICO
+is particularly effective for students who respond well to adult attention and
+positive reinforcement, as it increases structure, provides immediate feedback,
+and builds supportive relationships.
+It is important to acknowledge that behaviour-focused strategies, when applied without a
+thorough understanding of a child's underlying needs and experiences, can be
+problematic. If goals are misaligned with a pupil's developmental stage or capacity, such
+approaches risk being experienced as punitive or unattainable. This can undermine
+wellbeing, reinforce disengagement, and erode trust in school relationships. A needs-
+informed and relational approach is therefore essential to ensure support is both
+meaningful and constructive.
+34
+Whole-school support strategies summary
+Complementary parental training programmes
+Token economies or rewards systems
+Check-in/check-out system
+Whole-class strategies
+At the classroom level, strategies aimed at increasing academic motivation based on
+reinforcement have also been shown to benefit children and young people with SEMH
+needs, especially those exhibiting behavioural challenges. Two systematic reviews in our
+REA found that positive reinforcement through praise, both from teachers and peers
+were effective in reducing challenging behaviour and improving academic motivation, on-
+task behaviour and attending behaviour (e.g., the verbal and non-verbal actions that a
+listener takes to show they are actively engaged and interested in what a speaker is
+saying) (Markelz & Taylor, 2016; McKenna et al., 2021). Praising strategies were most
+effective when they were behaviour-specific (e.g., "I really liked how you raised your hand
+and waited your turn to speak"). Although praise was effective for children across
+different age groups, praise might be most effective for younger children compared to
+older children. It is also important to understand the student's preference for public
+versus private praise as this can impact the efficacy of the praise.
+Additionally, there is growing evidence that instructional choice can increase motivation
+for students, especially those who may demonstrate externalising behaviours, and
+particularly when children and young people have clear preferences, enjoy choosing, and
+benefit from the outcomes. Instructional choice is a teaching strategy that involves giving
+students options in how they engage with learning tasks. Here they may be given
+different options such as choosing between different tasks, materials, or formats. This
+approach gives students a sense of autonomy and can also enhance motivation and
+increase their engagement with learning. In a systematic review, Royer et al. (2017)
+found that instructional choice for children aged 5 to 18 helped reduce problem
+behaviour, increased reading fluency, sped up task completion, and boosted classroom
+engagement. Instructional choice can also improve maths and science engagement and
+performance (Garwood et al., 2014; Tan, 2016; Therrien et al., 2014).
+Providing more opportunities for children and young people to actively engage in hands-
+on activities, whole-class or group-based discussions has also been shown to be
+effective in improving academic outcomes for children and young people with SEMH
+needs. For example, offering more opportunities to respond during instruction may
+decrease disruptions and increase the proportion of correct responses for children with
+SEMH needs (i.e., diagnosed with EBD) (Tan, 2016). Incorporating group discussions
+and hands-on activities has also been found to be effective in improving science
+35
+knowledge of children and young people with SEMH needs (Therrien et al. 2014).
+However, these papers did not directly specify the individual profiles of children and
+young people who may benefit most from these interventions.
+A final classroom-level technique that has been found to be effective is progressive
+muscle relaxation. In a systematic review, McKenna et al. (2021) found that progressive
+muscle relaxation was effective in reducing aggression in young children with SEMH
+needs when delivered consistently by trained teachers. While effects weren't fully
+maintained at follow-up, the intervention reduced behavioural incidents below pre-
+intervention levels. This suggests that explicit relaxation or emotional regulation training
+may be a useful classroom-based strategy when delivered regularly. However, the
+McKenna et al. (2021) review did not detail the type of training that is needed to deliver
+this intervention and did not detail the specific dosage that may be required.
+Another report that was not identified in our REA as it was published after the date of our
+search, but mainstream educators may find useful is the Education for Wellbeing:
+Effectiveness of school mental health and wellbeing promotion. This was a large-scale
+(32,655 participants) research programme using randomised controlled trials to
+investigate effective interventions for promoting pupil mental health and wellbeing in
+primary and secondary schools. This study found evidence for three interventions that
+may show promise in schools in raising mental health and wellbeing outcomes including
+the Strategies for Safety and Wellbeing in primary and secondary schools, Relaxation
+techniques (for primary schools only) and Mindfulness-based exercises (for secondary
+schools only). The Guide and YAM (both in secondary schools) are not recommended
+due to lack of a clear impact on key outcomes, and because there were indications that
+they may cause harm to some groups of pupils. The evidence also demonstrates the
+importance of high-quality implementation of interventions, choosing interventions with
+evidence of effectiveness and appropriate for the phase of education and embedding
+programmes within a wider, holistic approach to mental health and wellbeing promotion
+and support monitoring the implementation of programmes.
+Classroom-level support strategies summary
+Use of praise
+Offering instructional choice
+Providing additional opportunities to engage in discussions
+Providing hands-on activities
+Relaxation techniques
+36
+Instructional strategies
+Academic difficulties among children and young people with SEMH may stem from
+underlying challenges with motivation, engagement, social relationships, and executive
+functions, including attention, working memory, planning, and organisation (executive
+function is covered in more detail within our Cross-Cutting Themes Report). Instructional
+approaches refer to the methods, strategies, and techniques that educators use to
+facilitate learning and help students achieve specific learning goals which often address
+these underlying needs. These practices include how teachers deliver content, organise
+learning activities, provide feedback, and adapt instruction to meet diverse student
+needs.
+A range of instructional strategies were investigated across the studies in our REA aimed
+at improving various academic outcomes for students with SEMH needs. Many of these
+approaches share common principles: they minimise cognitive load, provide structure,
+break tasks into manageable steps, use clear prompts/cues, explicit instruction, use
+motivation techniques, and encourage positive relationships. Five studies in our REA
+reported on instructional techniques for children and young people with SEMH needs.
+Two systematic reviews of single-case study designs (Ralston et al., 2014; Tan, 2016)
+found different prompting techniques such as constant time delay or discrete cuing when
+students are off-task can be effective in keeping children and young people (aged 6 to
+18) with SEMH needs (i.e., students recorded with- or at-risk for EBD) on task and with
+completing their work.
+1. Constant Time Delay is a systematic instructional strategy used to teach new
+skills. It involves presenting a prompt after a fixed delay, allowing learners the
+opportunity to respond independently before receiving assistance, thereby
+promoting independence and reducing prompt dependency (Wolery et al., 1992).
+Constant Time Delay can be effectively implemented through teacher-delivered
+(flashcards, direct instruction) and technology-based (computer-assisted,
+PowerPoint, SMART boards) methods. Although several different studies were
+included in each of these reviews, findings are based on only a small number of
+children. Larger scale studies using group-designs are needed to determine
+whether findings can be generalised to a wider population of children and young
+people with SEMH needs.
+2. Discrete cuing refers to a teaching or behaviour support strategy in which a clear,
+specific, and often individualised prompt is given to signal when a student should
+perform a particular behaviour or task. This cuing is often done discretely or
+privately to minimise embarrassment or classroom disruption. The cue should be
+unambiguous and given directly prior to when the desired behaviour is expected.
+37
+Additionally, findings from both group-based and single-case studies, reported in two
+systematic reviews (McKenna et al., 2021a; Tan, 2016), find that schema-based
+instruction for problem-solving is effective in improving maths skills in children and young
+people with SEMH needs (i.e., students recorded with- or at-risk for EBD). Its impact is
+particularly strong when combined with strategies such as teacher modelling, guided
+practice, corrective feedback, and motivational supports like token systems.
+1. Schema-based instruction for problem-solving is a teaching approach that helps
+students solve word problems in maths by teaching them to recognise underlying
+problem types (schemas) and apply consistent strategies or templates to solve
+them. This strategy can be beneficial especially for children who may struggle with
+understanding the language and complexity of word problems as it helps to build
+conceptual understanding and consistency in problem-solving.
+Task sequencing can also be a useful tool in addressing challenging behaviour and poor
+academic performance in children and young people with SEMH needs. Knowles et al.
+(2015) investigated the use of task sequencing as an academic intervention for students
+with SEMH needs. Their review identified 11 studies investigating different types of task
+sequencing including high-probability sequencing, and task interspersal procedures. All
+studies reported improved task compliance (i.e., the time it took to begin a task or comply
+with a request), activity transitions, and academic output (i.e., the amount of academic
+work completed: math problems, words read, words written). Task sequencing was found
+to be effective across a variety of participants who varied by age. It may also be
+important to incorporate praise and tokens into this strategy for better outcomes.
+Task-sequencing refers to the deliberate ordering of learning tasks or activities in a way
+that supports student understanding and success. Task sequencing helps reduce
+cognitive overload, supports confidence and motivation, and allows students to build
+skills progressively. Task-sequencing can be facilitated by classroom teachers or
+specialist teachers. Different types of task sequencing explored in our REA were high-
+probability sequencing and task interspersal.
+1. A high-probability sequencing which involves giving a child a short series of tasks
+that they are very likely to comply with (high-probability or "high-p" tasks), followed
+immediately by a task that they are less likely to comply with (low-probability or
+"low-p" task). Most of the studies evaluating high-probability sequencing in
+Knowles et al.'s (2015) review presented the high-probability task before the low-
+probability task and had on average, a ratio of three high-p requests followed by
+one low-p request for at least one condition of the intervention.
+2. Task interspersal refers to interspersing easy and difficult tasks (e.g., difficult tasks
+interspersed with easy tasks relative to the presentation of difficult tasks in
+isolation). Task interspersal was also found to be effective in maths (Tan, 2016).
+38
+Instructional strategies, particularly in maths and science, that rely heavily on rote
+memorisation (learning through repetition and memorisation) or textbook-based, lecture-
+style teaching without opportunities for students to make connections or engage in critical
+thinking can be particularly challenging for learners with SEMH. These students may
+struggle with content knowledge and may find it difficult to link new information to prior
+learning in meaningful ways (Scruggs & Mastropieri, 2000a). While two reviews in our
+REA found that various memorisation and recall strategies, such as fixed-delay
+prompting, and cover, copy, and compare (CCC) procedures, can improve recall of
+multiplication and division facts (i.e., Ralston et al., 2014; Tan, 2016), more conceptually
+focused approaches may be particularly effective for children and young people with
+SEMH, as they support the development of deeper thinking and understanding.
+1. The cover, copy, and compare (CCC) procedure involves the following structure:
+(1) students look at the maths problem and the answer, (2) students cover the
+problem and answer, (3) students write the problem and answer, and (4) students
+uncover the problem and answer and check it with what they wrote. The teacher
+may provide corrective feedback if necessary.
+Another three systematic reviews (Ralston et al., 2014; Tan, 2016; Therrien et al., 2014)
+highlight the effectiveness of conceptually focused strategies that emphasise problem-
+solving, reasoning, communication, and making conceptual connections in maths and
+science instruction. These strategies can be largely implemented at the whole-class level
+or as part of targeted and individualised interventions.
+First, these findings suggest inquiry-based techniques that involved either explicit
+instruction or direct instruction are effective in both maths and science instruction for
+children with SEMH needs. Techniques like direct or explicit instruction, teacher
+modelling, guided practice, and graphic organisers provide clear, step-by-step guidance
+that helps reduce cognitive load. Inquiry-based learning also encourages hands-on
+exploration and student participation, which helps maintain attention and motivation.
+Therrien et al. (2014) found that direct instruction with other instructional components
+such as graphic organisers, teacher modelling, hands-on activities, and group discussion
+were more effective than traditional textbook-based instructions in improving science
+knowledge and outcomes on performance-based and applied assessments in four
+studies.
+Tan (2016) found that effective approaches to teaching word problems included explicit
+instruction supported by initial scaffolding, which was gradually reduced to encourage
+student independence. Effective strategies also involved the use of questioning
+techniques to develop critical thinking skills.
+39
+Finally, Ralston et al. (2014) found that effective teacher instructional strategies for
+improving maths outcomes included adjusting the task difficulty, constant time delay, and
+direct instruction.
+1. Direct Instruction (DI), developed by Engelmann and colleagues (2002), refers to a
+structured teaching method, where instruction is delivered explicitly and concisely
+where teachers strategically sequence the lesson, and script everything included
+in a lesson. The teacher begins by presenting, demonstrating, and/or modelling
+specific skills, concepts, and behaviours then they supervise students while they
+practice the ideas or skills presented and provide continuous feedback and
+encouragement. This approach is often paired with visual materials such as
+graphic organisers and includes hands-on activities.
+2. Explicit teaching on the other hand is a broader pedagogical approach where
+learning goals and strategies are made visible to students. It includes clear
+modelling, guided practice, and independent application, but it is not necessarily
+scripted (Archer & Hughes, 2011).
+Additionally, mnemonics was found to be an effective modification of memorisation
+strategies in teaching science-based vocabulary and maths problems across all three of
+these systematic reviews. In the studies reviewed by Therrien et al. (2014), keyword
+mnemonic strategies were compared to traditional vocabulary memorisation with
+flashcards. Students who studied vocabulary using keyword mnemonics performed better
+on daily and cumulative vocabulary tests.
+1. Keyword mnemonics are strategies where keyword and illustration combinations
+are taught and in turn used by students as a prompt to remember the definition of
+the targeted vocabulary word (Atkinson, 1975).
+Lastly, multiple studies in our review found benefits in academic outcomes for children
+and young people with SEMH (reported as EBD in the original study) using peer-
+mediated strategies. Bowman-Perrott et al. (2023) and Dunn et al. (2017) found that
+class-wide peer tutoring and reciprocal peer tutoring (where students take turns being the
+tutor and learner) resulted in improved social (e.g., peer interactions, active responding,
+and cooperative behaviours) and academic (e.g., reading, spelling, maths) outcomes for
+children and young people with SEMH of all ages.
+Therrien et al. (2014) also found that peer-mediated techniques were effective in
+improving engagement and science achievement in two studies. One technique in their
+review involved students taking turns as tutor and tutee during 30-minute sessions over
+four weeks, focusing on vocabulary and comprehension. A behaviour monitoring system
+was also in place in the form of a classroom token economy. One out of two classrooms
+showed a slight improvement in science scores, but both saw increased on-task
+40
+behaviour. Another study in their review compared traditional lecture-based instruction
+with a peer-assisted approach where differentiated, partner-based activities replaced
+worksheet time. Over a 12-week period, the peer-assisted group outperformed the
+traditional group on science content exams and state high-stakes assessments (e.g.,
+GCSEs).
+Instructional support strategies summary
+Prompting
+Schema-based instruction
+Modelling
+Task sequencing
+Daily report cards
+Direct instruction
+Explicit instruction
+Scaffolding
+Mnemonics
+Cover, copy, compare
+Peer-mediated strategies
+Targeted intervention and support
+Pupils who do not make expected progress despite high-quality teaching and universal
+support should receive timely, evidence-informed targeted support, with their
+development regularly reviewed, and such interventions must adhere to principles shown
+to be effective (Law et al., 2012a). In this section we review several findings that address
+targeted support techniques for children and young people with SEMH needs. Although
+many of these approaches will be targeted to the individual needs of the students, many
+can also be implemented in wider classroom settings. Interventions may sometimes
+require mental health professionals with specialist training, such as clinical psychologists,
+counsellors, or psychiatrists. In these cases, we highlight when interventions have been
+carried out by mental health professionals.
+Classroom behaviour and general attainment
+Moore et al. (2018) reviewed 28 randomised controlled trials evaluating 8 different types
+of intervention approaches for children and young people (aged 4 to 18) with ADHD to
+improve either academic outcomes, externalising behaviours, or classroom engagement
+41
+and participation. Combined intervention approaches (i.e., interventions with multiple
+different main components) and daily report cards showed the most promise, with small
+to large positive effects on academic and behavioural outcomes, such as reading, writing,
+homework completion, and classroom behaviour, particularly when parents were involved
+in delivering rewards. Other approaches, including cognitive training, relaxation
+techniques, task modification, self-monitoring, and study skills (delivered in isolation), had
+limited or inconsistent evidence of effectiveness. However, most studies in this review
+were of low quality, and few tested whether improvements lasted over time or worked for
+secondary-aged students. Thus, these findings don't necessarily indicate that these
+approaches don't work, but that more high-quality evidence is needed to determine their
+effectiveness.
+1. Combined interventions refer to approaches that include multiple components,
+often incorporating study and organisational skills training alongside other
+strategies such as social skills development, behaviour modification techniques,
+parent involvement, self-monitoring, and the use of daily report cards. Half of the
+combined interventions were versions of the Challenging Horizons Programme.
+The Challenging Horizons Program is a school-based intervention designed to
+support adolescents with ADHD and related executive function difficulties. It
+focuses on improving academic performance, organisation, time management,
+social skills, and emotional regulation. Results demonstrated small but positive
+effects of these types of interventions on various academic outcomes such as
+reading, writing, improved marks. Large effects were also seen for combined
+ADHD symptoms (i.e., inattention and hyperactivity), though findings for
+inattention and hyperactivity/impulsivity are less certain as the evidence was
+mixed.
+2. When delivered in isolation, some specific study and organisational skills training
+such as the Homework, Organisation, and Planning Skills (HOPS; Langberg et al.,
+2011; 2012) intervention may demonstrate improvements in parent-rated
+homework problems and organisational skills and teacher-rated materials
+management. However, other studies with general planning and organisation
+management training demonstrated little evidence of effectiveness when delivered
+in isolation, suggesting that they should not be the sole focus of an intervention.
+However, it is unclear what these strategies should be combined with to be
+effective. Additionally, HOPS was delivered by a school-based mental health
+practitioner. Therefore, further research is needed to determine whether this
+intervention can be delivered by teachers.
+3. Daily report card interventions are tools used in schools to monitor and reinforce
+target behaviours or academic goals throughout the day. Teachers rate the child's
+performance on specific goals (e.g., staying on task, completing work), and the
+42
+report is sent home daily, often linked to rewards provided by parents or
+caregivers. Moore et al.'s (2018) review showed medium to large beneficial effects
+across behavioural and academic outcomes, particularly when parents were
+involved in delivering rewards based on the daily report card. However, the limited
+number of studies, wide confidence intervals, and high heterogeneity in findings
+highlight the need for more robust evidence to confirm their effectiveness and
+generalisability.
+Overall, based on Moore at al.'s (2018) findings, mainstream educators may find value in
+implementing structured, multi-component interventions (like the Challenging Horizons
+Programme) and using daily report cards, especially when coordinated with parents.
+However, isolated strategies like study skills training or cognitive tasks should not be
+relied on alone. Given some interventions such as Homework, Organisation, and
+Planning Skills (HOPS; Langberg et al., 2011; 2012) were delivered by trained
+specialists, more research is needed to assess which approaches are feasible and
+effective when led by teachers, especially in secondary settings.
+Targeted approaches for classroom behaviour and general attainment summary
+Multi-component interventions including study and organisation skills with social or
+behavioural support such as self-monitoring or social skills training
+Daily report cards
+Exam support for children and young people with ADHD
+Students with SEMH needs may be eligible to receive exam access arrangements (JCQ,
+2024). Common exam access arrangements for students with different types of SEND
+are 25%-50% extra time to complete an exam, a reader (human or pen reader), prompts,
+or small-group/individual invigilation. Although the assessment and application process
+for access arrangements is typically managed by the SENCo or an access arrangements
+coordinator, teachers play a crucial role in identifying students who may require support
+and in implementing access arrangements as part of everyday classroom practice (e.g.,
+Antalek et al., 2025). Thus, it can be useful to understand which access arrangements
+work for different types of needs, and how they might be best implemented. One
+systematic review (Lovett & Nelson, 2021) examined the available evidence on the
+effectiveness of commonly used accommodations for children and young people with
+ADHD.
+Overall, findings demonstrate that there is not one single universal accommodation that
+works for all children and young people with ADHD, and an accommodation does not
+guarantee a better exam outcome. In their review, Lovett and Nelson (2021) found that
+extra time accommodations may have weak evidence of effectiveness, because it does
+not consistently improve performance for students with ADHD more than for their peers
+43
+without ADHD. However, having a human reader for the test or exam questions has
+shown evidence of effectiveness for children and young people with ADHD. This
+accommodation may be beneficial due to reading challenges commonly associated with
+ADHD needs and the implicit redirection provided through reading exam questions.
+Although it has been theorised that completing exams in smaller groups or one-to-one
+may decrease distractions (e.g., Lovett & Lewandowski, 2015), evidence from Lovett and
+Nelson's (2021) systematic review demonstrate that this accommodation may not
+necessarily improve testing performance. However, the authors cite that evidence on the
+efficacy on access arrangements for children with ADHD is still lacking and more large
+scale studies need to be conducted, especially with more common arrangements such as
+prompts or extra time.
+In terms of improving the effectiveness of access arrangements, Lovett and Nelson
+(2021) also reviewed six documents focused on improving current practices for
+supporting students with ADHD. This resulted in a few key important findings. First, in-
+service training can increase teachers' willingness and reported use of accommodations,
+though effectiveness of the accommodation was not evaluated. Second, functional
+assessment offers a promising method for tailoring accommodations to individual needs.
+Finally, training secondary school students with ADHD in self-advocacy can enhance
+their ability to request appropriate support.
+Targeted exam support for children and young people with ADHD summary
+Exam access arrangement as human readers
+Teacher training on exam access arrangements
+Training on using access arrangements for children and young people
+Self-regulation and organisation skills
+Many children with different types of SEND, including those with SEMH needs, often
+experience difficulties with self-regulation, self-monitoring, and organisational skills.
+These challenges are associated with poorer academic outcomes, while improvements in
+these areas have been linked to better educational performance (e.g., Barkley, 2011;
+Forbes & Dahl 2005; Woodword et al., 2017). Self-regulation strategies are effective
+because they provide the structured, scaffolded approaches needed to support attention
+and executive function difficulties as well as motivation to promote independence. For
+example, one systematic review of single-case studies (Alsalamah, 2017) found that
+children with ADHD who were taught various self-monitoring strategies such as using
+cards or checklists demonstrated improvements in classroom engagement,
+preparedness, and on-task behaviour. The use of reinforcements (e.g., stickers, or
+favourite activities) often further improved this behaviour.
+44
+A second systematic review of single-case study designs found that self-regulation
+interventions (e.g., self-monitoring strategies, strategy instruction, and self-regulated
+strategy development) had a moderate positive impact on different academic outcomes
+for children and young people with EBD² aged 5 to 18 (Popham et al., 2018). The
+strongest gains were seen in reading, followed by writing and maths, as well as evidence
+that these benefits were maintained over time and transferred across tasks. Although
+some of these interventions were delivered by researchers, the following interventions
+were also delivered by teachers in classroom settings making them feasible for use in
+mainstream settings.
+1. Self-monitoring interventions, which included strategies such as self-assessment
+and self-recording, monitoring attention and performance, and the WATCH
+strategy. WATCH is an acronym that stands for the steps in the procedure: W -
+Write down an assignment when it is given and write the due date; A - Ask for
+clarification or help on the assignment if needed; T - Task-analyse the assignment
+and schedule the tasks over the days available to complete the assignment; and
+CH- Check all work for completeness, accuracy, and neatness. These approaches
+encouraged pupils to observe and evaluate their own behaviours or work, often
+improving task focus, homework completion, and academic performance through
+increased awareness and accountability.
+2. Strategy instruction approaches involve teaching pupils specific, step-by-step
+techniques to support learning. Examples include self-talk and self-verbalisation
+(to guide thinking during tasks), Touch Math (to support numeracy), and Cover,
+Copy, and Compare (to improve accuracy and fluency in basic skills).
+3. Self-Regulated Strategy Development (SRSD) programmes were the most
+comprehensive, combining explicit strategy instruction with self-regulation
+techniques. These strategies break writing tasks into manageable, explicit steps,
+reducing cognitive load and helping students maintain focus. Common frameworks
+included POW (Pick my idea, Organise my notes, Write and say more) with TREE
+(Topic sentence, Reasons (3 or more), Explain each reason, Ending) for
+persuasive writing, POW with WWW (Who, When, Where) for narrative writing,
+and TWA (Think before reading, Think while reading, Think after reading) with
+PLANS (Pick goals, List ways to meet goals, And make notes, Number your ideas,
+Sequence your ideas) for reading comprehension. Other variants like STOP
+(Suspend judgment, take a side, Organise ideas, Plan more as you write) with
+DARE (Develop your topic sentence, Add supporting ideas, Reject the other side,
+End with a conclusion) and with AIMS (Audience, Intent, Message, Style) provided
+2 While the original study refers to Emotional and Behavioural Difficulties (EBD), this term is no longer
+officially recognised within the English education system. Current terminology has shifted towards "Social,
+Emotional and Mental Health" (SEMH) needs, reflecting a more holistic and nuanced understanding of
+children's wellbeing and support requirements.
+45
+structured supports for planning, drafting, and revising written work. These
+programmes were often adapted to include motivational supports such as
+rewards, reinforcing both skill use and self-regulatory behaviours.
+Self-monitoring and self-regulation strategies may also improve outcomes in maths and
+numeracy. Self-management of attention and self-management of performance on
+mathematics calculations were found to be effective for children with SEMH needs
+(reported as EBD in the original study) in improving on-task behaviour and completion of
+maths problems in one systematic review (Tan, 2016). Different approaches involved
+asking students to indicate whether or not they were on-task at different time intervals
+(e.g., with the sound of a bell), or counting the number of maths problems completed.
+Self-instruction, and multi-component approaches that combined elements from different
+methods have also been effective in improving maths outcomes especially when
+teachers provided explicit instruction to ensure students mastered the strategies before
+applying them independently (Ralston et al., 2014).
+In addition to self-regulation and self-monitoring, children with ADHD often have
+challenges with organisation. Poor organisation skills may affect children's ability to plan,
+prioritise, and organise academic tasks and as task demands increase, organisation
+skills may suffer further. Challenges with these skills may result from underlying
+difficulties with executive functioning. Organisational skills training was found to be an
+effective strategy to improve attention and academic performance in children and young
+people with ADHD across different age groups (aged 5 to 18) (Bikic et al., 2017). These
+organisational skills included organisation of materials (e.g., school materials that need to
+be brought back home), time (e.g., planning and scheduling of assignments due by the
+end of the week), and tasks (e.g., items needed for today's homework project). However,
+in the review by Bikic et al. (2017), all interventions were delivered by specialists, such as
+counsellors or therapists, through family therapy sessions or structured afterschool
+programmes. As such, these interventions are likely best suited for specialist 'tier 3'
+provision, where intensive, individualised support is required.
+Mindfulness training has been shown to improve mental health outcomes, such as stress,
+depression, and anxiety in children and young people (Kallapiran et al., 2015). While it
+may also help with attention and on-task behaviour, the evidence for these effects is
+weaker. Another rapid evidence assessment (Carroll et al., 2017) found that mindfulness
+training may lead to small benefits for attention and on-task behaviour but there was no
+evidence of impact on academic performance or behaviour. Additionally, the number of
+sessions needed varied. However, caution should be taken when using this tool as
+studies have found that mindfulness training can sometimes lead to worse outcomes in
+hyperactivity/inattention and emotional problems (e.g., Kuyken et al., 2022). For example,
+it is possible that mindfulness could lead children and young people to be more aware of
+their negative thoughts and feelings. However, the specific factors that may impact this
+46
+are not currently well-known. More research is needed to determine whether mindfulness
+could be a scalable tool to improve academic related outcomes.
+Targeted self-regulation and organisational interventions summary
+Self-monitoring strategies
+Setting and monitoring goals
+Self-Regulated Strategy Development (SRSD) programmes
+Organisation skills training
+Mindfulness techniques should be used with caution
+Reading interventions
+Students with SEMH needs often experience poor reading outcomes compared to their
+peers and may be poor responders when participating in reading interventions (e.g.,
+Boon et al., 2020; Garwood et al., 2014; Jacobson et al., 2013; Lane, 2007). It has also
+been suggested that students with SEMH needs may experience poorer quality reading
+instruction due to the use of independent seatwork (e.g., tasks to be completed in the
+absence of teacher and/or peer support) and the loss of instructional time in those
+studies that included students with SEMH as study participants (e.g., Vaughn et al.,
+2002). Here we investigate the evidence-base for literacy interventions for students with
+SEMH needs as well as consider studies that have incorporated behavioural supports in
+addition to reading instruction. This synthesis of ten studies from our REA highlights
+several key findings on effective reading interventions for children and young people with
+SEMH.
+Reading instruction approaches
+McKenna et al. (2021b) reviewed studies that investigated reading instruction techniques
+for children and young people with SEMH (reported as EBD in the original study) and
+reading difficulties. Findings suggest that teachers supporting students with EBD in
+reading require enabling conditions to be effective (Bettini et al., 2020). This includes
+access to professional development in evidence-based reading instruction, time for
+collaboration with literacy and behaviour specialists, and structured support systems.
+These conditions can increase the use of effective methods such as explicit code-based
+instruction, vocabulary teaching, differentiated instruction, and peer-mediated
+approaches, thereby improving student engagement. Second, the use of independent
+silent reading should be carefully evaluated for this group. Overreliance on this strategy
+may reduce opportunities for explicit, teacher-led instruction and may inadvertently
+reinforce avoidance behaviours, particularly if used in response to challenging behaviour.
+More effective approaches involve differentiated, structured reading instruction tailored to
+47
+the learner's current level, integrated with skill-building in connected texts, and supported
+by positive behaviour strategies.
+Direct Instruction in reading was also found to be an effective strategy in supporting a
+range of reading outcomes (e.g., reading fluency and phonological skills) for children and
+young people with EBD³ (Burke et al., 2015; 2023; Chitiyo et al., 2023; Garwood et al.,
+2014) and with ADHD (Stewart & Austin, 2019). Studies in the reviews used the
+'Corrective Reading Thinking Basics: Comprehension Level A' program, which included
+scripted lessons, choral responses, teacher signals, corrective feedback, explicit
+modelling, guided practice, and independent work. The intervention showed strong
+effects.
+Reading and behavioural interventions
+Roberts et al. (2020) investigated group design reading or behaviour interventions for
+Kindergarten-grade 12 students (age 5 to 18) with co-occurring reading difficulties and
+behaviour difficulties (e.g., externalising behaviours, internalising behaviours, ADHD).
+They found that small-group reading interventions for students aged 5 to 16 with
+significant reading difficulties and SEMH needs or ADHD had a large positive effect on
+reading outcomes. Specifically, for younger students (aged 5 to 11), the reading
+interventions targeted alphabetic principles, phonological awareness, or phonics. Only
+one study investigated reading interventions in older learners (age 12 to 16) and focused
+on reading comprehension.
+The specific programmes evaluated in the review were as follows:
+1. The Phonological Awareness Training for Reading (PATR; Torgesen & Bryant,
+1994a) is a supplemental early reading curriculum designed to promote
+awareness of words' sound structure by helping students learn how spoken
+language is represented by letters. There are four different activities involved in
+PATR: (a) rhyming,(b) blending, (c) segmenting, and (d) reading and spelling.
+2. Stepping Stones to Literacy is an early literacy intervention designed to improve
+foundational skills in phonemic awareness, vocabulary, and early decoding,
+typically targeting children at risk for reading difficulties in kindergarten or early
+Year 1. It consists of structured, short daily lessons (usually around 25 minutes)
+delivered over several weeks, often in small groups, and includes activities such
+as sound sorting, rhyming, and initial sound matching, aiming to build pre-reading
+skills essential for later literacy development (Schuele et al., 2008). In the studies
+included in Robert et al.'s (2020) review, the lessons were delivered in a one-to-
+3 While the original study refers to Emotional and Behavioural Difficulties (EBD), this term is no longer
+officially recognised within the English education system. Current terminology has shifted towards "Social,
+Emotional and Mental Health" (SEMH) needs, reflecting a more holistic and nuanced understanding of
+children's wellbeing and support requirements.
+48
+one format by trained paraprofessional-level tutors (project staff) during the school
+day. The tutor training included information on theory and rationale. Instructional
+activities were modelled to the tutors and tutors then had opportunities to practice
+with corrective feedback. Then tutors were observed delivering three complete
+lessons selected randomly. The tutors were required to implement at least 90% of
+the Stepping Stones lesson components (i.e., n = 15) as prescribed prior to
+tutoring children. Finally, after training had completed, tutors were observed and
+provided with corrective feedback, if necessary, while tutoring children during the
+first five lessons.
+3. The Phonological Analysis and Blending (PHAB) and the Word Identification and
+Strategy Training (WIST) were developed and validated by Lovett and colleagues
+for use with children with reading difficulties (Lovett et al., 1994; Lovett, et al.,
+2000). Both programmes provide intensive instruction in word decoding and text
+reading. PHAB, delivered using a Direct Instruction approach, incorporates
+lessons from the Reading Mastery I/II Fast Cycle and Corrective Reading
+programmes (Engelmann & Bruner, 1988; Engelmann, Carnine, & Johnson, 1988;
+Engelmann, Johnson, et al., 1988), focusing on phonological analysis,
+phonological blending, and letter-sound associations within the context of word
+recognition and decoding. In contrast, WIST teaches children to apply and monitor
+four metacognitive decoding strategies: identifying words by analogy, recognising
+familiar word parts, using flexible vowel pronunciations, and removing prefixes and
+suffixes. These strategies are based on the Benchmark School Word
+Identification/Vocabulary Development Program (Gaskins, Downer, & Gaskins,
+1986).
+4. Reading Mastery I is a Direct Instruction program which provides students with
+daily structured phonics instruction. This programme is aimed kindergarten to
+early Year 1 (ages 5-7) and can also be effective for children without SEND
+(Adams & Engelmann, 1996). Reading Mastery I is composed of several key
+features (e.g., signals, repetition) used to teach the basic reading skills (i.e.,
+sounds; pronunciation; sequencing; blends; sounding out skills; regular, rhyming,
+and irregular words) (Engelmann & Bruner, 1988). Like other Direct Instruction
+programmes, Reading Mastery I includes daily scripted lessons beginning with
+basic decoding and reading comprehension skills and works towards reading
+fluency. Reading Mastery I is also sequenced to avoid confusion between letters
+(e.g., b, d) and is designed to build upon the prior day's material with similar
+sounds, words, and activities.
+5. The Great Leaps program (Mercer & Campbell, 1998) is a phonics programme
+composed of three parts (i.e., phonics, sight phrases, oral reading selections)
+designed to increase reading fluency and comprehension for beginning readers
+49
+and students at risk for developing reading difficulties. Only the phonics section,
+including sound awareness and letter recognition probes, were used in Roberts et
+al. (2021) review as a supplement to Reading Mastery I. Researchers were trained
+and supervised to implement the Reading Mastery I and Great Leaps curricula.
+Their training included a two-day workshop covering instructional techniques such
+as signalling, pacing, error correction, and daily lesson delivery. They were shown
+program models by trainers experienced in using the programmes, practised
+implementation, and received feedback during follow-up sessions. Once the study
+began, biweekly observations were conducted over seven months by a trained
+researcher, using a Direct Instruction Observation Form to monitor key teaching
+elements and provide ongoing written and verbal feedback.
+6. The Sound Partners programmes (Vadasy & Sanders, 2007; Vadasy et al., 2005)
+are early reading interventions designed for use with beginning readers who are at
+risk of reading difficulties. These programs focus on phonics-based instruction
+including phonemic awareness, letter-sound correspondence, decoding, and
+fluency and are typically delivered in one-to-one settings.
+Interestingly, interventions in Roberts et al.'s (2020) review without a behaviour support
+component were associated with better reading outcomes than those that combined
+reading and behaviour support. In other words, there was no evidence of collateral
+impacts (i.e., reading interventions improving behaviour and behaviour interventions
+improving reading). The authors highlight the need for more intervention research to fully
+understand how reading and behaviour difficulties interact and how best to design
+effective programs for these students.
+Behaviour interventions, particularly self-monitoring and function-based approaches have
+also showed positive effects on student engagement and reductions in disruptive
+behaviour, but no studies examined their impact on reading outcomes. Function-based
+interventions are behaviour support strategies designed to address the specific reason
+(function) why a student is engaging in a challenging or disruptive behaviour. Instead of
+applying a generic consequence or rule, function-based interventions first identify the
+purpose that the behaviour serves for the student, such as getting attention, escaping a
+task, accessing something tangible, or gaining sensory stimulation, and then design
+supports that meet the student's needs in a more appropriate way.
+Roberts et al. (2023) conducted a further systematic review which investigated
+behavioural interventions and reading interventions in children and young people
+specifically with inattentive ADHD and co-occurring reading difficulties (Roberts et al.,
+2023). This synthesis of 14 single-case design studies found that reading interventions
+can improve word reading and reading comprehension for students with reading
+difficulties and inattention, though results were stronger when comprehension strategies
+50
+were embedded rather than focusing solely on sight words or passage reading. No
+studies assessed whether reading interventions also improved behaviour outcomes.
+Overall, the findings highlight a need for more research that explores the academic
+effects of behaviour interventions and the behavioural effects of reading interventions for
+this student group.
+In three systematic reviews, Burke et al. (2015; 2023) and Garwood et al. (2014)
+synthesised findings from 20 single-case design studies focused on reading interventions
+for students in multiple age groups (age 11 to 18) with, or at risk for, SEMH needs
+(reported as EBD in the original study). The intervention strategies varied in terms of
+delivery setting, dosage, targeted skills, and outcome measures. These reading
+interventions included:
+Repeated reading with error correction and performance feedback with a therapy
+dog
+Headsprout Comprehension with a basal reading instruction program
+Teacher model
+Computer model
+Self-graphing
+Intertrial intervals
+Immediate intertrial intervals with a 5-second delay
+Peer-mediated repeated reading
+Sight-word instruction
+Choice instructional method and contingency strategy
+Graphic organisers
+Listening
+Text maps
+Repeated reading
+A modified version of the Direct Instruction Corrective Reading program
+The Corrective Reading program plus repeated reading
+Teach Your Child to Read in 100 Easy Lessons, the Great Leaps Reading
+program.
+A number of reading outcomes were also measured including reading fluency, reading
+accuracy, and reading comprehension. Some interventions produced strong results for
+51
+reading outcomes, such as word reading accuracy, but weaker or even negative effects
+for behaviour outcomes, highlighting inconsistency in addressing the dual academic and
+behavioural challenges common in students with SEMH (reported as EBD in the original
+study).
+Although most techniques resulted in positive outcomes when findings were aggregated,
+the outcomes varied across the individual studies included in the REA. Repeated reading
+interventions showed relatively small effects. This finding was also established by
+another systematic review in our REA by Collins et al. (2023) who reviewed single-case
+studies investigating repeated reading strategies for children and young people with
+SEMH. On the other hand, the use of student-generated graphic organisers and teacher
+modelling had the largest effects.
+Targeted reading interventions summary
+Direct instruction
+Student-generated graphic organisers
+Teacher modelling
+Writing interventions
+Students with SEMH needs often struggle with expressive writing, including tasks such
+as expressing feelings, forming opinions, and exploring ideas (Cramer & Mason, 2014;
+Lane, 2004). Additionally, research also shows that students with SEMH needs tend to
+perform poorly on written language assessments, with expressive language being a
+common area of difficulty (Benner et al., 2002).
+Self-Regulated Strategy Development (SRSD) has been identified as an effective,
+evidence-based approach for improving persuasive writing skills in students with SEMH
+needs, with all studies using SRSD reporting positive outcomes (Ennis & Jolivette,
+2014a; Losinski et al., 2014; Sreckovic et al., 2014). Despite increasing interest in literacy
+interventions for this group, research remains limited, averaging fewer than three studies
+per year over the past decade according to the reviews in our REA.
+Although peer-mediated instruction is widely recommended for supporting both reading
+and behaviour in students with SEMH needs (Ryan et al., 2004; Watts et al., 2019), none
+of the studies in our REA reported using this approach. Peer tutoring, whether cross-age
+or same-age, can help address teacher-student ratio issues and reduce the need for one-
+on-one instruction.
+Several limitations in the evidence base reduce confidence in these findings across all
+interventions. Most studies were single-case designs, which offer insight into individual
+student responses but limit generalisability. Additionally, many used researcher-
+52
+developed rather than standardised assessments, making comparisons difficult. Finally,
+most interventions were delivered by researchers or specialists, raising questions about
+how easily they could be implemented by mainstream teachers.
+Summary of support and intervention findings
+Our REA identified a total of 33 reviews dedicated to the support and intervention
+strategies that mainstream educators can use to support educational outcomes for
+children and young people with SEMH needs.
+High-quality teaching for children and young people with SEMH needs consisting of
+whole school behavioural strategies such as token economies or check-in/check-out
+strategies are shown to be effective for pupils with SEMH needs, especially those with
+behavioural challenges. However, strong senior leadership and coordination is important
+in effectively implementing these strategies. It is also important that strategies are applied
+with careful consideration of individual needs rather than a blanket policy so that these
+strategies create a positive, supportive, and inclusive environment rather than alienating
+pupils. To this extent, educator knowledge and understanding of SEMH needs are
+important in understanding what support individual children and young people might
+need.
+At the classroom level, incorporating targeted and behaviour-specific praise and rewards
+to help reinforce positive interactions and motivate students, especially those with
+behavioural challenges, can result in a number of positive academic and participation
+and engagement outcomes. Teachers can also leverage the interests and motivations of
+children with SEMH needs by providing choice in instruction as well as more
+opportunities for engagement in discussions. Hands-on activities can also be effective in
+motivating and sustaining on-task behaviour of children and young people with SEMH
+needs leading to improved educational outcomes. Teachers should consider students'
+preferences and adjust strategies accordingly.
+A range of instructional techniques have been shown to support learners with SEMH
+needs, including prompting, schema-based instruction, modelling, task sequencing, daily
+report cards, Direct Instruction, explicit instruction, scaffolding, mnemonics, and cover-
+copy-compare (for maths). These methods reduce cognitive and emotional load by
+clarifying expectations, breaking learning into manageable steps, and reinforcing positive
+behaviours. Explicit approaches (e.g. Direct Instruction) reduce ambiguity and support
+engagement; while scaffolding and modelling offer guided learning. Tools like daily report
+cards promote self-regulation and home-school communication, and memory aids such
+as mnemonics and cover-copy-compare support fluency for learners with attention or
+executive function difficulties.
+53
+Targeted approaches that were found to be effective used similar approaches such as
+Direct Instruction, explicit teaching, modelling, scaffolding, prompting and visual supports.
+Children and young people with SEMH needs may also benefit from self-regulation, self-
+monitoring and organisation skills. Self-Regulated Strategy Development can also be
+effective in improving writing outcomes for this group. However, some of these
+techniques may need specialists or training to implement. It is also important for teachers
+and teaching assistants to support SENCos in organising and implementing exam access
+arrangements for more effective exam outcomes. Training for teachers and for students
+is also useful in further improving efficacy of access arrangements.
+Students with SEMH needs often experience lower reading outcomes than their peers
+and may respond less effectively to reading interventions. Our REA identified several
+effective intervention strategies across different age groups and targeting different
+reading skills, with Direct Instruction emerging as the most consistently effective
+approach across multiple systematic reviews. Programmes such as Corrective Reading,
+Reading Mastery, PHAB/DI, Sound Partners, and Stepping Stones to Literacy showed
+positive impacts on word reading, decoding, and comprehension, particularly for younger
+students. Peer-mediated strategies and student-generated graphic organisers also
+showed promise.
+In contrast, repeated reading strategies produced weaker effects, and evidence on
+combined reading-behaviour interventions was mixed, with no strong indication that one
+improves the other. Findings from group-based studies suggested that targeted reading
+programmes delivered in small groups can lead to strong gains for students with co-
+occurring reading and behaviour difficulties. Again, some of these programmes may
+require training from an experienced user to administer effectively.
+However, a large proportion of the systematic reviews in our REA focusing on reading
+interventions for children and young people with SEMH focused on single-case designs
+which may pose limitations on the reliability and generalisability of the evidence in this
+section. Single-case designs are useful for understanding how individual students
+respond to an intervention, especially in specialist settings or with pupils who have
+complex needs. However, they have limitations when it comes to proving how effective
+something truly is. As these studies involve only one or a few participants, the results
+can't easily be generalised to larger groups. They also often lack a comparison group,
+making it difficult to know whether improvements are due to the intervention itself or other
+factors, such as changes in environment or natural development. While they offer
+detailed insights, single-case designs provide a lower level of evidence compared to
+larger, well-controlled studies. There is a need for evaluations conducted by teachers or
+support staff in real-world school contexts, rather than by researchers.
+54
+Conclusions
+This REA investigated effective tools for the identification, assessment, support, and
+collaborative practices for children and young people with SEMH needs. These findings
+aimed to support mainstream educators in supporting the educational outcomes of
+children and young people with SEMH needs.
+Findings highlight the importance of adopting a whole-school, needs-based approach to
+the identification and support of SEMH needs in mainstream education. While a range of
+evidence-based tools and strategies exist, their effectiveness depends on careful
+implementation, strong leadership, and educators' understanding of SEMH. Screening
+and assessment are most effective when they draw on multiple informants and are used
+to guide support, rather than to diagnose or label. At the classroom level, structured
+instructional strategies, targeted praise, and opportunities for engagement can enhance
+participation, self-regulation, and academic outcomes. Direct Instruction programmes and
+targeted reading interventions show particular promise, though training and resources
+are often required.
+However, significant gaps remain. Evidence is disproportionately weighted towards
+externalising difficulties, while internalising needs and pupil voice are underrepresented.
+Many studies also rely on single-case designs, limiting generalisability. Future research
+should prioritise scalable, teacher-led evaluations in real-world contexts, alongside
+greater attention to internalising needs and the active involvement of pupils in shaping
+their support. Addressing these gaps will be essential in developing sustainable, inclusive
+practices that enable all children and young people with SEMH needs to thrive in
+mainstream education.
+55
+Appendices
+Appendix A: Search terms (PICOS criteria)
+We conducted 15 separate searches across five rapid review categories, each focused
+on a distinct population: SEMH, SLCN, autism, sensory and/or physical needs, and
+cognition and learning. For each population, three searches were performed, focusing
+on: identification terms, support terms, and working with others. The intervention,
+comparison, and study type remained consistent across all searches, while the
+population and outcome terms varied to capture the unique characteristics of each group.
+This approach ensured a comprehensive examination of the research literature across
+the different populations. PICOS stands for: (1) Population; (2) Intervention; (3)
+Comparison; (4) Outcomes; and (5) Study type.
+Population:
+Population terms: "adolescent" OR child* OR "children and young people" OR kid*
+OR "post 16" OR pupil* OR "school aged" OR student* OR teen* OR "young
+learner*" OR "young people" OR "young person" OR youth
+Educational setting terms: "alternat* educat*" OR class* OR "class* setting" OR
+"comprehensive school*" OR "early year*" OR educat* OR elementary OR
+"elementary school*" OR "extra-curricular setting*" OR "further educat*" OR
+"further educat* setting*" OR "grammar school*" OR "high school" OR "higher
+educat*" OR inclus* OR kindergarten OR "learning environment*" OR mainstream*
+OR "middle school*" OR nursery OR preschool OR "primary educat*" OR "primary
+school*" OR reception OR "remedi* class*" OR "school setting" OR school* OR
+"secondary education*" OR "secondary school*" OR "special educat*" OR
+"university" OR "whole school" OR "independent school"
+General SEND terms: SEND OR SEN OR "special educat* need*" OR "special
+need*" OR "learning difficult*" OR "learning disab*" OR "learning difference" OR
+"additional need*" OR impair* OR disorder* OR neurodivergent OR "additional
+learning need"
+SEMH needs terms: ADD OR ADHD OR EBD OR OCD OR SEMH OR "affect*
+disorder*" OR anxiet* OR "anxiety disorder*" OR "attention deficit disorder" OR
+"attention deficit hyperactivity disorder" OR "attention deficit*" OR "attention
+difficult*" OR "behavior disorder*" OR "behavior problem*" OR "conduct disorder*"
+OR "conduct problem*" OR depress* OR "emotion* regulat*" OR "emotional and
+behaviral difficulties" OR "emotional disorder" OR "emotional problem*" OR
+"emotional symptom*" OR "emotional wellbeing" OR hyperactivity OR inattention
+OR "mental disorder*" OR "mental health" OR "mental illness*" OR "mood
+disorder*" OR "obsessive compulsive disorder*" OR "oppositional defiant
+56
+disorder*" OR "peer relation* problem*" OR "psychiatric disorder*" OR
+"psychological health" OR "psychosocial difficult*" OR "self-esteem" OR "self-
+regulat*" OR "social emotional and mental health" OR "social emotional*"
+Intervention:
+Identification terms: assess* OR "assessment app*" OR "assessment tools" OR
+"behavio* checklist*" OR checklist OR "class* assess*" OR "classroom
+observation" OR "cognitive assess*" OR "computer* app" OR "curriculum-based
+measure" OR diagnos* OR "dynamic assessment" OR "early screening tools" OR
+"educational assessment tool*" OR evaluate OR "formal assess*" OR "formative
+assess*" OR "graduated approach" OR identif* OR "informal assess*" OR
+measure OR "multi-disciplinary assessment" OR MTSS OR "multi-tiered system of
+supports" OR "neuro* assess*" OR observ* OR "parent* report" OR "pupil
+observation" OR "response to intervention" OR RTI OR screen* OR "self-
+assessment" OR "self-report" OR "smartphone app*" OR "standard* test*" OR
+"student observation" OR "tablet app*" OR "teacher judgment*" OR "teacher
+observation" OR tool* OR "performance-based"
+Support terms: "classroom environment" OR "SEN support" OR "SEND support"
+OR SWPBS OR accommodat* OR adaptat* OR approach OR "assistive tech*" OR
+"classroom interve*" OR "collaborative teach*" OR curriculum OR "curriculum
+adapt*" OR "differentiat* instruction" OR "digital learning" OR "early interven*" OR
+"education* program*" OR "education* support" OR "evidence-based interven*"
+OR "evidence-informed interven*" OR "exam access arrangement*" OR "exam
+accommodat*" OR "graduated approach" OR "group intervention" OR "high-quality
+instruct*" OR "high-quality teach*" OR inclus* OR "inclusive education" OR
+"inclusive practice" OR "individual support" OR "individual* education plan*" OR
+"instruct" OR interven* OR integrat* OR "mainstream class* support" OR
+"mainstream education" OR "mainstream environment" OR "multimedia learning
+environment" OR "multi-tiered system* of support" OR "one-to-one" OR "parental
+support" OR pedagog* OR "peer support" OR personali*ed OR provision OR
+remediat OR "school support service*" OR "school-based" OR "special* interven*"
+OR "special* support" OR "specialist teach* support" OR support* OR strateg* OR
+"targeted interven*" OR "target* teach* strateg*" OR targeted OR "targeted
+support" OR teach* OR "teach* adaptation*" OR "teach* principle*" OR "teach*
+strateg*" OR "teach* approach" OR therapy OR "tier 1 interven*" OR "tier 1
+support" OR "tier 2 interve*" OR "tier 2 support" OR "tier 3 interven*" OR "tier 3
+support" OR treat* OR "universal design" OR "universal interven*" OR "universal
+provision" OR "universal support" OR "whole-class support" OR "whole-class
+teaching"
+57
+Working with others terms: collabor* OR parent* OR carer OR caregiver OR famil*
+OR specialist* OR "specialist teacher" OR teacher OR educator OR TA OR
+"teaching assistant*" OR "support staff" OR "educational psychologist*" OR EP OR
+SLT or SLP or "speech and language therapist*" OR "speech and language
+pathologist*" OR "speech therapist" OR "speech pathologist" OR "health visitor"
+OR HV* OR "Ed Psych" OR counsel* OR "mental health support workers" OR
+"child and adolescent mental health service" OR CAHMS OR psychologist* or
+therapist* OR "learning support assistant" OR LSA OR "communication support
+worker" OR QTOD OR QTMSI OR QTVI OR "co-production" OR "joint working"
+OR "healthcare professional" OR "personal carer" OR "occupational therapist"
+"Inter-professional collaboration" OR IPC OR expert OR clinician OR nurse
+Comparison:
+Left blank to include studies without comparison groups
+Outcome:
+Identification terms: N/A Not needed for identification terms as there is not
+always a specific outcome
+Behavioural, Inclusion, Motivation, and Engagement terms: attendance OR
+"behavio* outcomes" OR "behavio* regulation" OR "behavio* improvement" OR
+"cognitive development" OR "communication skills" OR criminal OR economic OR
+employment OR engage* OR financial OR "functional independence" OR
+"functional skills development" OR "access to learning" OR "improvement in
+learning" OR "inclusive classroom" OR "increase* inclusion" OR "independent
+living" OR independent* OR "mental health outcomes" OR motivate* OR offend
+OR "prosocial behavio* OR "reduce* learning barriers" OR "reduce* symptom*"
+OR "self-regulat*" OR "school performance" OR "school retention" OR "social
+inclusion" OR "social-emotional development" OR "teacher perceptions of student
+progress" OR "well-being" OR workplace
+Educational outcomes (General): "academic achievement" OR "academic
+progress*" OR "academic attainment" OR "academic measure" OR "academic
+performance" OR "additional learning support*" OR "educat* achievement" OR
+"educat* assess*" OR "educat* attainment" OR "educat* measure" OR "educat*
+outcome*" OR "educat* performance" OR "educat* progress" "executive function*"
+OR "functional skill* develop*"OR "improve* learning" OR learn* OR "learning
+progress" OR "problem solving" OR "reduced learning barriers" OR "school
+outcome*" OR "school performance" OR "school retention"
+Literacy outcomes: read* OR literacy OR "letter recognition" OR "letter-sound
+knowledge" OR "word reading" OR phonic* OR phonolog* OR "reading
+58
+comprehension" OR "reading accuracy" OR "reading fluency" OR "reading delay*"
+OR "print knowledge" OR decod* OR "alphabet knowledge" OR "listening
+comprehension" OR "word recognition" OR "sentence completion"
+Writing outcomes: writ* OR literacy OR punctuation OR spelling OR "sentence
+writing" OR "free writing" OR "early writing" OR "emergent writing" OR "guided
+writing" OR "writing fluency" OR handwriting OR "interactive writing" OR "letter
+typing" OR "sentence completion"
+Mathematics outcomes: math* OR numer* OR numb* "number sense" OR
+arithmetic* OR geomet* OR shape OR calcul* OR algebra OR counting OR
+addition OR subtraction OR multiplication OR division OR fractions OR statistics*
+OR "place value" OR "math* competenc*" OR "math* concept*" OR "math*
+knowledge"
+Working with others terms: collaboration* or partnership* or co-practice* or
+multidisciplinary* or transdisciplinary or interdisciplinary
+Study type:
+Review type: review OR "systematic review" OR "meta-analysis" OR "narrative
+review"
+59
+References
+*Indicates references retrieved from the rapid review
+ABIKOFF, H. B., JENSEN, P. S., ARNOLD, L. L., HOZA, B., HECHTMAN, L., POLLACK,
+S., MARTIN, D., ALVIR, J., MARCH, J. S., HINSHAW, S., VITIELLO, B.,
+NEWCORN, J., GREINER, A., CANTWELL, D. P., CONNERS, C. K., ELLIOTT,
+G., GREENHILL, L. L., KRAEMER, H., PELHAM, W.E., JR., SEVERE, J. B.,
+SWANSON, J. M., WELLS, K. & WIGAL, T. 2002. Observed classroom behavior
+of children with ADHD: relationship to gender and comorbidity. Journal of
+Abnormal Child Psychology, 30, 349-59.
+ADAMS, G. & ENGELMANN, S. 1996. Research on Direct Instruction: 25 Years beyond
+DISTAR, Seattle, WA., Educational Achievement Systems.
+*ADAMSON, R. M. & WACHSMUTH, S. T. 2014. A Review of Direct Observation
+Research within the past Decade in the Field of Emotional and Behavioral
+Disorders. Behavioral Disorders, 39, 181-189.
+*ALLEN, A. N., KILGUS, S. P., BURNS, M. K. & HODGSON, C. 2018. Surveillance of
+Internalizing Behaviors: A Reliability and Validity Generalization Study of Universal
+Screening Evidence. School Mental Health, 11, 194-209.
+*ALSALAMAH, A. 2017. Use of the Self-Monitoring Strategy among Students wiht
+Attention DEficit Hyperacitivty Disorder: A systematics Review. Journal of
+Education and Practice, 8, 118-125.
+*ANDERSON, J. K., FORD, T., SONESON, E., COON, J. T., HUMPHREY, A., ROGERS,
+M., MOORE, D., JONES, P. B., CLARKE, E. & HOWARTH, E. 2019. A systematic
+review of effectiveness and cost-effectiveness of school-based identification of
+children and young people at risk of, or currently experiencing mental health
+difficulties. Psychological Medicine, 49, 9-19.
+ANTALEK, C., ROBERTS, A. & SUMNER, E. 2025. Understanding exam access
+arrangements in practice: challenges and opportunities. Preprint.
+ARCHER, A. & HUGHES, C. 2011. Explicit Instruction: Effective and Efficient Teaching,
+New York, Guiford Publications.
+ARNOLD, C. & BAKER, T. 2012. Transitions from school to work: Applying psychology
+to'NEET'. Educational & Child Psychology, 29.
+60
+ATKINSON, R. C. 1975. Mnemotechnics in second-language learning. American
+Psychologist, 30, 821-828.
+BARKLEY, R. A. 2011. Attention-deficit/hyperactivity disorder, self-regulation, and
+executive functioning. Handbook of self-regulation: Research, theory, and
+applications, 2nd ed. New York, NY, US: The Guilford Press.
+BECKER, B. E. & LUTHAR, S. S. 2002. Social-emotional factors affecting achivement
+outcomes among disadvantaged students: Closing the achivement gap.
+Educational Psychologist, 37, 197-214.
+*BECKER-HAIMES, E. M., TABACHNICK, A. R., LAST, B. S., STEWART, R. E.,
+HASAN-GRANIER, A. & BEIDAS, R. S. 2020. Evidence Base Update for Brief,
+Free, and Accessible Youth Mental Health Measures. Journal of Clinical Child &
+Adolescent Psychology, 49, 1-17.
+BENNER, G. J., NELSON, J. R. & EPSTEIN, M. H. 2002. Language Skills of Children
+with EBD:A Literature Review. Journal of Emotional and Behavioral Disorders, 10,
+43-56.
+BETTINI, E., CUMMING, M. M., BRUNSTING, N. C., MCKENNA, J. W., COOPER
+SCHNEIDER, C., MULLER, R. & PEYTON, D. 2020. Administrators' Roles:
+Providing Special Educators with Opportunities to Learn and Enact Effective
+Reading Practices for Students With EBD. Beyond Behavior, 29, 52-61.
+*BIKIC, A., REICHOW, B., MCCAULEY, S. A., IBRAHIM, K. & SUKHODOLSKY, D. G.
+2017. Meta-analysis of organizational skills interventions for children and
+adolescents with Attention-Deficit/Hyperactivity Disorder. Clinical Psychology
+Review, 52, 108-123.
+BLANCO-BAYO, A. & RERAKI, M. 2025. So, what is it then; special need, SEMH, both
+or none? An assessment framework to value their interplay. Emotional and
+Behavioural Difficulties, 30, 88-101.
+BOON, R. T., BURKE, M. D. & BOWMAN-PERROTT, L. 2020. Literacy instruction for
+students with emotional and behavioral disorders: Research-based interventions
+for classroom practice, IAP.
+*BOWMAN-PERROTT, L., RAGAN, K., BOON, R.T. AND BURKE, M.D., 2023. Peer
+tutoring interventions for students with or at-risk for emotional and behavioral
+disorders: A systematic review of reviews. Behavior Modification, 47(3), pp. .777-
+815.
+61
+BURKE, M. D., BOON, R. T., BOWMAN-PERROTT, L. & HATTON, H. 2023. In Need of
+a Research Base: Evidence-Based Reading Interventions for Elementary Students
+with Overlapping EBD and LD. Learning Disabilities: A Contemporary Journal, 21,
+87-110.
+*BURKE, M. D., BOON, R. T., HATTON, H. & BOWMAN-PERROTT, L. 2015. Reading
+Interventions for Middle and Secondary Students With Emotional and Behavioral
+Disorders:A Quantitative Review of Single-Case Studies. Behavior Modification,
+39, 43-68.
+CAFARO, C. L., GONZALEZ MOLINA, E., PATTON, E., MCMAHON, S. D. & BROWN,
+M. 2023. Meta-analyses of teacher-delivered trauma-based and trauma-informed
+care interventions. Psychological Trauma, 15, 1177-1187.
+CAMPBELL, A. R., BOWMAN-PERROTT, L., BURKE, M. D. & SALLESE, M. R. 2018.
+Reading, Writing, Math, and Content-Area Interventions for Improving Behavioral
+and Academic Outcomes of Students with Emotional and Behavioral Disorders.
+Learning Disabilities: A Contemporary Journal, 16, 119-138.
+CARROLL, C. & HURRY, J. 2018. Supporting pupils in school with social, emotional and
+mental health needs: a scoping review of the literature. Emotional and behavioural
+difficulties, 23, 310-325.
+*CARROLL, J., BRADLEY, L., CRAWFORD, H., HANNANT, P., JOHNSON, H. &
+THOMPSON, A. 2017. SEN support: A rapid evidence assessment, Department
+for Education.
+CHAFOULEAS, S. M., VOLPE, R. J., GRESHAM, F. M. & COOK, C. R. 2010. School-
+based behavioral assessment within problem-solving models: Current status and
+future directions. School Psychology Review, 39, 343-349.
+*CHITIYO, A., KING, S., WOJTON, J. & DZENGA, C. 2023. Evidence Based Reading
+Interventions for Students with EBD: A Systematic Review and Quality Evaluation
+of Research Methods. Learning Disabilities: A Contemporary Journal, 21, 133-
+157.
+*COLLINS, L. W., COOK, S. E. C., NINCI, J. & WEINGRAD, I. 2023. The Effects of
+Repeated Reading on Fluency for Students With and at Risk for EBD: An
+Evidence-Based Review. Behavioral Disorders, 49, 46-60.
+62
+COOK, C. R., RASETSHWANE, K. B., TRUELSON, E., GRANT, S., DART, E. H.,
+COLLINS, T. A. & SPRAGUE, J. 2011. Development and Validation of the Student
+Internalizing Behavior Screener: Examination of Reliability, Validity, and
+Classification Accuracy. Assessment for Effective Intervention, 36, 71-79.
+CRAMER, A. M. & MASON, L. H. 2014. The Effects of Strategy Instruction for Writing
+and Revising Persuasive Quick Writes for Middle School Students with Emotional
+and Behavioral Disorders. Behavioral Disorders, 40, 37-51.
+DARNEY, D., REINKE, W.M., HERMAN, K. C., STORMONT, M. & IALONGO, N. S.
+2013. Children with co-occurring academic and behavior problems in first grade:
+distal outcomes in twelfth grade. Journal of School Psychology, 51, 117-28.
+*DART, E. H., ARORA, P. G., COLLINS, T. A. & DOLL, B. 2019. Progress Monitoring
+Measures for Internalizing Symptoms: A Systematic Review of the Peer-Reviewed
+Literature. School Mental Health, 11, 265-275.
+DFE 2015. Special educational needs and disability code of practice: 0 to 25 years
+(Updated 2024). UK Government.
+DFE 2025. Special educational needs in England: 2024-25. UK Government.
+DILALLA, L. F., MARCUS, J. L. & WRIGHT-PHILLIPS, M. V. 2004. Longitudinal effects
+of preschool behavioral styles on early adolescent school performance. Journal of
+School Psychology, 42, 385-401.
+DRUMMOND, T. 1994. Student Risk Screening Scale (SRSS), APA PsychTests.
+*DUNN, M.E., SHELNUT, J., RYAN, J.B. AND KATSIYANNIS, A., 2017. A systematic
+review of peer-mediated interventions on the academic achievement of students
+with emotional/behavioral disorders. Education and Treatment of Children, 40(4),
+pp.497-524.
+ENGELMANN, S. & BRUNER, E. C. 1988. Reading mastery I/II fast cycle: teacher's
+guide, Chicago, Science Research Associates.
+ENGELMANN, S., HADDOX, P., HANNER, S. & OSBORN, J. 2002. Corrective reading
+thinking basics: Comprehension level A, Columbus, OH, SRA/McGraw-Hill.
+ENGELMANN, S., JOHNSON, G., CARNINE, L., MEYER, L., BECKER, W. & EISELE, J.
+1988a. Corrective reading: decoding strategies, decoding B1, Chicago, Science
+Research Associates.
+ENGELMANN, S., JOHNSON, G. L. & CARNINE, L. 1988b. Corrective reading: word
+attack basics, decoding A., Chicago, Science Research Associates.
+63
+ENNIS, R. P. & JOLIVETTE, K. 2014. Existing research and future directions for self-
+regulated strategy development with students with and at risk for emotional and
+behavioral disorders. The Journal of Special Education, 48, 32-45.
+*FABIANO, G. A., SCHATZ, N. K., ALOE, A. M., CHACKO, A. & CHRONIS-TUSCANO,
+A. 2015. A Systematic Review of Meta-Analyses of Psychosocial Treatment for
+Attention-Deficit/Hyperactivity Disorder. Clinical Child and Family Psychology
+Review, 18, 77-97.
+FORBES, E. E. & DAHL, R. E. 2005. Neural systems of positive affect: Relevance to
+understanding child and adolescent depression? Development and
+Psychopathology, 17, 827-850.
+FUCHS, L. S. & FUCHS, D. 2006. Introduction to response to intervention: What, why,
+and how valid is it? Reading Research Quarterly, 41, 93-99.
+FUCHS, L. S. & FUCHS, D. 2009. On the Importance of a Unified Model of
+Responsiveness to Intervention. Child Development Perspectives, 3, 41-43.
+*GARCIA-ROSALES, A., CORTESE, S. & VITORATOU, S. 2024. Measurement
+invariance of Attention Deficit/Hyperactivity Disorder symptom criteria as rated by
+parents and teachers in children and adolescents: A systematic review. PLOS
+ONE, 19, e0293677.
+GARRITTY, C., HAMEL, C., TRIVELLA, M., GARTLEHNER, G., NUSSBAUMER-
+STREIT, B., DEVANE, D., KAMEL, C., GRIEBLER, U. & KING, V. 2024. Updated
+recommendations for the Cochrane rapid review methods guidance for rapid
+reviews of effectiveness. British Medical Journal, 384, e076335.
+*GARWOOD, J. D., BRUNSTING, N. C. & FOX, L. C. 2014. Improving Reading
+Comprehension and Fluency Outcomes for Adolescents With Emotional-
+Behavioral Disorders: Recent Research Synthesized. Remedial and Special
+Education, 35, 181-194.
+GASKINS, I., DOWNER, M. & GASKINS, R. 1986. Introduction to the Benchmark school
+word identification/vocabulary development program. Media, PA: Benchmark
+School.
+GOODMAN, R. 1997. The Strengths and Difficulties Questionnaire: A Research Note.
+Journal of Child Psychology and Psychiatry, 38, 581-586.
+GREENE, R. W., BIEDERMAN, J., ZERWAS, S., MONUTEAUX, M. C., GORING, J. C. &
+FARAONE, S. V. 2002. Psychiatric comorbidity, family dysfunction, and social
+64
+impairment in referred youth with oppositional defiant disorder. American Journal
+of Psychiatry, 159, 1214-24.
+GREENWOOD, C. R., CARTA, J. J. & DAWSON, H. 2000. Ecobehavioral Assessment
+Systems Software (EBASS): A system for observation in education settings.
+Behavioral observation: Technology and applications in developmental disabilities.
+Baltimore, MD, US: Paul H. Brookes Publishing Co.
+GRESHAM, F. M., COOK, C. R., COLLINS, T., DART, E., RASETSHWANE, K.,
+TRUELSON, E. & GRANT, S. 2010. Developing a change-sensitive brief behavior
+rating scale as a progress monitoring tool for social behavior: An example using
+the social skills rating system-teacher form. School Psychology Review, 39, 364-
+379.
+GWERNAN-JONES, R., MOORE, D. A., GARSIDE, R., RICHARDSON, M.,
+THOMPSON-COON, J., ROGERS, M., COOPER, P., STEIN, K. & FORD, T.
+2015. ADHD, parent perspectives and parent-teacher relationships: grounds for
+conflict. British Journal of Special Education, 42, 279-300.
+HICKINBOTHAM, L. & SONI, A. 2021. A systematic literature review exploring the views
+and experiences of children and young people of the label Social, Emotional and
+Mental Health (SEMH). Emotional and Behavioural Difficulties, 26, 135-150.
+HINSHAW, S. P., NGUYEN, P. T., O'GRADY, S. M. & ROSENTHAL, E. A. 2021. Annual
+Research Review: Attention-deficit/hyperactivity disorder in girls and women:
+underrepresentation, longitudinal processes, and key directions. Journal of Child
+Psychology and Psychiatry, 63, 484-496.
+IJAZ, S., NOBLES, J., MAMLUK, L., DAWSON, S., CURRAN, B., PRYOR, R.,
+REDWOOD, S. & SAVOVIć, J. 2024. Disciplinary behaviour management
+strategies in schools and their impact on student psychosocial outcomes: A
+systematic review. NIHR Open Research, 4, 13.
+JACOBSON, L. A., RYAN, M., DENCKLA, M. B., MOSTOFSKY, S. H. & MAHONE, E. M.
+2013. Performance Lapses in Children with Attention-Deficit/Hyperactivity Disorder
+Contribute to Poor Reading Fluency. Archives of Clinical Neuropsychology, 28,
+672-683.
+*JENKINS, L. N., DEMARAY, M. K., WREN, N. S., SECORD, S. M., LYELL, K. M.,
+MAGERS, A. M., SETMEYER, A. J., RODELO, C., NEWCOMB-MCNEAL, E. &
+TENNANT, J. 2014. A Critical Review of Five Commonly Used Social-Emotional
+65
+and Behavioral Screeners for Elementary or Secondary Schools. Contemporary
+School Psychology, 18, 241-254.
+*JOHNSON, C. L., GROSS, M. A., JORM, A. F. & HART, L. M. 2023. Mental Health
+Literacy for Supporting Children: A Systematic Review of Teacher and
+Parent/Carer Knowledge and Recognition of Mental Health Problems in
+Childhood. Clinical Child and Family Psychology Review, 26, 569-591.
+JOINT COUNCIL FOR QUALIFICATIONS 2024. Access Arrangements and Reasonable
+Adjustments.
+JORM, A. F. 2012. Mental health literacy: empowering the community to take action for
+better mental health. American Psychologist, 67, 231-43.
+JORM, A. F., KORTEN, A. E., JACOMB, P. A., CHRISTENSEN, H., RODGERS, B. &
+POLLITT, P. 1997. "Mental health literacy": a survey of the public's ability to
+recognise mental disorders and their beliefs about the effectiveness of treatment.
+Medical Journal of Australia, 166, 182-6.
+*KALINDJIAN, N., HIROT, F., STONA, A. C., HUAS, C. & GODART, N. 2022. Early
+detection of eating disorders: a scoping review. Eating and Weight Disorders, 27,
+21-68.
+KALLAPIRAN, K., KOO, S., KIRUBAKARAN, R. & HANCOCK, K. 2015. Review:
+Effectiveness of mindfulness in improving mental health symptoms of children and
+adolescents: a meta-analysis. Child and Adolescent Mental Health, 20, 182-194.
+KAUFFMAN, J. & LANDRUM, T. 2013. Characteristics of Emotional and Behavioral
+Disorders of Children and Youth (International Edition), Boston, Pearson/Merrill.
+*KEATING, J., GAFFNEY, R., BRAMHAM, J. AND DOWNES, M., 2022. Sensory
+modulation difficulties and assessment in children with attention deficit
+hyperactivity disorder: A systematic review. European Journal of Developmental
+Psychology, 19(1), pp. 110-144.
+KILGUS, S. P. & VON DER EMBSE, N. P. 2014. Unpublished technical manual of the
+Social, Academic, and Emotional Behvior Risk Screener.
+*KNOWLES, C., MENG, P. & MACHALICEK, W. 2015. Task Sequencing for Students
+With Emotional and Behavioral Disorders:A Systematic Review. Behavior
+Modification, 39, 136-166.
+KORPERSHOEK, H., CANRINUS, E. T., FOKKENS-BRUINSMA, M. & DE BOER, H.
+2020. The relationships between school belonging and students' motivational,
+66
+social-emotional, behavioural, and academic outcomes in secondary education: a
+meta-analytic review. Research Papers in Education, 35, 641-680.
+KRAFT, M. A. 2020. Interpreting Effect Sizes of Education Interventions. Educational
+Researcher, 49, 241-253.
+KUYKEN, W., BALL, S., CRANE, C., GANGULI, P., JONES, B., MONTERO-MARIN, J.,
+NUTHALL, E., RAJA, A., TAYLOR, L., TUDOR, K., VINER, R. M., ALLWOOD, M.,
+AUKLAND, L., DUNNING, D., CASEY, T., DALRYMPLE, N., DE, W., K., FARLEY,
+E., HARPER, J., KAPPELMANN, N., KEMPNICH, M., LORD, L., MEDLICOTT, E.,
+PALMER, L., PETIT, A., PHILIPS, A., PRYOR-NITSCH, I., RADLEY, L., SONLEY,
+A., SHACKLEFORD, J., TICKELL, A., BLAKEMORE, S., THE, M. T.,
+UKOUMUNNE, O. C., GREENBERG, M. T., FORD, T., DALGLEISH, T.,
+BYFORD, S. & WILLIAMS, J. M. G. 2022. Effectiveness and cost-effectiveness of
+universal school-based mindfulness training compared with normal school
+provision in reducing risk of mental health problems and promoting well-being in
+adolescence: the MYRIAD cluster randomised controlled trial. Evidence Based
+Mental Health, 25.
+LANE, K. L. 2004. Academic instruction and tutoring interventions for students with
+emotional and behavioral disorders. In: RUTHERFORD JR, R. B., MAGEE QUINN
+, M. & MATHUR, S. R. (eds.) Handbook of research in emotional and behavioral
+disorders.
+LANE, K. L., LITTLE, M. A., REDDING-RHODES, J., PHILLIPS, A. & WELSH, M. T.
+2007. Outcomes of a Teacher-Led Reading Intervention for Elementary Students
+at Risk for Behavioral Disorders. Exceptional Children, 74, 47-70.
+LANE, K. L. & MENZIES, H. M. 2009. Student Risk Screening Scale for Early
+Internalizing and Externalizing Behavior (SRSS-IE).
+LANGBERG, J. M., EPSTEIN, J. N., BECKER, S. P., GIRIO-HERRERA, E. & VAUGHN,
+A. J. 2012. Evaluation of the Homework, Organization, and Planning Skills
+(HOPS) Intervention for Middle School Students with ADHD as Implemented by
+School Mental Health Providers. School Psychology Review, 41, 342-364.
+LANGBERG, J. M., VAUGHN, A. J., WILLIAMSON, P., EPSTEIN, J. N., GIRIO-
+HERRERA, E. & BECKER, S. P. 2011. Refinement of an Organizational Skills
+Intervention for Adolescents with ADHD for Implementation by School Mental
+Health Providers. School Mental Health, 3, 143-155.
+67
+LANGE, K. W., REICHL, S., LANGE, K. M., TUCHA, L. & TUCHA, O. 2010. The history
+of attention deficit hyperactivity disorder. Attention Deficit Hyperactactivity
+Disorders, 2, 241-55.
+*LAW, J., LEE, W., LINDSAY, G., ROULSTONE, S., WREN, Y. & ZENG, B. 2012. "What
+Works": Interventions for children and young people with speech, language and
+communication needs.
+LIPSEY, M. W., PUZIO, K., YUN, C., HEBERT, M. A., STEINKA-FRY, K., COLE, M. W.,
+ROBERTS, M., ANTHONY, K. S. & BUSICK, M. D. 2012. Translating the
+Statistical Representation of the Effects of Education Interventions into More
+Readily Interpretable Forms. National Center for Special Education Research.
+LOSINSKI, M., CUENCA-CARLINO, Y., ZABLOCKI, M. & TEAGARDEN, J. 2014.
+Examining the Efficacy of Self-Regulated Strategy Development for Students with
+Emotional or Behavioral Disorders: A Meta-Analysis. Behavorial Disorders, 40, 52-
+67.
+LOVETT, B. J. & LEWANDOWSKI, L. J. 2015. Testing accommodations for students with
+disabilities: Research-based practice, American Psychological Association.
+*LOVETT, B. J. & NELSON, J. M. 2021. Systematic Review: Educational
+Accommodations for Children and Adolescents With Attention-Deficit/Hyperactivity.
+Disorder. Journal of the American Academy of Child & Adolescent Psychiatry, 60,
+448-457.
+LOVETT, M., BORDEN, S., DELUCA, T., LACERENZA, L., BENSON, N. &
+BRACKSTONE, D. 1994. Treating the Core Deficits of Developmental Dyslexia:
+Evidence of Transfer of Learning After Phonologically- and Strategy-Based
+Reading Training Programs. Developmental Psychology, 30, 805-822.
+LOVETT, M. W., LACERENZA, L. & BORDEN, S. L. 2000. Putting struggling readers on
+the PHAST track: A program to integrate phonological and strategy-based
+remedial reading instruction and maximize outcomes. Journal of Learning
+Disabilities, 33, 458-476.
+MANSFIELD, E. M. G. & SONI, A. 2024. 'I have it, so I understand it, I feel it': The
+secondary school experiences of adolescent females with ADHD in England.
+Journal of Research in Special Educational Needs, 24, 681-695.
+68
+*MARKELZ, A. M. & TAYLOR, J. C. 2016. Effects of Teacher Praise on Attending
+Behaviors and Academic Achievement of Students with Emotional and Behavioral
+Disabilities. The Journal of Special Apprenticeship, 5.
+MARTIN-DENHAM, S. 2020. Social, emotional and mental health and school exclusions
+research [Commissioned research study]. University of Sunderland.
+MAY, F., FORD, T., JANSSENS, A., NEWLOVE-DELGADO, T., EMMA RUSSELL, A.,
+SALIM, J., UKOUMUNNE, O. C. & HAYES, R. 2021. Attainment, attendance, and
+school difficulties in UK primary schoolchildren with probable ADHD. British
+Journal of Educational Psychology, 91, 442-462.
+MCINTOSH, K. & GOODMAN, S. 2016. Integrated Multi-Tiered Systems of Support:
+Blending RTI and PBIS.
+*MCKENNA, J. W., BRIGHAM, F., GARWOOD, J., ZURAWSKI, L., KOC, M., LAVIN, C.
+& WERUNGA, R. 2021. A systematic review of intervention studies for young
+children with emotional and behavioral disorders: identifying the research base.
+Journal of Research in Special Educational Needs, 21, 120-145.
+MERCER, C. D. & CAMPBELL, K. U. 1998. Great leaps reading program, Gainsville,
+Diar Muid Inc.
+*MOORE, D. A., RUSSELL, A. E., MATTHEWS, J., FORD, T. J., ROGERS, M.,
+UKOUMUNNE, O. C., KNEALE, D., THOMPSON-COON, J., SUTCLIFFE, K.,
+NUNNS, M., SHAW, L. & GWERNAN-JONES, R. 2018. School-based
+interventions for attention-deficit/hyperactivity disorder: A systematic review with
+multiple synthesis methods. Review of Education, 6, 209-263.
+MORABITO, G., BARBI, E., GHIRARDO, S., BRAMUZZO, M., CONVERSANO, E.,
+VENTURA, A. & COZZI, G. 2021. Mental health problems in children admitted
+with physical symptoms. European Journal of Pediatrics, 180, 1611-1615.
+MORGAN, A. J., ROSS, A. & REAVLEY, N. J. 2018. Systematic review and meta-
+analysis of Mental Health First Aid training: Effects on knowledge, stigma, and
+helping behaviour. PLoS One, 13, e0197102.
+*MULRANEY, M., ARRONDO, G., MUSULLULU, H., ITURMENDI-SABATER, I.,
+CORTESE, S., WESTWOOD, S. J., DONNO, F., BANASCHEWSKI, T.,
+SIMONOFF, E., ZUDDAS, A., DöPFNER, M., HINSHAW, S. P. & COGHILL, D.
+2022. Systematic Review and Meta-analysis: Screening Tools for Attention-
+69
+Deficit/Hyperactivity Disorder in Children and Adolescents. Journal of the
+American Academy of Child & Adolescent Psychiatry, 61, 982-996.
+NELSON, J. R., BENNER, G. J., LANE, K. & SMITH, B. W. 2004. Academic
+Achievement of K-12 Students With Emotional and Behavioral Disorders.
+Exceptional Children, 71, 59-73.
+NYE, E., GARDNER, F., HANSFORD, L., EDWARDS, V., HAYES, R. & FORD, T. 2016.
+Classroom behaviour management strategies in response to problematic
+behaviours of primary school children with special educational needs: views of
+special educational needs coordinators. Emotional and Behavioural Difficulties,
+21, 43-60.
+*OLSSON, Å. 2023. Teachers' gendered perceptions of attention deficit hyperactivity
+disorder - a literature review. European Journal of Special Needs Education, 38,
+303-316.
+POPHAM, M., COUNTS, J., RYAN, J. B. & KATSIYANNIS, A. 2018. A systematic review
+of self-regulation strategies to improve academic outcomes of students with EBD.
+Journal of Research in Special Educational Needs, 18, 239-253.
+QUINN, P. O. & MADHOO, M. 2014. A review of attention-deficit/hyperactivity disorder in
+women and girls: uncovering this hidden diagnosis. Primary Care Companion for
+CNS Disorders, 16.
+*RALSTON, N. C., BENNER, G. J., TSAI, S.-F., RICCOMINI, P. J. & NELSON, J. R.
+2014. Mathematics Instruction for Students With Emotional and Behavioral
+Disorders: A Best-Evidence Synthesis. Preventing School Failure: Alternative
+Education for Children and Youth, 58, 1-16.
+RIVERA, M. O., AL-OTAIBA, S. & KOORLAND, M. A. 2006. Reading Instruction for
+Students with Emotional and Behavioral Disorders and at Risk of Antisocial
+Behaviors in Primary Grades: Review of Literature. Behavioral Disorders, 31, 323-
+339.
+ROBERTS, G., LINDSTRöM, E., JIMENEZ, Z., GHOSH, E., MEHMEDOVIC, S.,
+MCFADDEN, K. & BAHADORI FALLAH, M. 2023. Intervention Research for
+Students with Co-occurring Reading Difficulties and Inattention: A Systematic
+Review of Single-Case Design Studies. Journal of Behavioral Education, 33, 721-
+745.
+70
+*ROBERTS, G. J., CHO, E., GARWOOD, J. D., GOBLE, G. H., ROBERTSON, T. &
+HODGES, A. 2019. Reading Interventions for Students with Reading and
+Behavioral Difficulties: a Meta-analysis and Evaluation of Co-occurring Difficulties.
+Educational Psychology Review, 32, 17-47.
+*ROYER, D. J., LANE, K. L., CANTWELL, E. D. & MESSENGER, M. L. 2017. A
+Systematic Review of the Evidence Base for Instructional Choice in K-12 Settings.
+Behavioral Disorders, 42, 89-107.
+RYAN, J. B., REID, R. & EPSTEIN, M. H. 2004. Peer-Mediated Intervention Studies on
+Academic Achievement for Students with EBD:A Review. Remedial and Special
+Education, 25, 330-341.
+SCHUELE, C. M. & BOUDREAU, D. 2008. Phonological awareness intervention: beyond
+the basics. Language, Speech, and Hearing Services in Schools, 39, 3-20.
+SCIUTTO, M. J., TERJESEN, M. D. & FRANK, A. S. B. 2000. Teachers' knowledge and
+misperceptions of Attention-Deficit/hyperactivity disorder. Psychology in the
+Schools, 37, 115-122.
+SCIUTTO, M. J., TERJESEN, M. D., KUčEROVá, A., MICHALOVá, Z., SCHMIEDELER,
+S., ANTONOPOULOU, K., SHAKER, N. Z., LEE, J.-Y., ALKAHTANI, K., DRAKE,
+B. & ROSSOUW, J. 2016. Cross-national comparisons of teachers' knowledge
+and misconceptions of ADHD. International Perspectives in Psychology:
+Research, Practice, Consultation, 5, 34-50.
+SCRUGGS, T. E. & MASTROPIERI, M. A. 2000. The effectiveness of mnemonic
+instruction for students with learning and behavior problems: An update and
+research synthesis. Journal of Behavioral Education, 10, 163-173.
+SHAPIRO, E. S. 2011. Academic skills problems fourth edition workbook, New York,
+Guildford Press.
+SHEA, B. J., REEVES, B. C., WELLS, G., THUKU, M., HAMEL, C., MORAN, J.,
+MOHER, D., TUGWELL, P., WELCH, V., KRISTJANSSON, E. & HENRY, D. A.
+2017. AMSTAR 2: a critical appraisal tool for systematic reviews that include
+randomised or non-randomised studies of healthcare interventions, or both. British
+Medical Journal, 358, j4008.
+SHERMAN, J., RASMUSSEN, C. & BAYDALA, L. 2008. The impact of teacher factors on
+achievement and behavioural outcomes of children with Attention
+71
+Deficit/Hyperactivity Disorder (ADHD): a review of the literature. Educational
+Research, 50, 347-360.
+SRECKOVIC, M. A., COMMON, E. A., KNOWLES, M. M. & LANE, K. L. 2014. A Review
+of Self-Regulated Strategy Development for Writing for Students with EBD.
+Behavioral Disorders, 39, 56-77.
+STAFF, A. I., OOSTERLAAN, J., VAN DER OORD, S., HOEKSTRA, P. J., VERTESSEN,
+K., DE VRIES, R., VAN DEN HOOFDAKKER, B. J. & LUMAN, M. 2021. The
+Validity of Teacher Rating Scales for the assessment of ADHD symptoms in the
+classroom: A systematic review and meta-analysis. Journal of Attention Disorders,
+25, 1578-1593.
+STEWART, A. A. & AUSTIN, C. R. 2019. Reading Interventions for Students With or At
+Risk of Attention-Deficit/Hyperactivity Disorder: A Systematic Review. Remedial
+and Special Education, 41, 352-367.
+SUGAI, G. & HORNER, R. H. 2002. Introduction to the Special Series on Positive
+Behavior Support in Schools. Journal of Emotional and Behavioral Disorders, 10,
+130-135.
+*TAN, P. 2016. Developing mathematical understanding and students with emotional and
+behavioural disorders: a review of the literature. Emotional and Behavioural
+Difficulties, 21, 361-376.
+TAPP, J. & WEHBY, J. 1993. MOOSES: Multiple Option Observation System for
+Experimental Studies. In: U.S. DEPARTMENT FOR EDUCATION (ed.).
+*THERRIEN, W. J., TAYLOR, J. C., WATT, S. & KALDENBERG, E. R. 2014. Science
+Instruction for Students With Emotional and Behavioral Disorders. Remedial and
+Special Education, 35, 15-27.
+TORGESEN, J. K. & BRYANT, B. R. 1994. Phonological awareness training for reading,
+Pro-Ed.
+U.S. DEPARTMENT OF EDUCATION 2020. 42nd Annual Report to Congress on the
+Implementation of the Individuals with Disabilities Education Act.
+UNICEF. 2021. The State of the World's Children 2021: On My Mind - Promoting,
+protecting and caring for children's mental health [Online]. New York: UNICEF.
+Available: https://www.unicef.org/media/114636/file/SOWC-2021-fullreport-
+English.pdf [Accessed 20/08/25].
+72
+VADASY, P.F. & SANDERS, E. 2007. Sound Partners Plus. Seattle, WA: Washington
+Research Institute. Vocabulary development program, Media, PA., Benchmark
+School.
+VADASY, P. F., WAYNE, S. K., O'CONNOR, R. E., JENKINS, J. R., POOL, K.,
+FIREBAUGH, M. & PEYTON, J. A. 2005. Sound partners: a tutoring program in
+phonics-based early reading, Longmont, Sopris West.
+VAN POORTVLIET, M. 2024. Child mental health and educational attainment:
+Longitudinal evidence from the UK. SSM Mental Health, 5.
+VAN STEENSEL, F. J., BöGELS, S. M. & PERRIN, S. 2011. Anxiety disorders in children
+and adolescents with autistic spectrum disorders: a meta-analysis. Clinical Child
+and Family Psychology Review, 14, 302-17.
+VAUGHN, S., LEVY, S., COLEMAN, M. & BOS, C. S. 2002. Reading instruction for
+students with LD and EBD: A synthesis of observation studies. The Journal of
+Special Education, 36, 2-13.
+*VILLARREAL, V., CASTRO-VILLARREAL, F., PETERSON, L. S., BEAR, M., CORTES,
+D. M. & ESCOBEDO, T. 2023. Meta-Analysis of Proportions of Students Screened
+and Identified in Mental Health Multiple-Gate Screening Research. School
+Psychology Review, 52, 130-143.
+VON DER EMBSE, N. P., PENDERGAST, L. L., KILGUS, S. P. & EKLUND, K. R. 2015.
+Evaluating the applied use of a mental health screener: Structural validity of the
+Social, Academic, and Emotional Behavior Risk Screener. Psychological
+Assessment, 28, 1265-1275.
+WALKER, H. M., RAMSEY, E. & GRESHAM, F. 2003. Heading off disruptive behavior:
+How early intervention can reduce defiant behavior-and win back teaching time.
+American Educator, 6-21.
+WANG, M.-T., L. DEGOL, J., AMEMIYA, J., PARR, A. & GUO, J. 2020. Classroom
+climate and children's academic and psychological wellbeing: A systematic review
+and meta-analysis. Developmental Review, 57, 100912.
+*WARD, R. J., BRISTOW, S. J., KOVSHOFF, H., CORTESE, S. & KREPPNER, J. 2022.
+The Effects of ADHD Teacher Training Programs on Teachers and Pupils: A
+Systematic Review and Meta-Analysis. Journal of Attention Disorders, 26, 225-
+244.
+73
+WATTS, G. W., BRYANT, D.P. & CARROLL, M. L. 2019. Students With Emotional-
+Behavioral Disorders as Cross-Age Tutors: A Synthesis of the Literature.
+Behavioral Disorders, 44, 131-147.
+WEHBY, J. H., LANE, K. L. & FALK, K. B. 2003. Academic instruction for students with
+emotional and behavioral disorders. Journal of Emotional and Behavioral
+Disorders, 11, 194-197.
+WOLERY, M., HOLCOMBE, A., CYBRIWSKY, C., DOYLE, P.M., SCHUSTER, J. W.,
+AULT, M. J. & GAST, D. L. 1992. Constant time delay with discrete responses: a
+review of effectiveness and demographic, procedural, and methodological
+parameters. Research in Developmental Disabilities, 13, 239-66.
+WOODWARD, L. J., LU, Z., MORRIS, A. R. & HEALEY, D. M. 2017. Preschool self
+regulation predicts later mental health and educational achievement in very
+preterm and typically developing children. The Clinical Neuropsychologist, 31,
+404-422.
+WORLD HEALTH ORGANIZATION. 2024. Mental Health of Adolescents [Online].
+Available: https://www.who.int/news-room/fact-sheets/detail/adolescent-mental-
+health [Accessed 20/08/25].
+YUEN, M. & WU, L. 2023. Relationship between school connectedness and
+psychological well-being in adolescents: A meta-analysis. Current Psychology: A
+Journal for Diverse Perspectives on Diverse Psychological Issues.
+74
+Department
+for Education
+© Department for Education Copyright 2025
+This publication is licensed under the terms of the Open Government Licence v3.0,
+except where otherwise stated. To view this licence, visit
+nationalarchives.gov.uk/doc/open-government-licence/version/3.
+Where we have identified any third-party copyright information you will need to obtain
+permission from the copyright holders concerned.
+Reference: RR1549
+ISBN: 978-1-83870-699-9
+For any enquiries regarding this publication, contact www.gov.uk/contact-dfe.
+This document is available for download at www.gov.uk/government/publications.
+75

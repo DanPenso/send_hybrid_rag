@@ -1,0 +1,881 @@
+Department
+for Education
+Supporting pupils at
+school with medical
+conditions
+Statutory guidance for governing bodies
+of maintained schools and proprietors of
+academies in England
+December 2015
+Contents
+Summary
+3
+About this guidance
+3
+Expiry or review date
+3
+What legislation is this guidance issued under?
+3
+Who is this guidance for?
+4
+Key points
+4
+Introduction
+5
+The role of governing bodies, proprietors and management committees
+7
+Developing the school's policy
+8
+Other issues for consideration
+25
+Further sources of information
+26
+Other safeguarding legislation
+26
+Other relevant legislation
+27
+Associated resources
+27
+Annex A: Model process for developing individual healthcare plans
+28
+2
+Summary
+About this guidance
+This document contains both statutory guidance and non-statutory advice. The non-
+statutory advice is presented in text boxes.
+The statutory guidance applies to any 'appropriate authority' as defined in section 100 of
+the Children and Families Act 2014. That means governing bodies in the case of
+maintained schools, proprietors in the case of academies and management committees
+in the case of pupil referral units (PRUs).
+'Appropriate authorities' must have regard to 1 this guidance when carrying out their
+statutory duty to make arrangements to support pupils at school with medical conditions.
+The guidance also applies to activities taking place off-site as part of normal educational
+activities. In this document, references to schools are taken to include academies and
+PRUs and references to governing bodies include proprietors in academies and
+management committees of PRUs. Further advice, where provided, is based on good
+practice but is non-statutory.
+Early years settings should continue to apply the Statutory Framework for the Early
+Years Foundation Stage 2
+This document replaces an earlier version of this guidance published in September 2014.
+Previous guidance on managing medicines in schools and early years settings was
+published in March 2005.
+Expiry or review date
+This guidance will be kept under review and updated as necessary.
+What legislation is this guidance issued under?
+Section 100 of the Children and Families Act 2014 places a duty on governing bodies of
+maintained schools, proprietors of academies and management committees of PRUs to
+make arrangements for supporting pupils at their school with medical conditions.
+1
+This means to take account of the guidance and to carefully consider it. Having done so, there would
+need to be a good reason to justify not complying with it.
+2 https://www.gov.uk/government/publications/early-years-foundation-stage-framework-2
+3
+In meeting the duty, the governing body, proprietor or management committee must have
+regard to guidance issued by the Secretary of State under this section. This guidance
+came into force on 1 September 2014.
+Who is this guidance for?
+This statutory guidance applies to:
+governing bodies of maintained schools (excluding maintained nursery schools)
+management committees of PRUs
+proprietors of academies, including alternative provision academies (but not
+including 16-19 academies)
+This guidance is also provided to assist and guide:
+schools, academies (including alternative provision academies) and PRUs
+local authorities
+clinical commissioning groups (CCGs), NHS England
+anyone who has an interest in promoting the wellbeing and academic attainment
+of children with medical conditions, including alternative provision, e.g.
+independent schools
+parents/carers³ and pupils
+health service providers
+Key points
+Pupils at school with medical conditions should be properly supported so that they
+have full access to education, including school trips and physical education.
+Governing bodies must ensure that arrangements are in place in schools to
+support pupils at school with medical conditions.
+Governing bodies should ensure that school leaders consult health and social care
+professionals, pupils and parents to ensure that the needs of children with medical
+conditions are properly understood and effectively supported.
+3 All further references to a parent or parents also includes a carer or carers
+4
+Introduction
+1.
+On 1 September 2014 a new duty came into force for governing bodies to make
+arrangements to support pupils at school with medical conditions. The statutory guidance
+in this document is intended to help governing bodies meet their legal responsibilities and
+sets out the arrangements they will be expected to make, based on good practice. The
+aim is to ensure that all children with medical conditions, in terms of both physical and
+mental health, are properly supported in school so that they can play a full and active role
+in school life, remain healthy and achieve their academic potential.
+2.
+Parents of children with medical conditions are often concerned that their child's
+health will deteriorate when they attend school. This is because pupils with long-term and
+complex medical conditions may require ongoing support, medicines or care while at
+school to help them manage their condition and keep them well. Others may require
+monitoring and interventions in emergency circumstances. It is also the case that
+children's health needs may change over time, in ways that cannot always be predicted,
+sometimes resulting in extended absences. It is therefore important that parents feel
+confident that schools will provide effective support for their child's medical condition and
+that pupils feel safe. In making decisions about the support they provide, schools should
+establish relationships with relevant local health services to help them. It is crucial that
+schools receive and fully consider advice from healthcare professionals and listen to and
+value the views of parents and pupils.
+3.
+In addition to the educational impacts, there are social and emotional implications
+associated with medical conditions. Children may be self-conscious about their condition
+and some may be bullied or develop emotional disorders such as anxiety or depression
+around their medical condition. In particular, long-term absences due to health problems
+affect children's educational attainment, impact on their ability to integrate with their
+peers and affect their general wellbeing and emotional health. Reintegration back into
+school should be properly supported so that children with medical conditions fully engage
+with learning and do not fall behind when they are unable to attend. Short-term and
+frequent absences, including those for appointments connected with a pupil's medical
+condition (which can often be lengthy), also need to be effectively managed and
+appropriate support put in place to limit the impact on the child's educational attainment
+and emotional and general wellbeing.
+Some children with medical conditions may be considered to be disabled under the
+definition set out in the Equality Act 2010. Where this is the case governing bodies must
+comply with their duties under that Act. Some may also have special educational needs
+(SEN) and may have a statement, or Education, Health and Care (EHC) plan which
+brings together health and social care needs, as well as their special educational
+provision. For children with SEN, this guidance should be read in conjunction with the
+5
+Special educational needs and disability (SEND) code of practice⁴ The Special
+educational needs and disability code of practice explains the duties of local authorities,
+health bodies, schools and colleges to provide for those with special educational needs
+under part 3 of the Children and Families Act 2014. For pupils who have medical
+conditions that require EHC plans, compliance with the SEND code of practice will
+ensure compliance with this guidance with respect to those children.
+4
+https://www.gov.uk/government/publications/send-code-of-practice-0-to-25
+6
+The role of governing bodies, proprietors and
+management committees
+4.
+In meeting the duty to make arrangements to support pupils with medical
+conditions, functions can be conferred on a governor, a headteacher, a committee or
+other member of staff as appropriate. Help and co-operation can also be enlisted from
+other appropriate persons. We expect that an approach to meeting the duty will be taken
+in light of the statutory guidance. This will inform the school and others about what needs
+to be done in terms of implementation. However, the governing body, proprietor or
+management committee remains legally responsible and accountable for fulfilling its
+statutory duty.
+5.
+The governing body⁵ must ensure that arrangements are in place to support pupils
+with medical conditions. In doing so it should ensure that such children can access and
+enjoy the same opportunities at school as any other child.
+Further advice:
+Schools, local authorities, health professionals, commissioners and other support
+services should work together to ensure that children with medical conditions receive
+a full education. In some cases this will require flexibility and involve, for example,
+programmes of study that rely on part-time attendance at school in combination with
+alternative provision arranged by the local authority⁶. Consideration may also be
+given to how children will be reintegrated back into school after periods of absence.
+6.
+In making their arrangements, governing bodies should take into account that
+many of the medical conditions that require support at school will affect quality of life and
+may be life-threatening. Some will be more obvious than others. Governing bodies
+should therefore ensure that the focus is on the needs of each individual child and how
+their medical condition impacts on their school life.
+7.
+The governing body should ensure that its arrangements give parents and pupils
+confidence in the school's ability to provide effective support for medical conditions in
+school. The arrangements should show an understanding of how medical conditions
+impact on a child's ability to learn, as well as increase confidence and promote self-care.
+They should ensure that staff are properly trained to provide the support that pupils need.
+5
+In this document, references to 'governing body' include proprietors in academies and management
+committees of PRUs
+6
+All children must receive a full-time education, unless this would not be in their best interests because of
+their health needs
+7
+Further advice:
+Children and young people with medical conditions are entitled to a full education
+and have the same rights of admission to school as other children. This means that
+no child with a medical condition can be denied admission⁷ or prevented from taking
+up a place in school because arrangements for their medical condition have not
+been made. However, in line with their safeguarding duties, governing bodies should
+ensure that pupils' health is not put at unnecessary risk from, for example, infectious
+diseases. They therefore do not have to accept a child in school at times where it
+would be detrimental to the health of that child or others to do so.
+8.
+Governing bodies must ensure that the arrangements they put in place are
+sufficient to meet their statutory responsibilities and should ensure that policies, plans,
+procedures and systems are properly and effectively implemented.
+Developing the school's policy
+9.
+Governing bodies should ensure that all schools develop a policy for supporting
+pupils with medical conditions that is reviewed regularly and is readily accessible to
+parents and school staff.
+Further advice:
+In developing their policy, schools may wish to seek advice from any relevant
+healthcare professional.
+Policy implementation
+10.
+Governing bodies should ensure that the arrangements they set up include details
+on how the school's policy will be implemented effectively, including a named person who
+has overall responsibility for policy implementation.
+7
+https://www.gov.uk/government/publications/school-admissions-code--2
+8
+Further advice:
+In respect of implementation, school policies should include:
+who is responsible for ensuring that sufficient staff are suitably trained;
+a commitment that all relevant staff will be made aware of the child's
+condition;
+cover arrangements in case of staff absence or staff turnover to ensure
+someone is always available;
+briefing for supply teachers;
+risk assessments for school visits, holidays, and other school activities outside
+the normal timetable; and
+monitoring of individual healthcare plans.
+Procedure to be followed when notification is received that a pupil has
+a medical condition
+11.
+Governing bodies should ensure that the school's policy sets out the procedures
+to be followed whenever a school is notified that a pupil has a medical condition.
+Further advice:
+Procedures should also be in place to cover any transitional arrangements between
+schools, the process to be followed upon reintegration or when pupils' needs
+change, and arrangements for any staff training or support. For children starting at a
+new school, arrangements should be in place in time for the start of the relevant
+school term. In other cases, such as a new diagnosis or children moving to a new
+school mid-term, every effort should be made to ensure that arrangements are put in
+place within two weeks.
+Schools do not have to wait for a formal diagnosis before providing support to pupils.
+In cases where a pupil's medical condition is unclear, or where there is a difference
+of opinion, judgements will be needed about what support to provide based on the
+available evidence. This would normally involve some form of medical evidence and
+consultation with parents. Where evidence conflicts, some degree of challenge may
+be necessary to ensure that the right support can be put in place.
+Individual healthcare plans
+12.
+Governing bodies should ensure that the school's policy covers the role of
+individual healthcare plans, and who is responsible for their development, in supporting
+pupils at school with medical conditions.
+9
+13.
+The governing body should ensure that plans are reviewed at least annually, or
+earlier if evidence is presented that the child's needs have changed. They should be
+developed with the child's best interests in mind and ensure that the school assesses
+and manages risks to the child's education, health and social wellbeing, and minimises
+disruption.
+Further advice:
+Individual healthcare plans can help to ensure that schools effectively support pupils
+with medical conditions. They provide clarity about what needs to be done, when and
+by whom. They will often be essential, such as in cases where conditions fluctuate or
+where there is a high risk that emergency intervention will be needed, and are likely
+to be helpful in the majority of other cases, especially where medical conditions are
+long-term and complex. However, not all children will require one. The school,
+healthcare professional and parent should agree, based on evidence, when a
+healthcare plan would be inappropriate or disproportionate. If consensus cannot be
+reached, the headteacher is best placed to take a final view. A flow chart for
+identifying and agreeing the support a child needs and developing an individual
+healthcare plan is provided at annex A.
+The format of individual healthcare plans may vary to enable schools to choose
+whichever is the most effective for the specific needs of each pupil. They should be
+easily accessible to all who need to refer to them, while preserving confidentiality.
+Plans should not be a burden on a school, but should capture the key information
+and actions that are required to support the child effectively. The level of detail within
+plans will depend on the complexity of the child's condition and the degree of support
+needed. This is important because different children with the same health condition
+may require very different support. Where a child has SEN but does not have a
+statement or EHC plan, their special educational needs should be mentioned in their
+individual healthcare plan.
+Individual healthcare plans (and their review) may be initiated, in consultation with
+the parent, by a member of school staff or a healthcare professional involved in
+providing care to the child. Plans should be drawn up in partnership between the
+10
+school, parents, and a relevant healthcare professional, e.g. school nurse, specialist
+or children's community nurse or paediatrician, who can best advise on the particular
+needs of the child. Pupils should also be involved whenever appropriate. The aim
+should be to capture the steps which a school should take to help the child manage
+their condition and overcome any potential barriers to getting the most from their
+education and how they might work with other statutory services. Partners should
+agree who will take the lead in writing the plan, but responsibility for ensuring it is
+finalised and implemented rests with the school.
+Where the child has a special educational need identified in a statement or EHC
+plan, the individual healthcare plan should be linked to or become part of that
+statement or EHC plan.
+Where a child is returning to school following a period of hospital education or
+alternative provision (including home tuition), schools should work with the local
+authority and education provider to ensure that the individual healthcare plan
+identifies the support the child will need to reintegrate effectively.
+14.
+When deciding what information should be recorded on individual healthcare
+plans, the governing body should consider the following:
+the medical condition, its triggers, signs, symptoms and treatments;
+the pupil's resulting needs, including medication (dose, side effects and storage)
+and other treatments, time, facilities, equipment, testing, access to food and drink
+where this is used to manage their condition, dietary requirements and
+environmental issues, e.g. crowded corridors, travel time between lessons;
+specific support for the pupil's educational, social and emotional needs - for
+example, how absences will be managed, requirements for extra time to complete
+exams, use of rest periods or additional support in catching up with lessons,
+counselling sessions;
+the level of support needed (some children will be able to take responsibility for
+their own health needs) including in emergencies. If a child is self-managing their
+medication, this should be clearly stated with appropriate arrangements for
+monitoring;
+who will provide this support, their training needs, expectations of their role and
+confirmation of proficiency to provide support for the child's medical condition from
+a healthcare professional; and cover arrangements for when they are unavailable;
+who in the school needs to be aware of the child's condition and the support
+required;
+11
+arrangements for written permission from parents and the headteacher for
+medication to be administered by a member of staff, or self-administered by the
+pupil during school hours;
+separate arrangements or procedures required for school trips or other school
+activities outside of the normal school timetable that will ensure the child can
+participate, e.g. risk assessments;
+where confidentiality issues are raised by the parent/child, the designated
+individuals to be entrusted with information about the child's condition; and
+what to do in an emergency, including whom to contact, and contingency
+arrangements. Some children may have an emergency healthcare plan prepared
+by their lead clinician that could be used to inform development of their individual
+healthcare plan.
+Roles and responsibilities
+15.
+The governing body should ensure that the school's policy clearly identifies the
+roles and responsibilities of all those involved in the arrangements they make to support
+pupils at school with medical conditions.
+Further advice:
+Supporting a child with a medical condition during school hours is not the sole
+responsibility of one person. A school's ability to provide effective support will
+depend to an appreciable extent on working co-operatively with other agencies.
+Partnership working between school staff, healthcare professionals (and, where
+appropriate, social care professionals), local authorities, and parents and pupils will
+be critical. An essential requirement for any policy therefore will be to identify
+collaborative working arrangements between all those involved, showing how they
+will work in partnership to ensure that the needs of pupils with medical conditions are
+met effectively.
+Some of the most important roles and responsibilities are listed below, but schools
+may additionally want to cover a wider range of people in their policy.
+16.
+Governing bodies must make arrangements to support pupils with medical
+conditions in school, including making sure that a policy for supporting pupils with
+medical conditions in school is developed and implemented. They should ensure that
+sufficient staff have received suitable training and are competent before they take on
+responsibility to support children with medical conditions.
+12
+Further advice on the role of governing bodies:
+Governing bodies should ensure that pupils with medical conditions are supported to
+enable the fullest participation possible in all aspects of school life. They should also
+ensure that any members of school staff who provide support to pupils with medical
+conditions are able to access information and other teaching support materials as
+needed.
+Advice on the role of headteachers:
+Headteachers should ensure that their school's policy is developed and effectively
+implemented with partners. This includes ensuring that all staff are aware of the
+policy for supporting pupils with medical conditions and understand their role in its
+implementation. Headteachers should ensure that all staff who need to know are
+aware of the child's condition. They should also ensure that sufficient trained
+numbers of staff are available to implement the policy and deliver against all
+individual healthcare plans, including in contingency and emergency situations. This
+may involve recruiting a member of staff for this purpose. Headteachers have overall
+responsibility for the development of individual healthcare plans. They should also
+make sure that school staff are appropriately insured and are aware that they are
+insured to support pupils in this way. They should contact the school nursing service
+in the case of any child who has a medical condition that may require support at
+school, but who has not yet been brought to the attention of the school nurse.
+Advice on the role of parents:
+Parents should provide the school with sufficient and up-to-date information about
+their child's medical needs. They may in some cases be the first to notify the school
+that their child has a medical condition. Parents are key partners and should be
+involved in the development and review of their child's individual healthcare plan,
+and may be involved in its drafting. They should carry out any action they have
+agreed to as part of its implementation, e.g. provide medicines and equipment and
+ensure they or another nominated adult are contactable at all times.
+Advice on the role of pupils:
+Pupils with medical conditions will often be best placed to provide information about
+how their condition affects them. They should be fully involved in discussions about
+their medical support needs and contribute as much as possible to the development
+of, and comply with, their individual healthcare plan. Other pupils will often be
+sensitive to the needs of those with medical conditions.
+13
+Advice on the role of school staff:
+Any member of school staff may be asked to provide support to pupils with medical
+conditions, including the administering of medicines, although they cannot be
+required to do so. Although administering medicines is not part of teachers'
+professional duties, they should take into account the needs of pupils with medical
+conditions that they teach. School staff should receive sufficient and suitable training
+and achieve the necessary level of competency before they take on responsibility to
+support children with medical conditions. Any member of school staff should know
+what to do and respond accordingly when they become aware that a pupil with a
+medical condition needs help.
+Advice on the role of school nurses:
+Every school has access to school nursing services. They are responsible for
+notifying the school when a child has been identified as having a medical condition
+which will require support in school. Wherever possible, they should do this before
+the child starts at the school. They would not usually have an extensive role in
+ensuring that schools are taking appropriate steps to support children with medical
+conditions, but may support staff on implementing a child's individual healthcare plan
+and provide advice and liaison, for example on training. School nurses can liaise with
+lead clinicians locally on appropriate support for the child and associated staff
+training needs; for example, there are good models of local specialist nursing teams
+offering training to local school staff, hosted by a local school. Community nursing
+teams will also be a valuable potential resource for a school seeking advice and
+support in relation to children with a medical condition. See also paragraphs 18 to 20
+below about training for school staff.
+Advice on the role of other healthcare professionals:
+Other healthcare professionals, including GPs and paediatricians, should notify the
+school nurse when a child has been identified as having a medical condition that will
+require support at school. They may provide advice on developing individual
+healthcare plans. Specialist local health teams may be able to provide support in
+schools for children with particular conditions (e.g. asthma, diabetes, epilepsy).
+14
+Advice on the role of local authorities:
+Local authorities are commissioners of school nurses for maintained schools and
+academies. Under Section 10 of the Children Act 2004, they have a duty to promote
+co-operation between relevant partners - such as governing bodies of maintained
+schools, proprietors of academies, clinical commissioning groups and NHS England
+- with a view to improving the wellbeing of children with regard to their physical and
+mental health, and their education, training and recreation. Local authorities and
+clinical commissioning groups (CCGs) must make joint commissioning
+arrangements for education, health and care provision for children and young people
+with SEN or disabilities (Section 26 of the Children and Families Act 2014). Local
+authorities should provide support, advice and guidance, including suitable training
+for school staff, to ensure that the support specified within individual healthcare plans
+can be delivered effectively. Local authorities should work with schools to support
+pupils with medical conditions to attend full-time. Where pupils would not receive a
+suitable education in a mainstream school because of their health needs, the local
+authority has a duty to make other arrangements. Statutory guidance for local
+authorities 8 sets out that they should be ready to make arrangements under this duty
+when it is clear that a child will be away from school for 15 days or more because of
+health needs 9 (whether consecutive or cumulative across the school year).
+8
+Local authorities must have regard to statutory guidance on the education of children unable to attend
+school because of health needs.
+9
+https://www.gov.uk/government/publications/education-for-children-with-health-needs-who-cannot-atend-
+school
+15
+Advice on the role of clinical commissioning groups (CCGs):
+Clinical commissioning groups commission other healthcare professionals such as
+specialist nurses. They should ensure that commissioning is responsive to children's
+needs, and that health services are able to co-operate with schools supporting
+children with medical conditions. They have a reciprocal duty to co-operate under
+Section 10 of the Children Act 2004 and must make joint commissioning
+arrangements for education, health and care provision for children and young people
+with SEN or disabilities (as described above for local authorities). Clinical
+commissioning groups should be responsive to local authorities and schools seeking
+to strengthen links between health services and schools, and consider how to
+encourage health services in providing support and advice (and can help with any
+potential issues or obstacles in relation to this). The local Health and Wellbeing
+Board will also provide a forum for local authorities and CCGs to consider with other
+partners, including locally elected representatives, how to strengthen links between
+education, health and care settings. Since 2013 Local Authorities have been
+responsible for commissioning public health services for school-aged children
+including school nursing. CCGs should be aware that this does not include clinical
+support for children in schools who have long-term conditions and disabilities, which
+remains a CCG commissioning responsibility. Children in special schools in
+particular may need care which falls outside the remit of local authority
+commissioned school nurses, such as gastrostomy and tracheostomy care, or
+postural support. CCGs should ensure their commissioning arrangements are
+adequate to provide the ongoing support essential to the safety of these vulnerable
+children whilst in school.
+Advice on providers of health services:
+Providers of health services should co-operate with schools that are supporting
+children with a medical condition, including appropriate communication, liaison with
+school nurses and other healthcare professionals such as specialist and children's
+community nurses, as well as participating in locally developed outreach and
+training. Health services can provide valuable support, information, advice and
+guidance to schools, and their staff, to support children with medical conditions at
+school.
+16
+Advice on the role of Ofsted:
+Ofsted's new common inspection framework came into effect on 1 September 2015,
+aimed at promoting greater consistency across inspection remits. Inspectors must
+consider how well a school meets the needs of the full range of pupils, including
+those with medical conditions. Key judgements will be informed by the progress and
+achievement of these children alongside those of pupils with special educational
+needs and disabilities, and also by pupils' spiritual, moral, social and cultural
+development.
+Staff training and support
+17.
+Governing bodies should ensure that the school's policy sets out clearly how staff
+will be supported in carrying out their role to support pupils with medical conditions, and
+how this will be reviewed. This should specify how training needs are assessed, and how
+and by whom training will be commissioned and provided.
+18.
+The school's policy should be clear that any member of school staff providing
+support to a pupil with medical needs should have received suitable training.
+17
+Further advice:
+Suitable training should have been identified during the development or review of
+individual healthcare plans. Some staff may already have some knowledge of the
+specific support needed by a child with a medical condition and so extensive training
+may not be required. Staff who provide support to pupils with medical conditions
+should be included in meetings where this is discussed.
+The relevant healthcare professional should normally lead on identifying and
+agreeing with the school the type and level of training required, and how this can be
+obtained. Schools may choose to arrange training themselves and should ensure
+this remains up-to-date.
+Training should be sufficient to ensure that staff are competent and have confidence
+in their ability to support pupils with medical conditions, and to fulfil the requirements
+as set out in individual healthcare plans. They will need an understanding of the
+specific medical conditions they are being asked to deal with, their implications and
+preventative measures.
+A first-aid certificate does not constitute appropriate training in supporting children
+with medical conditions.
+Healthcare professionals, including the school nurse, can provide confirmation of the
+proficiency of staff in a medical procedure, or in providing medication.
+The school's policy should additionally set out arrangements for whole-school
+awareness training so that all staff are aware of the school's policy for supporting
+pupils with medical conditions and their role in implementing that policy. Induction
+arrangements for new staff should be included. The relevant healthcare professional
+should be able to advise on training that will help ensure that all medical conditions
+affecting pupils in the school are understood fully. This includes preventative and
+emergency measures so that staff can recognise and act quickly when a problem
+occurs.
+The family of a child will often be key in providing relevant information to school staff
+about how their child's needs can be met, and parents should be asked for their
+views. They should provide specific advice, but should not be the sole trainer.
+Governing bodies should consider providing details of continuing professional
+development opportunities.
+19.
+Staff must not give prescription medicines or undertake healthcare procedures
+without appropriate training (updated to reflect requirements within individual healthcare
+plans).
+18
+Further advice:
+In some cases, written instructions from the parent or on the medication container
+dispensed by the pharmacist may be considered sufficient, but ultimately this is for
+the school to decide, having taken into consideration the training requirements as
+specified in pupils' individual health care plans.
+The child's role in managing their own medical needs
+20.
+Governing bodies should ensure that the school's policy covers arrangements for
+children who are competent to manage their own health needs and medicines.
+Further advice:
+After discussion with parents, children who are competent should be encouraged to
+take responsibility for managing their own medicines and procedures. This should be
+reflected within individual healthcare plans.
+Wherever possible, children should be allowed to carry their own medicines and
+relevant devices or should be able to access their medicines for self-medication
+quickly and easily. Children who can take their medicines themselves or manage
+procedures may require an appropriate level of supervision. If it is not appropriate for
+a child to self-manage, relevant staff should help to administer medicines and
+manage procedures for them.
+If a child refuses to take medicine or carry out a necessary procedure, staff should
+not force them to do so, but follow the procedure agreed in the individual healthcare
+plan. Parents should be informed so that alternative options can be considered.
+Managing medicines on school premises
+21.
+The governing body should ensure that the school's policy is clear about the
+procedures to be followed for managing medicines.
+19
+Further advice:
+Although schools may already have such procedures in place, they should reflect the
+following details:
+medicines should only be administered at school when it would be detrimental
+to a child's health or school attendance not to do so
+no child under 16 should be given prescription or non-prescription medicines
+without their parent's written consent - except in exceptional circumstances
+where the medicine has been prescribed to the child without the knowledge of
+the parents. In such cases, every effort should be made to encourage the
+child or young person to involve their parents while respecting their right to
+confidentiality. Schools should set out the circumstances in which non-
+prescription medicines may be administered
+a child under 16 should never be given medicine containing aspirin unless
+prescribed by a doctor. Medication, e.g. for pain relief, should never be
+administered without first checking maximum dosages and when the previous
+dose was taken. Parents should be informed
+where clinically possible, medicines should be prescribed in dose frequencies
+which enable them to be taken outside school hours
+schools should only accept prescribed medicines if these are in-date, labelled,
+provided in the original container as dispensed by a pharmacist and include
+instructions for administration, dosage and storage. The exception to this is
+insulin, which must still be in date, but will generally be available to schools
+inside an insulin pen or a pump, rather than in its original container
+all medicines should be stored safely. Children should know where their
+medicines are at all times and be able to access them immediately. Where
+relevant, they should know who holds the key to the storage facility.
+Medicines and devices such as asthma inhalers, blood glucose testing meters
+and adrenaline pens should be always readily available to children and not
+locked away. This is particularly important to consider when outside of school
+premises, e.g. on school trips
+20
+when no longer required, medicines should be returned to the parent to
+arrange for safe disposal. Sharps boxes should always be used for the
+disposal of needles and other sharps
+a child who has been prescribed a controlled drug may legally have it in their
+possession if they are competent to do so, but passing it to another child for
+use is an offence. Monitoring arrangements may be necessary. Schools
+should otherwise keep controlled drugs that have been prescribed for a pupil
+securely stored in a non-portable container and only named staff should have
+access. Controlled drugs should be easily accessible in an emergency. A
+record should be kept of any doses used and the amount of the controlled
+drug held
+school staff may administer a controlled drug to the child for whom it has been
+prescribed. Staff administering medicines should do so in accordance with the
+prescriber's instructions. Schools should keep a record of all medicines
+administered to individual children, stating what, how and how much was
+administered, when and by whom. Any side effects of the medication to be
+administered at school should be noted in school
+Record keeping
+22.
+Governing bodies should ensure that written records are kept of all medicines
+administered to children.
+Further advice:
+Records offer protection to staff and children and provide evidence that agreed
+procedures have been followed. Parents should be informed if their child has been
+unwell at school.
+Emergency procedures
+23.
+Governing bodies should ensure that the school's policy sets out what should
+happen in an emergency situation.
+21
+Further advice:
+As part of general risk management processes, all schools should have
+arrangements in place for dealing with emergencies for all school activities wherever
+they take place, including on school trips within and outside the UK.
+Where a child has an individual healthcare plan, this should clearly define what
+constitutes an emergency and explain what to do, including ensuring that all relevant
+staff are aware of emergency symptoms and procedures. Other pupils in the school
+should know what to do in general terms, such as informing a teacher immediately if
+they think help is needed.
+If a child needs to be taken to hospital, staff should stay with the child until the parent
+arrives, or accompany a child taken to hospital by ambulance. Schools need to
+ensure they understand the local emergency services' cover arrangements and that
+the correct information is provided for navigation systems.
+Day trips, residential visits and sporting activities
+24.
+Governing bodies should ensure that their arrangements are clear and
+unambiguous about the need to support actively pupils with medical conditions to
+participate in school trips and visits, or in sporting activities, and not prevent them from
+doing SO.
+Further advice:
+Teachers should be aware of how a child's medical condition will impact on their
+participation, but there should be enough flexibility for all children to participate
+according to their own abilities and with any reasonable adjustments. Schools should
+make arrangements for the inclusion of pupils in such activities with any adjustments
+as required unless evidence from a clinician such as a GP states that this is not
+possible.
+Schools should consider what reasonable adjustments they might make to enable
+children with medical needs to participate fully and safely on visits. It is best practice
+to carry out a risk assessment so that planning arrangements take account of any
+steps needed to ensure that pupils with medical conditions are included. This will
+require consultation with parents and pupils and advice from the relevant healthcare
+professional to ensure that pupils can participate safely. Please also see Health and
+Safety Executive (HSE) guidance on school trips.
+22
+Unacceptable practice
+25.
+Governing bodies should ensure that the school's policy is explicit about what
+practice is not acceptable.
+Further advice:
+Although school staff should use their discretion and judge each case on its merits
+with reference to the child's individual healthcare plan, it is not generally acceptable
+practice to:
+prevent children from easily accessing their inhalers and medication and
+administering their medication when and where necessary;
+assume that every child with the same condition requires the same treatment;
+ignore the views of the child or their parents; or ignore medical evidence or
+opinion (although this may be challenged);
+send children with medical conditions home frequently for reasons associated
+with their medical condition or prevent them from staying for normal school
+activities, including lunch, unless this is specified in their individual healthcare
+plans;
+if the child becomes ill, send them to the school office or medical room
+unaccompanied or with someone unsuitable;
+penalise children for their attendance record if their absences are related to
+their medical condition, e.g. hospital appointments;
+prevent pupils from drinking, eating or taking toilet or other breaks whenever
+they need to in order to manage their medical condition effectively;
+require parents, or otherwise make them feel obliged, to attend school to
+administer medication or provide medical support to their child, including with
+toileting issues. No parent should have to give up working because the school
+is failing to support their child's medical needs; or
+prevent children from participating, or create unnecessary barriers to children
+participating in any aspect of school life, including school trips, e.g. by
+requiring parents to accompany the child.
+Liability and indemnity
+26.
+Governing bodies of maintained schools and management committees of PRUs
+should ensure that the appropriate level of insurance is in place and appropriately reflects
+23
+the level of risk. Proprietors of academies should ensure that either the appropriate level
+of insurance is in place or that the academy is a member of the Department for
+Education's Risk Protection Arrangement (RPA).
+Further advice:
+It is important that the school policy sets out the details of the school's insurance
+arrangements which cover staff providing support to pupils with medical conditions.
+Insurance policies should be accessible to staff providing such support.
+Insurance policies should provide liability cover relating to the administration of
+medication, but individual cover may need to be arranged for any healthcare
+procedures. The level and ambit of cover required must be ascertained directly from
+the relevant insurers. Any requirements of the insurance, such as the need for staff
+to be trained, should be made clear and complied with.
+In the event of a claim alleging negligence by a member of staff, civil actions are
+likely to be brought against the employer.
+RPA is a scheme provided specifically for academies.
+Complaints
+27.
+Governing bodies should ensure that the school's policy sets out how complaints
+concerning the support provided to pupils with medical conditions may be made and will
+be handled.
+Further advice:
+Should parents or pupils be dissatisfied with the support provided they should
+discuss their concerns directly with the school. If for whatever reason this does not
+resolve the issue, they may make a formal complaint via the school's complaints
+procedure. Making a formal complaint to the Department for Education should only
+occur if it comes within scope of section 496/497 of the Education Act 1996 and after
+other attempts at resolution have been exhausted. In the case of academies, it will
+be relevant to consider whether the academy has breached the terms of its Funding
+Agreement or failed to comply with any other legal obligation placed on
+it. Ultimately, parents (and pupils) will be able to take independent legal advice and
+bring formal proceedings if they consider they have legitimate grounds to do so.
+10 The contractual relationship between the academy and the Department for Education
+24
+Other issues for consideration
+Advice:
+Governing bodies may want the school's policy to refer to:
+home-to-school transport - this is the responsibility of local authorities, who
+may find it helpful to be aware of a pupil's individual healthcare plan and what
+it contains, especially in respect of emergency situations. This may be helpful
+in developing transport healthcare plans 11 for pupils with life-threatening
+conditions;
+defibrillators - sudden cardiac arrest is when the heart stops beating and can
+happen to people of any age and without warning. If this does happen, quick
+action (in the form of early CPR and defibrillation) can help save lives. A
+defibrillator is a machine used to give an electric shock to restart a patient's
+heart when they are in cardiac arrest. Modern defibrillators are easy to use,
+inexpensive and safe.
+Schools are advised to consider purchasing a defibrillator as part of
+their first-aid equipment. DfE has put arrangements 12 in place to assist
+schools in purchasing defibrillators at reduced cost. If schools install a
+defibrillator, they should notify the local NHS ambulance service of its
+location.
+Staff members appointed as first-aiders should already be trained in
+the use of CPR and may wish to promote these techniques more
+widely in the school, amongst both teachers and pupils alike; and
+asthma inhalers - schools may hold asthma inhalers for emergency use. This
+is entirely voluntary, and the Department of Health has published a protocol¹ 13
+which provides further information.
+11 These are separate to the individual healthcare plans referred to throughout this document.
+12
+https://www.gov.uk/government/publications/automated-external-defibrillators-aeds-in-schodls
+13
+https://www.gov.uk/government/publications/emergency-asthma-inhalers-for-use-in-schools
+25
+Further sources of information
+Other safeguarding legislation
+Section 21 of the Education Act 2002 provides that governing bodies of maintained
+schools must, in discharging their functions in relation to the conduct of the school,
+promote the wellbeing of pupils at the school.
+Section 175 of the Education Act 2002 provides that governing bodies of maintained
+schools must make arrangements for ensuring that their functions relating to the conduct
+of the school are exercised with a view to safeguarding and promoting the welfare of
+children who are pupils at the school. Part 3, and in particular paragraph 7 of the
+Schedule to the Education (Independent School Standards) Regulations 2014 sets this
+out in relation to academy schools and alternative provision academies.
+Section 3 of the Children Act 1989 confers a duty on a person with the care of a child
+(who does not have parental responsibility for the child) to do all that is reasonable in all
+the circumstances for the purposes of safeguarding or promoting the welfare of the child.
+Section 17 of the Children Act 1989 gives local authorities a general duty to safeguard
+and promote the welfare of children in need in their area.
+Section 10 of the Children Act 2004 provides that the local authority must make
+arrangements to promote co-operation between the authority and relevant partners
+(including the governing body of a maintained school, the proprietor of an academy,
+clinical commissioning groups and the NHS Commissioning Board) with a view to
+improving the wellbeing of children, including their physical and mental health, protection
+from harm and neglect, and education. Relevant partners are under a duty to co-operate
+in the making of these arrangements.
+The NHS Act 2006: Section 3 gives Clinical Commissioning Groups a duty to arrange
+for the provision of health services to the extent the CCG considers it necessary to meet
+the reasonable needs of the persons for whom it is responsible. Section 3A provides for
+a CCG to arrange such services as it considers appropriate to secure improvements in
+physical and mental health of, and in the prevention, diagnosis and treatment of illness,
+in, the persons for whom it is responsible. Section 2A provides for local authorities to
+secure improvements to public health, and in doing so, to commission school nurses.
+Governing Bodies' duties towards disabled children and adults are included in the
+Equality Act 2010, and the key elements are as follows:
+They must not discriminate against, harass or victimise disabled children and
+young people
+26
+They must make reasonable adjustments to ensure that disabled children and
+young people are not at a substantial disadvantage compared with their peers.
+This duty is anticipatory: adjustments must be planned and put in place in
+advance, to prevent that disadvantage
+Other relevant legislation
+Section 2 of the Health and Safety at Work Act 1974, and the associated regulations,
+provides that it is the duty of the employer (the local authority, governing body or
+academy trust) to take reasonable steps to ensure that staff and pupils are not exposed
+to risks to their health and safety.
+Under the Misuse of Drugs Act 1971 and associated Regulations the supply,
+administration, possession and storage of certain drugs are controlled. Schools may
+have a child who has been prescribed a controlled drug.
+The Medicines Act 1968 specifies the way that medicines are prescribed, supplied and
+administered within the UK and places restrictions on dealings with medicinal products,
+including their administration.
+Regulation 5 of the School Premises (England) Regulations 2012 (as amended)
+provides that maintained schools must have accommodation appropriate and readily
+available for use for medical examination and treatment and for the caring of sick or
+injured pupils. It must contain a washing facility and be reasonably near to a toilet. It
+must not be teaching accommodation. Paragraph 24 of the Schedule to the the
+Education (Independent School Standards) Regulations 2014 replicates this provision for
+independent schools (including academy schools and alternative provision academies).
+The Special Educational Needs and Disability Code of Practice 14
+Section 19 of the Education Act 1996 (as amended by Section 3 of the Children,
+Schools and Families Act 2010) provides a duty on local authorities of maintained
+schools to arrange suitable education for those who would not receive such education
+unless such arrangements are made for them. This education must be full-time, or such
+part-time education as is in a child's best interests because of their health needs.
+Associated resources
+View links to other information and associated advice, guidance and resources 15 ,e.g.
+templates, and to organisations providing advice and support on specific medical
+conditions.
+14
+https://www.gov.uk/government/publications/send-code-of-practice-0-to-25
+27
+Annex A: Model process for developing individual
+healthcare plans
+Parent or healthcare professional informs school that child has
+been newly diagnosed, or is due to attend new school, or is due
+to return to school after a long-term absence, or that needs
+have changed
+Headteacher or senior member of school staff to whom this
+has been delegated, co-ordinates meeting to discuss child's
+medical support needs; and identifies member of school staff
+who will provide support to pupil
+Meeting to discuss and agree on need for IHCP to include key
+school staff, child, parent, relevant healthcare professional and
+other medical/health clinician as appropriate (or to consider
+written evidence provided by them)
+Develop IHCP in partnership - agree who leads on writing it.
+Input from healthcare professional must be provided
+School staff training needs identified
+Healthcare professional commissions/delivers training and staff
+signed-off as competent - review date agreed
+IHCP implemented and circulated to all relevant staff
+IHCP reviewed annually or when condition changes. Parent or
+healthcare professional to initiate
+https://www.gov.uk/government/publications/supporting-pupils-at-scbool-with-medical-conditions-3.
+28
+Department
+for Education
+© Crown copyright 2015
+This publication (not including logos) is licensed under the terms of the Open
+Government Licence v3.0 except where otherwise stated. Where we have identified any
+third party copyright information you will need to obtain permission from the copyright
+holders concerned.
+To view this licence:
+visit
+www.nationalarchives.gov.uk/doc/open-government-licence/version/3
+email
+psi@nationalarchives.gsi.gov.uk
+write to
+Information Policy Team, The National Archives, Kew, London, TW9 4DU
+About this publication:
+enquiries www.education.gov.uk/contactus
+download www.gov.uk/government/publications
+Reference: DFE-00393-2014
+Follow us on Twitter:
+f
+Like us on Facebook:
+@educationgovuk
+facebook.com/educationgovuk
+29

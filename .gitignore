@@ -1,0 +1,14 @@
+# Secrets — never commit filled .env
+.env
+.env.*.local
+**/env_backup_*.env
+
+# Python / IDE
+venv311/
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+.cursor/
+
+# Large local artefacts
+local_models/*.gguf

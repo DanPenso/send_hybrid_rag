@@ -1,0 +1,2320 @@
+Department
+for Education
+Identifying and supporting
+children and young people
+with speech, language and
+communication needs: a
+rapid evidence review
+Research report
+September 2025
+Authors: Catherine Antalek, Fiona
+Dixon, Juhayna Taha and Rosanne
+Esposito - University College London
+Government
+Social Research
+Disclaimer
+This research does not constitute an endorsement by the Department for Education of
+any of the approaches described. It does not reflect current Government policy, nor does
+it indicate future policy direction. Materials, resources, websites, and commercially
+developed programmes or products mentioned in this report are included solely because
+they were identified and reviewed as part of the rapid evidence assessment. Other tools
+or products with similar functions may exist and their absence from this report should not
+be interpreted as a reflection of their effectiveness. Reference to specific named or third-
+party products and materials should not be seen as an endorsement by either the
+authors or the Department for Education of their use, or of any particular company or its
+offerings.
+1
+Contents
+Disclaimer
+1
+List of tables
+4
+Executive summary
+5
+Background
+5
+Approach
+5
+Key findings
+5
+Identification
+5
+Support
+6
+Conclusions
+6
+Introduction
+7
+Aims
+10
+Methods
+12
+Identification and assessment of need
+14
+Key considerations for identification and assessment of SLCN
+16
+Key considerations for the identification and assessment of SLCN summary
+21
+Identification of speech and language challenges
+21
+Identification strategies for speech and language challenges summary
+23
+Identification of cognitive, social, emotional, and behavioural challenges
+23
+Identification and assessment of cognitive and behavioural challenges summary
+25
+Identification of literacy difficulties
+25
+Identification and assessment of literacy challenges summary
+26
+Considerations for bilingual children and young people and those with EAL
+26
+Considerations for learners who are bilingual or have EAL summary
+28
+Identification and assessment summary
+28
+Support and intervention
+30
+Universal support: High quality teaching and classroom support
+31
+Instructional approaches
+32
+Classroom environment
+33
+2
+Collaborative practices
+34
+Targeted support
+35
+Vocabulary support
+36
+Narrative interventions
+39
+Grammar
+42
+Literacy support
+43
+Persistent speech difficulties
+44
+Support and intervention summary
+45
+Conclusions
+47
+Appendices
+48
+Appendix A: Search terms (PICOS criteria)
+48
+References
+52
+3
+List of tables
+Table 1. Components of spoken language
+9
+Table 2. Number of identified studies informing each strand
+13
+Table 3. Definitions of identification terms in the educational and clinical context
+15
+Table 4. Specialists and healthcare providers who may be involved in collaboration
+17
+4
+Executive summary
+Background
+In the SEND Code of Practice, the area of Communication and Interaction includes
+children and young people with speech, language, and communication needs (SLCN).
+These children and young people may have difficulty with one, some or all of the different
+aspects of speech, language or social communication that may vary across development.
+This review focuses on children and young people who have needs related to speech,
+language or communication. Although children and young people with autism may also
+experience various difficulties with communication, approaches for these children will be
+addressed in a separate review on autism, and therefore, will not be examined in this
+review.
+Approach
+The evidence was collected by means of a rapid evidence assessment. A search of the
+literature aimed to retrieve key findings for children and young people with SLCN aged 5
+to 25. The literature search focused on systematic reviews and meta-analyses evaluating
+effective tools and strategies for the identification and support for educational and
+speech, language, or communication outcomes for children and young people with SLCN
+in mainstream classrooms, as well as reviews evaluating collaborative practices between
+families, schools, and healthcare providers or specialists.
+Key findings
+Identification
+Findings highlight a range of tools to flag speech, language and communication
+challenges early as well as broader areas of identification and assessment. These
+preliminary assessments should always be discussed with a Special Educational Needs
+Coordinator (SENCo), families, and speech and language therapists, since accurate
+interpretation of assessment tools often depends on understanding their reliability,
+validity and normative benchmarks. Effective identification and monitoring therefore rests
+on clear role definitions, collaborative practice and ongoing professional development in
+SLCN profiles, co-occurring needs (for example, Attention Deficit Hyperactivity Disorder
+(ADHD) or literacy difficulties) and dynamic assessment methods.
+5
+Support
+In terms of support, a tiered model is typically recommended where all students are
+taught evidence-based high-quality classroom instruction (tier 1) that incorporates explicit
+sequencing of tasks, clear prompts, scaffolding, mnemonics (memory aid techniques)
+and metacognitive strategies (thinking awareness) that reduce cognitive load and benefit
+all learners. If children and young people struggle to learn at this level, they may be
+moved to tier 2, which is more intensive and targeted small group or individual
+instruction. Finally, children and young people who still don't make progress in tier 2 may
+be given more intensive instruction, typically one-to-one and sometimes delivered by a
+specialist at the tier 3 level.
+Targeted interventions, aimed at children who require additional support, yield the
+strongest effects when they focus on both the meaning and sounds of language, use
+storytelling approaches, and are delivered by trained staff in one-to-one or small-group
+settings. Programmes that include visual story aids, parent-led turn-taking, shared
+reading, and structured lessons help improve storytelling and conversation skills.
+Speech-sound therapies using movement-based techniques and real-time feedback can
+improve articulation in younger children and those with persistent disorders. Consistent
+reinforcement across home, clinic and classroom settings, regular progress checks, and
+classrooms designed to encourage speaking (aided by audit tools such as the
+communication supporting classroom observation tool (CSCOT)) and reduce noise all
+help strengthen outcomes.
+Conclusions
+Despite these advances, the evidence base exhibits important gaps. Most studies rely on
+bespoke outcome measures, and few employ long-term follow-up. There is limited
+research examining teacher- or teaching assistant-led delivery models, particularly in
+secondary schools. Moreover, inconsistent terminology between educational and clinical
+contexts hinders tool selection and interpretation. Future research should prioritise
+standardising metrics, evaluating scalable group-delivery approaches, extending trials to
+older and multilingual cohorts, and developing accessible training pathways so that all
+educators can confidently identify, monitor and support children with SLCN.
+6
+Introduction
+In England, during the 2024/25 academic year, approximately 1.44 million pupils with
+identified special educational needs (SEN) are educated in mainstream state-funded
+primary and secondary schools. This includes around 1.17 million pupils receiving SEN
+support, and a further 271,000 pupils with an Education, Health and Care (EHC) plan
+(Department for Education, 2025).
+Speech, Language and Communication Needs (SLCN) is an umbrella term that
+encompasses a broad range of difficulties affecting a child or young person's ability to
+communicate effectively. These needs can be temporary or persistent and may occur
+independently or alongside other developmental conditions. Each child's profile is unique
+and can change over time. For example, children and young people with SLCN may face
+challenges in one or multiple areas of speech, language, or social communication at
+different stages of their lives. SLCN is the most common primary need among pupils
+receiving SEN support; as of 2025, 25.7% of pupils (304,021 pupils) on SEN support
+have SLCN. Additionally, 20.7% of pupils (92,004 pupils) with an EHC plan are identified
+with a primary need of SLCN (Department for Education, 2025). There has been growing
+emphasis on prioritising support for children and young people with SLCN, reflected in
+reviews and guidelines (Bercow, 2008; National Institute on Deafness and Other
+Communication Disorders, n.d.) and international consensus statements (Bishop et al.,
+2017).
+SLCN can be grouped into several key areas of need, which may have different
+strategies for identification and support. Firstly, speech difficulties or speech sound
+disorders refer to problems with perception, production, or representation of speech or
+difficulty with voice quality (Daniel & McLeod, 2017). These include articulation disorders
+(difficulty physically producing specific sounds), phonological disorders (difficulty
+understanding sound patterns), stammering or stuttering (disrupted speech fluency),
+apraxia of speech or verbal dyspraxia such as childhood apraxia of speech (CAS)
+(difficulty coordinating the motor movements for speech), and voice disorders (problems
+with pitch, volume, or vocal quality). The cause of these difficulties is not completely
+understood but may result from poor motor-planning (e.g. difficulties with planning and
+executing coordinated motor tasks) (Cassar et al., 2022), articulatory or phonological
+factors (Wrenet et al., 2021), or even wider cognitive difficulties (Torrington Eaton, 2015).
+Speech sound disorder is relatively common in children aged 3 to 5 but may resolve by
+age 6 especially with intervention (Baker & McLeod, 2011).
+Secondly, language difficulties can affect either understanding (receptive language) or
+expression (expressive language), or both (American Speech-Language-Hearing
+Association, 2000). Receptive language difficulties involve challenges in understanding
+spoken language, while expressive language difficulties affect a child's ability to use
+7
+language to communicate effectively. Mixed receptive-expressive language difficulties
+include both. According to Bishop et al. (2017), the umbrella term "language disorder"
+refers to any condition in which language difficulties have a functional impact on
+everyday life. Children and young people may experience significant difficulties with
+language, which can be either unexplained or associated with an identifiable condition.
+For example, language disorders can occur in the context of known conditions, such as
+Down syndrome, autism, or hearing impairment.
+Developmental Language Disorder (DLD) occurs where language difficulties are not
+associated with any known condition such as hearing loss or autism. DLD refers to
+unexplained, persistent difficulties in using and/or understanding language that may
+negatively impact children's everyday social interactions and learning at school. DLD is
+diagnosed when a child fails to make typical progress in language learning for no obvious
+reason. It affects approximately 7% of children entering school in the UK (Norbury et al.,
+2016), persists beyond age five, and often co-occurs with other difficulties such as
+Attention Deficit Hyperactivity Disorder (ADHD), motor or social challenges, and literacy
+problems. DLD can affect children across the full range of intellectual abilities and
+presents unique challenges because the underlying cause of the language difficulties is
+not immediately apparent. Recognising the distinction between DLD and language
+disorders associated with other conditions is essential for appropriate identification and
+support.
+Thirdly, communication and social interaction difficulties relate to challenges with the
+social use of language, such as using and interpreting language appropriately in
+conversations. This includes pragmatic language impairment and social (pragmatic)
+communication disorder. Semantic-pragmatic difficulties involve challenges
+understanding word meanings and the use of language in context. Autistic children and
+young people often experience communication difficulties that fall into this category,
+particularly in understanding non-verbal cues and conversational rules. While autism falls
+under the broad category of Communication and Interaction needs in the SEND Code of
+Practice (DfE/DoH, 2015), autism has been addressed in a separate evidence review.
+SLCN can also be associated with broader developmental or neurogenetic conditions
+such as Down syndrome, cerebral palsy, hearing impairment, learning disabilities, ADHD,
+social emotional development and behaviour, and other specific learning difficulties like
+dyslexia where language is impacted (Dockrell et al., 2017; Lindsay & Dockrell, 2012;
+Lindsay et al., 2007; St Clair et al., 2011). These co-occurring conditions often affect
+language development in broad and complex ways.
+Language and communication are complex skills influenced by both internal and
+environmental factors and are important for social and academic engagement. Language
+is a dynamic system that involves a set of underlying cognitive skills such as attention,
+8
+memory, perception skills, and reasoning ability such as the ability to draw connections
+between ideas (Moll & Tomasello, 2010). Language also involves a range of interacting
+components such as phonology, semantics, morphology, syntax, and pragmatics (see
+table 1 for definitions). Children with SLCN may experience difficulties with any number
+of these skills which can impact on the development of others, which in turn can lead to
+difficulties in accessing learning experiences.
+Table 1. Components of spoken language
+Element
+Definition
+The aspect of language concerned with speech sounds. Phonological
+Phonology
+awareness is the ability to recognise and manipulate the sound
+structures of spoken language.
+Refers to the meaning of words sentences and how they are used
+appropriately in conversation, including recognising relationships
+Semantics
+between words (synonyms, categories) and grasping nuanced
+concepts in speech. Vocabulary is also typically conceptualised within
+this component.
+Sensitivity to and use of the smallest units of meaning in speech -
+morphemes like prefixes, suffixes and root words - allowing a child to
+Morphology
+form, deconstruct and infer the meanings of complex words (e.g. "un-"
+in "undo")
+Refers to the set of principles and rules governing the arrangement of
+Syntax
+words into phrases, clauses and sentences to form grammatically well-
+formed utterances.
+The use of language to communicate effectively in social contexts
+such as knowing how and when to take turns, maintain topic, adjust
+Pragmatics
+tone, use eye contact and interpret implied meanings beyond the
+literal words spoken.
+Several biological and environmental factors can also impact children's language
+development. Biological factors include gender, with research showing that girls typically
+outperform boys on expressive early language measures during the preschool years
+(Wallentin, 2020). Genetic predisposition is also linked to language outcomes, with
+children who have a family history of speech and language impairments being at higher
+risk of developing language difficulties (Barry& Bishop, 2007; Bishop et al., 2006;
+Sriganesh & Ponniah, 2018). Sensory impairments, such as hearing loss (Ching et al.,
+2023; Tomblin et al., 2015) and vision impairment (Brouwer et al., 2024; Mosca et al.,
+2015), can hinder children's access to linguistic input, thereby affecting the development
+9
+of vocabulary, grammar and pragmatic language skills. In terms of environmental factors,
+there is evidence of linked between socioeconomic status and language skills (Roy &
+Chiat, 2013). Children and young people from lower socioeconomic background may be
+exposed to less high-quality language both at home (Vanormelingen & Gillis, 2016) and
+in school (Wright & Neuman, 2014) which can affect language development. However,
+social disadvantage does not automatically lead to poor language outcomes (Pace et al.,
+2017).
+Bilingual children, including those who are learning English as an additional language
+(EAL), will vary in terms of age of first exposure to English, length of exposure, and the
+quality and quantity of English language input and experiences, resulting in variations in
+the level of their English language proficiency (Bedore & Pena, 2008). Assessment of
+language skills in children and young people with EAL or who speak multiple languages
+is challenging as it is difficult to determine whether their language difficulties are due to
+limited exposure and proficiency in English or reflect an underlying language difficulty.
+Educators find it difficult to differentiate children with SLCN from children who speak
+English as an additional language (Dockrell & Howell, 2016). This is further complicated
+by the limited availability of assessment tools for languages other than English, making it
+difficult to evaluate bilingual children accurately across all their languages. In the UK,
+children with EAL are both over- and under-identified with SLCN (Lindsay & Strand,
+2016). Similarly, assessments are not always appropriately designed to accurately
+measure speech, language, and communication in children with hearing impairments or
+deaf children making it difficult to determine whether a child may have difficulties
+accessing the assessment, or if there are SLCN above and beyond that.
+Aims
+The goal of this rapid evidence assessment (REA) is to synthesise evidence-based
+strategies in the identification, support, and collaborative practices available to
+mainstream educators in supporting children and young people with SLCN. This goal is
+guided by the following research questions;
+Identification:
+Which formal and informal methods and measurement tools are available to
+practitioners to identify children and young people with SLCN within diverse
+classroom settings?
+For which ages or age ranges can these tools be used?
+What are the performance parameters of these measurement tools (e.g.
+reliability/validity/specificity)?
+10
+How can these tools be used to guide decisions regarding the provision of
+universal, targeted or specialist support?
+Support:
+What are the most effective universal and targeted strategies, approaches, or
+adaptations for supporting children and young people with SLCN to improve
+educational outcomes?
+What is the most appropriate level of delivery (universal or targeted or
+specialist) for each of these interventions?
+What specific age groups are targeted by these interventions?
+What types of approaches/interventions do children and young people with SLCN
+respond best to?
+Working with others:
+What components and characteristics foster effective collaboration between
+teachers, specialists, and parents/caregivers in the identification and support for
+children and young people with SLCN, and how can clear role boundaries and
+knowledge-sharing frameworks support this process?
+What examples are there of different models of collaboration between the
+multidisciplinary team?
+11
+Methods
+To address these research questions, a Rapid Evidence Assessment (REA) was
+conducted following Cochrane rapid review guidance (Garritty et al., 2024). This REA
+followed the Preferred Reporting Items for Systematic Reviews and Meta-Analysis
+(PRISMA) statement when selecting relevant articles.
+We conducted a targeted search in October 2024 of two academic databases (i.e.,
+Scopus: PsychINFO and EBSCO: ERIC) as well as grey literature using specific
+keywords related to the research questions (see Appendix A: Search terms). We
+identified systematic reviews and meta-analyses published in English between 2014 and
+2024, focusing on children and young people aged 5-25 (supporting stammering, speech
+and language needs in the early years (0-5) has been addressed in a separate review)
+with identified SLCN in mainstream educational settings. Included studies evaluated
+identification, support, or collaborative practices that are feasible in UK classrooms,
+excluding medical, home-based, or highly resource-dependent interventions (e.g. beyond
+what is typically available in a mainstream classroom such as animals, robotics and
+virtual reality). Identification tools had to be usable by mainstream staff (not clinicians),
+and SEND status were independently verified through diagnosis, EHC plan, or
+standardised measures. Studies relying solely on teacher judgement were excluded.
+Studies reporting measurable educational attainment outcomes or communication and
+language outcomes were included (i.e., excluding behavioural, social or emotional
+outcomes).
+Titles and abstracts were initially screened for relevance by trained members of the team,
+followed by full-text review, resulting in the inclusion of 27 studies in the final review, with
+14 studies on identification and assessment, and 13 studies on support and intervention
+(see Table 2). Given the central role of collaboration across both the identification and
+intervention processes, this strand is not presented as a standalone section. Instead,
+within the identification and support sections, we highlight where collaborative practices
+are necessary and effective. Additionally, as many studies identified for inclusion relate to
+collaborative practices in general SEND provision or across different areas of need, a
+breakdown of studies specific to SLCN is not included here, with collaborative practices
+across the categories of SEND addressed in the Cross-Cutting Themes Report.
+12
+Table 2. Number of identified studies informing each strand
+Strand
+Number of studies included
+Identification and assessment
+14
+Support and intervention
+13
+Total
+27
+Data from each study were then extracted by trained members of the team. We extracted
+descriptive information regarding the characteristics of each study as well as information
+about identification tools and support strategies from the included paper(s) where
+available.
+Our search efforts prioritised high-quality and relevant research, ensuring the inclusion of
+peer-reviewed studies and robust methodologies. All studies identified in the final sample
+were either systematic reviews or meta-analyses. However, to evaluate the quality of
+these studies, we used the Assessing the Methodology Quality of Systematic Reviews
+Tool 2 (AMSTAR2) (Shea et al., 2017). Findings suggest that the evidence base is mixed
+according to this tool. Most studies were rated as high or moderate confidence in the
+results, with some rated as low due to a 'critical flaw' (detailed in our Technical Report).
+The typical critical flaw was that many studies did not conduct a formal risk of bias
+assessment using a recognised tool (e.g., ROBINS-I, Cochrane Risk of Bias).
+For a full account of our methodology including search terms, inclusion, and exclusion
+criteria, PRISMA flow diagram, and extraction variables, and quality appraisal see the
+Technical Report.
+13
+Identification and assessment of need
+The aim of this section is to review the studies identified in our search that focused on
+identification and assessment strategies suitable for use by mainstream educational
+professionals in identifying the needs of children and young people with SLCN.
+In line with the SEND Code of Practice (DfE, 2015), the role of subject and class
+teachers is to support the early recognition of students who may be experiencing
+difficulties, particularly those affecting educational progress. Therefore, these approaches
+reviewed in this REA are not intended to diagnose any conditions, but they can help
+mainstream educators in recognising children and young people's strengths and
+challenges to guide decisions about support or to highlight cases where referral for
+specialist assessment may be warranted. Where concerns are identified, these should be
+discussed with the school's Special Educational Needs Coordinator (SENCo) and the
+child's family to determine appropriate next steps, including referral and formal
+assessment where necessary.
+Further, although many screening and assessment tools may be effective for
+identification and needs-based assessment, these tools should be interpreted with
+caution by mainstream educators who do not hold specialist qualifications. This is
+because such tools are underpinned by psychometric principles (e.g., reliability, validity,
+and standardisation), which determine how results should be interpreted and used.
+Without specific training in these areas, it may be difficult to determine how scores
+compare to typically developing populations, whether they represent meaningful results,
+or what it means when scores fall within clinical ranges. In practice, this ambiguity places
+greater reliance on professional judgment, which can lead to variability in how results are
+interpreted, particularly among assessors with less experience or limited training. While
+educators play a vital role in completing these tools as informants, accurate interpretation
+should typically involve an individual with specialist training. Although the strategies
+outlined in this section can be useful for planning interventions or flagging potential
+concerns, they should not be used for labelling or diagnosis. Rather these tools should
+be used to identify critical areas of need that may impact a student's academic
+performance.
+The purpose of identification is to verify the existence of an educational need, while
+assessment aims to characterise the nature and extent of the child's difficulties in terms
+of differing skills (e.g., cognitive, language, literacy) (McCauley, 2001). The terms
+'identification', 'screening', 'assessment', and 'profiling' are often used inconsistently
+across research, policy, and practice and can have different meanings in relation to
+educational versus clinical context. For example, the term 'screening' in an educational
+context typically refers to the process by which a tool or a strategy is used to flag
+potential needs in a population (e.g., whole-school or whole-class) or of specific children
+14
+who may be at risk to provide timely support or targeted interventions in educational
+settings. In contrast, screening for clinical purposes is typically carried out by health or
+mental health professionals using standardised tools to determine whether a child may
+meet criteria for a specific diagnosis, such as DLD, with the goal of planning for further
+assessment. However, some processes can overlap. For example, a listening
+comprehension assessment could be used for identification purposes to initially identify
+oral comprehension and receptive language difficulties, or it could be used in formal
+assessment of needs (e.g., during a DLD diagnosis) or to monitor progress of an oral
+language intervention. For clarity throughout this document, we define each term within
+an educational context. Definitions of terms are provided in Table 3.
+Table 3. Definitions of identification terms in the educational and clinical context
+Term
+Educational use
+Clinical use
+Needs-based
+The process of recognising that a child
+Not a formal clinical term;
+identification
+may have additional needs (whether
+overlaps with early signs
+they do or do not have a diagnosis),
+that may prompt
+often based on parental or child
+diagnostic referral but is
+concern, observations, or professional
+not sufficient for
+judgement. However, this process can
+diagnosis.
+also include informal assessments.
+Informal assessments are flexible
+methods of gathering data to identify
+areas of need, guide interventions and
+monitor progress. These tools include
+checklists, questionnaires, or more
+structured assessments (e.g., listening
+comprehension, reading fluency).
+Screening
+A brief, tool or procedure used to flag
+Tools used to determine
+or identify potential concerns across a
+whether further
+population. In educational contexts, the
+diagnostic assessment is
+goal is to flag potential needs early so
+warranted, often as a first
+that timely support or targeted
+step in a medical or
+interventions can be put in place within
+psychological evaluation
+the school setting. However, given that
+pathway. Typically, these
+screeners are typically quick to
+tools should be
+administer and usually measure only a
+administered by a trained
+specific area of concern, their results
+specialist.
+should be interpreted with caution.
+15
+Term
+Educational use
+Clinical use
+Assessment
+Refers to a systematic structured
+A systematic and
+process of data gathering from
+structured process of
+standardised tools to understand
+data collection for
+individual strengths and needs in order
+diagnostic purposes.
+to plan intervention or monitor
+Assessment is conducted
+progress. For educational purposes,
+by specialists (e.g.,
+these can be informal or formal
+speech and language
+assessments. Assessment should be
+therapists) and involves
+an ongoing process to monitor
+standardised diagnostic
+progress.
+tools to determine
+Formal assessments are structured,
+specific conditions or
+standardised tools used to evaluate a
+developmental profiles.
+student's performance against national
+or normative standards. These include
+GCSEs and A-levels but also
+standardised assessments of literacy
+or other types of skills. Formal
+assessments sometimes require input
+from specialists to administer and/or
+interpret results.
+Profiling
+A holistic summary of a child's
+Less commonly used as
+functioning, strengths, and areas of
+a standalone concept;
+difficulty, often used to guide provision.
+elements of profiling are
+Includes data from multiple informants
+embedded in
+and through multiple methods.
+comprehensive
+diagnostic assessments
+that explore functional
+impact across domains.
+Key considerations for identification and assessment of SLCN
+The path to identification and support for children and young people with SLCN can be
+initiated through health or educational channels. Thus, both these services have a
+responsibility for meeting the needs of children with SLCN (Law et al., 2002). The
+identification and assessment of needs as well as the intervention and support require
+effective collaboration between families, teachers, school staff, and professionals from
+health sectors (i.e., speech and language therapists). Here, there are a number of
+specialists and healthcare professionals who may be involved in the identification and
+16
+support processes for children and young people with SLCN. These professionals are
+listed in Table 4.
+Table 4. Specialists and healthcare providers who may be involved in collaboration
+Specialist/Professional
+Role
+Observes speech and language difficulties in context;
+Classroom Teacher
+implements classroom strategies to support SLCN.
+Learning Support
+Supports pupils in class and may deliver speech and
+Assistant (LSA) /
+language programmes under supervision.
+Teaching Assistant (TA)
+SENCo (Special
+Coordinates identification, school support plans, and
+Educational Needs
+referrals for children with SLCN.
+Coordinator)
+Specialist Teacher
+Provides school-based assessments, guidance, and support
+(SLCN)
+strategies tailored to SLCN.
+Conducts cognitive and communication assessments;
+Educational Psychologist
+advises on tailored support and intervention.
+Speech and Language
+Assesses, diagnoses, and provides direct or indirect
+Therapist (SaLT)
+intervention for SCLN.
+SaLT Assistant / Therapy
+Delivers therapy programmes under supervision of a
+Assistant
+qualified SaLT.
+Specialist community public health nurses trained to
+administer a brief general assessment of motor, social and
+Health Visitor
+language development. Monitors early speech and language
+milestones; can refer to SaLT services.
+Screens for underlying developmental conditions (e.g.,
+Paediatrician
+autism, global delay) impacting communication.
+Assesses hearing ability and auditory processing to rule out
+Audiologist
+hearing-related causes of SLCN.
+ENT (Ear, nose and
+Investigates medical causes such as glue ear or anatomical
+throat) Specialist
+issues that impact speech or hearing.
+Supports children with fine motor, sensory, and feeding
+Occupational Therapist
+difficulties that may impact communication.
+Assesses physical impairments that could impact
+Physiotherapist
+articulation, breath support, or coordination.
+17
+Specialist/Professional
+Role
+Assesses neurodevelopmental conditions and provides input
+Clinical Psychologist
+into diagnosis and intervention planning.
+Specialist Nurses (e.g.,
+Provide health monitoring, care planning, and parent support
+Community Children's
+for long-term conditions.
+Nurses, Epilepsy Nurse)
+Interpreter / Bilingual
+Assists during assessments and interventions with children
+Support Worker
+who speak English as an Additional Language (EAL).
+Speech and language therapists are particularly important in identifying, assessing, and
+supporting children and young people with or at risk of SLCN. Speech and language
+therapists may either be based directly in schools or available externally. For example, in
+schools, speech and language therapists support the identification and assessment of
+students who may have SLCN and help develop interventions and whole-school
+approaches. Mainstream educators can work closely with speech and language
+therapists to support children and young people with, or at risk of, SLCN.
+In educational settings, identification typically begins with classroom observations by
+teachers or early years practitioners who notice difficulties in speaking, listening,
+understanding, or social interaction (Girolamo et al., 2022). Teachers and SENCos may
+consult with parents and review developmental histories to gain further insight. This early
+identification process aligns with the graduated response outlined in the SEND Code of
+Practice (DfE, 2015), which emphasises the importance of needs-based support
+regardless of formal diagnosis.
+Speech and language difficulties may be identified early in development (e.g., as part of
+the Early Years Foundation Stage (EYFS) progress check or the 2-year check' by Health
+Visitors), or they may become apparent once a child starts school. However, data from
+single screening measures is not sufficient in determining the development language
+trajectories of children and young people (Dockrell & Marshall, 2015). Assessment
+involves asking the parents a few questions about their child's language and/or carrying
+out a short comprehension/expressive activity with the child. As previously noted under
+'Methods', the identification of SLCN for children aged five years and under has been
+reviewed separately. Consequently, this REA reports on identification and assessment
+tools for children and young people with SLCN aged five years and older. SLCN can
+persist and affect learning outcomes for children and young people in both the early
+years and throughout education (e.g., Beitchman et al., 1996; Dockrell & Hurry, 2018).
+Therefore, it is equally important to consider the speech, language and communication
+needs of children and young people aged five and over, as it is for children in the early
+years (aged 0-5). Identification and assessment approaches will be discussed according
+18
+to these different areas of need. However, firstly we note a few general practices that
+educators should keep in mind when identifying, screening, and assessing for SLCN.
+First, teachers, early years practitioners, and SENCos would benefit from a foundational
+understanding of SLCN. This is important because teachers are often involved in clinical
+interviews with speech and language therapists and their role in identification in
+classroom and early years settings is important in recognition and referral of children who
+may have difficulties (e.g., Caesar & Kohler, 2009). However, many educators report
+insufficient training opportunities in SLCN, making it challenging to identify and support
+affected children and to distinguish these needs from those associated with other
+developmental disorders or among children who have EAL (Dockrell & Howell, 2016).
+Given the limited instruction on these difficulties in initial teacher training programmes, it
+may be beneficial for educators to engage in ongoing professional development to
+strengthen their knowledge and skills in identifying and supporting children and young
+people with SLCN.
+Second, obtaining a family history and background information is important in the
+identification, assessment, and profiling process. Children's early language abilities
+particularly, as reported by parents and measured through vocabulary assessments at
+ages three and five, may be reliable predictors of whether teachers later identified them
+as having SLCN at ages seven and eleven (Dockrell & Hurry, 2018). Given that SLCN
+can be heritable (Newbury et al., 2010) and can be impacted by environmental factors, it
+is useful, where possible, to obtain a detailed family history of speech and language
+difficulties or diagnosis. Children and young people who speak two languages or have
+EAL may also have unique profiles influenced by their exposure to two or more
+languages and the contexts in which they acquire these languages (Snow, 2014; Paradis
+et al., 2010; Tuller, 2015). It is also useful to know whether the child or young person may
+have any co-occurring difficulties that could be impacting their academic performance,
+such as motor difficulties, handwriting difficulties, ADHD, or autism. Therefore,
+collaboration and the involvement of families are important in identifying, assessing, and
+supporting children with SLCN, especially children with speech, language, or
+communication difficulties who may not necessarily meet the criteria for a speech or
+language disorder.
+Finally, the SLCN profile of children and young people can change over time (e.g., in
+response to intervention, change in environment, cognitive development, and other
+relevant changes) (Snowling et al., 2012). Further, a systematic review by Ebert and Lee
+(2024), included in our REA, found limited high-quality evidence identifying which child
+characteristics predict response to language interventions. Therefore, it is important that
+early identification is followed by monitoring and periodic reassessment in collaboration
+with a speech and language therapist. Most standardised assessments can typically be
+19
+readministered every six months, but weekly or monthly informal assessments may also
+be useful. These will be discussed in the following sections.
+It is important to note a significant challenge in this field of research. SLCN terminology is
+varied across research and practice with multiple overlapping terms (e.g., disorder,
+deficit, dysfunction) used interchangeably, and has changed over time (Dockrell et al.,
+2006). For example, prior to the CATALISE consortium¹ (Bishop et al., 2017), various
+terms were used to describe the children and young people who have difficulties with the
+acquisition and processing of language, including specific language impairment (SLI),
+language impairment, language learning difficulties, and verbal dyspraxia. Similarly, one
+systematic review in our REA found that there is no systemic use of definition and
+terminologies of pragmatic language impairment among researchers from various
+disciplines, even within publications of the same author or the same paper (Alduais et al.,
+2022). These inconsistences present challenges to effective collaboration between
+families, educators, and health professionals and may impact how children and young
+people are identified as having SLCN. A possible secondary consequence of these
+inconsistencies in research is that much research has focused on addressing these
+concerns in clinical practice; however, it has been argued that there is still no 'gold
+standard' in diagnostic procedures (Shahmahmood et al., 2016). Further, even less is
+known about the ways in which the needs of children are identified within the education
+system (Dockrell et al., 2017; Dockrell & Hurry, 2018).
+Therefore, mainstream educational settings play a key role in supporting children and
+young people with SLCN, often without the benefit of a formal diagnosis, which
+underscores the importance of teacher awareness, early identification, and inclusive
+teaching strategies. Here, we review available evidence of different approaches that
+educators can use to identify different areas of difficulty and areas that need education-
+based support. There are also several important factors that educators should consider
+during the identification, assessment, referral and/or support of children with SLCN.
+These will be discussed according to these different areas of speech, language, and
+communication needs. The following summary outlines a few general practices that
+educators should keep in mind when identifying, screening, and assessing for SLCN.
+1 refers to a consensus study led by Dorothy Bishop and colleagues as part of the CATALISE project
+(Criteria and Terminology Applied to Language Impairments: Synthesising the Evidence). This consensus
+study led by an international group of experts aimed to clarify terminology and diagnostic criteria for
+language disorders in children. The key output of the 2017 paper was the recommendation to use the term
+Developmental Language Disorder (DLD) for unexplained language difficulties, replacing terms like SLI
+(Specific Language Impairment).
+20
+Key considerations for the identification and assessment of SLCN summary
+Collaboration between educators and speech, language, and communication
+therapists is essential to reduce capacity demands.
+Professional development can be important to learn about SLCN.
+It is important to obtain a family history and background information where
+possible.
+Monitoring educational needs is important as these can change over time.
+Terminology referring to SLCN is inconsistent in research and practice
+Identification of speech and language challenges
+Compared to typically developing children, children with different speech and language
+challenges may produce narratives that are less syntactically and structurally complex.
+Their narratives are often shorter in length (e.g., lower mean length of utterance), show
+reduced lexical diversity (e.g., fewer number of different words), include more
+grammatical errors, and display reduced fluency (e.g., more speech disruptions)
+(Govindarajan & Paradis, 2019). Language sample analysis is a tool used in clinical
+assessment of SLCN to evaluate a child or young person's spoken language in natural
+settings (Miller et al., 2016). One review (Scott, 2020) and one meta-analysis (Winters et
+al., 2022) retrieved in our REA suggest that language sample analysis of oral or written
+language can be useful in identifying speech and language difficulties, including those
+associated with DLD. A further systematic review suggests that there is also emerging
+evidence that language sample analysis can have diagnostic assessment utility (Ramos
+et al., 2022) meaning they could be helpful in distinguishing between those with and
+without DLD. However, more research is needed to establish this as a clinical evidence-
+based practice.
+Language sample analysis can be useful in the identification of speech, language or
+communication challenges and in guiding targeted intervention. It involves collecting a
+sample of spoken (or sometimes written) language during everyday activities, such as
+conversation, storytelling, or play, and analysing it to understand the child's language
+abilities. Educators can elicit oral or written language samples through engaging
+activities, such as asking students to talk about a pet, describe a recent holiday, or
+narrate what is happening in a picture. Oral language samples can provide valuable
+insight into a student's speech rate, fluency, intelligibility, voice quality, and the presence
+of speech errors. They also offer opportunities to observe vocabulary use, semantic
+understanding, and pragmatic skills such as eye contact, topic maintenance, turn-taking,
+21
+and perspective taking. Written samples, meanwhile, can inform assessment of written
+language abilities, including vocabulary, syntax, grammar, productivity, accuracy and
+content organisation.
+While language sample analysis is traditionally used by speech and language therapists,
+teachers can also be involved in collecting or reviewing language samples, especially
+when supported by speech and language therapists or trained staff. Although this
+resource was not identified in our REA, a manual by Shipley and McAfee (2023) provides
+some useful information on such strategies. However, while these strategies may be
+useful, Winters et al. (2022) report there is a gap in understanding how different narrative
+tasks (e.g., telling versus retelling, or the use of pictures) and participant characteristics
+(such as age or native language) can reliably distinguish between children with and
+without DLD. More research is needed to evaluate the utility of language sample analysis
+for identification purposes in educational settings, particularly when used by educators
+without specialist training.
+Another systematic review (Pawlowska, 2014) investigated whether three specific
+language processing tasks could be accurate indicators of DLD versus language
+difficulties/delays in children aged 5 to 12. The three they investigated were (1) verb
+tense morphology² (Rice et al., 2009; Rice & Wexler, 1996), (2) nonword³ repetition
+(Bishop et al., 1996), and (3) sentence repetition (Conti-Ramsden et al., 2001; Tomblin et
+al., 1992). The review found that tense marking was a moderately accurate indicator of
+DLD. Sentence repetition also showed potential as a diagnostic marker, but its
+usefulness may be limited due to inconsistent findings across studies. Nonword repetition
+showed limited diagnostic value, suggesting that this evidence is still limited.
+1. Verb tense morphology: In the review, with preschool and early primary-aged
+children, spontaneous language samples were analysed using the Finite Verb
+Morphology Composite (FVMC; Leonard et al., 1999) or the Percent Verb Tense
+Usage measure (PVT; Eisenberg & Guo, 2013), which quantify the correct use of
+verb morphemes in obligatory contexts (e.g., third person singular -S, regular past
+tense -ed, and forms of the verb be). Some studies also used the Tense Marker
+Total and productivity scores to assess the diversity and productivity of tense
+morpheme use. For older children, structured elicitation tasks were used, including
+the Past Tense Task (past tense task [PTT], Marchman, Wulfeck, & Ellis-Weismer,
+1999), the Third Person Singular Task (TPS; Simkin & Conti-Ramsden, 2001), and
+2 Verb tense morphology refers to the way verb forms change (morph) to express tense (past, present,
+future).
+3 Nonwords, also called nonsense words or pseudowords, are letter sequences that follow English phonics
+patterns and are pronounceable but have no meaning (e.g. 'yom').
+22
+the Rice/Wexler Test of Early Grammatical Impairment (Rice & Wexler, 2001),
+which target regular and irregular tense marking in simple sentences.
+2. Nonword repetition was tested with the Nonword Repetition Test (NRT; Dollaghan
+& Campbell, 1998) or the Children's Test of Nonword Repetition (CNRep;
+Gathercole et al., 1994). In nonword repetition tasks, individuals are asked to
+repeat novel, word-like stimuli that follow the phonotactic rules of a particular
+language (Gathercole et al., 1994). Nonword repetition tasks are frequently used
+to detect language and speech difficulties. These tasks typically include 20 to 40
+nonwords, increasing in length from one to five syllables. Nonword repetition
+requires perceiving speech sound sequences, retaining them in short-term
+memory, and accurately reproducing them through speech. Children and young
+people with DLD typically are less accurate at pronunciation than their peers
+without DLD and show difficulties when the length or complexity of the word
+increases (Graf Estes, et al., 2007; Schwod et al., 2021).
+3. Sentence repetition was measured using either the Recalling Sentences (RecS)
+subtest of the Clinical Evaluation of Language Fundamentals-Revised (CELF-R,
+Semel, Wiig, & Secord, 1994), containing a variety of syntactic structures in
+sentences of increasing length, or with Redmond's (2005) Sentence Recall (SR)
+probe, consisting of sixteen 10-word sentences, half active and half passive. The
+scoring for both tasks is based on the number of lexical or morphosyntactic
+deviations from the original sentence. This skill may reflect receptive and
+expressive language ability as well as memory skills.
+Identification strategies for speech and language challenges summary
+Language sample analysis (oral or written)
+Verb tense morphology
+Nonword repetition tasks
+Sentence repetition tasks
+Identification of cognitive, social, emotional, and behavioural
+challenges
+Children and young people with SLCN may also face challenges beyond their speech,
+language and communication difficulties. For example, children with DLD may show
+difficulties with social interactions or exhibit behavioural problems that overlap with
+difficulties associated with autism and ADHD, respectively. Social withdrawal is
+23
+sometimes observed along with difficulties with peer relationships. Additionally, difficulties
+with pragmatic language have been linked to wider social, behavioural, and emotional
+concerns, including anxiety, low self-esteem, and symptoms of depression (St Clair,
+Pickles, Durkin, & Conti-Ramsden, 2011). It is therefore important that educators
+recognise the potential links between SLCN and associated cognitive, behavioural, and
+mental health challenges. Identification and assessment processes should take these
+broader domains into account to ensure that the support provided is comprehensive,
+appropriately targeted, and responsive to the full range of a child's needs.
+Persistent stuttering (beyond preschool and early years) can negatively impact
+education, occupational attainment, personal relationships, and mental health while also
+contributing to experiences of stigma. A systematic review conducted by researchers in
+Australia (Jones et al., 2021) identified six high-quality clinical assessment tools for
+measuring the psychological impacts of stuttering in children and young people aged six
+and older. Namely, the Parent Questionnaire (Erickson & Block, 2013), the
+Teasing/Bullying Questionnaire for Children Who Stutter (TBQ-CS; Langevin et al.,
+1998), Overall Assessment of the Speaker's Experience of Stuttering - School-Age
+(OASES-S; Yaruss & Quesal, 2010), and three self-report tests of the Behaviour
+Assessment Battery for School-Age Children Who Stutter (BAB; Longland, 2009). The
+self-report tests were the Communication Attitude Test (CAT; Brutten & Vanryckeghem,
+2007), the Behaviour Checklist [BCL], and the Speech Situation Checklist-Emotional
+Reaction [SSC-ER]). Teachers and mainstream educators without specific qualifications
+can support the administration of these tools, especially in gathering information and
+providing context. However, interpretation and subsequent decision-making should
+involve speech and language therapists or trained professionals, particularly for tools like
+OASES-S and the BAB suite, which are designed for clinical insight into the psychosocial
+and communication impacts of stuttering.
+Children and young people with SLCN may also demonstrate attentional shifting
+difficulties (e.g., the ability to disengage from one focus of attention and switching to a
+different focus of attention). Attentional shifting is important in oral language and literacy
+development (e.g., Hill & Wagovich, 2020; Kapa & Columbon, 2014; Kieffer, Vukovic, &
+Berry, 2013; Lubin, Regrin, Boulc'h et al., 2016). For example, individuals with the ability
+to shift focus from different speakers in a conversation are quicker to recognise and
+understand spoken words (Evans et al., 2018). This has implications for classroom
+behaviour, and suggests that cognitive flexibility may be a useful marker to assess
+alongside language ability. One meta-analysis in our REA (Aljahlan & Spaulding, 2021)
+found that children with DLD struggle compared to age-matched peers with switching
+between tasks that require different rules or ways of thinking (set-shifting). This difficulty
+is observed clearly and consistently across different ages and measurement methods,
+but not on alternating attention tasks (which involve switching between different tasks
+24
+more routinely). This distinction implies that task complexity and executive function load
+may influence performance. Set-shifting tasks may place higher demands on cognitive
+control, inhibition, and problem-solving, areas where children with DLD also often
+struggle.
+These findings support the addition of cognitive and executive function assessment for
+children and young people who might be at risk of SLCN to help determine patterns of
+need and to guide support and intervention. However, these types of cognitive
+assessments should typically be administered and interpreted by a qualified specialist
+with training in psychometric assessment.
+Identification and assessment of cognitive and behavioural challenges summary
+Children and young people with SLCN may have broader cognitive, behavioural,
+social, or mental health challenges
+Persistent stuttering affects educational and psychosocial outcomes; six validated
+tools can assess psychological impact, though interpretation should be led by
+trained professionals
+Children with DLD show consistent difficulties with set-shifting (but not routine
+attentional switching), supporting the need to assess executive function alongside
+language to better inform intervention
+Identification of literacy difficulties
+Oral language development is closely linked with literacy development (e.g., reading,
+writing, and spelling). The importance of language is highlighted in models of reading
+such as the Simple View of Reading (Hoover & Gough, 1990), which proposes that
+reading comprehension is a combination of word reading efficiency and language
+comprehension. Therefore, underlying oral language difficulties can hinder literacy
+development, contributing to broader challenges in reading-related tasks (e.g., following
+written instructions) and written expression. Difficulties with oral language are strong
+predictors of later reading, writing, and spelling challenges (Carroll et al., 2011). Literacy
+difficulties such as decoding and reading comprehension, are often observed in children
+with SLCN in primary school (Botting, Simkin & Conti-Ramsden, 2006; Dockrell &
+Lindsay, 2004), and young people with DLD (McArthur et al., 2000). Identifying and
+addressing these areas of literacy early could therefore be essential to providing effective
+support. However, it is important to note that not all children and young people with
+SLCN will go on to develop literacy difficulties.
+25
+Our Cognition and Learning REA outlines a number of different identification and
+assessment tools available to mainstream educators to identify areas of difficulty in
+reading, writing, and spelling. These strategies can also be used to measure literacy
+skills in children and young people with SLCN and therefore, we encourage practitioners
+to refer to this report.
+Identification and assessment of literacy challenges summary
+Literacy difficulties are common in children and young people with SLCN
+Identification and assessment of different areas of reading may also help inform
+support strategies
+Identification and assessment tools can be found in our cognition and learning
+REA
+Considerations for bilingual children and young people and
+those with EAL
+As previously discussed, the number of languages that a child speaks, and their
+frequency and quality of exposure to the English language can impact a child's speech
+and language abilities in English. It can be difficult for practitioners to determine whether
+a speech, language, or communication difficulty is due to lack of proficiency or exposure,
+or for reasons beyond that. Previous research often recommends obtaining a language
+history questionnaire as an early step in identifying and assessing the educational needs
+of children and young people with EAL. Although not identified in our REA, a commonly
+used tool that is available online is called the QBEX (Kašćelan et al., 2022). This is an
+online questionnaire that can be used by teachers to gather information through parents
+on the child's exposure to English and other languages.
+Two systematic reviews by Ortiz (2021) and Schwob and colleagues (2021) found that
+nonword repetition (NWR) tasks may be useful in identifying language difficulties in
+bilingual children and young people or those with EAL. Those with suspected SLCN may
+benefit from referral to speech and language therapists, who can administer nonword
+repetition tasks alongside other assessments to evaluate language difficulties more
+accurately. Since these sound sequences are linguistically plausible but unfamiliar, NWR
+tasks are considered less culturally and linguistically biased than many traditional
+assessments. NWR performance is thought to reflect phonological working memory, an
+individual's capacity to perceive, retain briefly, and reproduce novel phonological
+information (Gathercole & Baddeley, 1990; 1993). However, other cognitive and linguistic
+processes may also contribute, including phonological encoding (Kamhi & Catts, 1986),
+26
+phonological awareness (Metsala, 1999), broader phonological processing (Bowey,
+2001), and even multiple interacting cognitive mechanisms (Edwards & Lahey, 1998;
+Graf Estes et al., 2007). Given this, NWR tasks may offer a valuable, relatively unbiased
+tool for identifying underlying language difficulties, particularly in linguistically diverse
+learners.
+For multilingual children with DLD, measuring literacy abilities in their first language such
+as phonological abilities including rapid naming and blending may provide further use in
+determining the nature of reading difficulties in this cohort (Ramirez et al., 2023).
+However, this may not be a realistic option given that there are very few measures in
+languages other than English. Further, the administrator would also need to understand
+the first language to be able to assess and interpret results.
+There is growing support for using dynamic assessment as an effective method for
+SLCN, especially in multilingual children. Dynamic assessment tools evaluate a child's
+learning potential rather than only their current or static ability. Dynamic assessments can
+be used for screening or diagnosis, monitoring change, intervention planning, or for
+assessing the nature and extent of SLCN. One systematic review (Bamford et al., 2022)
+found that the type of dynamic assessment used in assessment across research varies.
+Instruction components of dynamic assessment may include cueing, prompting, or direct
+teaching of task content. The distinction between prompting (which supports access to
+existing knowledge), and direct instruction (which teaches new skills) is important but
+underexplored. The review emphasises that different combinations of instructional
+methods may yield varying effectiveness depending on the skill being assessed, the
+population, and the purpose. For practitioners, this means that while dynamic
+assessment offers a promising way to assess learning potential rather than static ability,
+its complexity may be a barrier to adoption. Another systematic review retrieved in our
+REA (Hunt et al., 2022) also suggests that dynamic assessment is useful in identifying
+language disorders in multilingual children. However, the evidence here is limited by
+small sample sizes and study designs.
+Based on this, the Dynamic Assessment Framework could be useful for clinicians to
+better match the purpose of their assessment with an appropriate methodology.
+However, the lack of standardisation and limited evidence on validity, particularly outside
+language domains, indicates a need for caution when interpreting results. For
+educational settings, this suggests that dynamic assessment should be seen as a
+complement to other assessments, especially when used by non-specialists, and that
+more accessible training and clearer reporting standards are needed to support reliable
+use.
+27
+Considerations for learners who are bilingual or have EAL summary
+Children and young people who are bilingual or EAL can have difficulties in both
+their native and second language
+Some tools may not appropriately measure this group due to the ways they were
+developed
+Nonword repetition tasks and dynamic assessment strategies may be useful in
+measuring the SLCN of this group
+Identification and assessment summary
+Mainstream educators can employ a range of identification and assessment strategies to
+flag strengths and challenges in pupils' speech, language, and communication. These
+methods are not diagnostic but serve to guide timely classroom support and, where
+needed, referral to specialists. Teachers' observations and initial screenings should
+always be discussed with the SENCo and families and interpreted in partnership with
+speech and language therapists or other qualified professionals since accurate use of
+standardised tools depends on understanding their reliability, validity, and normative
+benchmarks.
+Effective practice benefits from collaborative working and ongoing professional
+development; teachers may consider foundational training on the profiles of children and
+young people with SLCN, co-occurring conditions (e.g., literacy difficulties, ADHD) and
+bilingual/EAL considerations, as well as familiarity with dynamic assessment techniques
+that reveal learning potential. Regular monitoring and periodic re-assessment using both
+formal measures (e.g., language samples, non-word repetition, sentence recall) and
+informal classroom checks, ensure that evolving needs are met. However, it should be
+noted that although these techniques may be considered evidence-based practice, it may
+often be the case that collaborative efforts and ongoing assessment are hindered by
+limited resources.
+Key gaps include inconsistent terminology and a lack of agreed common metrics across
+educational and clinical contexts, limited evidence on the reliability and validity of many
+tools when used by non-specialists, and sparse research on how well classroom-based
+identification translates into improved outcomes. Further studies are needed to
+standardise definitions, evaluate the utility of language sampling in schools, and develop
+accessible training models so that teachers can confidently recognise and respond to
+SLCN. Finally, our REA did not identify any reviews examining the identification and
+assessment of communication skills specifically for children and young people with SLCN
+who do not have autism. Most existing research on social communication needs focuses
+28
+on autistic learners, and although some tools are reviewed in our Autism Report, there is
+a notable lack of approaches tailored to those without autism-related characteristics.
+29
+Support and intervention
+Support for children and young people with SLCN typically focuses on various elements
+of the language system and common underlying processes such as attention and
+listening. However, as previously stated, establishing the evidence-base for support has
+been challenging for several reasons including the difficulty in identifying and assessing
+the nature and extent of challenges associated with SLCN. Here, the inconsistency in
+terminology, and the lack of research applicable to educational contexts versus more
+specialist resources and environments contribute to this challenge.
+Second, intervention methods for children and young people with SLCN are usually
+delivered in small groups or one-to-one, which creates barriers by reducing exposure to
+the entire curriculum by missing lessons and reducing children's access and class
+participation (Gallagher et al., 2018).
+Nonetheless, there are strategies that have been shown to be effective in supporting
+children and young people with SLCN. For example, see Ebbels and colleagues (2019)
+for a recent review of effective intervention approaches for children and young people
+with language disorders. The section reviews the studies from our REA that focused on
+support and intervention strategies suitable for use by mainstream education
+professionals. Although the initial aim was to specifically explore approaches that are
+effective in supporting educational outcomes including literacy, writing, maths, science,
+and general attainment, our REA identified few studies that focused exclusively on these
+outcomes for children and young people with SLCN. Therefore, we also consider
+interventions aimed at improving speech, language, and communication skills. This
+section is organised into two parts: 1) universal provision and high-quality teaching
+strategies that support children and young people at the first tier of the graduated
+approach, and 2) targeted approaches tailored to specific areas of need such as
+difficulties in literacy and mathematics.
+When reporting on intervention and support strategies in this REA, we sometimes refer to
+effect sizes that were reported in the studies reviewed. Effect sizes range from 0 to 1 and
+refer to how much of a difference an approach or intervention makes, beyond just
+whether it works. A small effect (around 0.2) means a modest improvement, a medium
+effect (around 0.5) suggests moderate improvement or progress, and a large effect (0.8
+or more) indicates a strong impact on learning.
+Additionally, evidence can come from various study designs, each differing in the
+strength and type of reliability they offer. Single-case designs provide strong evidence for
+the consistency of effects within individuals, making them valuable for understanding how
+interventions work in specific cases. However, their findings may not be widely
+generalisable (i.e., applicable to other individuals and/or settings). In contrast, group-
+30
+design studies such as randomised controlled trials offer more generalisable results
+across larger populations but may overlook important individual differences in how
+students respond to interventions. Ideally, a strong body of evidence should be based off
+of multiple types of study designs.
+We also refer to standardised assessments or outcome measures versus researcher-
+created or bespoke outcome measures. Standardised assessments are norm-referenced
+tools that have been trialled on large, representative samples to establish reliability
+(consistency of scores) and validity (that the test really measures what it claims). These
+allow for comparison of a student's performance to a representative against a
+representative sample of age-matched peers, allowing for an estimate of whether a
+student is performing above, at or below expected levels. By contrast, researcher-created
+or bespoke measures are tailored to the exact targets of an intervention or teaching
+programme for example, a bespoke word-definition task featuring the precise vocabulary
+items taught and practised. Although research-created measures tend to be more
+sensitive to the incremental progress students make over short instructional periods,
+these measures lack the normative data and the extensive psychometric testing of
+standardised tools.
+Universal support: High quality teaching and classroom
+support
+Support for students with SEND can be provided at different levels, starting with universal
+strategies delivered to all students through evidence-based 'quality first' teaching
+approaches. Universal provision, or 'tier 1' consists of evidence-based pedagogical
+approaches and may be delivered as whole-class teaching, small groups, or even
+individual activities. When universal approaches aren't enough to meet the educational
+needs of students, targeted support can be offered, tailored to individual needs, and
+implemented either in small groups or through one-to-one interventions. Finally, if this
+second 'tier 2' is still not effectively addressing the needs of students, support can be
+offered at the third 'tier 3' which consists of specialist support which may involve external
+professionals such as speech and language therapists or coordinated multi-agency
+support (e.g., through an Education, Health, and Care Plan). This so-called tiered
+approach to support children's educational needs is well established in the UK
+educational context (e.g., see SEND Code of Practice, 2015). Similar models are also
+used in the US educational context such as response to intervention models (Fuchs &
+Fuchs, 2006) or multi-tiered systems of support (McIntosh & Goodman, 2016), where
+children who do not progress with effective universal treatment are offered more
+individualised and targeted support. The SEND Code of Practice defines high-quality
+teaching: high-quality teaching, differentiated for individual pupils, is the first step in
+31
+responding to pupils who have or may have SEND. Additional intervention and support
+cannot compensate for a lack of good quality teaching. (DfE, 2015, p. 99)
+By providing high-quality teaching that is evidence-based and differentiated, schools may
+reduce the likelihood that students will require additional, more intensive support.
+Effective quality-first language teaching relies on strong classroom management and
+instruction, supplemented by targeted or specialist oral-language support when needed
+(Fuchs & Fuchs, 2006; 2009). A range of inclusive instructional strategies and classroom
+design approaches can support children and young people with SLCN at this first tier.
+The approaches identified in our REA include instructional techniques and adjustments to
+the physical or social environment.
+Instructional approaches
+Academic difficulties among children and young people with SLCN needs may stem from
+underlying challenges with language, but also from executive functions, including
+attention, working memory, planning, and organisation (for a review of executive
+functions see our Cross-Cutting Themes Report). For example, tasks that require flexible
+thinking, cognitive control, or adapting to changing rules or instructions, especially under
+demanding or complex task conditions can be challenging for children and young people
+with SLCN. These difficulties may underlie both academic and behavioural challenges.
+Given the challenges children and young people with SLCN may have with executive
+functions, it is important to use instructional strategies that support more cognitively
+demanding learning tasks and reduce cognitive load.
+Techniques that provide structure, break tasks into manageable steps, use clear
+prompts/cues and explicit instruction have been found to be effective in supporting
+children with SLCN and can be implemented at the whole-class level or during targeted
+intervention delivery (e.g., Carroll et al., 2017). These techniques include explicit
+instruction, scaffolding, the use of mnemonics (especially for learning key facts), task-
+sequencing, and metacognitive approaches. Recasting can also be useful to encourage
+accuracy in vocabulary, grammar, and syntax (Favot et al., 2020). Recasting is a strategy
+where more experienced speakers respond to a child's utterance by expanding, deleting,
+or changing their utterances while maintaining the meaning (Saxton, 2005). For example,
+if a child says, "Him going to park," their conversation partner might say, "Yes, he is going
+to the park."
+Several systematic reviews in our REA emphasised the importance of vocabulary
+learning for children and young people with SLCN (Clark & Reuterskiöld, 2021; Frizelle et
+al., 2021; Lowe et al., 2017). Educators are encouraged to allocate regular classroom
+time for explicit vocabulary instruction. Children should be exposed to new words in
+32
+multiple contexts (e.g., using it in a sentence, writing the word) with repeated
+opportunities for practice and reinforcement.
+The reviews identified in our REA suggest that teachers may consider encouraging
+conversational participation through structured activities that encourage verbal self-
+regulation and structured narrative instruction to improve storytelling and comprehension
+(Jensen de López, 2022). Teachers can also use mediated learning strategies (e.g.,
+scaffolding, guided storytelling, or shared-book reading) to support narrative competence
+pragmatic skills in children with language difficulties.
+Effective universal instructional approaches summary
+Scaffolding including modelling and recasting
+Task-sequencing
+Metacognitive approaches
+Explicit instruction
+Integrating vocabulary into lessons
+Opportunities to participate in conversations or discussions
+Mediated learning strategies
+Classroom environment
+In the Cross-Cutting Themes Report of our collection of REAs, we highlighted several
+effective strategies to design inclusive classrooms which benefit children with different
+types of special educational needs. These techniques therefore won't be repeated here.
+Instead, we focus specifically on strategies demonstrated to be effective for children and
+young people with SLCN.
+First, the importance of fostering an oral language rich environment has been widely
+established. Such a language environment can also provide support for literacy
+(Snowling et al., 2011) and can enhance learning (Mercer et al., 2009).
+One approach that promotes effective communication especially in the early years
+(reception through year 2) is the Communication Supporting Classrooms Observation
+Tool (CSCOT) from the Better Communication Research Programme (Lindsay et al.,
+2012). The CSCOT is an audit tool designed to document the language and
+communication opportunities afforded by the learning environment. This tool consists of
+33
+several checklists to help educators consider the quality and quantity of the language
+learning environment, learning opportunities, and interactions.
+Similar to instructional approaches, reducing the load of sensory information and
+processing demands is helpful for children and young people with SLCN (Carroll et al.,
+2017). Classrooms and school environments can be highly stimulating and overwhelming
+for pupils with different types of SEND including SLCN. For example, in a randomised
+controlled trial, Dockrell and Sheild (2006) found that speed of processing for children
+and young people with SEND can be negatively impacted by background babble and
+external noises such as sirens or lorries. Therefore, minimising background noise and
+even considering acoustic panelling can help support learning.
+Considerations for supportive classroom environments summary
+Fostering a rich oral language environment
+CSCOT audit tool to help identify areas of classroom or early years setting
+improvement
+Minimising cognitive load
+Reducing background noise where possible
+Collaborative practices
+If an outside referral to speech and language has been made, the question of who is
+responsible in the classroom for supporting the learners' needs with SLCN (Vivash et al.,
+2018) may arise. The evidence base is heavily comprised of studies focusing on
+specialist-delivered programmes. However, this reliance on specialists may be
+challenging for some schools as demand for support may exceed capacity. While there is
+emerging evidence that specifically trained teachers and teaching assistants (i.e., beyond
+initial teacher training) can also effectively deliver speech and language/ typically
+specialist-led interventions (e.g., Carroll et al., 2017), collaborative practice between
+educators and specialists is key to supporting children with SLCN. It involves creating a
+holistic approach within mainstream classrooms with parents, teachers, and speech and
+language therapists working together (Glover et al., 2015). Speech and language
+therapists can provide support in terms of training, providing advice or suggesting
+strategies to apply in the classroom.
+Many reviews included in our REA evaluated interventions that worked in collaboration
+with parents or families outside the classroom (Jensen de López et al., 2022; Shiels &
+Hopf, 2024). Given that the home environment also provides many opportunities for oral
+language exposure, it is important to work with parents and caregivers in supporting
+34
+language in children and young people with SLCN. Collaboratively planning interventions
+with families, speech and language therapists and teaching staff is important in maintain
+consistent support across home, clinical and classroom settings.
+Targeted support
+Pupils who do not make expected progress despite high-quality teaching and universal
+support should receive timely, evidence-informed targeted support, with their
+development regularly reviewed, and such interventions must adhere to principles shown
+to be effective (Law et al., 2012a). In research and practice, it is not always clear which
+components(s) should be prioritised for support for children and young people with
+SLCN, for example, vocabulary, phonology, grammar, pragmatics, or social skills.
+In their review, Carroll et al. (2017) highlights the importance of small-group or one-to-
+one oral language interventions delivered by trained speech and language therapists,
+teachers, or teaching assistants to improve oral language skills of children and young
+people at school entry.
+Oral language interventions typically target core domains of spoken language such as
+vocabulary, narrative discourse, semantics, phonics, grammar, and pragmatic skills.
+These interventions are often scripted and are typically delivered through a combination
+of explicit, structured teaching and broader, contextually embedded activities (Carroll et
+al., 2017). Each of these interventions will be described in further detail in the following
+sections.
+Given the well-documented link between socioeconomic disadvantage and delayed oral
+language development, we draw on the Education Endowment Foundation's (EEF)
+Teaching and Learning Toolkit, which reports that oral language interventions deliver, on
+average, six months of additional progress for very low cost, putting them among the
+highest-impact strategies schools can adopt for pupils from low-socio economic status
+(SES) backgrounds (EEF, n.d.). Although the Toolkit does not explicitly evaluate SEND-
+specific programmes, the considerable overlap in language support needs suggests that
+its evidence-based strategies may be applicable to children with speech, language, and
+communication difficulties.
+These approaches focus on making the most of spoken language and verbal interaction,
+whether through targeted read-alouds and book discussions, explicit vocabulary
+extension, structured questioning to build comprehension, or purposeful, curriculum-
+focused dialogue. Implementation typically involves adults modelling high-quality
+speaking and listening, scaffolding pupils' contributions, using dialogic talk to develop
+thinking and metacognitive strategies, providing feedback and teaching specific oral-
+language strategies. The Toolkit highlights that the strongest effects arise when oral
+35
+language approaches are fully integrated into the existing curriculum, ensuring
+refinements to classroom talk align with subject content. They can be delivered by
+teachers, teaching assistants or other trained staff across early years, primary and
+secondary phases, though high-quality professional development is crucial to maintain
+fidelity and maximise impact.
+In addition, the Better Communication Research Programme (BCRP; Law et al., 2012)
+which was commissioned in response to the 2008 Bercow Review also has published a
+report on 'what works' for children and young people with SLCN. To summarise briefly,
+they identified 57 interventions published in the research or currently in use. Three of the
+interventions were rated as having strong evidence of efficacy, 32 had moderate
+evidence and 22 had indicative evidence. Refer to Exploring interventions for children
+and young people with SLCN, where these interventions, their descriptions, and their
+quality ratings can be found along with their research report. A 'what works' database⁴
+has been developed from their report and is maintained by representatives from the
+Royal College of Speech and Language Therapists and Speech and Language UK.
+While we will not review the individual strategies from the Toolkit and the BCRP in depth
+here, we recommend that practitioners consider its guidance alongside other targeted
+SEND interventions. Some of the evidence cited in other systematic reviews of oral-
+language programmes in our REA may overlap with the findings from these reviews,
+reinforcing the case for integrating its approaches within broader speech, language, and
+communication support.
+Vocabulary support
+Vocabulary development is important in supporting oral and written language as well as
+reading proficiency. Children with DLD and more general language difficulties, school-
+aged and older, have been reported to know fewer words and have shallower knowledge
+of word meanings across all grades (McGregor et al., 2013). They have difficulty with
+both the number of words stored, and the ability to acquire new words (Gray, 2003; for a
+review, see Kan & Windsor, 2010). Challenges with vocabulary knowledge is linked to
+poorer academic outcomes (Dockrell et al. 2007, Nation & Snowling 2004). This deficit
+can persist into secondary school and beyond (Rice & Hoffman, 2015), highlighting the
+importance of interventions that target vocabulary development. While vocabulary
+intervention studies often prioritise reading comprehension over oral vocabulary
+measures, targeting oral vocabulary is critical for children and young people with
+language difficulties and DLD (Justice et al., 2005).
+4 What Works database: a data base of evidenced interventions to support children's speech, language
+and communication skills.
+36
+Vocabulary interventions are often aimed at increasing the number of words children can
+produce and understand. They can be scripted and often involve explicit teaching of
+vocabulary where an instructor provides precise definitions and illustrative examples
+before, during or after a shared-reading activity, followed by discussion that revisits the
+target words. Elaboration strategies are commonly used where an instructor actively
+connects target words to words and ideas already known by their learners, rather than
+simply presenting a definition. It involves mental operations on word meaning like asking
+"What category does it belong to?", "What does it look like?", "How is it used?".
+Vocabulary interventions may use definitional frameworks, semantic mapping, and
+spaced practise to deepen word knowledge, while grammatical targets are addressed via
+modelling or focused exercises. Five reviews retrieved in our REA investigated
+interventions to support vocabulary for children and young people with SLCN.
+Presenting new vocabulary in its written form can enhance acquisition and retention in
+children and young people. One systematic review (Clark & Reuterskiöld, 2021) found
+that children aged 7 to 11 with DLD, Down syndrome, autism, and dyslexia benefit from
+including written words (orthographic representations) during vocabulary learning rather
+than with images or oral presentation alone. Studies found that presenting the written
+form alongside spoken input helps these children learn new words more quickly and
+accurately, especially in tasks like picture naming. These findings suggest that integrating
+written word forms into vocabulary instruction can support better word retention and
+encouraging educators to use these strategies may offer benefits for children with these
+needs.
+A systematic review by Lowe et al. (2017) investigated different types of vocabulary
+interventions for children aged 9 to 16 with language difficulties, including those with
+DLD. The interventions all had a phonological and/or a semantic focus, meaning they
+aimed to improve vocabulary by providing opportunities to enhance the awareness of
+sounds (phonological), and/or word meaning (semantics). For example, a common
+approach is using a word map that visually integrates both phonological and semantic
+features for a target word. Central to the phonological-semantic intervention is providing
+repeated opportunities for spoken aloud practice within meaningful contexts (e.g., Ebbels
+et al., 2012). The findings show that the evidence for these types of approaches remains
+mixed. Semantic-only interventions produced varied results, with small single-case and
+specialist-class randomised controlled trials (Haynes 1992; Joffe 2006) as well as whole-
+class compensatory approaches (Sim 1996, 1998) demonstrating vocabulary gains for
+researcher-created outcome measures. However, there was limited evidence of wider
+generalisation or improvement on more standardised outcome measures.
+Direct comparisons of phonological versus semantic teaching (Hyde Wright et al. 1993;
+Bragard et al. 2012) suggested a modest advantage for semantic methods. This finding
+makes sense theoretically, as language is related to semantics, so language difficulties
+37
+could be supported by semantics. However, it should be noted that the semantic
+interventions sessions were longer (30 versus 15 minutes) which may have impacted
+findings. In contrast, combined phonological-semantio programmes demonstrate the
+most robust evidence of efficacy. Individual randomised controlled trials conducted in
+specialist schools (Ebbels et al. 2012; Wright et al. 2017) report significant gains on
+word-finding and standardised vocabulary tests. Additionally, small-group and whole-
+class trials in mainstream secondary schools (Joffe 2017; Spencer et al. 2017; Lowe &
+Joffe 2017; Murphy et al., 2017) show moderate to large effects on bespoke and some
+standardised measures when delivered with a manualised curriculum, regular high-
+intensity sessions and trained practitioners. Overall, phonological-semantic interventions,
+especially when sufficiently dosed (30-60 minutes, two to three times weekly),
+systematically scaffolded (i.e., where guidance or assistance is gradually reduced as
+learners develop their understanding), and embedded in meaningful contexts, are
+effective across ages 9 to 16, with stronger generalisation evident under one-to-one or
+small-group speech and language therapist delivery but also scalable via trained
+teachers and teaching assistants.
+Another systematic review found further evidence for an advantage of semantic versus
+phonological focused vocabulary interventions for children and young people with DLD
+aged 3 to 12 (Frizelle et al., 2021). However, the review raised concerns about the
+outcome measures used to evaluate this finding. For example, outcomes were assessed
+using tasks that primarily measured semantic rather than phonological skills. Therefore,
+the study may overestimate the effectiveness of semantic instruction relative to
+phonological instruction, as the outcome measures were more closely aligned with the
+semantic condition. This raises concerns about measurement bias and limits the ability to
+draw firm conclusions about the comparative efficacy of the two instructional approaches.
+Therefore, more research is needed to support these findings. They also found that a
+combined phonological-semantic approach is effective but may be more so for children
+who have higher ability levels in language. Effective approaches also expose the learners
+to vocabulary in a variety of contexts (e.g., via visual supports, elaboration to support
+understanding of phonology and semantic understanding).
+There is also evidence from single case design studies that morphological-based
+interventions can be effective in supporting vocabulary acquisition for children and young
+people with language difficulties (Steele, 2014). Morphemes are the smallest meaningful
+units in language. Morphemes may be whole words such as "book" or "climb" or they
+might be attached to words such as a prefix or a suffix (e.g., "ed" in "climb-ed"). These
+also include both derivational affixes (which change a word's meaning or part of speech,
+as in "happy" into "happiness") and inflectional affixes (which mark grammatical features
+such as tense or number, as in "cat" into "cats"). Morphological-based interventions
+explicitly teach morphological rules so that children and young people can apply this
+38
+knowledge to predict the meanings of new words. However, further research with larger
+group studies is needed to further establish this intervention approach.
+Finally, a systematic review (Louick et al., 2023) found that vocabulary interventions that
+also incorporated motivational techniques such as goal-setting and monitoring, self-
+graphing (e.g., keeping a regular recording of one's ongoing scores or progress on a
+personal graph, either on graph paper or on the computer), using high-interest texts, and
+using rewards were effective for children aged 5 and older at risk of literacy or language
+difficulties.
+Effective vocabulary support strategies summary
+Presenting and practicing vocabulary in multiple contexts (e.g., visually, verbally,
+written) leveraging multisensory techniques
+Providing opportunities for rehearsal
+Interventions that incorporate phonological and semantic elements together may
+be most beneficial
+Some evidence for incorporating morphology and motivational techniques
+Narrative interventions
+Narrative interventions typically focus on the ability to produce oral accounts such as
+descriptions, or stories. They may employ story-grammar modules with visual supports
+and authentic literature, prompting children to sequence events, retell stories and infer
+character motivations. Children and young people with SLCN including language
+disorders, and language challenges associated with Down syndrome, intellectual
+disabilities and autism may demonstrate challenges in producing oral narratives (Baixauli
+et al., 2016; Bunning et al., 2016; Segal & Pesco, 2015). This may be in part because
+generating oral narratives is cognitively and linguistically demanding (Botting 2002). Two
+reviews retrieved in our REA investigated interventions to support oral narratives for
+children and young people with SLCN.
+One systematic review (Favot et al., 2020) evaluated oral narrative interventions for
+children aged 5 to 16 with language disorders and/or a disability known to affect
+communication (e.g., autism, Williams Syndrome). They evaluated the impact of such
+interventions on narrative macrostructure which refers to a story's overarching framework
+and key plot elements (e.g., setting, initiating event, resolution), whereas microstructure
+refers to the finer linguistic details, such as vocabulary diversity, clause complexity and
+cohesion devices that enrich and clarify the narrative. They found that oral narrative
+interventions for children across age groups and different profiles of need yield moderate
+39
+improvements in narrative macrostructure and smaller but significant gains in
+microstructure, particularly in high-quality single-case studies. Given the large diversity of
+age ranges and severity of language difficulties in participants with different types of
+SEND, these findings suggest that this intervention can be applied as a needs-based
+approach to a wide variety of children and young people.
+In Favot et al.'s (2020) review, effective programmes consistently incorporate visual
+supports (e.g., icon cards to represent story grammar elements and/or pictures) or book
+stimuli alongside clinician modelling of complete narratives and dedicated opportunities
+for each child to produce an entire narrative every session.
+Interventions delivered one-to-one (mean total dosage of 593 minutes) show the
+strongest, most reliable effects. Small-group and published curricula (e.g., Supporting
+Knowledge in Language and Literacy, Story Champs) also demonstrate promise but
+require further robust evaluation. Maintenance of gains was observed up to 26 weeks
+post-intervention, though generalisation beyond trained materials remained inconsistent.
+Group studies, often of lower methodological quality, report more variable outcomes,
+underscoring the need for more large-scale controlled trials, exploration of group delivery
+models, examination of personal versus fictional narratives, and inclusion of broader
+generalisation measures.
+There is also some evidence that syntax interventions improve syntax use in oral
+narratives in children and young people aged four to eight with DLD. One systematic
+review (Wisman Weil & Schuele, 2019) found that syntax interventions that used
+scaffolding techniques, such as recasts, expansions, cloze tasks and modelling,
+consistently outperform direct-imitation drills when teaching complex syntax. Methods
+that build on a child's own utterances in contexts like play, picture description or
+interactive book reading appear especially effective. However, more intervention studies
+are needed to compare different approaches and to examine their impact on specific
+types of complex syntax across the preschool and early school years in children with
+language impairments. Additionally, given that the majority of these interventions were
+delivered by clinicians, it is currently unclear how scalable they may be for teacher and
+teaching assistant use.
+Effective oral narrative support strategies summary
+Narrative interventions are generally effective particularly when they are delivered
+one-to-one but can also be scalable
+Syntax interventions also have a growing evidence base
+40
+Social communication support
+Children with different speech, language, and communication needs may also struggle
+with social communication skills. Interventions targeting social communication skills
+typically aim at addressing turn-taking, listening, conversational strategies, pragmatics,
+and emotion recognition, amongst other skills. However, much of the research
+investigating social communication have focussed on autistic children and young people
+with limited evidence for children who are not autistic.
+Carroll et al.'s (2017) rapid evidence assessment reviews a number of social
+communication interventions. They review evidence that suggests that interventions
+delivered within typical classroom settings are generally more effective than pull-out
+sessions, though much of the evidence comes from small US-based studies involving
+specialists rather than teachers. Social communication interventions including teaching-
+focused social skill training, peer-mediated, video modelling, and visual or technology-
+based approaches. The review found that overall, these approaches show mixed
+evidence, often from small or individualised studies, with meta-analyses suggesting only
+minimal effectiveness for autistic children.
+Difficulties in pragmatic skills are common in autistic children and young people
+(Spencer, 2014), but there is also growing evidence that other children and young people
+with primary needs in speech, language and communication also have difficulties with
+pragmatics such as understanding implied meanings or including pragmatic elements in
+oral narratives (Katsos et al., 2011; Mäkinen et al., 2014; Olsen et al., 2010). Pragmatic
+interventions typically emphasise turn-taking, conversational narrative skills, topic
+maintenance, non-verbal signalling, and perspective-taking. They often involve
+combining direct teaching with indirect modalities such as parent or peer-mediated
+shared-book reading, to generalise skills across settings. One review retrieved in our
+REA investigated interventions to support pragmatics for children and young people with
+SLCN.
+The review revealed mixed findings for the efficacy of pragmatic interventions for children
+and young people with DLD aged 3 to 12 years old. The review (Jensen de López et al.,
+2022) investigated different types of pragmatic interventions including:
+1. Narrative-based programmes, either stand-alone or combined with vocabulary
+teaching, which use story-grammar frameworks to scaffold coherent storytelling,
+model turn-taking and embed new lexical items in meaningful contexts;
+2. Parent-mediated approaches that train caregivers in strategies such as responsive
+prompts, conversational recasting and turn-taking routines to boost verbal
+initiations and reciprocity during everyday interactions;
+41
+3. Dynamic-assessment interventions that first gauge a child's learning potential for
+narrative skills through graduated cueing, then tailor scaffolding levels across
+sessions;
+4. Book-sharing models (including dialogic reading) which guide adult-child joint
+attention, questioning and elaboration around texts to foster pragmatic functions
+like requesting, commenting and topic maintenance and;
+5. Structured curricula such as TELL (Teaching Early Literacy and Language). These
+were mostly delivered one-to-one, but dosage varied.
+Findings revealed that intervention effectiveness was not consistent across studies.
+Pragmatic-language programmes for pupils with DLD yielded medium-to-large gains on
+bespoke outcomes, such as explicit narrative knowledge and verbal initiations in five of
+the studies reviewed by Jensen de López et al. (2022). However, the results varied from
+the child's ability in speech regulation (social, private, and inaudible speech), narrative
+recall and inferential responding varied considerably.
+By contrast, studies using standardised tools or simple counts of communicative acts and
+response adequacy as outcome measures failed to detect significant change, highlighting
+the greater sensitivity of tailored researcher-designed measures. Shorter sessions
+delivered more frequently (2-3 times per week) appeared to be more effective than
+infrequent long sessions.
+Although there were a number of methodological limitations such as small sample sizes
+and issues with the representativeness of the children in the studies, it can be concluded
+that that pragmatics should be targeted explicitly in interventions, as improvements in
+vocabulary or grammar skills alone do not necessarily generalise to better pragmatic
+skills. However, it is less clear which aspects of pragmatics should be the focus of
+targeted interventions for children and young people with DLD.
+Grammar
+Ebbels (2014) reviewed grammar interventions for 3 to 16-year-olds with DLD, speech-
+and-language delay and autism, finding that one-to-one implicit methods (recasts,
+modelling) reliably improve expressive morphology and syntax in pre-school and early
+primary pupils, though they may be insufficient for those with receptive deficits or severe
+impairment. In contrast, explicit metalinguistic approaches benefit older, school-aged
+children, particularly those with receptive difficulties, and appear most effective when
+delivered by qualified speech and language therapists. Many programmes combine
+explicit teaching of new forms with implicit reinforcement (for example, recasting within
+narrative tasks), yet direct comparisons of blended versus singular approaches remain
+scarce. Embedding grammar within story-grammar frameworks not only strengthens
+42
+syntactic skills but also enhances overall narrative competence. Bilingual interventions
+preserve or even enhance L1 (first language) proficiency without hindering L2 (second
+language) development, sometimes outperforming L2-only training. Finally, grammar
+programmes delivered by untrained school staff generally yield limited grammatical
+gains, whereas well-trained and closely supervised teaching assistants can successfully
+extend speech and language therapist-led expressive interventions.
+Literacy support
+As previously noted under 'Identification of literacy difficulties', literacy and oral language
+skills are closely linked. Reading difficulties are prevalent among children and young
+people with language impairment (e.g., Catts, Fey, Tomblin, & Zhang, 2002; see Adlof &
+Hogan, 2018 for a review). Generally, supporting oral language skills can in turn support
+literacy skills and vice-versa. Therefore, it is important for educators to be aware of the
+role that oral language plays in the classroom and in wider areas of learning. Many
+reading interventions focus on supporting phonology and vocabulary. Semantic or
+phonological principles can be embedded as part of vocabulary or narrative programmes,
+or they can be delivered as standalone interventions. Semantic interventions typically
+involve improving awareness of function, location, attribute, category, similarities, and
+differences, how to describe what words mean, and how words link with other words.
+Phonics or phonological interventions typically involve improving the recognition and
+production of sounds in a language. This may involve developing awareness of
+phonemes, syllables, rhymes, and the ability to blend or segment words or sounds.
+These interventions are typically explicit and focused on teaching sounds in a specific
+sequence. They are also often part of literacy interventions in the early years for children
+and young people with SLCN or literacy difficulties.
+Many of these interventions are reviewed in our Cognition and Learning Report and will
+not be repeated here. However, one systematic review (Rodge et al., 2019) in this REA
+investigated instruction in linguistic comprehension skills (e.g., vocabulary, grammar, and
+narrative skills) for children and young people aged 5 and older with language difficulties
+or language delays, including bilingual children, to determine whether they may have
+generalised outcomes of linguistic comprehension and reading comprehension.
+Rodge et al. (2019) found that linguistic comprehension instruction can improve
+children's overall understanding of oral language, although the apparent benefits depend
+heavily on which outcome measures are used. While such programmes may support
+general listening and comprehension skills, they alone appear insufficient to accelerate
+vocabulary growth or to eliminate gaps in word knowledge. Moreover, short-term gains in
+language understanding do not reliably transfer to improved reading comprehension,
+suggesting that sustained, long-term instructional efforts may be necessary to impact
+43
+broader literacy outcomes. Finally, using assessment tools that directly tap the specific
+vocabulary and structures taught might reveal stronger, more immediate effects than the
+generalised measures typically employed.
+Effective literacy support strategies summary
+Literacy interventions can be effective for children and young people with SLCN
+Interventions that support vocabulary, phonology, oral narrative or grammar can
+be particularly effective
+Persistent speech difficulties
+Interventions for children aged 8 and younger with speech sound disorders typically use
+auditory modelling and feedback on articulator placement to correct speech errors
+(Sugden et al., 2019). They may also consist of motor-based drills to support acquisition,
+retention, and transfer of accurate speech movements (Maas et al., 2008; Morgan &
+Vogel, 2009). Phonological approaches, by contrast, target sound perception.
+Techniques such as minimal-pairs emphasise a child's ability to discriminate and contrast
+sounds that change word meaning, supporting their phonemic awareness (McLeod &
+Baker, 2017). In these interventions, minimal pairs are pairs of real words that differ by
+only a single sound (phoneme) (e.g., "cap" VS. "tap"). By contrasting these pairs, children
+learn that swapping one sound changes meaning, which helps them discriminate and
+correctly produce the target phoneme in meaningful contexts.
+Although many speech sound disorders (SSD) may resolve by school-entry, especially
+with intervention, for some children, these difficulties in speech may persist beyond age
+eight or nine (Shriberg et al., 2010). One systematic review of case studies in our REA
+reported an intervention for residual speech errors in adolescents and adults (Shields &
+Hopf, 2024). Participants in the studies reviewed had difficulties defined as speech
+distortions and misarticulations that persist beyond 8 years of age. All interventions were
+based in clinic settings (apart from one which was delivered via telepractice) and
+consisted of motor-learning or feedback interventions, which are designed to support
+learning of articulatory movements. Ratings of participant's speech production accuracy
+improved across these studies and more intensive treatment tended to yield better
+results. Although these interventions would be carried out by a clinical specialist,
+educators can consider referral of children aged eight and older who may have persistent
+speech difficulties. There is also evidence from this study and a further systematic review
+that telepractice treatment (i.e., the delivery of speech and language therapy services
+remotely using telecommunications technology such as video conferencing or via mobile
+applications) with the same intensity as in-person treatment can also be effective when
+delivered by clinicians (Thao & Lee, 2022).
+44
+Support and intervention summary
+Effective support for pupils with speech, language and communication needs begins with
+high-quality "universal" teaching, clear instruction, and an inclusive classroom design,
+augmented by targeted, specialist input when required (Fuchs & Fuchs, 2006; 2009). At
+the whole-class level, explicit techniques (breaking tasks into steps, clear prompts,
+scaffolding, use of mnemonics (memory aid techniques) and metacognitive strategies)
+reliably bolster comprehension and reduce cognitive load for pupils with DLD and related
+profiles. Embedding vocabulary instruction in multiple contexts (orthographic alongside
+auditory input, semantic mapping, elaboration, and spaced practice) and integrating
+grammar teaching within narrative frameworks (using recasts, modelling and cloze tasks)
+consistently yields measurable gains. Phonological-semantic programmes delivered one-
+to-one or in small groups by trained practitioners produce the largest effects on word-
+finding, while narrative interventions with visual story-grammar supports improve both
+macro- and microstructure of children's storytelling. Pragmatic interventions, whether
+parent-mediated turn-taking programmes, book-sharing models, or structured curricula
+like TELL (Teaching Early Literacy and Language), demonstrate medium-to-large gains
+on bespoke measures of conversational skills and narrative knowledge. Finally, speech-
+sound therapies that leverage motor-learning principles and feedback facilitate accurate
+articulation in younger children and those with persistent SSDs.
+In practice, these findings imply a tiered approach: prioritise sustained, high-quality
+classroom talk and targeted oral-language activities; collaborate closely with speech and
+language therapists, teaching assistants and families to reinforce learning across home,
+clinic, and school; and ensure ongoing professional development so that educators can
+administer basic screening tools, contribute to language sampling and interpret informal
+checklists effectively. Audit instruments such as the CSCOT helps maintain an
+environment rich in language opportunities, while regular monitoring (formal and informal)
+enables timely referrals for specialist assessment. Embedding new forms in meaningful,
+curriculum-relevant contexts and maintaining practice variability further promotes
+generalisation beyond the therapy setting.
+Notable gaps, however, remain. Many studies rely on bespoke outcome measures,
+making direct comparisons difficult, and relatively few employ long-term follow-up to
+gauge durability. Evidence is heavily weighted towards speech and language therapist-
+delivered one-to-one programmes, with limited trials of teacher- or TA-led interventions in
+mainstream settings, particularly at secondary age. Terminological inconsistency
+between educational and clinical contexts complicates tool selection and interpretation by
+non-specialists. Future research should standardise outcome metrics, evaluate scalable
+group-delivery models, extend investigations into older cohorts and cross-linguistic
+45
+populations, and develop accessible training pathways to equip teachers and support
+staff to deliver evidence-based language interventions with confidence.
+46
+Conclusions
+This review aimed to identify effective methods for the identification and support of
+children and young people with SLCN in mainstream education while highlighting where
+collaborative practice is essential. This rapid evidence assessment highlights the critical
+role mainstream educators play in the early identification and support of pupils with
+speech, language, and communication needs (SLCN). While classroom-based
+observations and screening tools are not diagnostic, they are essential in guiding timely
+support and referrals. These approaches are most effective when embedded in
+collaborative practice involving SENCo coordination, family engagement, and
+professional interpretation from speech and language therapists. Foundational training
+and ongoing professional development further strengthen teachers' capacity to recognise
+diverse profiles, including co-occurring conditions and bilingual learners, and to apply
+evidence-informed strategies.
+Effective support begins with high-quality, inclusive teaching, complemented by targeted
+and specialist interventions where needed. A tiered approach combining structured
+classroom talk, adapted materials, and consistent collaboration across settings can foster
+meaningful gains in vocabulary, narrative, pragmatics, and articulation. However, several
+limitations remain, including inconsistent terminology, limited validation of tools for non-
+specialist use, and a research base that is disproportionately focused on speech and
+language therapist-led, one-to-one programmes and autistic learners.
+Inconsistencies in outcome reporting and intervention design across studies limit the
+generalisability of some findings. Furthermore, due to the rapid nature of this review and
+our focus on systematic reviews and meta-analyses, it is possible that some tools or
+interventions currently in use, particularly newer, unpublished, or practitioner-led
+approaches, may not have been captured. These omissions reflect the current state of
+the evidence base, not necessarily the effectiveness of those approaches. Future
+research should prioritise robust study designs, focus on outcomes linked to educational
+access and attainment, and include mainstream educator perspectives.
+To advance practice, future research must establish shared definitions, standardise
+outcome measures, and explore scalable interventions in mainstream settings,
+particularly at secondary level and for children with SLCN unrelated to autism. Building
+accessible training pathways will be key to ensuring educators are equipped to contribute
+meaningfully to identification, intervention, and progress monitoring across the education
+system.
+47
+Appendices
+Appendix A: Search terms (PICOS criteria)
+We conducted 15 separate searches across five rapid review categories, each focused
+on a distinct population: SEMH, SLCN, autism, sensory and/or physical needs, and
+cognition and learning. For each population, three searches were performed, focusing
+on: identification terms, support terms, and working with others. The intervention,
+comparison, and study type remained consistent across all searches, while the
+population and outcome terms varied to capture the unique characteristics of each group.
+This approach ensured a comprehensive examination of the research literature across
+the different populations. PICOS stands for: (1) Population; (2) Intervention; (3)
+Comparison; (4) Outcomes; and (5) Study type.
+Population:
+Population terms: "adolescent" OR child* OR "children and young people" OR kid*
+OR "post 16" OR pupil* OR "school aged" OR student* OR teen* OR "young
+learner*" OR "young people" OR "young person" OR youth
+Educational setting terms: "alternat* educat*" OR class* OR "class* setting" OR
+"comprehensive school*" OR "early year*" OR educat* OR elementary OR
+"elementary school*" OR "extra-curricular setting*" OR "further educat*" OR
+"further educat* setting*" OR "grammar school*" OR "high school" OR "higher
+educat*" OR inclus* OR kindergarten OR "learning environment*" OR mainstream*
+OR "middle school*" OR nursery OR preschool OR "primary educat*" OR "primary
+school*" OR reception OR "remedi* class*" OR "school setting" OR school* OR
+"secondary education*" OR "secondary school*" OR "special educat*" OR
+"university" OR "whole school" OR "independent school"
+General SEND terms: SEND OR SEN OR "special educat* need*" OR "special
+need*" OR "learning difficult*" OR "learning disab*" OR "learning difference" OR
+"additional need*" OR impair* OR disorder* OR neurodivergent OR "additional
+learning need"
+SLCN terms: DLD OR "primary language disorder*" OR SLCN OR SLI OR SSD
+OR apraxia OR "articulat* disorder*" OR "childhood apraxia of speech" OR "cleft
+palate" OR "communicat* disorder*" OR "communicat* impair*" OR "communicati*
+dysfunction*" OR "comprehen* difficult*" OR "comprehen* disorder*" OR
+"comprehen* impair*" OR "developmental language disorder*" OR disfluen* OR
+dysarthr* OR "expressive language" OR "fluency difficult*" OR "fluency disorder*"
+OR "grammar difficult*" OR "grammar disorder*" OR "grammar impair*" OR
+"language delay*" OR "language development* disorder*" OR "language difficult*"
+48
+OR "language disabilit*" OR "language disorder*" OR "language impair*" OR
+"language need*" OR morpholog* OR morphosynta* OR "phonological disorder*"
+OR pragmat* OR "produc* difficult*" OR "produc* disorder*" OR "produc* impair*"
+OR "receptive language" OR semantic* OR "specific language disorder*" OR
+"speech difficult*" OR "speech disorder*" OR "speech dysfluen*" OR "speech
+language communication need*" OR "speech production" OR "speech sound
+disorder*" OR stammer* OR stutter* OR synta* OR "vocabulary difficult*" OR
+"vocabulary disorder*" OR "vocabulary impair*" OR voice OR "voice disorder*" OR
+"voice problem*" OR "word find*" OR "word learn*"
+Intervention:
+Identification terms: assess* OR "assessment app*" OR "assessment tools" OR
+"behavio* checklist*" OR checklist OR "class* assess*" OR "classroom
+observation" OR "cognitive assess*" OR "computer* app" OR "curriculum-based
+measure" OR diagnos* OR "dynamic assessment" OR "early screening tools" OR
+"educational assessment tool*" OR evaluate OR "formal assess*" OR "formative
+assess*" OR "graduated approach" OR identif* OR "informal assess*" OR
+measure OR "multi-disciplinary assessment" OR MTSS OR "multi-tiered system of
+supports" OR "neuro* assess*" OR observ* OR "parent* report" OR "pupil
+observation" OR "response to intervention" OR RTI OR screen* OR "self-
+assessment" OR "self-report" OR "smartphone app*" OR "standard* test*" OR
+"student observation" OR "tablet app*" OR "teacher judgment*" OR "teacher
+observation" OR tool* OR "performance-based"
+Support terms: "classroom environment" OR "SEN support" OR "SEND support"
+OR SWPBS OR accommodat* OR adaptat* OR approach OR "assistive tech*" OR
+"classroom interve*" OR "collaborative teach*" OR curriculum OR "curriculum
+adapt*" OR "differentiat* instruction" OR "digital learning" OR "early interven*" OR
+"education* program*" OR "education* support" OR "evidence-based interven*"
+OR "evidence-informed interven*" OR "exam access arrangement*" OR "exam
+accommodat*" OR "graduated approach" OR "group intervention" OR "high-quality
+instruct*" OR "high-quality teach*" OR inclus* OR "inclusive education" OR
+"inclusive practice" OR "individual support" OR "individual* education plan*" OR
+"instruct*" OR interven* OR integrat* OR "mainstream class* support" OR
+"mainstream education" OR "mainstream environment" OR "multimedia learning
+environment" OR "multi-tiered system* of support" OR "one-to-one" OR "parental
+support" OR pedagog* OR "peer support" OR personali*ed OR provision OR
+remediat OR "school support service*" OR "school-based" OR "special* interven*"
+OR "special* support" OR "specialist teach* support" OR support* OR strateg* OR
+"targeted interven*" OR "target* teach* strateg*" OR targeted OR "targeted
+support" OR teach* OR "teach* adaptation*" OR "teach* principle*" OR "teach*
+49
+strateg*" OR "teach* approach" OR therapy OR "tier 1 interven*" OR "tier 1
+support" OR "tier 2 interve*" OR "tier 2 support" OR "tier 3 interven*" OR "tier 3
+support" OR treat* OR "universal design" OR "universal interven*" OR "universal
+provision" OR "universal support" OR "whole-class support" OR "whole-class
+teaching"
+Working with others terms: collabor* OR parent* OR carer OR caregiver OR famil*
+OR specialist* OR "specialist teacher" OR teacher OR educator OR TA OR
+"teaching assistant*" OR "support staff" OR "educational psychologist*" OR EP OR
+SLT or SLP or "speech and language therapist*" OR "speech and language
+pathologist*" OR "speech therapist" OR "speech pathologist" OR "health visitor"
+OR HV* OR "Ed Psych" OR counsel* OR "mental health support workers" OR
+"child and adolescent mental health service" OR CAHMS OR psychologist* or
+therapist* OR "learning support assistant" OR LSA OR "communication support
+worker" OR QTOD OR QTMSI OR QTVI OR "co-production" OR "joint working"
+OR "healthcare professional" OR "personal carer" OR "occupational therapist"
+"Inter-professional collaboration" OR IPC OR expert OR clinician OR nurse
+Comparison:
+Left blank to include studies without comparison groups
+Outcome:
+Identification terms: N/A Not needed for identification terms as there is not
+always a specific outcome
+Behavioural, Inclusion, Motivation, and Engagement terms: attendance OR
+"behavio* outcomes" OR "behavio* regulation" OR "behavio* improvement" OR
+"cognitive development" OR "communication skills" OR criminal OR economic OR
+employment OR engage* OR financial OR "functional independence" OR
+"functional skills development" OR "access to learning" OR "improvement in
+learning" OR "inclusive classroom" OR "increase* inclusion" OR "independent
+living" OR independent* OR "mental health outcomes" OR motivate* OR offend
+OR "prosocial behavio* OR "reduce* learning barriers" OR "reduce* symptom*"
+OR "self-regulat*" OR "school performance" OR "school retention" OR "social
+inclusion" OR "social-emotional development" OR "teacher perceptions of student
+progress" OR "well-being" OR workplace
+Educational outcomes (General): "academic achievement" OR "academic
+progress*" OR "academic attainment" OR "academic measure" OR "academic
+performance" OR "additional learning support*" OR "educat* achievement" OR
+"educat* assess*" OR "educat* attainment" OR "educat* measure" OR "educat*
+outcome*" OR "educat* performance" OR "educat* progress" "executive function*"
+50
+OR "functional skill* develop*"OR "improve* learning" OR learn* OR "learning
+progress" OR "problem solving" OR "reduced learning barriers" OR "school
+outcome*" OR "school performance" OR "school retention"
+Literacy outcomes: read* OR literacy OR "letter recognition" OR "letter-sound
+knowledge" OR "word reading" OR phonic* OR phonolog* OR "reading
+comprehension" OR "reading accuracy" OR "reading fluency" OR "reading delay*"
+OR "print knowledge" OR decod* OR "alphabet knowledge" OR "listening
+comprehension" OR "word recognition" OR "sentence completion"
+Writing outcomes: writ* OR literacy OR punctuation OR spelling OR "sentence
+writing" OR "free writing" OR "early writing" OR "emergent writing" OR "guided
+writing" OR "writing fluency" OR handwriting OR "interactive writing" OR "letter
+typing" OR "sentence completion"
+Mathematics outcomes: math* OR numer* OR numb* "number sense" OR
+arithmetic* OR geomet* OR shape OR calcul* OR algebra OR counting OR
+addition OR subtraction OR multiplication OR division OR fractions OR statistics*
+OR "place value" OR "math* competenc*" OR "math* concept*" OR "math*
+knowledge"
+Working with others terms: collaboration* or partnership* or co-practice* or
+multidisciplinary* or transdisciplinary or interdisciplinary
+Study type:
+Review type: review OR "systematic review" OR "meta-analysis" OR "narrative
+review"
+51
+References
+*Indicated studies retrieved in rapid review
+ADLOF, S. M. & HOGAN, T. P. 2018. Understanding Dyslexia in the Context of
+Developmental Language Disorders. Language, Speech, and Hearing Services in
+Schools, 49, 762-773.
+*ALDUAIS, A., AL-QADERI, I. & ALFADDA, H. 2022. Pragmatic Language Development:
+Analysis of Mapping Knowledge Domains on How Infants and Children Become
+Pragmatically Competent. Children (Basel), 9.
+*ALJAHLAN, Y. & SPAULDING, T. J. 2021. Attentional shifting in children with
+developmental language disorder: A meta-analysis. Journal of Communication
+Disorders, 91, 106105.
+AMERICAN SPEECH-LANGUAGE-HEARING ASSOCIATION. Late Language
+Emergence [Online]. Available: https://www.asha.org/practice-portal/clinical-
+topics/late-language-emergence/?srsltid=AfmBOop58XQF04.JXWVxZ-
+dy71ahBC2Lwpa9rV3yOg8bfJPED5S0oGCOR#collapse_2[Accessed1 16.06.25].
+BAIXAULI, I., COLOMER, C., ROSELLó, B. & MIRANDA, A. 2016. Narratives of children
+with high-functioning autism spectrum disorder: A meta-analysis. Research in
+Developmental Disability, 59, 234-254.
+BAKER, E. & MCLEOD, S. 2011. Evidence-based practice for children with speech
+sound disorders: part 1 narrative review. Language, Speech, and Hearing Services
+in Schools, 42, 102-39.
+*BAMFORD, C. K., MASSO, S., BAKER, E. & BALLARD, K. J. 2022. Dynamic
+Assessment for Children With Communication Disorders: A Systematic Scoping
+Review and Framework. American Journal of Speech-Language Pathology, 31,
+1878-1893.
+BARRY, J. G., YASIN, I. & BISHOP, D. V.M. 2007. Heritable risk factors associated with
+language impairments. Genes, Brain and Behavior, 6, 66-76.
+BEDORE, L. M. & PEñA, E. D. 2008. Assessment of Bilingual Children for Identification
+of Language Impairment: Current Findings and Implications for Practice.
+International Journal of Bilingual Education and Bilingualism, 11, 1-29.
+BEITCHMAN, J. H., BROWNLIE, E. B., INGLIS, A., WILD, J., FERGUSON, B.,
+SCHACHTER, D., LANCEE, W., WILSON, B. & MATHEWS, R. 1996. Seven-year
+52
+follow-up of speech/language impaired and control children: psychiatric outcome.
+Journal of Child Psychology and Psychiatry, 37, 961-70.
+BERCOW, J. 2008. The Bercow report: A review of services for children and young
+people (0-19) with speech, language and communication needs. In: DEPARTMENT
+FOR CHILDREN SCHOOLS AND FAMILIES (DCSF) (ed.).
+BISHOP, D. V., LAWS, G., ADAMS, C. & NORBURY, C. F. 2006. High heritability of
+speech and language impairments in 6-year-old twins demonstrated using parent
+and teacher report. Behavior Genetics, 36, 173-84.
+BISHOP, D. V., NORTH, T. & DONLAN, C. 1996. Nonword repetition as a behavioural
+marker for inherited language impairment: evidence from a twin study. Journal of
+Child Psychology and Psychiatry, 37, 391-403.
+BISHOP, D. V. M., SNOWLING, M. J., THOMPSON, P. A., GREENHALGH, T. &
+CONSORTIUM, A. T. C.-. 2017. Phase 2 of CATALISE: a multinational and
+multidisciplinary Delphi consensus study of problems with language development:
+Terminology. Journal of Child Psychology and Psychiatry, 58, 1068-1080.
+BOTTING, N. 2002. Narrative as a tool for the assessment of linguistic and pragmatic
+impairments. Child Language Teaching and Therapy, 18, 1-21.
+BOTTING, N., SIMKIN, Z. & CONTI-RAMSDEN, G. 2006. Associated Reading Skills in
+Children with a History of Specific Language Impairment (SLI). Reading and
+Writing, 19, 77-98.
+BOWEY, J. A. 2001. Nonword repetition and young children's receptive vocabulary: A
+longitudinal study. Applied Psycholinguistics, 22, 441-469.
+BRAGARD, A., SCHELSTRAETE, M. A., SNYERS, P. & JAMES, D. G. 2012. Word-
+finding intervention for children with specific language impairment: a multiple single-
+case study. Language, Speech, and Hearing Services in Schools, 43, 222-34.
+BROUWER, K. K., GORDON-PERSHEY, M. & STRANSKY, M. 2024. Speech,
+Language, and Literacy in Children With Visual Impairments: The National Survey
+of Children's Health. Communication Disorders Quarterly, 45, 263-269.
+BRUTTEN, E. J. & VANRYCKEGHEM, M. 2007. BAB: Behavior Assessment Battery for
+school-age children who stutter, Plural Publishing.
+BUNNING, K., GOOCH, L. & JOHNSON, M. 2016. Developing the personal narratives of
+children with complex communication needs associated with intellectual disabilities:
+53
+What is the potential of Story sharing(®) ? Journal of Applied Research in
+Intellectual Disabilities, 30, 743-756.
+CAESAR, L. G. & KOHLER, P. D. 2009. Tools Clinicians Use: A Survey of Language
+Assessment Procedures Used by School-Based Speech-Language Pathologists.
+Communication Disorders Quarterly, 30, 226-236.
+CARROLL, J., BOWYER-CRANE, C., DUFF, F. J., HULME, C. & SNOWLING, M. J.
+2011. Developing language and literacy effective intervention in the early years,
+Massachusetts, Wiley-Blackwell.
+*CARROLL, J., BRADLEY, L., CRAWFORD, H., HANNANT, P., JOHNSON, H. &
+THOMPSON, A. 2017. SEN support: A rapid evidence assessment, Department for
+Education.
+CASSAR, C., MCCABE, P. & CUMMING, S. 2022. "I still have issues with pronunciation
+of words": A mixed methods investigation of the psychosocial and speech effects of
+Childhood Apraxia of Speech in adults. International Journal of Speech-Language
+Pathology, 25, 193-205.
+CATTS, H. W., FEY, M. E., TOMBLIN, J. B. & ZHANG, X. 2002. A longitudinal
+investigation of reading outcomes in children with language impairments. Journal of
+Speech, Language, and Hearing Research, 45, 1142-57.
+CHING, T. Y., DILLON, H., MARNANE, V., HOU, S., DAY, J., SEETO, M., CROWE, K.,
+STREET, L., THOMSON, J., VAN BUYNDER, P., ZHANG, V., WONG, A., BURNS,
+L., FLYNN, C., CUPPLES, L., COWAN, R. S., LEIGH, G., SJAHALAM-KING, J. &
+YEH, A. 2013. Outcomes of early- and late-identified children at 3 years of age:
+findings from a prospective population-based study. Ear and Hearing, 34, 535-52.
+CLARK, G. T. & REUTERSKIöLD, C. 2021. Orthographic Support for Word Learning in
+Clinical Populations: A Systematic Review. Language, Speech, and Hearing
+Services in Schools, 52, 937-948.
+CONTI-RAMSDEN, G., BOTTING, N. & FARAGHER, B. 2001. Psycholinguistic markers
+for specific language impairment (SLI). Journal of Child Psychology and Psychiatry,
+42, 741-8.
+DANIEL, G. R. & MCLEOD, S. 2017. Children with Speech Sound Disorders at School:
+Challenges for Children, Parents and Teachers. Australian Journal of Teacher
+Education, 42.
+DFE 2015. Special educational needs and disability code of practice: 0 to 25 years
+(Updated 2024). UK Government.
+54
+DFE 2025. Special educational needs in England: 2024-25. UK Government.
+DIXON, C., THOMSON, J. AND FRICKE, S., 2020. Language and reading development
+in children learning English as an additional language in primary school in England.
+Journal of Research in Reading, 43(3), pp.309-328.
+DOCKRELL, J., BAKOPOULOU, I., LAW, J., SPENCER, S. & LINDSAY, G. 2012.
+Developing a communication supporting classrooms observation tool.
+DOCKRELL, J. E. & HOWELL, P. 2015. Identifying the challenges and opportunities to
+meet the needs of children with speech, language and communication difficulties.
+British Journal of Special Education, 42, 411-428.
+DOCKRELL, J. E., HOWELL, P., LEUNG, D. & FUGARD, A. J. B. 2017. Children with
+Speech Language and Communication Needs in England: Challenges for Practice.
+Frontiers in Education, Volume 2 - 2017.
+DOCKRELL, J. E. & HURRY, J. 2018. The identification of speech and language
+problems in elementary school: Diagnosis and co-occurring needs. Research in
+Developmental Disabilities, 81, 52-64.
+DOCKRELL, J. E., LINDSAY, G., CONNELLY, V. & MACKIE, C. 2007. Constraints in the
+Production of Written Text in Children with Specific Language Impairments.
+Exceptional Children, 73, 147-164.
+DOCKRELL, J. E., LINDSAY, G., LETCHFORD, B. & MACKIE, C. 2006. Educational
+provision for children with specific speech and language difficulties: perspectives of
+speech and language therapy service managers. International Journal of Language
+& Communication Disorders, 41, 423-440.
+DOCKRELL, J. E. & MARSHALL, C. R. 2015. Measurement Issues: Assessing language
+skills in young children. Child and Adolescent Mental Health, 20, 116-125.
+DOCKRELL, J. E. & SHIELD, B. M. 2006. Acoustical barriers in classrooms: the impact
+of noise on performance in the classroom. British Educational Research Journal,
+32, 509-525.
+DOLLAGHAN, C. & CAMPBELL, T. F. 1998. Nonword repetition and child language
+impairment. Journal of Speech, Language, and Hearing Research, 41, 1136-46.
+*EBBELS, S. 2014. Effectiveness of intervention for grammar in school-aged children
+with primary language impairments: A review of the evidence. Child Language
+Teaching and Therapy, 30, 7-40.
+55
+*EBBELS, S. H., MCCARTNEY, E., SLONIMS, V., DOCKRELL, J. E. & NORBURY, C.F.
+2019. Evidence-based pathways to intervention for children with language
+disorders. International Journal of Language & Communication Disorders, 54, 3-19.
+*EBBELS, S. H., NICOLL, H., CLARK, B., EACHUS, B., GALLAGHER, A. L.,
+HORNIMAN, K., JENNINGS, M., MCEVOY, K., NIMMO, L. & TURNER, G. 2012.
+Effectiveness of semantic therapy for word-finding difficulties in pupils with
+persistent language impairments: a randomized control trial. International Journal of
+Language and Communication Disorders, 47, 35-51.
+*EBERT, K. D. & LEE, H. 2024. Predictors of treatment response in DLD: Review. ASHA
+Journals.
+EDWARDS, J. & LAHEY, M. 1998. Nonword repetitions of children with specific language
+impairment: Exploration of some explanations for their inaccuracies. Applied
+Psycholinguistics, 19, 279-309.
+EEF. 2021. Teaching and Learning Toolkit: Oral Language Interventions [Online].
+Available: https://educationendowmentfoundation.org.uk/education-
+evidence/teaching-learning-toolkit/oral-language-interventions [Accessed 2/7/2025].
+EISENBERG, S. L. & GUO, L. Y. 2013. Differentiating children with and without language
+impairment based on grammaticality. Language, Speech, and Hearing Services in
+Schools, 44, 20-31.
+ERICKSON, S. & BLOCK, S. 2013. The social and communication impact of stuttering on
+adolescents and their families. Journal of Fluency Disorders, 38, 311-24.
+EVANS, J.L., GILLAM, R. B. & MONTGOMERY, J. W. 2018. Cognitive Predictors of
+Spoken Word Recognition in Children With and Without Developmental Language
+Disorders. Journal of Speech, Language, and Hearing Research, 61, 1409-1425.
+*FAVOT, K., CARTER, M. & STEPHENSON, J. 2020. The Effects of Oral Narrative
+Intervention on the Narratives of Children with Language Disorder: a Systematic
+Literature Review. Journal of Developmental and Physical Disabilities, 33.
+*FRIZELLE, P., TOLONEN, A. K., TULIP, J., MURPHY, C. A., SALDANA, D. &
+MCKEAN, C. 2021. The Impact of Intervention Dose Form on Oral Language
+Outcomes for Children With Developmental Language Disorder. Journal of Speech,
+Language, and Hearing Research, 64, 3253-3288.
+FUCHS, L. S. & FUCHS, D. 2006. Introduction to response to intervention: What, why,
+and how valid is it? Reading Research Quarterly, 41, 93-99.
+56
+FUCHS, L. S. & FUCHS, D. 2009. On the Importance of a Unified Model of
+Responsiveness to Intervention. Child Development Perspectives, 3, 41-43.
+GALLAGHER, A. L., HALEY, T. & AND GRAHAM, L. J. 2018. Advancing the human
+rights of children with communication needs in school. International Journal of
+Speech-Language Pathology, 20, 128-132.
+GARRITTY, C., HAMEL, C., TRIVELLA, M., GARTLEHNER, G., NUSSBAUMER-
+STREIT, B., DEVANE, D., KAMEL, C., GRIEBLER, U. & KING, V. 2024. Updated
+recommendations for the Cochrane rapid review methods guidance for rapid
+reviews of effectiveness. British Medical Journal, 384, e076335.
+GATHERCOLE, S. E. & BADDELEY, A. D. 1990. Phonological memory deficits in
+language disordered children: Is there a causal connection? Journal of Memory and
+Language, 29, 336-360.
+GATHERCOLE, S. E. & BADDELEY, A. D. 1993. Phonological working memory: A
+critical building block for reading development and vocabulary acquisition?
+European Journal of Psychology of Education, 8, 259-272.
+GATHERCOLE, S. E., WILLIS, C. S., BADDELEY, A. D. & EMSLIE, H. 1994. The
+Children's Test of Nonword Repetition: a test of phonological working memory.
+Memory, 2, 103-27.
+GIROLAMO, T. M., RICE, M. L., SELIN, C. M. & WANG, C. J. 2022. Teacher Educational
+Decision Making for Children With Specific Language Impairment. American Journal
+Speech-Language Pathology, 31, 1221-1243.
+GLOVER, A., MCCORMACK, J. & SMITH-TAMARAY, M. 2015. Collaboration between
+teachers and speech and language therapists: Services for primary school children
+with speech, language and communication needs. Child Language Teaching and
+Therapy, 31, 363-382.
+GOVINDARAJAN, K. & PARADIS, J. 2019. Narrative abilities of bilingual children with
+and without Developmental Language Disorder (SLI): Differentiation and the role of
+age and input factors. Journal of Communication Disorders, 77, 1-16.
+GRAF ESTES, K., EVANS, J. L. & ELSE-QUEST, N. M. 2007. Differences in the
+nonword repetition performance of children with and without specific language
+impairment: a meta-analysis. Journal of Speech, Language, and Hearing Research,
+50, 177-95.
+GRAY, S. 2003. Word-learning by preschoolers with specific language impairment: what
+predicts success? Journal of Speech, Language, and Hearing Research, 46, 56-67.
+57
+HAYNES, C. 1992. Vocabulary Deficit-One Problem or Many? Child Language
+Teaching and Therapy, 8, 1-17.
+HILL, M. & WAGOVICH, S. 2020. Word learning from context in school-age children:
+relations with language ability and executive function. Journal of Child Language,
+47, 1-24.
+HOOVER, W. & GOUGH, P. 1990. The simple view of reading. Read Writ, 2, 127-160.
+*HUNT, E., NANG, C., MELDRUM, S. & ARMSTRONG, E. 2022. Can Dynamic
+Assessment Identify Language Disorder in Multilingual Children? Clinical
+Applications From a Systematic Review. Language, Speech, and Hearing Services
+in Schools, 53, 598-625.
+HYDE WRIGHT, S., GORRIE, B., HAYNES, C. & SHIPMAN, A. 1993. What's in a name?
+Comparative therapy for word-finding difficulties using semantic and phonological
+approaches. Child Language Teaching and Therapy, 9, 214-229.
+*JENSEN DE LóPEZ, K. M., KRALJEVIć, J. K. & STRUNTZE, E. L. B. 2022. Efficacy,
+model of delivery, intensity and targets of pragmatic interventions for children with
+developmental language disorder: A systematic review. International Journal of
+Language and Communication Disorders, 57, 764-781.
+JOFFE, V. L. 2006. Enhancing language and communication in language-impaired
+secondary school-aged children. In: CLEGG, J. & GINSBORG, J. (eds.) Language
+and social disadvantage: Theory into practice. Chichester, West Sussex: John
+Wiley & Sons.
+JOFFE, V. L., RIXON, L. & HULME, C. 2019. Improving storytelling and vocabulary in
+secondary school students with language disorder: a randomized controlled trial.
+International Journal of Language & Communication Disorders, 54, 656-672.
+*JONES, M. L., MENZIES, R. G., ONSLOW, M., LOWE, R., O'BRIAN, S. & PACKMAN,
+A. 2021. Measures of Psychological Impacts of Stuttering in Young School-Age
+Children: A Systematic Review. Journal of Speech, Language, and Hearing
+Research, 64, 1918-1928.
+JUSTICE, L. M., MEIER, J. & WALPOLE, S. 2005. Learning new words from storybooks:
+an efficacy study with at-risk kindergartners. Language, Speech, and Hearing
+Services in Schools, 36, 17-32.
+KAMHI, A. G. & CATTS, H. W. 1986. Toward an understanding of developmental
+language and reading disorders. Journal of Speech and Hearing Disorders, 51, 337-
+47.
+58
+*KAN, P. F. & WINDSOR, J. 2010. Word learning in children with primary language
+impairment: a meta-analysis. Journal of Speech, Language, and Hearing Research,
+53, 739-56.
+KAPA, L. L. & COLOMBO, J. 2013. Attentional Control in Early and Later Bilingual
+Children. Cognitive Development, 28, 233-246.
+KAšćELAN, D., PRéVOST, P., SERRATRICE, L., TULLER, L., UNSWORTH, S. & DE
+CAT, C. 2022. A review of questionnaires quantifying bilingual experience in
+children: Do they document the same constructs? Bilingualism: Language and
+Cognition, 25, 29-41.
+KATSOS, N. & BISHOP, D. V. M. 2011. Pragmatic tolerance: Implications for the
+acquisition of informativeness and implicature. Cognition, 120, 67-81.
+KIEFFER, M. J., VUKOVIC, R. K. & BERRY, D. 2013. Roles of Attention Shifting and
+Inhibitory Control in Fourth-Grade Reading Comprehension. Reading Research
+Quarterly, 48, 333-348.
+LANGEVIN, M. & BORTNICK, K. 1998. Teasing/Bullying Experienced by Children Who
+Stutter: Toward Development of a Questionnaire. Contemporary Issues in
+Communication Science and Disorders, 25, 8-20.
+*LAW, J., LEE, W., LINDSAY, G., ROULSTONE, S., WREN, Y. & ZENG, B. 2012. "What
+Works": Interventions for children and young people with speech, language and
+communication needs.
+LAW, J., LINDSAY, G., PEACEY, N., GASCOIGNE, M., SOLOFF, N., RADFORD, J. &
+BAND, S. 2001. Facilitating communication between education and health services:
+the provision for children with speech and language needs. British Journal of
+Special Education, 28, 133-137.
+LEONARD, L. B., MILLER, C. & GERBER, E. 1999. Grammatical morphology and the
+lexicon in children with specific language impairment. Journal of Speech, Language,
+and Hearing Research, 42, 678-89.
+LINDSAY, G. & DOCKRELL, J. E. 2004. Whose Job Is It?:Parents' Concerns About the
+Needs of Their Children with Language Problems. The Journal of Special
+Education, 37, 225-235.
+LINDSAY, G. & DOCKRELL, J. E. 2012. Longitudinal patterns of behavioral, emotional,
+and social difficulties and self-concepts in adolescents with a history of specific
+language impairment. Language, Speech, and Hearing Service in Schools, 43, 445-
+60.
+59
+LINDSAY, G., DOCKRELL, J. E. & STRAND, S. 2007. Longitudinal patterns of behaviour
+problems in children with specific speech and language difficulties: Child and
+contextual factors. British Journal of Educational Psychology, 77, 811-828.
+LINDSAY, G. & STRAND, S. 2016. Children with Language Impairment: Prevalence,
+Associated Difficulties, and Ethnic Disproportionality in an English Population.
+Frontiers in Education, Volume 1 - 2016.
+LONGLAND, A. 2009. Behavior Assessment Battery for School-Age Children Who
+Stutter. Taylor & Francis.
+*LOUICK, R., EMERY, A., MUENKS, K. & O'GRADY, M. 2023. Attending to Motivation
+During Vocabulary Interventions for Students With or at Risk for Learning
+Disabilities: A Review of the Literature. Topics in Language Disorders, 43, 97-118.
+*LOWE, H., HENRY, L., MüLLER, L. M. & JOFFE, V. L. 2017. Vocabulary intervention for
+adolescents with language disorder: a systematic review. International Journal of
+Language and Communication Disorders, 53, 199-217.
+LOWE, H. & JOFFE, V. 2017. Exploring the feasibility of a classroom-based vocabulary
+intervention for mainstream secondary school students with language disorder.
+Support for Learning, 32, 110-128.
+LUBIN, A., REGRIN, E., BOULC'H, L., PACTON, S. & LANOë, C. 2016. Executive
+Functions Differentially Contribute to Fourth Graders' Mathematics, Reading, and
+Spelling Skills. Journal of Cognitive Education and Psychology, 15, 444-463.
+MAAS, E., ROBIN, D. A., AUSTERMANN HULA, S. N., FREEDMAN, S. E., WULF, G.,
+BALLARD, K. J. & SCHMIDT, R. A. 2008. Principles of motor learning in treatment
+of motor speech disorders. American Journal of Speech-Language Pathology, 17,
+277-98.
+MäKINEN, L., LOUKUSA, S., LAUKKANEN, P., LEINONEN, E. & KUNNARI, S. 2014.
+Linguistic and pragmatic aspects of narration in Finnish typically developing children
+and children with specific language impairment. Clinical Linguistics and Phonetics,
+28, 413-27.
+MARCHMAN, V.A., WULFECK, B. & ELLIS WEISMER, S. 1999. Morphological
+productivity in children with normal language and SLI: a study of the English past
+tense. Journal of Speech, Language, and Hearing Research, 42, 206-19.
+MCARTHUR, G. M., HOGBEN, J. H., EDWARDS, V. T., HEATH, S. M. & MENGLER, E.
+D. 2000. On the "specifics" of specific reading disability and specific language
+impairment. Journal of Child Psychology and Psychiatry, 41, 869-74.
+60
+MCCAULEY, R. J. 2001. Assessment of Language Disorders in Children, New York,
+Psychology Press.
+MCGREGOR, K. K., OLESON, J., BAHNSEN, A. & DUFF, D. 2013. Children with
+developmental language impairment have vocabulary deficits characterized by
+limited breadth and depth. International Journal of Language and Communication
+Disorders, 48, 307-19.
+MCINTOSH, K. & GOODMAN, S. 2016. Integrated Multi-Tiered Systems of Support:
+Blending RTI and PBIS.
+MCLEOD, S. & BAKER, E. 2017. Children's speech: An evidence-based approach to
+assessment and intervention.
+MERCER, N., DAWES, L. & STAARMAN, J. K. 2009. Dialogic teaching in the primary
+science classroom. Language and Education, 23, 353-369.
+METSALA, J. L. 1999. Young children's phonological awareness and nonword repetition
+as a function of vocabulary development. Journal of Educational Psychology, 91, 3-
+19.
+MILLER, J.F., ANDRIACCHI, K. & NOCKERTS, A. 2016. Using Language Sample
+Analysis to Assess Spoken Language Production in Adolescents. Language,
+Speech, and Hearing Services in Schools, 47, 99-112.
+MOLL, H. & TOMASELLO, M. 2010. Infant cognition. Current Biology, 20, R872-5.
+MORGAN, A. T. & VOGEL, A. P. 2009. A Cochrane review of treatment for childhood
+apraxia of speech. European Journal of Physical and Rehabilitation Medicine, 45,
+103-10.
+MOSCA, R., KRITZINGER, A. & VAN DER LINDE, J. 2015. Language and
+communication development in preschool children with visual impairment: A
+systematic review. South African Journal of Communication Disorders, 61.
+MURPHY, A., FRANKLIN, S., BREEN, A., HANLON, M., MCNAMARA, A., BOGUE, A. &
+JAMES, E. 2017. A whole class teaching approach to improve the vocabulary skills
+of adolescents attending mainstream secondary school, in areas of socioeconomic
+disadvantage. Child Language Teaching and Therapy, 33, 129-144.
+NATION, K. & SNOWLING, M. J. 2004. Beyond phonological skills: broader language
+skills contribute to the development of reading. Journal of Research in Reading, 27,
+342-356.
+61
+NATIONAL INSTITUTE ON DEAFNESS AND OTHER COMMUNICATION DISORDERS.
+Available: https://www.nidcd.nih.gov/health/voice-speech-and-language [Accessed
+16/06/25].
+NEWBURY, D. F. & MONACO, A. P. 2010. Genetic advances in the study of speech and
+language disorders. Neuron, 68, 309-20.
+NORBURY, C. F., GOOCH, D., WRAY, C., BAIRD, G., CHARMAN, T., SIMONOFF, E.,
+VAMVAKAS, G. & PICKLES, A. 2016. The impact of nonverbal ability on
+prevalence and clinical presentation of language disorder: evidence from a
+population study. Journal of Child Psychology and Psychiatry, 57, 1247-1257.
+*ORTIZ, J. A. 2021. Using Nonword Repetition to Identify Language Impairment in
+Bilingual Children: A Meta-Analysis of Diagnostic Accuracy. American Journal of
+Speech-Language Pathology, 30, 2275-2295.
+PACE, A., LUO, R., HIRSH-PASEK, K. & GOLINKOFF, R. M. 2017. Identifying Pathways
+Between Socioeconomic Status and Language Development. Annual Review of
+Linguistics, 3, 285-308.
+PARADIS, J., EMMERZAEL, K. & DUNCAN, T. S. 2010. Assessment of English
+language learners: Using parent report on first language development. Journal of
+Communication Disorders, 43, 474-497.
+*PAWłOWSKA, M. 2014. Evaluation of Three Proposed Markers for Language
+Impairment in English: A Meta-Analysis of Diagnostic Accuracy Studies. Journal of
+Speech, Language, and Hearing Research, 57, 2261-2273.
+*RAMíREZ, R., HUANG, B. H., SALAZAR, K. & EIK, M. 2023. Predictors of Reading
+Development Among School-Age Bilingual Children With Developmental Language
+Disorder: A Scoping Review. Language, Speech, and Hearing Services in Schools,
+54, 1020-1033.
+*RAMOS, M. N., COLLINS, P. & PEñA, E. D. 2022. Sharpening Our Tools: A Systematic
+Review to Identify Diagnostically Accurate Language Sample Measures. Journal of
+Speech, Language, and Hearing Research, 65, 3890-3907.
+REDMOND, S. M. 2005. Differentiating SLI from ADHD using children's sentence recall
+and production of past tense morphology. Clinical Linguistics and Phonetics, 19,
+109-27.
+RICE, M. L. & HOFFMAN, L. 2015. Predicting vocabulary growth in children with and
+without specific language impairment: a longitudinal study from 2;6 to 21 years of
+age. Journal of Speech Language and Hear Research, 58, 345-59.
+62
+RICE, M. L., HOFFMAN, L. & WEXLER, K. 2009. Judgments of omitted BE and DO in
+questions as extended finiteness clinical markers of specific language impairment
+(SLI) to 15 years: a study of growth and asymptote. Journal of Speech, Language,
+and Hearing Research, 52, 1417-33.
+RICE, M. L. & WEXLER, K. 1996. Toward tense as a clinical marker of specific language
+impairment in English-speaking children. Journal Speech, Language, and Hearing
+Research, 39, 1239-57.
+RICE, M. L. & WEXLER, K. 2001. Test of early grammatical impairment (TEGI).
+*ROGDE, K., HAGEN, Å. M., MELBY-LERV&G, M. & LERVåG, A. 2019. The effect of
+linguistic comprehension instruction on generalized language and reading
+comprehension skills: A systematic review. Campbell Systematic Reviews, 15,
+e1059.
+ROY, P. & CHIAT, S. 2013. Teasing apart disadvantage from disorder: The case of poor
+language. In: MARSHALL, C. R. (ed.) Current issues in developmental disorders.
+Psychology Press.
+SAXTON, M. 2005. 'Recast' in a new light: insights for practice from typical language
+studies. Child Language Teaching and Therapy, 21, 23-38.
+*SCHWOB, S., EDDé, L., JACQUIN, L., LEBOULANGER, M., PICARD, M., OLIVEIRA,
+P. R. & SKORUPPA, K. 2021. Using Nonword Repetition to Identify Developmental
+Language Disorder in Monolingual and Bilingual Children: A Systematic Review and
+Meta-Analysis. Journal of Speech, Language, and Hearing Research, 64, 3578-
+3593.
+*SCOTT, C. M. 2020. Language Sample Analysis of Writing in Children and Adolescents:
+Assessment and Intervention Contributions. Topics in Language Disorders, 40.
+SEGAL, A. & PESCO, D. 2015. Narrative Skills of Youth with Down Syndrome: a
+Comprehensive Literature Review. Journal of Developmental and Physical
+Disabilities, 27.
+SEMEL, E. M., WIIG, E. H. & SECORD, W. 1995. CELF3: clinical evaluation of language
+fundamentals, Psychological Corporation, Harcourt Brace.
+SHAHMAHMOOD, T. M., JALAIE, S., SOLEYMANI, Z., HARESABADI, F. & NEMATI, P.
+2016. A systematic review on diagnostic procedures for specific language
+impairment: The sensitivity and specificity issues. Journal of Research in Medical
+Sciences, 21, 67.
+63
+SHEA, B. J., REEVES, B. C., WELLS, G., THUKU, M., HAMEL, C., MORAN, J.,
+MOHER, D., TUGWELL, P., WELCH, V., KRISTJANSSON, E. & HENRY, D. A.
+2017. AMSTAR 2: a critical appraisal tool for systematic reviews that include
+randomised or non-randomised studies of healthcare interventions, or both. British
+Medical Journal, 358, j4008.
+*SHIELDS, R. & HOPF, S. C. 2024. Intervention for residual speech errors in
+adolescents and adults: A systematised review. Clinical Linguistics & Phonetics, 38,
+203-226.
+SHIPLEY, K. G. & MCAFEE, J. G. 2023. Assessment in Speech-Language Pathology. A
+Resource Manual, San Diego, CA, Plural Publishing Inc.
+SHRIBERG, L. D., FOURAKIS, M., HALL, S. D., KARLSSON, H. B., LOHMEIER, H. L.,
+MCSWEENY, J.L., POTTER, N. L., SCHEER-COHEN, A. R., STRAND, E. A.,
+TILKENS, C. M. & WILSON, D. L. 2010. Extensions to the Speech Disorders
+Classification System (SDCS). Clinical Linguistics and Phonetics, 24, 795-824.
+SIM, I. 1996. Two into one will go: developing science for pupils with speech and
+language difficulties. Child Language Teaching and Therapy, 12, 136-47.
+SIM, I. 1998. One plus one equals three! Improving vocabulary acquisition and learning
+in pupils with speech and language impairments. Child Language Teaching and
+Therapy, 14, 83-93.
+SIMKIN, Z. & CONTI-RAMSDEN, G. 2001. Non-word repetition and grammatical
+morphology: normative data for children in their final year of primary school.
+International Journal of Language and Communication Disorders, 36, 395-404.
+SNOWLING, M. J. & HULME, C. 2011. Evidence-based interventions for reading and
+language difficulties: Creating a virtuous circle. British Journal of Educational
+Psychology, 81, 1-23.
+SNOWLING, M. J. & HULME, C. 2012. Interventions for children's language and literacy
+difficulties. International Journal of Language & Communication Disorders, 47, 27-
+34.
+SPENCER, S., CLEGG, J., LOWE, H. & STACKHOUSE, J. 2017. Increasing
+adolescents' depth of understanding of cross-curriculum words: an intervention
+study. International Journal of Language and Communication Disorders, 52, 652-
+668.
+*SPENCER, V. G., EVMENOVA, A. S., BOON, R. T. & HAYES-HARRIS, L. 2014.
+Review of Research-Based Interventions for Students with Autism Spectrum
+64
+Disorders in Content Area Instruction: Implications and Considerations for
+Classroom Practice. Education and Training in Autism and Developmental
+Disabilities, 49, 331-353.
+SRIGANESH, R. & JOSEPH PONNIAH, R. 2018. Genetics of language and its
+implications on language interventions. Journal of Genetics, 97, 1485-1491.
+ST CLAIR, M. C., PICKLES, A., DURKIN, K. & CONTI-RAMSDEN, G. 2011. A
+longitudinal study of behavioral, emotional and social difficulties in individuals with a
+history of specific language impairment (SLI). Journal of Communication Disorders,
+44, 186-99.
+STEELE, S. L. 2014. Effects of morphological-based intervention on vocabulary learning
+in school-age children with language learning difficulties. EBP Briefs, 9, 1-7.
+SUGDEN, E., BAKER, E., MUNRO, N., WILLIAMS, A. L. & TRIVETTE, C. M. 2018.
+Service delivery and intervention intensity for phonology-based speech sound
+disorders. International Journal of Language and Communication Disorders, 53,
+718-734.
+*THAO, S. K. & LEE, S. A. S. 2022. Treatment Intensity of Speech Intervention via
+Telepractice for Children with Speech Sound Disorders: A Systematic Review. EBP
+Briefs, 15, 1-13.
+TOMBLIN, J. B., FREESE, P. R. & RECORDS, N. L. 1992. Diagnosing Specific
+Language Impairment in Adults for the Purpose of Pedigree Analysis. Journal of
+Speech, Language, and Hearing Research, 35, 832-843.
+TOMBLIN, J. B., HARRISON, M., AMBROSE, S. E., WALKER, E. A., OLESON, J. J. &
+MOELLER, M. P. 2015. Language Outcomes in Young Children with Mild to Severe
+Hearing Loss. Ear and Hearing, 36 Suppl 1, 76s-91s.
+TORRINGTON EATON, C. 2015. Cognitive Factors and Residual Speech Errors: Basic
+Science, Translational Research, and Some Clinical Frameworks. Seminars in
+Speech and Language, 36, 247-56.
+TULLER, L. 2015. Clinical use of parental questionnaires in multilingual contexts. In:
+ARMON-LOTEM, S., DE JONG, J. & MEIR, N. (eds.) Assessing multilingual
+children: Disentangling bilingualism from language impairment. Multilingual Matters.
+VANORMELINGEN, L. & GILLIS, S. 2016. The influence of socio-economic status on
+mothers' volubility and responsiveness in a monolingual Dutch-speaking sample.
+First Language, 36, 140-156.
+65
+VIVASH, J., DOCKRELL, J. & LEE, F. 2018. The re-alignment of educational
+psychologists in supporting primary schools to enhance provision for children with
+speech language and communication needs. Educational and Child Psychology, 35.
+WALLENTIN, M. 2020. Gender differences in language are small but matter for
+disorders. Handbook of Clinical Neurology, 175, 81-102.
+*WINTERS, K. L., JASSO, J., PUSTEJOVSKY, J. E. & BYRD, C. T. 2022. Investigating
+Narrative Performance in Children With Developmental Language Disorder: A
+Systematic Review and Meta-Analysis. Journal of Speech, Language and Hearing
+Research, 65, 3908-3929.
+*WISMAN WEIL, L. & SCHUELE, C. M. 2019. Complex syntax interventions for young
+children with language impairments. EBP Briefs, 13, 1-9.
+WREN, Y., PAGNAMENTA, E., PETERS, T.J., EMOND, A., NORTHSTONE, K.,
+MILLER, L. L. & ROULSTONE, S. 2021. Educational outcomes associated with
+persistent speech disorder. International Journal of Language and Communication
+Disorders, 56, 299-312.
+WRIGHT, L., PRING, T. & EBBELS, S. 2017. Effectiveness of vocabulary intervention for
+older children with (developmental) language disorder. International Journal of
+Language & Communication Disorders, 53, 480-494.
+WRIGHT, T. S. & NEUMAN, S. B. 2014. Paucity and Disparity in Kindergarten Oral
+Vocabulary Instruction. Journal of Literacy Research, 46, 330-357.
+YARUSS, J. S. & QUESAL, R. W. 2010. Overall Assessment of the Speaker's
+Experience of Stuttering (OASES), Pearson Assessments.
+66
+Department
+for Education
+© Department for Education Copyright 2025
+This publication is licensed under the terms of the Open Government Licence v3.0,
+except where otherwise stated. To view this licence, visit
+nationalarchives.gov.uk/doc/open-government-licence/version/3.
+Where we have identified any third-party copyright information you will need to obtain
+permission from the copyright holders concerned.
+Reference: RR1550
+ISBN: 978-1-83870-700-2
+For any enquiries regarding this publication, contact www.gov.uk/contact-dfe.
+This document is available for download at www.gov.uk/government/publications.
+67

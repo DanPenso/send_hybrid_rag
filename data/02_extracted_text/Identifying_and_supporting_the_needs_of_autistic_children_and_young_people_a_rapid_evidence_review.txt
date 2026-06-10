@@ -1,0 +1,2205 @@
+Department
+for Education
+Identifying and
+supporting the needs of
+autistic children and
+young people: a rapid
+evidence review
+Research report
+September 2025
+Authors: Catherine Antalek, Susana
+Castro-Kemp, Fiona Dixon, and Anna
+Melissa Romualdez — University
+College London
+Government
+Social Research
+Disclaimer
+This research does not constitute an endorsement by the Department for Education of
+any of the approaches described. It does not reflect current Government policy, nor does
+it indicate future policy direction. Materials, resources, websites, and commercially
+developed programmes or products mentioned in this report are included solely because
+they were identified and reviewed as part of the rapid evidence assessment. Other tools
+or products with similar functions may exist and their absence from this report should not
+be interpreted as a reflection of their effectiveness. Reference to specific named or third-
+party products and materials should not be seen as an endorsement by either the
+authors or the Department for Education of their use, or of any particular company or its
+offerings.
+1
+Contents
+Disclaimer
+1
+List of tables
+4
+Executive summary
+5
+Background
+5
+Approach
+5
+Key findings
+5
+Identification
+5
+Support
+6
+Conclusions
+7
+Introduction
+8
+Aims
+9
+Methods
+11
+Identification and assessment of need
+13
+Identification in the early years
+19
+Tools for identifying the needs of autistic children in the early years summary
+21
+Language and communication skills
+21
+Measuring social and communication skills summary
+23
+Behaviour assessment
+23
+Measuring behaviour summary
+25
+Sensory processing assessment
+25
+Psychosocial and mental health assessments
+26
+Measuring mental health and psychosocial difficulties summary
+27
+Identification and assessment summary
+27
+Support and intervention
+29
+Universal support: High quality teaching and classroom support
+30
+Instructional strategies
+30
+Effective universal instructional strategies for autistic children and young people
+summary
+33
+Classroom environment
+33
+2
+Targeted support for autistic children and young people
+34
+Reading instruction
+35
+Targeted approaches to reading instruction summary
+37
+Reading comprehension
+37
+Targeted strategies to support reading comprehension summary
+38
+Writing interventions
+38
+Targeted strategies to support writing summary
+40
+STEM (Science, technology, engineering and math) interventions
+40
+Targeted strategies to support STEM skills summary
+42
+Augmentative and Alternative Communication
+42
+Augmented and Alternative Communication summary
+43
+Support and intervention summary
+44
+Conclusions
+45
+Appendices
+46
+Appendix A: Search terms (PICOS criteria)
+46
+References
+50
+3
+List of tables
+Table 1. Number of identified studies informing each strand
+11
+Table 2. Definitions of identification terms in the educational and clinical context
+14
+Table 3. Specialists and healthcare providers who may be involved in collaboration
+17
+4
+Executive summary
+Background
+In the SEND Code of Practice (DfE, 2015), autism falls under the broad category of
+Communication and Interaction needs. However, the code also states that autistic
+children and young people "may have needs that cut across all areas" of SEND (DfE,
+2025, p.85).
+Autistic children may experience sensory processing differences (i.e. difficulties in how
+sensory information is registered, interpreted, and responded to), challenges with social
+interactions, including verbal language and interpreting non-verbal cues, as well as
+anxiety, mental health difficulties, and "meltdown" or "shutdown" responses, all of which
+can impact academic engagement and educational outcomes (Robertson & Baron-
+Cohen, 2017). Accepting the breadth and complexity of these needs, this rapid evidence
+assessment (REA) will examine approaches for identifying and supporting the needs of
+autistic children and young people.
+Approach
+The evidence was gathered through a rapid evidence assessment (REA), with a literature
+search designed to identify key findings on identifying and supporting autistic children
+and young people. The search focused on systematic reviews and meta-analyses
+examining effective tools and strategies for identification and support in mainstream
+settings, as well as reviews assessing collaborative practices between families, schools,
+and healthcare providers or specialists.
+Key findings
+Identification
+The findings from this review suggest that current evidence for effective identification of
+autism and educational needs align with National Institute for Health and Care
+Excellence (NICE) guidelines and supports a multidisciplinary, collaborative approach to
+autism identification that includes input from families, children, and professionals across
+sectors. While there are a few strategies that mainstream educators can use to identify
+and screen for difficulties, it is often best to interpret the results of screeners and
+assessments (formal and informal) with the help of various specialists.
+5
+Further, the evidence supporting the use of identification strategies remains limited, with
+a need for larger-scale studies employing randomised controlled trials. However, a few
+useful techniques were highlighted in this REA. Tools such as the Strengths and
+Difficulties Questionnaire, Social Communication Questionnaire, and participation
+measures (e.g., Children's Participation Questionnaire) can provide valuable insight,
+although many remain in early development stages and lack strong evidence of reliability
+or classroom suitability. Importantly, these tools may not fully capture individualised traits
+like sensory sensitivities or restricted interests. Digital tools also have an emerging
+evidence base, and may be particularly useful for wider accessibility and use in low-
+resource settings, but require further validation through research.
+It may be beneficial for educators to adopt a holistic perspective, recognising the
+interplay of cognitive, emotional, motor, and environmental factors. Unsurprisingly, the
+most effective approach is to carry out a comprehensive formal assessment drawing
+together multiple points of data (e.g., observation, questionnaires, standardised
+assessments) and from a variety of informants (parents, teachers, the children and young
+people themselves). Nonetheless, mainstream educators play a crucial role in the early
+stages of identification, where their timely and accurate observations can significantly
+shape subsequent assessment and support.
+Support
+High-quality teaching for autistic children and young people is grounded in inclusive
+classroom practice, structured instructional strategies, and supportive environments that
+promote meaningful participation in learning. There are a range of instructional strategies
+shown to be effective for autistic children and young people. Approaches such as
+Discrete Trial Training (DTT), Direct Instruction, and Explicit Instruction are effective in
+developing academic and functional skills by breaking tasks into manageable steps,
+using clear prompts, and providing positive reinforcement. Techniques like response
+prompting, time delay, and the use of visual supports, such as graphic organisers, task
+cards, and visual schedules, further enhance comprehension and independence.
+Precision teaching has also shown promise in building specific skills, including reading,
+storytelling, and emotion identification.
+Effective teaching also involves using student interests to engage learning and
+reinforcing effort through praise and rewards, which can be gradually faded to support
+intrinsic motivation. Establishing consistent routines and structured environments
+reduces uncertainty and supports regulation, particularly important for pupils who may
+struggle with transitions or sensory sensitivities. Sensory-friendly classrooms that reduce
+overwhelming stimuli and provide predictable, calming environments are essential for
+enabling focus and learning.
+6
+Many of these same approaches can be used in targeted interventions for reading,
+writing, maths, science, and general achievement. The children and young people should
+be consulted where targeted intervention is planned to account for their individual needs,
+learning goals, and preferences. Materials and strategies that may need modification,
+should be produced in a timely manner so that autistic children and young people have
+equitable access to learning materials in-line with their peers.
+Conclusions
+Overall, there is a growing body of evidence on identifying and supporting autistic
+children and young people from which we can draw some preliminary conclusions about
+best practices for mainstream educators. However, many studies are still very small-
+scale or low in quality which limit the degree to which we can generalise some of this
+evidence. Inconsistencies in study methodologies and outcome reporting highlight the
+need for more rigorous research in terms of identification and support of needs for
+autistic children and young people. Further research is needed to validate these
+strategies with a representative sample of participants, and also to evaluate other tools of
+identification and support that educators without specialist qualifications can use in
+mainstream settings.
+7
+Introduction
+Autism spectrum disorder (ASD) is a lifelong neurodevelopmental condition that affects
+social communication and interaction, together with patterns of repetitive, restricted and
+stereotyped interests and activities (APA, 2022). Autism is a spectrum condition which
+affects people in different ways and to varying degrees depending on interaction with
+environment factors. Difficulties typically emerge in early childhood, are pervasive and
+enduring, resulting in challenges across multiple aspects of daily life. The term 'disorder'
+reflects an outdated medical model of disability, and many autistic people, parents and
+carers, and researchers alike reject the word 'disorder' (Cook, 2022). Therefore,
+throughout this review, "autism" will be used in place of "ASD" to be in keeping with the
+neurodiversity-affirming approach. Additionally, recent studies found that autistic people
+and other close stakeholders prefer identity-first language, particularly in the UK (see
+Kenny et al., 2016). Therefore, we will also adopt this language for the current rapid
+evidence assessment (REA).
+In England, the prevalence of autism has been increasing. According to the Department
+for Education's data (DfE, 2025) for the academic year 2024/25, 9.7% of pupils receiving
+SEN support have autism as their primary need, up from 4.7% in 2015/16. Autism is the
+most common type of need among pupils with an Education, Health and Care (EHC)
+plan, accounting for 33.6% of all cases. This represents a significant portion of the
+student population requiring additional support.
+The Diagnostic and Statistical Manual of Mental Disorders, Fifth Edition (DSM-V)
+published by the American Psychiatric Association (APA) serves as the authoritative
+guide for diagnosing mental health conditions. The DSM-V classifies autism as a
+neurodevelopmental disorder and specifies two main criteria for autism diagnosis. The
+first is persistent difficulties in social communication (e.g., social-emotional reciprocity,
+nonverbal communication, and the ability to form and maintain relationships). Autistic
+people may find it difficult to communicate or understand others, particularly tone, taking
+things literally, and not understanding abstract concepts. Social communication
+difficulties are often early indicators of autism. For example, difficulties in joint attention
+(i.e., the ability to show interest or share a focus of attention and follow gaze) is generally
+a strong indicator of autism. There may be inappropriate responses or misinterpretations
+in communication and a limited use of social smiles or gestures. The second criteria are
+restrictive and repetitive patterns of behaviour (e.g., such as repetitive movements or
+speech, insistence on sameness, intense fixated interests, or unusual responses to
+sensory input).
+The profile of autism is highly heterogeneous, with the type and severity of needs varying
+considerably between individuals. For example, some autistic children and young people
+may have difficulties with verbal communication, while others may have good oral
+communication and language skills, but poor social communication. Further, many
+8
+conditions can co-occur with autism, such as epilepsy, speech and language difficulties,
+dyslexia or attention deficit hyperactivity disorder (ADHD) (e.g., Tager-Flusberg &
+Dominick, 2011). Autistic children and young people may also have mental health
+difficulties. For example, 50-70% of autistic people also present with comorbid ADHD and
+up to 84% of autistic individuals may suffer from anxiety (White et al., 2009). Thus, it is
+necessary to understand the different strengths and challenges faced by individual
+autistic learners to appropriately support their needs.
+It is also important to point out that our understanding of autism has changed with the
+development of research. Due to the challenges in reliably distinguishing between
+autism, Asperger's syndrome, and Pervasive Developmental Disorder (PDD), and
+concerns about the usefulness of these separate categories, the latest edition of the
+DSM (American Psychiatric Association, 2013) has removed Asperger's syndrome and
+PDD, instead conceptualising autism as a spectrum. In addition, the requirement for
+speech delay has also been eliminated; instead, difficulties in reciprocal conversation are
+recognised as a potential indicator of impaired social-emotional reciprocity. The criteria
+for stereotyped behaviours have been expanded to include hyper- or hypo-reactivity to
+sensory input. As with earlier definitions, onset must occur in early childhood, and
+symptoms must be severe enough to impair daily functioning. While our REA is designed
+to ensure findings are relevant and meaningful, it is important to note that some of the
+language used in the original sources may be outdated as some research included in this
+REA were published prior to the current DSM update. Some examples are the use of
+"functioning" (high-functioning, low-functioning) labels, severity labels (including mild,
+profound, severe, moderate), and Asperger's, all of which are now outdated. While we
+aim to accurately report findings, we will also highlight instances where language or
+perspectives may be outdated.
+Aims
+The goal of this REA is to synthesise evidence-based strategies in the identification,
+support, and collaborative practices available to mainstream educators in supporting
+autistic children and young people. This goal is guided by the following research
+questions:
+Identification:
+Which formal and informal methods and measurement tools are available to
+practitioners to identify educational needs associated with autism within diverse
+classroom settings?
+For which ages or age ranges can these tools be used?
+9
+What are the performance parameters of these measurement tools (e.g.,
+reliability/validity/specificity)?
+How can these tools be used to guide decisions regarding the provision of
+universal, targeted or specialist support?
+Support:
+What are the most effective universal and targeted strategies, approaches, or
+adaptations for supporting autistic children and young people to improve
+educational outcomes?
+What is the most appropriate level of delivery (universal or targeted or
+specialist) for each of these interventions?
+What specific age groups are targeted by these interventions?
+What types of approaches/interventions do autistic children and young people
+respond best to?
+Working with others:
+What components and characteristics foster effective collaboration between
+teachers, specialists, and parents/caregivers in the identification and support for
+autistic children and young people, and how can clear role boundaries and
+knowledge-sharing frameworks support this process?
+What examples are there of different models of collaboration between the
+multidisciplinary team?
+10
+Methods
+To address these research questions, a Rapid Evidence Assessment (REA) was
+conducted following Cochrane rapid review guidance (Garritty et al., 2024). This REA
+followed the Preferred Reporting Items for Systematic Reviews and Meta-Analysis
+(PRISMA) statement when selecting relevant articles.
+We conducted a targeted search of two academic databases (i.e., Scopus: PsychINFO
+and EBSCO: ERIC) as well as grey literature using specific keywords related to the
+research questions (see Appendix A: Search terms). We identified systematic reviews
+and meta-analyses published in English between 2014 and 2024, focusing on children
+and young people aged 0-25 with identified autism in mainstream educational settings.
+Included studies evaluated identification, support, or collaborative practices that are
+feasible in UK classrooms, excluding medical, home-based, or highly resource-
+dependent interventions (e.g. beyond what is typically available in a mainstream
+classroom such as animals, robotics and virtual reality). Identification tools had to be
+usable by mainstream staff (not clinicians), and SEND status were independently verified
+through diagnosis, EHC plan, or standardised measures. Studies relying solely on
+teacher judgement were excluded. Studies reporting measurable educational attainment
+outcomes or communication and language outcomes were included (i.e., excluding
+behavioural, social or emotional outcomes).
+Titles and abstracts were initially screened for relevance by trained members of the team,
+followed by full-text review, resulting in the inclusion of 89 studies in the final review, with
+24 studies on identification and assessment, and 65 studies on support and intervention
+(see Table 1). Given the central role of collaboration across both the identification and
+intervention processes, this strand is not presented as a standalone section. Instead,
+within the identification and support sections, we highlight where collaborative practices
+are necessary and effective. Additionally, as many studies identified for inclusion relate to
+collaborative practices in general SEND provision or across different categories of need,
+a breakdown of studies specific to Autism is not included here, with collaborative
+practices across the categories of SEND addressed in the Cross-Cutting Themes Report.
+Table 1. Number of identified studies informing each strand
+Strand
+Number of studies included
+Identification and assessment
+24
+Support and intervention
+65
+Total
+89
+Data from each study were then extracted by trained members of the team. We extracted
+descriptive information regarding the characteristics of each study as well as information
+11
+about identification and assessment tools and support strategies from the included
+paper(s) where available.
+Our search efforts focused on high-quality and relevant research, and prioritised peer-
+reviewed studies with robust methodologies. All studies identified in the final sample are
+either systematic reviews or meta-analyses. We used the Assessing the Methodology
+Quality of Systematic Reviews tool 2 (AMSTAR2) (Shea et al., 2017) to evaluate the
+quality of these studies. Findings suggest that the evidence base was mixed according to
+this tool. Most studies were rated as demonstrating high or moderate confidence in the
+results, with some rated as low due to a 'critical flaw' (detailed in our Technical Report).
+The typical critical flaw was that many studies did not conduct a formal risk of bias
+assessment using a recognised tool (e.g., ROBINS-I, Cochrane Risk of Bias).
+For a full account of our methodology, including search terms, inclusion, and exclusion
+criteria, PRISMA flow diagram, and extraction variables, and quality appraisal, see the
+Technical Report.
+12
+Identification and assessment of need
+The aim of this section is to review the studies from our search that focused on
+identification and assessment strategies suitable for use by mainstream education
+professionals in identifying the needs of autistic children. These approaches are not used
+to diagnose autism but can help teachers and school staff to recognise students'
+strengths and challenges, guide decisions about support, or highlight cases where
+referral for specialist assessment may be warranted.
+In line with the SEND Code of Practice (DfE, 2015), the role of subject and class
+teachers is to support the early recognition of students who may be experiencing
+difficulties, particularly those affecting educational progress. Where concerns are
+identified, these should be discussed with the school's Special Educational Needs
+Coordinator (SENCo) and the child's family to determine appropriate next steps,
+including referral and formal assessment where necessary.
+While many screening and assessment tools may be effective for identification and
+needs-based assessment, they should be used with caution by mainstream educators
+who do not hold specialist qualifications. This is because such tools are underpinned by
+psychometric principles (e.g., reliability, validity, and standardisation), which determine
+how results should be interpreted and used. Without specific training in these areas, it
+may be difficult to determine how scores compare to typically developing populations,
+whether they represent meaningful results, or what it means when scores fall within
+clinical ranges. In practice, this ambiguity places greater reliance on professional
+judgment, which can lead to variability in how results are interpreted, particularly among
+assessors with less experience or with limited training. While educators play a vital role in
+completing these tools as informants, accurate interpretation should typically involve an
+individual with specialist training. Although the strategies outlined in this section can be
+useful for planning interventions or flagging potential concerns, they should not be used
+for labelling or diagnosis. Rather these tools should be used to identify critical areas of
+need that may impact a student's academic performance.
+The purpose of identification is to verify the existence of an educational need, while
+assessment aims to characterise the nature and extent of the child's difficulties in terms
+of differing skills (e.g., cognitive, language, literacy) (McCauley, 2001). The terms
+'identification', 'screening', 'assessment', and 'profiling' are often used inconsistently
+across research, policy, and practice and can have different meanings in relation to
+educational versus clinical context. For example, the term 'screening' in an educational
+context typically refers to the process by which a tool or a strategy is used to flag
+potential needs in a population (e.g., whole-school or whole-class) or of specific children
+who may be at risk to provide timely support or targeted interventions in educational
+settings. In contrast, screening for clinical purposes is typically carried out by health or
+mental health professionals using standardised tools to determine whether a child may
+13
+meet criteria for a specific diagnosis, such as Autism, with the goal of planning for further
+assessment. However, some processes can overlap. For example, an observation
+checklist of social communication behaviours could be used for identification purposes to
+flag possible social-communication difficulties in the classroom, or it could form part of a
+broader multi-disciplinary diagnostic assessment for autism or be used to monitor change
+following a social skills intervention. For clarity throughout this document, we define each
+term within an educational context. Definitions of terms are provided in Table 2.
+Table 2. Definitions of identification terms in the educational and clinical context
+Term
+Educational use
+Clinical use
+Needs-based
+The process of recognising that a child
+Not a formal clinical term;
+identification
+may have additional needs (whether
+overlaps with early signs
+they do or do not have a diagnosis),
+that may prompt
+often based on parental or child
+diagnostic referral but is
+concern, observations, or professional
+not sufficient for
+judgement. However, this process can
+diagnosis.
+also include informal assessments.
+Informal assessments are flexible
+methods of gathering data to identify
+areas of need, guide interventions and
+monitor progress. These tools include
+checklists, questionnaires, or more
+structured assessments (e.g., listening
+comprehension, reading fluency).
+Screening
+A brief, tool or procedure used to flag
+Tools used to determine
+or identify potential concerns across a
+whether further
+population. In educational contexts, the
+diagnostic assessment is
+goal is to flag potential needs early so
+warranted, often as a first
+that timely support or targeted
+step in a medical or
+interventions can be put in place within
+psychological evaluation
+the school setting. However, given that
+pathway. Typically, these
+screeners are typically quick to
+tools should be
+administer and usually measure only a
+administered by a trained
+specific area of concern, their results
+specialist.
+should be interpreted with caution.
+14
+Term
+Educational use
+Clinical use
+Assessment
+Refers to a systematic structured
+A systematic and
+process of data gathering from
+structured process of
+standardised tools to understand
+data collection for
+individual strengths and needs in order
+diagnostic purposes.
+to plan intervention or monitor
+Assessment is conducted
+progress. For educational purposes,
+by specialists (e.g.,
+these can be informal or formal
+speech and language
+assessments. Assessment should be
+therapists) and involves
+an ongoing process to monitor
+standardised diagnostic
+progress.
+tools to determine
+Formal assessments are structured,
+specific conditions or
+standardised tools used to evaluate a
+developmental profiles.
+student's performance against national
+or normative standards. These include
+GCSEs and A-levels but also
+standardised assessments of literacy
+or other types of skills. Formal
+assessments sometimes require input
+from specialists to administer and/or
+interpret results.
+Profiling
+A holistic summary of a child's
+Less commonly used as
+functioning, strengths, and areas of
+a standalone concept;
+difficulty, often used to guide provision.
+elements of profiling are
+Includes data from multiple informants
+embedded in
+and through multiple methods.
+comprehensive
+diagnostic assessments
+that explore functional
+impact across domains.
+The pathway to identification and diagnosis of autism is often more clinically oriented
+than the identification of some other types of SEND (e.g., dyslexia). It is typically initiated
+through medical channels where children and young people are referred to healthcare
+providers, and a formal diagnosis is given, requiring collaboration from a multidisciplinary
+team. Here, concerns may first be raised by parents, teachers, or healthcare
+professionals who notice signs such as difficulties with various forms of expression,
+communication, behaviour, or social interaction.
+Research indicates that children can be reliably diagnosed with autism as early as 2
+years of age (e.g., Gurthie et al 2013; Lord et al., 2006; Stone et al., 1999). Early
+developmental concerns for a pre-school aged child should be initially referred to health
+15
+care providers. For example, delayed speech is a prominent early indicator that parents
+frequently notice, often prompting them to raise concerns with their primary care
+physician. Children under the age of three years who show possible regression in
+language or social skills should be referred promptly for an autism assessment (Yates &
+Le Couteur, 2016). School-aged children may have a broader range of symptoms and
+thus the referral point may be more diverse (e.g., coming from parents and carers or from
+educational professionals).
+Identifying autism in children can be challenging due to several factors, including wide
+variation in how symptoms present, differences in severity, overlap with other conditions,
+and variability in when symptoms first appear. Some people remain undiagnosed into
+adulthood or throughout their whole lives. Further, it has long been considered that there
+is a sex discrepancy in the prevalence of autism, with a ratio of 4:1, in favour of males
+(Baird et al., 2006; DfE, 2024; Rivet & Matson, 2011). However, some literature suggests
+that the actual ratio of autism diagnoses is closer to 2:1 (Dworzynski et al., 2012) and
+other studies report equal rates of prevalence between males and females (Matheis et
+al., 2019). This suggests that autistic girls may be under-recognised. While the reasons
+for this are not clear, a few reasons for this have been proposed including genetic and
+neurobiological differences (Jacquemont et al., 2014), bias in diagnostic criteria (e.g.,
+diagnostic criteria may be based more on male presentations) (Lai et al., 2015), and the
+possible higher prevalence of camouflaging or masking of autistic traits in females (Hull
+et al., 2020).
+As a result, the diagnostic process often follows a two-step approach. First, there is some
+'surveillance' or ongoing monitoring of behaviours followed by a more formal screening
+process using standardised tools to identify children who may be at risk. Second, if
+concerns remain after screening, a more in-depth assessment is carried out using
+diagnostic tools that are more detailed and often require input from a multidisciplinary
+team of professionals. While parents and teachers are important informants in the
+screening and diagnostic process, most assessment tools used in this process are for
+clinical use and will require specialist training to administer and interpret the results.
+Two-step approach to diagnosing autism summary
+1.
+Surveillance and screening
+2.
+In-depth formal assessment
+A formal diagnosis of autism can be useful to guide support and intervention practices in
+educational settings. Early identification of, and intervention for, autism has also been
+linked to improved functioning and wellbeing of children, parents, and the wider family
+(Estes et al., 2019). In the UK, the National Institute for Health and Care Excellence
+(NICE) guidance on the assessment and diagnosis of autism recommends that children
+16
+and young people with suspected autism should be referred to a local multidisciplinary
+autism team, which can offer specialist advice and support in assessing and
+understanding the needs of both the individual and their family (NICE, 2018). This team
+should include a paediatrician and/or child and adolescent psychiatrist, a speech and
+language therapist, and a clinical or educational psychologist.
+The assessment may include a developmental history (usually taken from
+parents/carers), direct observation of the child (e.g., using observation schedules),
+speech, language, and communication or cognitive assessment, and school or nursery
+reports. Ongoing support should also involve multidisciplinary collaboration, bringing
+together health and education professionals to coordinate care and ensure that
+adaptations, equipment, and tailored support are provided in both educational and home
+settings. Due to its grounding in clinical assessment and medical terminology, this route
+is generally more medicalised than pathways for many other types of special educational
+needs. See Table 3 for a list of specialists and healthcare professionals who may be
+involved in the identification and support processes for autistic children and young
+people.
+Table 3. Specialists and healthcare providers who may be involved in collaboration
+Specialist
+Role
+General Practitioner (GP)
+First point of contact for families; makes referrals to
+specialist services.
+Health Visitor
+May identify early developmental concerns during
+routine checks in early childhood.
+Community Paediatrician
+Leads or participates in developmental assessments;
+takes detailed medical/developmental history.
+Child Psychiatrist
+Assesses for autism and co-occurring mental health or
+neurodevelopmental conditions.
+Clinical Psychologist
+Assesses behaviour, cognition, and emotional
+functioning; may administer diagnostic tools like ADOS.
+Educational Psychologist
+Provides insights from school-based assessments;
+contributes to understanding educational needs.
+Speech and Language
+Assesses communication, language development, and
+Therapist (SaLT)
+social interaction skills.
+Occupational Therapist (OT)
+Evaluates sensory processing, motor coordination, and
+functional independence.
+Specialist Autism Nurse or
+Supports families through the diagnostic process and
+Keyworker
+coordinates between services.
+17
+Specialist
+Role
+School SENCo or Teacher
+Provides observational reports and educational context;
+may flag concerns to parents/GP.
+Social Worker (if involved)
+Contributes family background or safeguarding
+information where relevant.
+Multidisciplinary Team
+Ensures all assessments and reports are brought
+(MDT) Coordinator
+together for a final diagnostic decision.
+The International Classification of Functioning, Disability and Health (ICF) is a framework
+developed by the World Health Organisation (WHO) that provides a comprehensive and
+standardised way of understanding health conditions, disabilities, and their impact on
+daily life. The ICF is particularly useful in the assessment and identification of autism in
+children as it provides a holistic approach, considering not only the medical diagnosis but
+also the functional abilities, activity limitations, and participation restrictions a child may
+experience in various contexts such as school, home, and community settings. Typically,
+both clinical and functional assessments are used to inform tailored support programmes
+and may feed directly into the process of obtaining an EHC plan.
+The ICF explicitly includes activities of daily living (ADLs) and activities and participation
+as a key part of its framework. ADLs are typically assessed in the process of
+identification and diagnosis. Assessment of capacity in ADL should comprise a
+representative set of items from all three domains: 'self-care and self-maintenance',
+'productivity and schoolwork' and 'leisure and play' (Sugden, 2006). Activities and
+participation are also often assessed. These include barriers to participation in different
+contexts including in educational environments. Insight into ADLs and activities and
+participation are essential for diagnosis and treatment planning.
+In general, identification and assessment of additional needs should be a collaborative
+effort with a multidisciplinary team. Although our REA identified relatively few studies
+focused on non-clinical methods of identification and assessment of needs, it highlighted
+several practical strategies that educators can use to help recognise areas of need and
+support autistic children in educational settings. The studies identified in our search span
+a range of assessment areas, including tools for early years identification, social and
+communication skills, behavioural assessments, sensory processing, and psychosocial
+and mental health evaluation. Educators can use a combination of structured tools and
+observational strategies to identify autism-related challenges and tailor support
+accordingly, even in the absence of a formal diagnosis. These tools are reviewed in the
+following sections.
+18
+Identification in the early years
+Seven studies in the review investigated identification tools that could be used in the
+early years from infancy to preschool (ages 0 to 4).
+In general, findings from studies in our REA suggest there is not a single tool alone that
+can identify autism-related needs or screen for early diagnosis of autism. Additionally,
+two reviews (Cahyadi et al., 2022; Jones et al., 2014) emphasise that early detection of
+autism should not rely on a single domain (e.g., such as social, behavioural, or
+communication skills). Instead, a combination of indicators across multiple developmental
+areas should be considered. Thus, this should also apply to any identification or
+assessment completed in educational settings to guide effective support plans that can
+address a range of strengths and challenges.
+Since a formal diagnosis can be made as early as age two, early surveillance of
+behaviours and screening is important to implement proper support. Early identification
+tools (e.g., observations and teacher-report questionnaires) in preschools and early
+childcare centres were evaluated in a systematic review by DeLucia et al. (2024). Results
+suggested that several specialists including specialist teachers, psychiatrists, and
+general practitioners can conduct reliable screenings in early childhood settings (rather
+than in clinical settings). Further, this study found that parents and teachers may report
+differently on questionnaires. Therefore, it is useful to obtain information from both
+sources. Although the majority of the tools reviewed were designed for clinical use, one
+tool, the Classroom Observation Scale (COS), was used directly by teachers who had
+received 30-45 minutes of training (unspecified) prior to using the tool.
+1. The Classroom Observation Scale (COS) is a teacher-friendly tool designed to
+assess children's social communication, interaction, and engagement within
+classroom settings. It involves structured observations of a child during regular
+classroom activities, allowing teachers to rate behaviours such as attention to
+task, communication with peers, and nonverbal social cues.
+While not a diagnostic tool, the COS was useful in identifying pre-schoolers (ages 2 to 4)
+more likely to be diagnosed with autism in the future across user types. In other words,
+more children who had needs identified from use of the COS tool later went on the get an
+official autism diagnosis than those where COS didn't pick up any needs. This tool could
+help build individual profiles to guide referrals and explore areas of potential support and
+intervention.
+Other observational techniques were reported on in this review; however, these
+approaches involved individuals other than the child's regular classroom teacher or
+childcare professional (e.g., research assistants, autism specialists, or special education
+staff). As such, none of the reviewed studies directly addressed the training of childcare
+practitioners, instead relying on external observers within classroom settings. This
+19
+reliance may limit the scalability of observational screening for autism, as implementation
+would require additional time and specialist expertise.
+Two reviews (Lami et al., 2017; Yee et al., 2017) investigated measures of participation
+in young autistic children. Participation, defined as involvement in life situations (World
+Health Organisation, 2007), contributes positively to health and well-being. Engaging in
+meaningful activities is also considered a key outcome in clinical practice (Hemmingsson
+& Jonsson, 2005). While many tools identified in these reviews require specialist
+qualification to administer and interpret, several tools identified could be used by
+teachers without specialist qualifications based on tool guidance.
+1. The Assessment of Preschool Children's Participation (APCP) is a parent-report
+questionnaire that measures how often young children (typically aged 2 to 5 years)
+participate in everyday activities across different settings, such as home,
+preschool, and the community. It focuses on the diversity, intensity, and enjoyment
+of participation, helping to identify areas where a child may need support. While it
+is designed for parents to complete, teachers or early years practitioners can
+administer it to parents and help interpret the results with basic training or
+guidance, making it a practical tool for use in early childhood education settings.
+2. The Child and Adolescent Scale of Participation (CASP) is a structured parent-
+report questionnaire that measures how well children and young people (typically
+aged 5-21) participate in home, school, and community activities compared to
+peers. Teachers can administer it, but interpreting open-ended responses may
+require additional experience or support from a specialist.
+3. The Children's Assessment of Participation with Hands (CAPH) assesses how
+children (typically aged 3-14) use their hands in everyday activities, through a
+parent-report format. Teachers can administer the tool but may need guidance in
+interpreting levels of assistance required in specific functional domains.
+4. The Children's Participation Questionnaire (CPQ) is a simple, parent-report tool
+that evaluates a child's participation in everyday life activities at home, school, and
+in the community. Teachers can both administer and interpret the results with
+minimal training, making it suitable for educational settings.
+Based on psychometric features¹, relevance to autism, and feasibility for teacher use, the
+Children's Participation Questionnaire (CPQ) emerges as the most suitable measure for
+teachers assessing participation in preschool aged (aged 2 to 4) autistic children. Unlike
+1 Psychometric properties refer to how trustworthy and accurate an assessment tool is. Two key features
+are reliability (i.e., how consistently the tool gives similar results), and validity (i.e., whether it actually
+measures what it claims to measure). For example, if a behaviour questionnaire gives very different results
+depending on who completes it or when it's used, it may not be reliable. If a tool claims to measure anxiety
+but mostly reflects general behaviour issues, it may lack validity.
+20
+other tools that require clinical training or specialised knowledge, the CPQ is a structured
+parent-report questionnaire, easily administered and interpreted by teachers with minimal
+training. Its broad focus on everyday activities, enjoyment, and parental satisfaction
+aligns well with classroom-based observation and family-centred practice, making it both
+practical and psychometrically sound for use in educational settings.
+Digital tools, particularly those assessing social and motor domains, were investigated in
+two reviews (Black et al., 2020; Mukherjee et al., 2022) and may be emerging as
+promising scalable solutions, especially when paired with machine learning and computer
+vision for automated analysis. These tools involve gamified tasks, virtual-reality platforms
+and automated analysis of video or audio recordings of children's behaviours and
+speech. These technologies could enable wider implementation through task-sharing
+with non-specialist providers. However, most tools remain in early stages, with few
+validated across large, diverse populations. There is a pressing need for coordinated
+large-scale validation efforts and standardised measures that can reliably detect autism
+across developmental stages and contexts. Overall, the evidence base is growing but
+lacks consistency, signifying the need for more robust, inclusive, and context-sensitive
+approaches to both assessment and functional support.
+Tools for identifying the needs of autistic children in the early years summary
+The Classroom Observation Scale (COS)
+The Children's Participation Questionnaire (CPQ)
+Language and communication skills
+Social and communication skills (e.g., social-emotional reciprocity, nonverbal
+communication, and the ability to form and maintain relationships) are one of the core
+areas of autism diagnosis according to the DSM-V. While difficulties affecting social and
+communication skills can serve as potential markers for screening and diagnosis, they
+may also be useful to measure in order to plan support and monitor progress in school-
+based interventions. Four systematic reviews included in this REA investigated
+identification and assessment tools for areas of language and social communication
+skills.
+Findings from two reviews (e.g., Broome et al., 2017; Chesnut et al., 2017) indicate that
+there is growing evidence of tools that measure speech, social and communication skills
+in children, particularly in early childhood. Parent-report screeners such as the Social
+Communication Questionnaire (SCQ) (Rutter, 2003) show generally good validity,
+especially when these tools focus on social interaction. However, the SCQ is less
+suitable for children under four because the SCQ relies on retrospective parent-reporting
+21
+of behaviours that may not yet be developmentally appropriate or stable in children under
+four, potentially reducing its sensitivity and specificity in this age group (Allen et al.,
+2007). While teachers can contribute useful insights, they are not the primary intended
+users of the SCQ. Interpretation of the results of these tools should always be completed
+by a trained clinician.
+In parallel, digital direct-observation tools, particularly those measuring social and motor
+domains, are emerging as promising, scalable options. Direct observation of different
+behaviours and patterns can be a useful way of identifying autism and related needs.
+Direct observation offers real-time insight into a child's behaviours at a specific time point
+(e.g., during classroom transitions) or during a specific task (e.g., a whole-class literacy
+task). Direct observation allows for more objective data collection (versus questionnaire
+responses which can be more subjective) and can capture non-verbal cues such as body
+language, facial expressions, or movement which can indicate emotional or sensory
+needs.
+Direct observation may involve coding behaviours by hand. For example, an observer will
+record what a child is doing every 30 seconds during an activity such as a science
+lesson. However, this form of direct observation can be very time-consuming and
+requires the observer to have some training in the use of structured tools (e.g. interval
+recording, frequency counts, event sampling) and in using coding systems reliably,
+ensuring consistency if multiple observers are involved. Thus, the implementation of
+accessible digital direct observation devices and integration with machine learning offers
+potential for automated and objective assessment even in low-resource settings.
+However, large-scale validation and scalable development have not been widely
+researched yet and remain urgent priorities (Black et al., 2020).
+McClain et al (2017) reviewed over 117 studies to assess the current state of autism
+assessment and evaluation research in the field of school psychology. While they
+recommended a number of implications for trained psychologists, there were a few
+implications for school-based assessment. In particular, the Direct Behaviour Rating-
+Social Competence (DBR-SC) assessment was found to be a reliable measure for
+understanding the social competence of students (aged 11-14 in this review) as well as
+the Social Skills Q-Sort (aged 5-8 in this review).
+The Direct Behaviour Rating-Social Competence (DBR-SC) is a quick, teacher-friendly
+tool used to monitor pupils' social behaviours, including peer interactions, compliance,
+and engagement. Teachers rate these behaviours on a simple scale based on daily or
+weekly observations. It typically takes less than a minute to complete and helps track
+progress over time. While teachers can administer and interpret the tool for classroom
+use, working with a SENCo or behaviour specialist can support deeper analysis and
+inform targeted interventions. This assessment is typically used for children aged 5-12.
+22
+The Social Skills Q-Sort (SSQS) is an observation-based assessment tool designed to
+evaluate a child's social behaviours in everyday school settings. It uses a set of
+descriptive statements or behaviour cards that are sorted by the teacher or other familiar
+adults based on how characteristic each behaviour is of the child. These behaviours
+cover key domains such as cooperation, empathy, self-control, and peer interaction. The
+Q-sort method provides a structured way to develop a social skills profile, highlighting
+both strengths and areas that may need support. Teachers can administer the SSQS
+without specialist training, making it a practical tool for use in classrooms or as part of
+SEND reviews. It is particularly useful for identifying social development needs, guiding
+targeted interventions, and monitoring progress over time in children with social,
+emotional, or communication challenges. The SSQS is generally suitable for children
+aged 4 to 12 years, though some versions or adaptations may extend slightly younger or
+older depending on the context.
+Measuring social and communication skills summary
+Direct observation (by hand or digitally assisted)
+The Direct Behaviour Rating - Social Competence (DBR-SC)
+The Social Skills Q-Sort (SSQS)
+Behaviour assessment
+Educators and clinicians may wish to assess various behaviours to identify potential
+strengths, challenges to support, or track progress with a given intervention. Two
+systematic reviews identified in our search addressed areas of behavioural assessment.
+A systematic review by Howell et al (2019) evaluated 26 assessments to assess adaptive
+behaviour (including functional communication, independence and daily living skills),
+appropriate social behaviour (including reductions in challenging and problem behaviour)
+and restricted and repetitive behaviours and interests in autistic children. Based on the
+measurement properties, purpose, usability, and applicability of use of the assessments
+alongside the school curriculum, Howell et al. (2019) recommended four assessments
+that were the most appropriate to measure these behaviours. (1) The Pervasive
+Developmental Disorder Behaviour Inventory (PDDBI), (2) the Aberrant Behaviour
+Checklist (ABC), (3) the Autism Treatment Evaluation Checklist (ATEC), and (4) the
+Teacher Autism Progress Scale (TAPS).
+However, it should be noted that while none of these tools are entirely outdated in their
+use, the PDDBI and ATEC are less commonly used or considered less aligned with UK
+standards and terminology, particularly in formal assessments or NHS pathways. The
+ABC and TAPS are still used; however these tools are founded on an outdated focus on
+23
+"inappropriate" and "maladaptive" autistic behaviours. Therefore, the current REA does
+not recommend these tools based on current advances in autism research. Wherever
+possible, tools should align with NICE guidelines and local SEND frameworks.
+In contrast, the Strengths and Difficulties Questionnaire (SDQ), while not a NICE-
+recommended autism screening tool, is supported by a strong evidence base including
+its use to assess behaviour in Clark and Adam's (2022) review of resilience measures. It
+is a brief screening tool for measuring emotional and behavioural functioning in children
+and young people and is widely used in UK educational and clinical settings. Its focus on
+strengths as well as difficulties, and its alignment with broader mental health and SEND
+frameworks, make it a more appropriate choice than behaviour checklists that
+conceptualise autistic traits primarily in deficit terms. The SDQ can therefore provide
+valuable contextual information to support a holistic understanding of a child's profile
+alongside autism-specific assessments.
+The Strengths and Difficulties Questionnaire (SDQ; Goodman, 2001) is a brief
+behavioural screening tool designed to identify emotional and behavioural difficulties in
+children and young people aged 2 to 17 years and guide further assessment. The
+questionnaire consists of 25 items divided into five subscales: emotional symptoms,
+conduct problems, hyperactivity/inattention, peer relationship problems, and prosocial
+behaviour. The first four subscales combine to form a Total Difficulties Score, while the
+prosocial scale is reported separately to highlight the child's strengths. There are
+versions of the SDQ for parents (ages 2-17 years), teachers (ages 4-17 years), and self-
+report by young people (ages 11-17 years). It typically takes 5 to 10 minutes to complete
+and can be administered on paper or digitally. Respondents are asked to rate each item
+in the questionnaire based on their observations of the child. The SDQ is freely available
+for use on the official SDQ website. According to developers, this tool is not
+recommended for progress monitoring.
+Although initial identification and assessment of needs are important, ongoing monitoring
+of needs is also crucial to determine effectiveness of support and guide further
+approaches. One review of single-case studies (Witmer et al., 2014) examined strategies
+(i.e., via formal testing or observations) that have been used to monitor progress of
+interventions in the areas of behaviour and social communication for children and young
+people aged 5 to 18. Findings highlighted that formal testing may be more suitable than
+observation for monitoring skill acquisition, as it allows for controlled conditions and
+targeted adjustments to better support the demonstration of specific skills.
+In contrast, observation is often better suited to tracking behaviours that occur naturally
+and more frequently in everyday contexts. It is particularly valuable when assessing
+whether learned skills are being generalised across different settings or tasks. For
+example, structured observations (e.g., interval sampling and momentary time sampling)
+of specific behaviours, such as sharing materials or completing tasks, were a particularly
+24
+useful strategy for teachers to monitor and understand student behaviour in the
+classroom. This approach was found to be more practical and informative for educators
+than relying solely on formal tests or assessments. This differed for parents, who were
+more commonly involved in completing structured assessments and questionnaires
+aimed at identifying social communication difficulties and behavioural concerns,
+suggesting a complementary role between home and school settings in the monitoring
+process.
+Measuring behaviour summary
+When considering behaviour assessments, it is important to stay up-to-date with
+current guidance and recommendations
+Many behaviour assessments are outdated as our understanding of autism and
+how to support needs of autistic children have changed
+The Strengths and Difficulties Questionnaire (SDQ) is an evidence-based tool
+used for initial screening and can guide assessment
+Ongoing monitoring of progress is important
+Sensory processing assessment
+Sensory processing refers to the way individuals perceive, interpret, and respond to
+sensory input (e.g., sights, sounds, textures, smells, tastes, and movement). Autistic
+individuals often experience atypical sensory processing, which can include hyper-
+responsiveness (e.g., distress from loud noises), hypo-responsiveness (e.g., lack of
+reaction to pain), or sensory-seeking behaviours (e.g., fascination with spinning objects),
+affecting attention, behaviour, and participation in daily activities (Ben-Sasson et al.,
+2009; Tavassoli et al., 2014).
+Yeung and Thomacos (2020) conducted a scoping review to identify tools to measure
+sensory processing in autistic children aged 0-12 years. This review identified 12 different
+tools that were based on teacher or caregiver report. Seven sensory modalities (i.e.,
+visual, olfactory, taste, auditory, tactile, vestibular (balance), and proprioceptive (self-
+movement, body-position)) and three associated domains (i.e., social participation,
+modulation - the ability to regulate and respond appropriately to sensory stimuli, and
+praxis - the ability to plan and execute movement) were identified across the included
+assessments.
+The Short Sensory Profile (SSP; Dunn, 1999), the Sensory Profile School Companion
+(Dunn, 2006) and the Sensory Processing Measure Main Classroom Form (Pollock,
+2009) emerged as assessments that can be completed by teachers to help identify
+25
+sensory sensitives that could affect engagement or behaviour. However, these
+assessments should not be used independently for diagnostic purposes. While teachers
+are well placed to provide this information, interpretation and decision-making should
+involve clinical professionals such as occupational therapists.
+Psychosocial and mental health assessments
+Several studies explored identification of mental health and psychosocial factors that may
+be associated with autism, highlighting their role in shaping educational and
+developmental outcomes. Some of these factors, such as resilience, act as protective
+factors, supporting children's ability to cope with challenges and respond positively to
+interventions. Others, like anxiety, may serve as contributory risk factors, potentially
+leading to poorer outcomes in areas such as learning, communication, and behaviour.
+Understanding both protective and risk-related psychosocial factors is important for
+tailoring effective support strategies in educational settings.
+Clark and Adams (2022) investigated measures of resilience in autistic children.
+Resilience may serve as a protective factor as building resilience supports stress-
+management, problem-solving strategies, and coping with setbacks, which can reduce
+the emotional impact of these challenges (e.g., Heselton, 2023). A few approaches to
+measuring resilience were identified in their review. Firstly, the Resiliency Scales for
+Children and Adolescents (RSCA; Prince-Embury 2007), which is a 64-item self-report
+measure, composed of nine subscales that form three scales, suitable for children and
+young people aged 9-18 years, and was the most common measure of resilience.
+Secondly, the Healthy Kids Resilience Assessment (HKRA; Constantine et al. 1999), a
+56-item self-report assessment of external resources, internal assets and school
+connectedness in primary and secondary school students. Finally, the Psychological
+Resilience Scale (Merrell 2011) was also used. While these are self-report measures and
+can be facilitated by educators, interpretation should be guided by a trained clinician.
+Measures of behaviour, emotional regulation, and coping self-efficacy were also used to
+assess aspects of resilience across the studies included in Clark and Adam's (2022)
+review. Specifically, behaviour was assessed using the Strengths and Difficulties
+Questionnaire (SDQ; Goodman, 2001), emotional regulation with the Bar-On Emotional
+Quotient Inventory (Bar-On EQ; Bar-On, 1997) and coping self-efficacy using the Coping
+Self-Efficacy Scale (CSES; Chesney et al., 2006). Among these, the Strengths and
+Difficulties Questionnaire is particularly accessible for use by teachers.
+Self-report measures are also increasingly used in research and alongside diagnostic
+screening to help identify co-occurring difficulties (e.g., depression, anxiety, etc) in
+autistic children and young people. Similar to tools like the SDQ, they provide insight into
+broader support needs rather than serving as indicators of autism itself. While there is
+26
+some debate over whether autistic children and young people can reliably complete
+these assessments themselves or whether an informant (e.g., parent or carer) is better
+suited, one systematic review identified in our search suggests that both sources can
+provide valid and reliable information. This review by Kim and Lecavalier (2021)
+examined the use of self-report measures in identifying psychiatric symptoms in autistic
+individuals aged 6 years and older. Their findings suggested that autistic children and
+their parents typically provide similar ratings of the child's anxiety symptoms, comparable
+to the agreement observed between non-autistic children and their parents.
+However, most of the studies that looked at how well these tools match a clinician's
+judgement found that the tools were only sometimes accurate. In many cases, they had
+low to moderate accuracy, meaning they often missed important difficulties or gave false
+positives (i.e., incorrectly indicating a condition or attribute is present when it is not). The
+results across studies were also inconsistent, meaning we can't be fully confident that the
+tools will work the same way in different settings or with different children. Additionally,
+only about half of these studies were judged to be high quality. Thus, self-report tools
+alone may not be reliable enough for screening or diagnosing psychiatric symptoms in
+autistic children and it is recommended that clinicians are involved in the process.
+Further, these findings are limited as participants from this study had an above average
+IQ and likely were chosen because they had average verbal cognitive abilities and were
+able to report internal states.
+Measuring mental health and psychosocial difficulties summary
+Self-report measures such as the Strengths and Difficulties Questionnaire (SDQ)
+Identification and assessment summary
+Taken together, findings from these reviews included in our REA are consistent with
+NICE guidelines, which emphasise that autism identification should involve a
+collaborative, multidisciplinary approach based on multiple areas of assessment. This
+process should also include ongoing input from families and from the child or young
+person themselves. While some tools can be administered by parents and carers,
+teachers or school staff, interpretation typically requires specialist input to inform
+appropriate support. Nonetheless, the role of mainstream educators in this process is
+important particularly during the early stages of identification, which often involve a
+screening process before formal diagnosis. Teachers are often the first to notice signs of
+challenges, and their observations contribute essential insight in diagnosis and support
+plans. It is therefore crucial that the information they provide is both timely and accurate,
+as this can significantly influence the effectiveness and speed of follow-up assessment
+and support.
+27
+For mainstream teachers working with autistic children or suspected at-risk children,
+current research highlights both emerging opportunities and persistent challenges in
+identifying and supporting a variety of primary needs and co-occurring difficulties within
+educational settings. While some promising strategies exist to identify different needs
+such as behavioural, social, mental health, or participation measures, such as through
+observations, or digital screening methods, many are still in early development stages
+and lack robust validation. Teachers should be aware that screening and diagnostic tools
+often vary in quality, and many have limited evidence on their reliability, validity, or
+responsiveness to change, especially in classroom settings. Tools like the Strengths and
+Difficulties Questionnaire, Social Communication Questionnaire, and participation
+measures such as the Children's Participation Questionnaire can offer useful insights but
+may not fully capture the individualised challenges faced by pupils with autism, such as
+sensory sensitivities or restricted interests.
+Digital tools, show potential for broader accessibility and task-sharing even in lower-
+resource settings, though these too require further large-scale testing. In areas such as
+anxiety and sensory assessment, the evidence is mixed, with research suggesting that
+multiple factors, such as motor, cognitive, and emotional factors, interact in complex
+ways, making it essential for teachers to take a holistic view of pupil needs. Importantly,
+many existing tools rely on parental reporting or require interpretation by trained
+specialists, which limits their use in everyday classroom practice. As such, teachers play
+a vital role in observing behaviour, adapting the learning environment, and working
+collaboratively with families and professionals to build a comprehensive understanding of
+each child's strengths and support needs.
+Overall, there are some tools that can be used by mainstream educators to measure
+participation, social and communication needs, mental health or psychosocial needs, and
+behavioural challenges of children and young people with diagnosed or suspected
+autism. Those with interpretive or clinical components are best implemented within
+multidisciplinary teams. However, the evidence regarding these tools' reliability remains
+limited. While many of the tools available often require specialist qualifications for
+administration and interpretation, several can be used by teachers without such
+qualifications. However, the studies did not directly compare outcomes from specialist-
+versus teacher-led administration; instead, they simply provide evidence that the tools
+can help identify areas of need. Thus, since no studies compared specialist vs teacher
+use, further research is needed to establish the equivalent accuracy, reliability, or
+decision-making value across users.
+28
+Support and intervention
+The aim of this section is to review the studies from our search that focused on support
+and intervention strategies suitable for use by mainstream education professionals.
+Although there is a substantial body of evidence supporting instructional methods for
+autistic students that target social, communication, and daily living skills (e.g., Cruz-
+Torres et al., 2020; Laugeson et al., 2012; Strain & Fox, 1981; Strain et al., 1979; Zhao &
+Chen, 2018), considerably less is known about the effectiveness of programmes focused
+on enhancing academic skills. Our REA specifically focuses on approaches that are
+effective in supporting educational outcomes including literacy, writing, maths, science,
+and general attainment.
+Support for students with SEND can be provided at different levels, starting with universal
+strategies delivered to all students through evidence-based 'quality first' teaching
+approaches. Universal provision, or 'tier 1' consists of evidence-based pedagogical
+approaches and may be delivered as whole-class teaching, small groups, or even
+individual activities. When universal approaches aren't enough to meet the educational
+needs of students, targeted support can be offered, tailored to individual needs, and
+implemented either in small groups or through one-to-one interventions. Finally, if this
+second 'tier 2' is still not effectively addressing the needs of students, support can be
+offered at the third 'tier 3' which consists of specialist support which may involve external
+professionals such as Speech and Language Therapists or coordinated multi-agency
+support (e.g., through an EHC Plan). This so-called tiered approach to support children's
+educational needs is well established in the UK educational context (e.g., see SEND
+Code of Practice, 2015). Similar models are also used in the US educational context
+such as response to intervention models (Fuchs & Fuchs, 2006) or multi-tiered systems
+of support (McIntosh & Goodman, 2016), where children who do not progress with
+effective universal treatment are offered more individualised and targeted support. This
+section will first report on support at the tier one level which involve instructional
+approaches and classroom support, and then will discuss support that is more targeted at
+the tier 2 and tier 3 level.
+When reporting on intervention and support strategies in this REA, we sometimes refer to
+effect sizes that were reported in the studies reviewed. Effect sizes range from 0 to 1 and
+refer to how much of a difference an approach or intervention makes, beyond just
+whether it works. A small effect (around 0.2) means a modest improvement, a medium
+effect (around 0.5) suggests moderate improvement or progress, and a large effect (0.8
+or more) indicates a strong impact on learning.
+Additionally, evidence can come from various study designs, each differing in the
+strength and type of reliability they offer. Single-case designs provide strong evidence for
+the consistency of effects within individuals, making them valuable for understanding how
+interventions work in specific cases. However, their findings may not be widely
+29
+generalisable (i.e., applicable to other individuals and/or settings). In contrast, group-
+design studies such as randomised controlled trials offer more generalisable results
+across larger populations but may overlook important individual differences in how
+students respond to interventions. Ideally, a strong body of evidence should include
+multiple types of study designs.
+We also refer to standardised assessments or outcome measures versus researcher-
+created or bespoke outcome measures. Standardised assessments are norm-referenced
+tools that have been trialled on large, representative samples to establish reliability
+(consistency of scores) and validity (that the test really measures what it claims). These
+allow for comparison of a student's performance to a representative against a
+representative sample of age-matched peers, allowing for an estimate of whether a
+student is performing above, at or below expected levels. By contrast, researcher-created
+or bespoke measures are tailored to the exact targets of an intervention or teaching
+programme for example, a bespoke word-definition task featuring the precise vocabulary
+items taught and practised. Although research-created measures tend to be more
+sensitive to the incremental progress students make over short instructional periods,
+these measures lack the normative data and the extensive psychometric testing of
+standardised tools.
+Universal support: High quality teaching and classroom
+support
+The SEND Code of Practice states that high-quality teaching, differentiated for individual
+pupils, is the first step in responding to pupils who have or may have SEND. Additional
+intervention and support cannot compensate for a lack of good quality teaching (DfE,
+2015, p. 99). By providing high-quality teaching that is evidence-based and differentiated,
+schools may reduce the likelihood that students will require additional, more intensive
+support. Effective quality-first language teaching relies on strong classroom management
+and instruction, supplemented by targeted or specialist oral-language support when
+needed (Fuchs & Fuchs, 2006; 2009).
+A range of inclusive instructional strategies and classroom design approaches can
+support autistic children and young people at this first tier. The approaches identified in
+our REA include instructional techniques and adjustments to the physical or social
+environment.
+Instructional strategies
+Educators of autistic students can employ a range of evidence-based teaching and
+instructional strategies that support learning across subjects. Many of these approaches
+share common principles: they provide structure, break tasks into manageable steps, use
+30
+clear prompts or cues, explicit instruction, and praise and reward. For instance, Discrete
+Trial Training (DTT) is a well-established structured approach (Curiel et al., 2020). In
+DTT, a skill (academic or functional) is broken down into small sub-skills which are taught
+in repeated trials with prompts and rewards for correct responses.
+Response prompting strategies where support is provided to encourage correct
+responses and gradually faded to promote independence are also particularly effective
+strategies in supporting various learning outcomes for autistic children and young people.
+Knight et al (2015) found that response-prompting procedures (e.g., model-lead-test; time
+delay; system of least prompts) and visual supports (e.g., procedural facilitators) can
+increase comprehension skills in content areas of English, maths, and science. Similarly,
+another review demonstrated that Constant Time Delay was found to be effective in
+teaching reading skills to autistic children and young people aged 7 and older (Horn et
+al., 2023). Another systematic review in our REA (Morse, 2022) found that simultaneous
+prompting is also effective in teaching maths, reading, story writing, learning vocabulary
+and sight words for autistic children across different age groups.
+1. Constant Time Delay is a systematic instructional strategy used to teach new
+skills. It involves presenting a prompt after a fixed delay, allowing learners the op-
+portunity to respond independently before receiving assistance, thereby promoting
+independence and reducing prompt dependency (Wolery et al., 1992). Constant
+Time Delay can be effectively implemented through teacher-delivered (flashcards,
+direct instruction) and technology-based (computer-assisted, PowerPoint, SMART
+boards) methods.
+2. Simultaneous prompting is an instructional strategy used to teach new skills by
+providing the prompt immediately alongside the instruction, ensuring the learner
+responds correctly from the start. This method prevents errors and promotes con-
+sistent correct responding.
+Another evidence-based practice is creating a visually structured environment, which was
+demonstrated by several reviews identified in our search (e.g., Conner et al., 2023;
+Finnegan et al., 2016; Knight et al., 2015; Sing et al., 2021). Visual supports can assist
+communication and understanding by capitalising on the visual processing skills of
+autistic individuals. They can take many forms including graphic organisers, schedule
+charts, pictorial instructions, choice boards, colour-coded materials. Most importantly,
+these supports have been shown to increase independence and academic engagement.
+For example, a picture schedule can enable a student to transition between activities
+without adult prompts, or a set of visual task cards can guide a student through a multi-
+step math problem.
+Direct Instruction and explicit teaching are also evidence-based strategies to support
+autistic children during learning:
+31
+1. Direct Instruction (DI), developed by Engelmann and colleagues (2002), refers to a
+type of structured teaching method. It involves instruction being delivered explicitly
+and concisely where teachers strategically sequence the lesson and script
+everything included in a lesson (Marchand-Martella et al., 2013). The benefits of
+direct instruction have been demonstrated in both single-case designs (e.g.,
+Conner et al., 2023; Finnegan et al., 2016) and group-design studies (Tipton-Fisler
+& Knight, 2024) for children and young people in both primary to secondary stages
+at school. Specifically, direct instruction programmes such as Corrective Reading
+Thinking Basics and Corrective Reading Comprehension (Englemann et al., 2002)
+were associated with improvements in reading comprehension across age groups,
+in maths (ages 5 to 24) (Ledbetter-Cho et al., 2018) and for teaching science to
+autistic children in secondary school (Barnett et al., 2018). Barnett et al (2018)
+also demonstrated a benefit of Direct Instruction paired with visual materials such
+as e-texts, graphic organisers, and scripted lessons as well as inquiry-based
+practices that provide hands-on exploration for autistic young people aged 14 to
+15.
+2. Explicit teaching on the other hand is a broader pedagogical approach where
+learning goals and strategies are made visible to students; it includes clear
+modelling, guided practice, and independent application, but it is not necessarily
+scripted (Archer & Hughes, 2011). Explicit instruction has been found to be
+effective in areas of maths, science, and reading (e.g., Alresheed et al., 2018;
+Ehsan et al., 2018; Spencer, 2014). A combination of explicit and systematic
+instructional programs may show promising results, but the evidence-base is still
+limited (Plavnick et al., 2015; Sulu et al., 2021). These types of instructional
+programmes begin with small steps where learner understanding and active and
+successful participation are frequently assessed (Kinder et al., 2005; Hughes et
+al., 2017; Rosenshine, 1987). These programmes aim to enhance both the
+amount and quality of student learning by systematically building essential
+background knowledge, which can then be linked to new content.
+Finally, precision teaching has been found to be effective with this group. Specifically,
+this approach involves brief, targeted practice, frequent progress tracking, and data-
+driven instructional adjustments. It can effectively increase a variety of component skills
+for autistic children, including emotion identification, storytelling, sight word reading,
+foundational motor skills, and intraverbal responding (Mannion, 2022).
+Best practices across these reviews also emphasise consistency and routine, use of
+student interests to motivate learning (e.g., incorporating a child's favourite topic into
+lessons), and ongoing progress monitoring to adjust strategies as needed. One
+systematic review (Reutebuch et al., 2015) found that providing a choice component in
+interventions for autistic children and young people across age groups results in
+32
+improvements in student work completion, behaviours (e.g., increase in on-task
+behaviour, reduction in challenging behaviour), and affect and interest. Teachers are
+encouraged to use reinforcement by thoughtfully praising or rewarding effort and
+successes to encourage growth, while gradually teaching intrinsic motivation and self-
+reinforcement as appropriate. It is also important to recognise that many autistic children
+and young people may struggle with language comprehension and communication,
+particularly non-literal language. Thus, clarity, directness, detailed explanations, and
+expectation setting are also important to incorporate in effective instruction.
+Effective universal instructional strategies for autistic children and young people
+summary
+Prompting
+Breaking down tasks into manageable steps
+Visual supports
+Direct instruction
+Explicit instruction
+Precision teaching
+Reward and praise
+Establishing routine and consistency
+Mindful use of language
+Classroom environment
+In the Cross-Cutting Themes Report of our collection of reviews, we highlight several
+effective strategies to design inclusive classrooms which benefit children with different
+types of SEND. Therefore, these strategies can also be applicable to autistic children and
+young people and will not be repeated in the current review. Here we review more
+specific adjustments that can be put into place for autistic children and young people.
+As discussed in the Sensory and/or Physical Needs Report, classrooms and school
+environments can be highly stimulating and overwhelming for pupils with sensory needs.
+People with autism may also experience sensory differences, hypersensitivity, or lack of
+sensitivity in relation to the eight senses. These include sight, touch, taste, light, smell,
+hearing, balance, and body awareness. Sensory dysregulation can affect multiple areas,
+including learning, academic progress, social interaction, thinking skills, and behaviour in
+class. Pupils who seek sensory input may display behaviours that appear disruptive,
+33
+such as excessive movement, touching objects, or misusing equipment, which can
+interfere with concentration. They may also struggle with multi-step instructions and find
+transitions between tasks particularly difficult (Wild & Steeley, 2018).
+Autistic individuals often have differences in attention, exploring interests and how they
+learn; this can include being very focused on particular interests or topics. Flexibility and
+transitions can be difficult, so by providing routines and structure, they often feel safer
+and more comfortable as this lessens uncertainty (Autism Education Trust, 2025).
+Targeted support for autistic children and young people
+Improving academic outcomes for autistic students often requires explicit, individualised
+strategies. In this section we review several findings that address targeted support
+techniques for autistic children and young people. Although many of these approaches
+are targeted to the individual needs of the students, many can also be implemented in
+classroom settings. The research evidence for interventions targeting educational
+outcomes (e.g., maths, science, reading, writing, and general attainment) is less
+established compared to other interventions such as social skills training (Wong et al.,
+2015). However, there is still a growing body of evidence coming from a range of single-
+case designs with few participants as well as some larger-scale group-designs. In terms
+of reliability of evidence, single-case designs offer strong evidence for consistency of
+effects within individuals, but their findings may not generalise widely. Group-design
+studies provide broader reliability across participants but may mask individual
+differences.
+It should be noted that some of the techniques reviewed in this section of our REA are
+applied behaviour analysis (ABA), or are traditionally grounded in ABA theory. The term
+ABA intervention refers to treatment approaches that: (a) are implemented systematically
+following the principles of applied behaviour analysis; (b) are applied as early as possible
+in the child's life, preferably before the age of 3 years; (c) are usually provided in a
+student-teacher ratio of one-to-one before generalisation procedures are used; (d) are
+individualised, comprehensive, and target a great number of skills; (e) incorporate skills
+that are targeted following a hierarchy based on typical development; and (f) are used in
+conjunction with parent-education services.
+Although research (including findings from this REA) has found positive outcomes for
+some of these techniques (e.g., Makrygianni, 2018), it should be noted that some types
+of approaches are controversial among educators and autistic individuals. For example, it
+has been argued that improved outcomes observed with these approaches may result
+from masking because of negative reinforcement which is also linked to mental health
+issues later in development (for research on autistic experiences with ABA see
+Anderson, 2023). Further, in England, local authorities also may not fund these types of
+34
+interventions as part of EHC plans. While we aim to accurately report the data found in
+our systematic search, we also will keep our recommendations relevant and meaningful
+based on the most up-to-date understanding and research around autism.
+Reading instruction
+Some autistic children may have difficulties with reading fluency and comprehension
+(Frith & Snowling, 1983; Nation et al., 2006). Reading profiles of autistic children are
+typically heterogeneous and poor reading outcomes can result from a number of different
+factors including poor oral language skills or difficulties in inclusion and engagement.
+Difficulties in reading for autistic children may also be related to social cognition and
+social behaviour factors which could limit engagement and lead to poorer quality literacy
+experiences (Ricketts et al., 2013). These factors in turn could lead to poorer reading
+comprehension, which might be a more common difficulty than word-reading or decoding
+skills for this population (Fernandes et al., 2016). For example, shared-reading
+experiences in the home environment are typically shorter compared to typically
+developing peers (Lucas & Norbury, 2018). Therefore, while autistic children should
+receive high-quality instruction in basic literacy skills like any other child, they may also
+benefit from instructional approaches that specifically support their oral language,
+engagement, or social communication needs.
+Our search identified a number of studies reviewing different teacher-led or technology-
+assisted instructional approaches (e.g., explaining an activity, modelling an activity,
+prompting student activity, asking guiding questions, providing definitions).
+In terms of general reading instruction, there is evidence that autistic children benefit
+from receiving instruction in the same content as typically developing children. According
+to the National Reading Panel (NRP; National Institute of Child Health and Human
+Development; NICHD 2000), effective reading instruction incorporates a focus on five key
+skills which have become known as the Big Five: (i) phonemic awareness (ability to
+segment and manipulate sounds in speech), (ii) phonics (understanding the relationships
+between letters and sounds, and how letters can be combined to form words), (iii)
+vocabulary (understanding word meaning), (iv) reading fluency (reading with speed,
+accuracy, and appropriate expression), and (v) reading comprehension strategies (use of
+comprehension monitoring, graphic and semantic organisers, summarisation, question
+answering and generation, and multiple strategy instruction).
+Bailey and Arciuli (2017) reviewed the effects of reading instruction that involved one or
+more of the Big Five components in improving reading skills for autistic children. Overall,
+they found that across studies, there were improvements in phonics, reading accuracy,
+reading fluency, and reading comprehension. Specifically, phonics instruction helped
+autistic children who had little, or no reading experience develop letter-sound knowledge.
+35
+Repeated reading with feedback improved fluency for higher functioning children who
+already had some basic word reading skills. Strategies like question answering,
+generating questions, and using graphic organisers supported comprehension in children
+who could read accurately but struggled to understand what they read. Multi-component
+(e.g., involving several Big Five factors) instruction appeared especially promising,
+leading to improvement in several reading areas across a range of learners, including
+larger and more diverse groups. Studies using multiple components were also rated as
+higher quality than the studies investigating only one component. These findings suggest
+that these same principles apply to autistic children as they do to typically developing
+readers and that multiple-component approaches have a stronger evidence-base.
+Boyle et al (2019) investigated the effects of shared reading interventions for autistic
+children on key early language and literacy skills (e.g., listening comprehension,
+expressive communication, participation (noncommunicative), or a combination). Shared
+reading is an instructional intervention in which a teacher or adult reads a text aloud with
+a group of children, actively involving them in the reading process through discussion,
+prediction, and re-reading. They may use a specific framework following these steps: (1)
+pause, (2) ask questions, (3) relate to experiences, (4) evaluate and expand. They found
+that shared reading interventions were effective at improving listening comprehension,
+expressive communication, and other communicative and noncommunicative acts.
+Shared reading interventions are effective for children aged 2-14 years. This intervention
+can be delivered by any adult, including any school staff. Shared reading was found to
+have positive effects, even when delivered in just a small number of sessions (four
+sessions). This suggests that it can be an efficient and impactful approach, regardless of
+how many sessions are provided.
+As previously discussed, oral language and verbal skills are strongly linked to reading
+(e.g., Snowling & Melby-Lervag, 2016). Therefore, techniques that may support these
+skills may transfer to reading skills. While applied behaviour analysis has demonstrated
+benefits in improving communication skills, expressive-language skills and receptive-
+language skills for autistic children and young people across a range of ages (e.g.,
+Makrygianni, 2018), there are also other alternatives available. For example, social
+stories and social narratives have also demonstrated positive results in verbal skills, as
+well as video-modelling (Macmillan et al., 2021). Phonics and phonological awareness
+improvement have been demonstrated using the internet-based reading programme,
+MimioSprout Early Reading (MER) (Macmillan et al., 2021).
+Technology is an emerging area to support literacy teaching in autistic children and
+young people. One systematic review (Wass & Porayska-Pomsta, 2014) investigated
+studies using word or spelling tutoring software for autistic children using virtual
+characters that offer phonological and orthographic feedback. These technological tools
+are well suited to providing the frequent repetition often preferred by autistic learners, can
+36
+support one-to-one instruction, and are adaptable to different ability levels and learning
+paces. Technology-aided instruction was also found to be effective in supporting word
+recognition for children and young people with autism (Alresheed et al., 2018). However,
+many of the evaluations in this review relied on small samples and lack sufficient
+experimental control, limiting the strength of the conclusions that can be drawn about
+their effectiveness.
+Targeted approaches to reading instruction summary
+Multi-component literacy instructions (e.g., involving several Big Five factors)
+Shared reading
+Improving verbal skills (e.g., via Social Stories, social narratives, video-modelling)
+Visual supports
+Graphic organisers
+Reading comprehension
+Several different reviews identified in our search investigated reading comprehension
+interventions for autistic children and young people. There is evidence to suggest that
+reading comprehension skills (i.e., understanding text) may be poorer compared to word
+reading (i.e., decoding) or reading fluency skills for autistic children (e.g., McIntyre et al.,
+2017; Whitby & Mancil, 2009). Reading comprehension may also be poorer compared to
+typically developing peers (Brown et al., 2013). Difficulties with reading comprehension
+for autistic children may result from difficulties with oral language and communication,
+understanding non-literal language, making inferences, or difficulties with attention
+(Knight et al., 2019; Norbury & Nation, 2011; Ricketts et al., 2013).
+Findings across studies in our REA suggest that questioning strategies such as
+anaphoric questions (e.g., asking what a pronoun refers to in a given context), inferential
+"why" questions (e.g., asking why a character acts in a certain way), and reciprocal
+teaching (i.e., students taking turns summarising, questioning, clarifying and
+summarising) are useful in supporting reading comprehension for autistic children
+(Tipton-Fisler & Knight, 2024). These strategies might be especially useful in supporting
+understanding of figurative, pragmatic or other non-literal comprehension in texts. For
+example, the 'think before reading, think while reading, and think after reading' (TWA)
+strategy, the adapted social story reading sessions, and answering pre-reading questions
+have been found to be effective in small-scale studies (Macmillan et al., 2021). However,
+further research is needed for these two interventions to establish validity in a wider
+population.
+37
+Other reviews demonstrated effective results from direct instruction, story maps, visually
+cued instruction, graphic organisers, metacognitive strategy instruction, and adapted
+texts (Alresheed et al., 2018; Conner et al., 2023; Finnegan et al., 2016; Macmillan et al.,
+2021; Senokossoff, 2016; Singh et al., 2021; Spencer et al., 2014). Positive findings for
+commercially available tools such as Book Builder (an e-curriculum) and RECALL (a
+program that incorporated visuals and prompts) were also associated with positive
+outcomes, as were direct instruction programmes such as Corrective Reading Thinking
+Basics and Corrective Reading Comprehension (Englemann et al., 2002). These findings
+demonstrate the importance of incorporating visuals into reading comprehension
+interventions for this population as well as the benefits of the use of prompting/reciprocal
+questioning strategies.
+Conversely, two studies (Finnegan & Mazin, 2016; Singh et al., 2021) found mixed
+results for collaborative strategies and technology-assisted instruction. However, these
+studies were all single-case study design, which can be informative and robust, but
+should be followed up with further research to better establish their evidence-base.
+Further, one study (McClain et al., 2021) found that autistic children with co-occurring
+language difficulties do not always show improvements with reading comprehension
+interventions to the same extent as children without these co-occurring difficulties. Thus,
+these children may benefit from a higher dosage of intervention.
+Targeted strategies to support reading comprehension summary
+Questioning strategies
+Reciprocal teaching
+Direct Instruction
+Visual supports
+Graphic organisers
+Metacognitive strategies
+Adapted text
+Writing interventions
+In addition to reading difficulties, autistic children and young people may also have
+difficulties with writing (e.g., Kushki et al., 2011) which may be further impacted where
+there are language difficulties (Dockrell et al., 2014).
+38
+One meta-analysis by McClure et al. (2024) reports that research has provided evidence
+for two classes of writing interventions for autistic children and young people across age
+groups. First is the Self-Regulated Strategy Development (SRSD), and the others are
+classed as behavioural strategies and technology. The Self-Regulated Strategy
+Development (SRSD) is widely discussed in our Cross-Cutting Themes Report and will
+not be repeated here. In terms of behavioural strategies and technology, this meta-
+analysis found high quality studies (i.e., that met the standards of their quality appraisal)
+supporting the use of prompting, modelling, graphic organisers, visual supports and self-
+management strategies (e.g., including generating to-do lists and self-monitoring
+performance). Similar findings are also reported in another systematic review by Roth et
+al. (2014). The technology used in studies reviewed by McClure et al. (2024) included
+video clips or video models, but also specific software packages including Delta
+Messages software, the GoWrite instructional package, and the Alpha software, which
+present opportunities for students to select words and construct sentences. In this meta-
+analysis most participants were aged 5-12, but the majority were primary aged (5 to 11
+years).
+Special education teachers (i.e., a term used in the United States to refer to teachers with
+specialist qualifications) implemented the interventions in approximately half of the
+studies and in the remaining studies, researchers delivered the interventions. Therefore,
+it is not clear whether these interventions can be implemented as effectively by teachers
+without specialist qualifications.
+Similarly, another systematic review in our REA found that picture prompts may be
+beneficial in developing story writing (Spencer at al., 2014). Additionally, mnemonics like
+POW (Pick my idea, Organise my notes, Write more) and WWW (Who is the main
+character? When does the story take place? Where does it happen?) can be useful for
+planning and story writing (Spencer et al., 2014).
+39
+Targeted strategies to support writing summary
+Self-Regulated Strategy Development
+Prompting
+Technology
+Modelling
+Graphic organisers
+Visual supports
+Self-management strategies
+Mnemonics
+STEM (Science, technology, engineering and math) interventions
+Several systematic reviews identified in our search investigated STEM interventions for
+autistic children and young people. Instructional strategies including explicit instruction,
+modelling (watching examples), task analysis (breaking down a chained task into smaller
+steps), prompting and reinforcement (rewards or positive feedback) were evidenced to be
+effective for maths and science (Alresheed et al., 2018; Di Liu et al., 2024; Holly et al.,
+2024; Root et al., 2021; Spencer et al., 2014).
+One of the most common and effective teaching methods was Model-Lead-Test
+(showing, guiding, then asking the pupil to do it independently), which, along with
+modelling and prompting, produced strong results compared to reinforcement alone
+which was less effective (Di Liu et al., 2024; Holly et al., 2024; Root et al., 2021; Spencer
+et al., 2014). Another practice was using different prompting procedures that were found
+effective in teaching maths, including simultaneous prompting to teach pointing to
+numerals, constant time-delay, and least-to-most prompting (King et al., 2016; Root et
+al., 2021; Spencer et al., 2014). Techniques that were effective for STEM included
+concept mapping for science for upper primary (Spencer et al., 2014). However, studies
+that included more than one component typically found better results. For example, using
+prompts to teach students the steps in a task analysis for solving linear equations, and
+providing a graphic organiser to help them structure and complete the equations (e.g.,
+Chapman et al., 2019).
+Two systematic reviews (Alresheed et al., 2018; Spencer et al., 2014) found TouchMath
+(Bullock et al., 1989) to be effective for upper primary and secondary aged autistic pupils.
+TouchMath is a multisensory maths programme designed to support learners, particularly
+40
+those with learning difficulties or special educational needs, in understanding basic
+mathematical concepts. It uses visual and tactile cues, such as placing "TouchPoints" on
+numerals, to help students count, add, subtract, and perform other operations. Each
+number (1-9) has a specific number of dots (TouchPoints), which students physically
+touch and count to solve problems. It is often used to build number sense and fluency
+through explicit instruction and repetition.
+Several reviews identified in our search investigated technology-based interventions
+(Arslan et al., 2022; Aspiranti et al., 2020; Di Liu et al., 2024; Griffith et al., 2020; Holly et
+al., 2024; Hughes & Yakubova, 2019; Larwin & Aspiranti, 2019; Ledbetter-Cho, 2018;
+Pontikas et al., 2022). Technology-based interventions for maths, including iPad apps
+and touchscreen tools, show strong potential for supporting mathematics learning in
+autistic children, particularly in number and operations, though findings across studies
+are inconsistent, with some showing weak or no effects. Tablet-mediated mathematics
+interventions that used instructional approaches such as direct instruction video
+modelling and schema-based instruction were found to be effective. Evidence for other
+domains such as social communication, literacy, and executive functioning is mixed, and
+methodological issues like small sample sizes and study heterogeneity limit
+generalisability.
+In contrast, Video-Based Instruction (VBI) has strong and consistent evidence supporting
+its effectiveness in teaching maths to autistic students, meeting established criteria for
+evidence-based practices by demonstrating positive outcomes across multiple studies,
+research teams, and contexts (Hughes & Yakubova, 2019; Wright et al., 2020).
+In a review by Di Liu et al. (2024) examining studies on technology in education for
+autistic pupils, it was found that factors such as the setting of where the teaching
+happened, who delivered the teaching, the duration or frequency of the teaching, or
+adherence to the teaching plan (when using technology), did not significantly impact
+outcomes; all approaches appeared to work similarly well.
+Findings from this REA suggest tablet-mediated instruction and tablet-based apps are
+potentially effective tools for supporting maths learning in autistic pupils, particularly in
+basic number work, but should be cautious in expecting broad or generalised benefits,
+especially outside of maths. Given the stronger and more consistent evidence for video-
+based instruction (VBI), teachers may wish to prioritise VBI when selecting interventions,
+especially when aiming for reliable gains across diverse learners and settings.
+41
+Targeted strategies to support STEM skills summary
+Explicit instruction
+Reciprocal teaching
+Modelling
+Direct instruction
+Prompting
+Visual supports
+Task analysis
+Graphic organisers
+Reinforcement
+Metacognitive strategies
+Scaffolding
+Adapted text
+Augmentative and Alternative Communication
+Autistic children and young people may have complex communication needs including
+the lack of, or limited development of, functional speech (Light et al., 2019) and may
+require alternative means of communication. Augmentative and Alternative
+Communication (AAC) refers to a range of tools or strategies to aid communication for
+children and young people who may have difficulties with language production or
+comprehension. Types of AAC include gestures and facial expressions, writing, British
+Sign Language or signing systems such as Makaton, spelling words by pointing to letters,
+the use of apps, and using a computer with a "voice," sometimes called a speech-
+generating device. AAC is discussed more extensively in our Sensory and/or Physical
+Needs Report; however, some autistic children may also use AAC and thus the evidence
+relating to these pupils will also be discussed here.
+Reading acquisition can be particularly challenging for children and young people with
+complex communication needs, as many interventions, especially those targeting
+phonological awareness or decoding, rely on the presence of functional speech (Ruppar
+2017). Thus, reading interventions for children and young people, including autistic
+pupils, who use AAC require adaptation.
+42
+There is some evidence supporting the effectiveness of adapted phonological
+interventions for individuals using augmentative and alternative communication (AAC),
+demonstrating large and consistent effects across ages, diagnoses, and interventionists.
+These interventions, which focus on phonological skills such as decoding, letter-sound
+association, and sound blending, reinforce the importance of structured, systematic
+phonological instruction for AAC users.
+A systematic review by Yorke et al., (2021) on foundational reading interventions for AAC
+users including autistic children and young people found significant positive effects of
+phonological awareness, letter-sound correspondence, and decoding interventions.
+Across 93 individuals aged 3 to 55 years, with the majority being children aged 5-12,
+these interventions produced large and very large effect sizes. Pre-schoolers and adults
+showed the highest gains in these skills, with 47% and 98% showing improvement,
+respectively. The interventions proved broadly effective across various instructional
+methods.
+Direct instruction can also be useful for AAC users. Yorke et al. (2021) reviewed several
+reading interventions designed to support phonological processing in children, including
+those with communication difficulties using AAC. These interventions included well-
+known programmes like Accessible Literacy Learning (ALL), Early Reading Skills Builder
+(ERSB), and the Nonverbal Reading Approach (NRA), as well as storybook reading and
+other shared reading approaches. All the effective interventions in this study used direct
+instruction. The Nonverbal Reading Approach showed the strongest outcomes, with
+pupils showing 60% improvement in reading scores on average. The ALL curriculum also
+showed strong results, with an average of 39% improvement in reading scores, followed
+by ERSB with an average of 26% improvement in reading scores. Overall, these findings
+suggest that structured, direct approaches to teaching reading are particularly effective,
+especially when tailored to learners' communication needs.
+Augmented and Alternative Communication summary
+Augmentative and Alternative Communication (AAC) refers to a range of tools or
+strategies to aid in communication for children and young people who may have
+difficulties with language production or comprehension
+Evidence supports the effectiveness of adapted phonological interventions for
+individuals using augmentative and alternative communication
+43
+Support and intervention summary
+Our review identified a total of 69 systematic reviews dedicated to the support and
+intervention strategies that mainstream educators can use to support educational
+outcomes for autistic children and young people.
+High-quality teaching for autistic children and young people should promote an inclusive
+classroom with structured instructional strategies and visual supports. There are a range
+of instructional strategies shown to be effective for children and young people with
+autism. Approaches such as Discrete Trial Training (DTT), Direct Instruction, and Explicit
+Instruction are effective in developing academic and functional skills by breaking tasks
+into manageable steps, using clear prompts, and providing positive reinforcement.
+Techniques like response prompting, time delay, and the use of visual supports, such as
+graphic organisers, task cards, and visual schedules, further enhance comprehension
+and independence. Precision teaching has also shown promise in building specific skills,
+including reading, storytelling, and emotion identification.
+Effective teaching also involves using student interests to engage learning and
+reinforcing effort through praise and rewards, which can be gradually faded to support
+intrinsic motivation. Establishing consistent routines and structured environments
+reduces uncertainty and supports regulation, particularly important for pupils who may
+struggle with transitions or sensory sensitivities. Sensory-friendly classrooms that reduce
+overwhelming stimuli and provide predictable, calming environments are essential for
+enabling focus and learning.
+Many of these same approaches can be used in targeted interventions for reading,
+writing, maths, science, and general achievement. However, some interventions such as
+those supporting writing may require the use of specialists to implement. The pupil
+should be consulted where targeted intervention is planned to account for their individual
+needs, learning goals, and preferences. Materials and strategies that need adaptation
+should be produced in a timely manner so that autistic students can have equitable
+access to learning materials in-line with their peers.
+However, inconsistencies in study methodologies and outcome reporting highlight the
+need for more rigorous research in terms of identification and support of needs of
+children and young people with autism.
+44
+Conclusions
+This review aimed to identify effective methods for the identification and support of
+autistic children and young people in mainstream education.
+Consistent with NICE guidance, the evidence supports a collaborative, multidisciplinary
+approach to identification, incorporating input from teachers, families, and the young
+person. While some tools can be used by educators to screen for potential needs,
+particularly in areas such as participation, communication, and emotional wellbeing,
+many require specialist interpretation and have limited validation for use in classrooms.
+Mainstream teachers play a critical early role in recognising potential signs of autism and
+contributing essential observational insights. However, the variability in tool quality and
+the lack of comparative research between specialist- and teacher-led use underscores
+the need for cautious application and further empirical study. Digital tools and structured
+behavioural observation methods offer promise, particularly for broader access and early
+flagging of needs, but require additional testing before widespread implementation.
+In terms of classroom practice and targeted support, there is a strong evidence base for
+high-quality teaching approaches that are structured, explicit, and visually supported.
+Instructional strategies such as Discrete Trial Training, Explicit Instruction, and the use of
+visual schedules and interest-based learning can enhance engagement, understanding,
+and independence. Creating predictable, sensory-sensitive environments and consulting
+pupils in the planning of individualised support are also key to fostering inclusive and
+effective education.
+Inconsistencies in outcome reporting and intervention design across studies limit the
+generalisability of some findings. Furthermore, due to the rapid nature of this review and
+our focus on systematic reviews and meta-analyses, it is possible that some tools or
+interventions currently in use, particularly newer, unpublished, or practitioner-led
+approaches, may not have been captured. These omissions reflect the current state of
+the evidence base, not necessarily the effectiveness of those approaches. Future
+research should prioritise robust study designs, focus on outcomes linked to educational
+access and attainment, and include mainstream educator perspectives.
+Overall, while a growing number of tools and strategies are available, the evidence base
+remains uneven, and many approaches require further validation. Future research should
+focus on strengthening the reliability and classroom applicability of identification tools,
+and on evaluating the real-world effectiveness of instructional strategies in diverse
+educational contexts.
+45
+Appendices
+Appendix A: Search terms (PICOS criteria)
+We conducted 15 separate searches across five rapid review categories, each focused
+on a distinct population: SEMH, SLCN, autism, sensory and/or physical needs, and
+cognition and learning. For each population, three searches were performed, focusing
+on: identification terms, support terms, and working with others. The intervention,
+comparison, and study type remained consistent across all searches, while the
+population and outcome terms varied to capture the unique characteristics of each group.
+This approach ensured a comprehensive examination of the research literature across
+the different populations. PICOS stands for: (1) Population; (2) Intervention; (3)
+Comparison; (4) Outcomes; and (5) Study type.
+Population:
+Population terms: "adolescent" OR child* OR "children and young people" OR kid*
+OR "post 16" OR pupil* OR "school aged" OR student* OR teen* OR "young
+learner*" OR "young people" OR "young person" OR youth
+Educational setting terms: "alternat* educat*" OR class* OR "class* setting" OR
+"comprehensive school*" OR "early year*" OR educat* OR elementary OR
+"elementary school*" OR "extra-curricular setting*" OR "further educat*" OR
+"further educat* setting*" OR "grammar school*" OR "high school" OR "higher
+educat*" OR inclus* OR kindergarten OR "learning environment*" OR mainstream*
+OR "middle school*" OR nursery OR preschool OR "primary educat*" OR "primary
+school*" OR reception OR "remedi* class*" OR "school setting" OR school* OR
+"secondary education*" OR "secondary school*" OR "special educat*" OR
+"university" OR "whole school" OR "independent school"
+General SEND terms: SEND OR SEN OR "special educat* need*" OR "special
+need*" OR "learning difficult*" OR "learning disab*" OR "learning difference" OR
+"additional need*" OR impair* OR disorder* OR neurodivergent OR "additional
+learning need"
+Autism terms: autistic OR autism OR "autistic disorder" OR "autisti* spectrum
+disorder*" OR "autism spectrum condition" OR "autism spectrum condition*" OR
+ASC OR ASD OR "asperger syndrome" OR "child development disorder*
+pervasive" OR asperger* OR "pervasive development*" OR "social
+communication" OR "pragmatic communication"
+46
+Intervention:
+Identification terms: assess* OR "assessment app*" OR "assessment tools" OR
+"behavio* checklist*" OR checklist OR "class* assess*" OR "classroom
+observation" OR "cognitive assess*" OR "computer* app" OR "curriculum-based
+measure" OR diagnos* OR "dynamic assessment" OR "early screening tools" OR
+"educational assessment tool*" OR evaluate OR "formal assess*" OR "formative
+assess*" OR "graduated approach" OR identif* OR "informal assess*" OR
+measure OR "multi-disciplinary assessment" OR MTSS OR "multi-tiered system of
+supports" OR "neuro* assess*" OR observ* OR "parent* report" OR "pupil
+observation" OR "response to intervention" OR RTI OR screen* OR "self-
+assessment" OR "self-report" OR "smartphone app*" OR "standard* test*" OR
+"student observation" OR "tablet app*" OR "teacher judgment*" OR "teacher
+observation" OR tool* OR "performance-based"
+Support terms: "classroom environment" OR "SEN support" OR "SEND support"
+OR SWPBS OR accommodat* OR adaptat* OR approach OR "assistive tech*" OR
+"classroom interve*" OR "collaborative teach*" OR curriculum OR "curriculum
+adapt*" OR "differentiat* instruction" OR "digital learning" OR "early interven*" OR
+"education* program*" OR "education* support" OR "evidence-based interven*"
+OR "evidence-informed interven*" OR "exam access arrangement*" OR "exam
+accommodat*" OR "graduated approach" OR "group intervention" OR "high-quality
+instruct*" OR "high-quality teach*" OR inclus* OR "inclusive education" OR
+"inclusive practice" OR "individual support" OR "individual* education plan*" OR
+"instruct*" OR interven* OR integrat* OR "mainstream class* support" OR
+"mainstream education" OR "mainstream environment" OR "multimedia learning
+environment" OR "multi-tiered system* of support" OR "one-to-one" OR "parental
+support" OR pedagog* OR "peer support" OR personali*ed OR provision OR
+remediat OR "school support service*" OR "school-based" OR "special* interven*"
+OR "special* support" OR "specialist teach* support" OR support* OR strateg* OR
+"targeted interven*" OR "target* teach* strateg*" OR targeted OR "targeted
+support" OR teach* OR "teach* adaptation*" OR "teach* principle*" OR "teach*
+strateg*" OR "teach* approach" OR therapy OR "tier 1 interven*" OR "tier 1
+support" OR "tier 2 interve*" OR "tier 2 support" OR "tier 3 interven*" OR "tier 3
+support" OR treat* OR "universal design" OR "universal interven*" OR "universal
+provision" OR "universal support" OR "whole-class support" OR "whole-class
+teaching"
+Working with others terms: collabor* OR parent* OR carer OR caregiver OR famil*
+OR specialist* OR "specialist teacher" OR teacher OR educator OR TA OR
+"teaching assistant*" OR "support staff" OR "educational psychologist*" OR EP OR
+SLT or SLP or "speech and language therapist*" OR "speech and language
+pathologist*" OR "speech therapist" OR "speech pathologist" OR "health visitor"
+47
+OR HV* OR "Ed Psych" OR counsel* OR "mental health support workers" OR
+"child and adolescent mental health service" OR CAHMS OR psychologist* or
+therapist* OR "learning support assistant" OR LSA OR "communication support
+worker" OR QTOD OR QTMSI OR QTVI OR "co-production" OR "joint working"
+OR "healthcare professional" OR "personal carer" OR "occupational therapist"
+"Inter-professional collaboration" OR IPC OR expert OR clinician OR nurse
+Comparison:
+Left blank to include studies without comparison groups
+Outcome:
+Identification terms: N/A - Not needed for identification terms as there is not
+always a specific outcome
+Behavioural, Inclusion, Motivation, and Engagement terms: attendance OR
+"behavio* outcomes" OR "behavio* regulation" OR "behavio* improvement" OR
+"cognitive development" OR "communication skills" OR criminal OR economic OR
+employment OR engage* OR financial OR "functional independence" OR
+"functional skills development" OR "access to learning" OR "improvement in
+learning" OR "inclusive classroom" OR "increase* inclusion" OR "independent
+living" OR independent* OR "mental health outcomes" OR motivate* OR offend
+OR "prosocial behavio* OR "reduce* learning barriers" OR "reduce* symptom*"
+OR "self-regulat*" OR "school performance" OR "school retention" OR "social
+inclusion" OR "social-emotional development" OR "teacher perceptions of student
+progress" OR "well-being" OR workplace
+Educational outcomes (General): "academic achievement" OR "academic
+progress*" OR "academic attainment" OR "academic measure" OR "academic
+performance" OR "additional learning support*" OR "educat* achievement" OR
+"educat* assess*" OR "educat* attainment" OR "educat* measure" OR "educat*
+outcome*" OR "educat* performance" OR "educat* progress" "executive function*"
+OR "functional skill* develop*" OR "improve* learning" OR learn* OR "learning
+progress" OR "problem solving" OR "reduced learning barriers" OR "school
+outcome*" OR "school performance" OR "school retention"
+Literacy outcomes: read* OR literacy OR "letter recognition" OR "letter-sound
+knowledge" OR "word reading" OR phonic* OR phonolog* OR "reading
+comprehension" OR "reading accuracy" OR "reading fluency" OR "reading delay*"
+OR "print knowledge" OR decod* OR "alphabet knowledge" OR "listening
+comprehension" OR "word recognition" OR "sentence completion"
+Writing outcomes: writ* OR literacy OR punctuation OR spelling OR "sentence
+writing" OR "free writing" OR "early writing" OR "emergent writing" OR "guided
+48
+writing" OR "writing fluency" OR handwriting OR "interactive writing" OR "letter
+typing" OR "sentence completion"
+Mathematics outcomes: math* OR numer* OR numb* "number sense" OR
+arithmetic* OR geomet* OR shape OR calcul* OR algebra OR counting OR
+addition OR subtraction OR multiplication OR division OR fractions OR statistics*
+OR "place value" OR "math* competenc*" OR "math* concept*" OR "math*
+knowledge"
+Working with others terms: collaboration* or partnership* or co-practice* or
+multidisciplinary* or transdisciplinary or interdisciplinary
+Study type:
+Review type: review OR "systematic review" OR "meta-analysis" OR "narrative
+review"
+49
+References
+*Indicates references retrieved from the rapid review
+ALLEN, C. W., SILOVE, N., WILLIAMS, K. & HUTCHINS, P. 2007. Validity of the social
+communication questionnaire in assessing risk of autism in preschool children with
+developmental problems. Review Journal of Autism and Developmental Disorders,
+37, 1272-8.
+*ALRESHEED, F., MACHALICEK, W., SANFORD, A. AND BANO, C., 2018. Academic
+and related skills interventions for autism: A 20-year systematic review of single-
+case research. Review Journal of Autism and Developmental Disorders, 5(4),
+pp.311-326.
+AMERICAN PSYCHIATRIC ASSOCIATION 2022. Neurodevelopmental Disorders.
+Diagnostic and statistical manual of mental disorders : DSM-5-TR / American
+Psychiatric Association. Fifth edition, text revision. ed. Washington, DC: American
+Psychiatric Association Publishing.
+ANDERSON, L. K. 2023. Autistic experiences of applied behavior analysis. Autism, 27,
+737-750.
+ARCHER, A. & HUGHES, C. 2011. Explicit Instruction: Effective and Efficient Teaching,
+New York, Guiford Publications.
+*ARSLAN, O., INAN, F. A., MOON, H., OZDEMIR, Y. M. & UZUNOSMANOGLU, S. D.
+2022. Educational Technology Trends for Children with Autism Spectrum
+Disorder. The Turkish Online Journal of Educational Technology, 21.
+*ASPIRANTI, K. B., LARWIN, K. H. & SCHADE, B. P. 2020. iPads/tablets and students
+with autism: A meta-analysis of academic effects. Assistive Technology, 32, 23-
+30.
+AUTISM EDUCATION TRUST. 2025. What is Autism? [Online]. Autism Education TRust.
+Available: https://www.autismeducationtrust.org.uk/about/what-is-autism
+[Accessed 24/04/25].
+*BAILEY, B. & ARCIULI, J. 2019. Reading Instruction for Children with Autism Spectrum
+Disorders: A Systematic Review and Quality Analysis. Review Journal of Autism
+and Developmental Disorders, 7, 127-150.
+BAIRD, G., SIMONOFF, E., PICKLES, A., CHANDLER, S., LOUCAS, T., MELDRUM, D.
+& CHARMAN, T. 2006. Prevalence of disorders of the autism spectrum in a
+50
+population cohort of children in South Thames: the Special Needs and Autism
+Project (SNAP). Lancet, 368, 210-5.
+BAR-ON, R. 1997. The emotional quotient inventory (EQ-i): A test of emotional
+intelligence, Toronto, Multi-Health Systems.
+*BARNETT, J. H., FRANKEL, A. J. & FISHER, K. W. 2018. Systematic Review of
+Evidence-based Interventions in Science for Students with Autism Spectrum
+Disorders. Education and Training in Autism and Developmental Disabilities, 53,
+128-145.
+*BEN-SASSON, A., HEN, L., FLUSS, R., CERMAK, S. A., ENGEL-YEGER, B. & GAL, E.
+2009. A meta-analysis of sensory modulation symptoms in individuals with autism
+spectrum disorders. Journal of Autism and Developmental Disorders, 39, 1-11.
+*BLACK, M. H., MILBOURN, B., CHEN, N. T. M., MCGARRY, S., WALI, F., HO, A. S. V.,
+LEE, M., BöLTE, S., FALKMER, T. & GIRDLER, S. 2020. The use of wearable
+technology to measure and support abilities, disabilities and functional skills in
+autistic youth: a scoping review. Scandinavian Journal of Child and Adolescent
+Psychiatry and Psycholgy, 8, 48-69.
+*BOYLE, S. A., MCNAUGHTON, D. & CHAPIN, S. E. 2019. Effects of Shared Reading
+on the Early Language and Literacy Skills of Children With Autism Spectrum
+Disorders: A Systematic Review. Focus on Autism and Other Developmental
+Disabilities, 34, 205-214.
+*BROOME, K., MCCABE, P., DOCKING, K. & DOBLE, M. 2017. A Systematic Review of
+Speech Assessments for Children With Autism Spectrum Disorder:
+Recommendations for Best Practice. American Journal of Speech and Language
+Pathology, 26, 1011-1029.
+BROWN, H. M., ORAM-CARDY, J. & JOHNSON, A. 2013. A meta-analysis of the
+reading comprehension skills of individuals on the autism spectrum. Journal of
+Autism and Developmental Disorders, 43, 932-55.
+BULLOCK, J. K., PIERCE, S. & MCCLELLAND, L. 1989. Touch Math: The touch point
+apporach for teching math computation, Colorado Springs, CO,, Innovative
+Learning Concepts.
+CAHYADI, M., AQILAH, T., EDIYANTO, E., JUNAIDI, A. & JATININGSIWI, T. 2024.
+Development of Communications Identification Matrix of Early Screening for
+51
+Autism Children. Discourse and Communication for Sustainable Education, 14,
+37-52.
+CHAPMAN, O. 2020. Mathematics teacher educators' use of narrative in research,
+learning, and teaching. For the Learning of Mathematics, 40, 21-27.
+CHESNEY, M. A., NEILANDS, T. B., CHAMBERS, D. B., TAYLOR, J. M. & FOLKMAN,
+S. 2006. A validity and reliability study of the coping self-efficacy scale. British
+Journal of Health Psychology, 11, 421-37.
+*CHESNUT, S. R., WEI, T., BARNARD-BRAK, L. & RICHMAN, D. M. 2017. A meta-
+analysis of the social communication questionnaire: Screening for autism
+spectrum disorder. Autism, 21, 920-928.
+*CLARK, M. & ADAMS, D. 2022. Resilience in autism and intellectual disability: A
+systematic review. Review Journal of Autism and Developmental Disorders, 9, 39-
+53.
+*CONNER, C., ALLOR, J. H., HENRY, A. R., AL OTAIBA, S. & ORTIZ, M. B. 2023.
+Planning and Implementing Effective Language and Reading Comprehension
+Instructional Techniques for Students with Autism Spectrum Disorder and
+Cognitive Disabilities. The Reading Teacher, 77, 47-58.
+CONSTANTINE, N., BENARD, B. & DIAZ, M. Measuring protective factors and resilience
+traits in youth: The healthy kids resilience assessment. seventh annual meeting of
+the Society for Prevention Research, New Orleans, LA, 1999. Citeseer, 3-15.
+COOK, J., CRANE, L., HULL, L., BOURNE, L. & MANDY, W. 2022. Self-reported
+camouflaging behaviours used by autistic adults during everyday social
+interactions. Autism, 26, 406-421.
+CRUZ-TORRES, E., DUFFY, M. L., BRADY, M. P., BENNETT, K. D. & GOLDSTEIN, P.
+2020. Promoting Daily Living Skills for Adolescents with Autism Spectrum Disorder
+via Parent Delivery of Video Prompting. Journal of Autism and Developmental
+Disorders, 50, 212-223.
+*CURIEL, E. S. L., AXE, J. B., SAINATO, D. M. & GOLDSTEIN, H. 2020. Systematic
+Review of Matrix Training for Individuals With Autism Spectrum Disorder. Focus
+on Autism and Other Developmental Disabilities, 35, 55-64.
+DELUCIA, E. A., DIKE, J., ANDRZEJEWSKI, T. M. & MCDONNELL, C. G. 2024. Autism
+screening practices in preschools and early childcare centers: A systematic
+review. Review Journal of Autism and Developmental Disorders, 11, 1-20.
+52
+DfE 2015. Special educational needs and disability code of practice: 0 to 25 years
+(Updated 2024). UK Government.
+DfE 2025. Special educational needs in England: 2024-25. UK Government.
+DOCKRELL, J. 2014. Developmental variations in the producation of written text:
+challenges for students who struggle with writing. In: STONE, C. A., SILLIMAN, E.
+R., EHREN, B. & WALLACH, G. (eds.) Handbook of language and literacy:
+development and disorders. 2nd ed. ed.: New York : The Guilford Press.
+DUNN, W. 1999. The Short Sensory Profile, San Antonio, TX., The Psychological
+Corporation.
+DUNN, W. 2006. Sensory Profile School Companion (SPSC), London, Pearson.
+DWORZYNSKI, K., RONALD, A., BOLTON, P. & HAPPé, F. 2012. How different are girls
+and boys above and below the diagnostic threshold for autism spectrum
+disorders? Jounral of the American Academy of Child & Adolescent Psychiatry,
+51, 788-97.
+*EHSAN, H., RISPOLI, M., LORY, C. & GREGORI, E. 2018. A Systematic Review of
+STEM Instruction with Students with Autism Spectrum Disorders. Review Journal
+of Autism and Developmental Disorders, 5, 327-348.
+*ELIÇIN, Ö. AND KAYA, A., 2017. Determining Studies Conducted upon Individuals with
+Autism Spectrum Disorder Using High-Tech Devices. Educational Sciences:
+Theory and Practice, 17(1), pp.27-45.
+ENGELMANN, S., HADDOX, P., HANNER, S. & OSBORN, J. 2002. Corrective reading
+thinking basics: Comprehension level A, Columbus, OH, SRA/McGraw-Hill
+ESTES, A., SWAIN, D. M. & MACDUFFIE, K. E. 2019. The effects of early autism
+intervention on parents and family adaptive functioning. Pediatric Medicine, 2.
+*FERNANDES, F. D., DE LA HIGUERA AMATO, C. A., CARDOSO, C., NAVAS, A. L. &
+MOLINI-AVEJONAS, D. R. 2016. Reading in Autism Spectrum Disorders: A
+Literature Review. Folia Phoniatrica et Logopaedica, 67, 169-77.
+*FINNEGAN, E. & MAZIN, A. 2016. Strategies for Increasing Reading Comprehension
+Skills in Students with Autism Spectrum Disorder: A Review of the Literature.
+Education and Treatment of Children, 39, 187-219.
+FRITH, U. & SNOWLING, M. 1983. Reading for meaning and reading for sound in
+autistic and dyslexic children. British Journal of Developmental Psychology, 1,
+329-342.
+53
+FUCHS, L. S. & FUCHS, D. 2006. Introduction to response to intervention: What, why,
+and how valid is it? Reading Research Quarterly, 41, 93-99.
+FUCHS, L. S. & FUCHS, D. 2009. On the Importance of a Unified Model of
+Responsiveness to Intervention. Child Development Perspectives, 3, 41-43.
+GARRITTY, C., HAMEL, C., TRIVELLA, M., GARTLEHNER, G., NUSSBAUMER-
+STREIT, B., DEVANE, D., KAMEL, C., GRIEBLER, U. & KING, V. 2024. Updated
+recommendations for the Cochrane rapid review methods guidance for rapid
+reviews of effectiveness. British Medical Journal, 384, e076335.
+GOODMAN, R. 2001. Psychometric properties of the strengths and difficulties
+questionnaire. Journal of the American Academy of Child & Adolescent
+Psychiatry, 40, 1337-45.
+*GRIFFITH, S. F., HAGAN, M. B., HEYMANN, P., HEFLIN, B. H. & BAGNER, D. M.
+2020. Apps As Learning Tools: A Systematic Review. Pediatrics, 145.
+GUTHRIE, W., SWINEFORD, L. B., NOTTKE, C. & WETHERBY, A. M. 2013. Early
+diagnosis of autism spectrum disorder: stability and change in clinical diagnosis
+and symptom presentation. Journal of Child Psychology and Psychiatry, 54, 582-
+90.
+HEMMINGSSON, H. & JONSSON, H. 2005. An occupational perspective on the concept
+of participation in the International Classification of Functioning, Disability and
+Health--some critical remarks. American Journal of Occupational Therapy, 59,
+569-76.
+HESELTON, G. A. 2023. Childhood adversity, resilience, and autism: a critical review of
+the literature. Disability & Society, 38, 1251-1270.
+*HORN, A. L., JANE, R. & AND MURPHY, K. A. 2023. Constant time delay to teach
+reading to students with intellectual disability and autism: a review. International
+Journal of Developmental Disabilities, 69, 123-133.
+*HOWELL, M., BRADSHAW, J. & LANGDON, P. 2019. A Systematic Review of
+Behaviour-Related Outcome Assessments for Children on the Autism Spectrum
+with Intellectual Disabilities in Education Settings. Review Journal of Autism and
+Developmental Disorders, 8.
+*HUGHES, C. A., MORRIS, J. R., THERRIEN, W. J. & BENSON, S. K. 2017. Explicit
+Instruction: Historical and Contemporary Contexts. Learning Disabilities Research
+& Practice, 32, 140-148.
+54
+HUGHES, E. M. & YAKUBOVA, G. 2019. Addressing the Mathematics Gap for Students
+with ASD: an Evidence-Based Systematic Review of Video-Based Mathematics
+Interventions. Review Journal of Autism and Developmental Disorders, 6, 147-
+158.
+HULL, L., PETRIDES, K. V. & MANDY, W. 2020. The Female Autism Phenotype and
+Camouflaging: a Narrative Review. Review Journal of Autism and Developmental
+Disorders, 7, 306-317.
+JACQUEMONT, S., COE, B. P., HERSCH, M., DUYZEND, M. H., KRUMM, N.,
+BERGMANN, S., BECKMANN, J. S., ROSENFELD, J.A. & EICHLER, E. E. 2014.
+A higher mutational burden in females supports a "female protective model" in
+neurodevelopmental disorders. American Journal of Human Genetics, 94, 415-25.
+JONES, E. J., GLIGA, T., BEDFORD, R., CHARMAN, T. & JOHNSON, M. H. 2014.
+Developmental pathways to autism: a review of prospective studies of infants at
+risk. Neuroscience & Biobehavioral Reviews, 39, 1-33.
+KENNY, L., HATTERSLEY, C., MOLINS, B., BUCKLEY, C., POVEY, C. & PELLICANO,
+E. 2016. Which terms should be used to describe autism? Perspectives from the
+UK autism community. Autism, 20, 442-462.
+*KIM, S. Y. & LECAVALIER, L. 2021. Evaluating the Use of Self-reported Measures in
+Autistic Individuals in the Context of Psychiatric Assessment: A Systematic
+Review. Journal of Autism and Developmental Disorders, 52, 4355-4374.
+*KING, S. A., LEMONS, C. J. & DAVIDSON, K. A. 2016. Math Interventions for Students
+With Autism Spectrum Disorder:A Best-Evidence Synthesis. Exceptional Children,
+82, 443-462.
+*KNIGHT, V.F. & SARTINI, E. 2015. A Comprehensive Literature Review of
+Comprehension Strategies in Core Content Areas for Students with Autism
+Spectrum Disorder. Journal of Autism and Developmental Disorders, 45, 1213-
+1229.
+KUSHKI, A., CHAU, T. & ANAGNOSTOU, E. 2011. Handwriting difficulties in children
+with autism spectrum disorders: a scoping review. Journal of Autism and
+Developmental Disorders, 41, 1706-16.
+LAI, M. C., LOMBARDO, M. V., AUYEUNG, B., CHAKRABARTI, B. & BARON-COHEN,
+S. 2015. Sex/gender differences and autism: setting the scene for future research.
+Journal of the American Academy of Child & Adolescent Psychiatry, 54, 11-24.
+55
+*LAMI, F., EGBERTS, K., URE, A., CONROY, R. & WILLIAMS, K. 2017. Measurement
+properties of instruments that assess participation in young people with autism
+spectrum disorder: a systematic review. Developmental Medicine and Child
+Neurology, 60, 230-243.
+*LARWIN, K. & ASPIRANTI, K. 2019. Measuring the Academic Outcomes of iPads for
+Students with Autism: a Meta-Analysis. Review Journal of Autism and
+Developmental Disorders, 6.
+LAUGESON, E. A., FRANKEL, F., GANTMAN, A., DILLON, A. R. & MOGIL, C. 2012.
+Evidence-based social skills training for adolescents with autism spectrum
+disorders: the UCLA PEERS program. Journal of Autism and Developmental
+Disorders, 42, 1025-36.
+*LEDBETTER-CHO, K., O'REILLY, M., LANG, R., WATKINS, L. & LIM, N. 2018. Meta-
+analysis of Tablet-Mediated Interventions for Teaching Academic Skills to
+Individuals with Autism. Journal of Autism and Developmental Disorders, 48,
+3021-3036.
+LIGHT, J., MCNAUGHTON, D. & CARON, J. 2019. New and emerging AAC technology
+supports for children with complex communication needs and their communication
+partners: State of the science and future research directions. Augmentative and
+Alternative Communication, 35, 26-41.
+*LIU, D., MAO, Y., CAI, W., LEI, Q., KANG, R. & ZENG, Y. 2024. Meta-Analysis of
+Tablet-Mediated Interventions to Teach Mathematics for Individuals With Autism
+Spectrum Disorder and/or Intellectual Disability. Journal of Special Education
+Technology, 39, 217-233.
+*LONG, H. M., BOUCK, E. C. & MARIAGE, T. V. 2024. An Updated Systematic Review
+of Mathematics Interventions for Students with ASD. Education & Training in
+Autism & Developmental Disabilities, 59, 148-164.
+LORD, C., RISI, S., DILAVORE, P. S., SHULMAN, C., THURM, A. & PICKLES, A. 2006.
+Autism from 2 to 9 years of age. Archives of General Psychiatry, 63, 694-701.
+LUCAS, R. & NORBURY, C.F. 2018. The home literacy environment of school-aged
+children with autism spectrum disorders. Journal of Research in Reading, 41, 197-
+219.
+*MACMILLAN, C. M., PECORA, L. A., RIDGWAY, K., HOOLEY, M., THOMSON, M.,
+DYMOND, S., DONALDSON, E., MESIBOV, G. B. & STOKES, M. A. 2021. An
+56
+Evaluation of Education-Based Interventions for Students with Autism Spectrum
+Disorders Without Intellectual Disability: a Systematic Review. Review Journal of
+Autism and Developmental Disorders, 10, 220-238.
+*MAKRYGIANNI, M. K., GENA, A., KATOUDI, S. & GALANIS, P. 2018. The
+effectiveness of applied behavior analytic interventions for children with Autism
+Spectrum Disorder: A meta-analytic study. Research in Autism Spectrum
+Disorders, 51, 18-31.
+*MANNION, L. 2022. The use of Precision Teaching as an intervention for improving the
+skill acquisition of children with autism. Educational Psychology in Practice, 38,
+57-74.
+MARCHAND-MARTELLA, N. E., MARTELLA, R. C., MODDERMAN, S. L., PETERSEN,
+H. M., PAN, S. 2013. Key Areas of Effective Adolescent Literacy Programs.
+Education and Treatment of Children, 36, 161-184.
+MATHEIS, M., MATSON, J. L., HONG, E. & CERVANTES, P. E. 2019. Gender
+Differences and Similarities: Autism Symptomatology and Developmental
+Functioning in Young Children. Journal of Autism and Developmental Disorders,
+49, 1219-1231.
+MCCAULEY, R. J. 2001. Assessment of Language Disorders in Children, New York,
+Psychology Press.
+*MCCLAIN, M., HAVERKAMP, C., BENALLIE, K., SCHWARTZ, S. & SIMONSMEIER, V.
+2021. How Effective Are Reading Comprehension Interventions for Children With
+ASD? A Meta-Analysis of Single-Case Design Studies. School Psychology, 36,
+107-121.
+*MCCLAIN, M. B., OTERO, T. L., HAVERKAMP, C. R. & MOLSBERRY, F. 2018. Autism
+spectrum disorder assessment and evaluation research in 10 school psychology
+journals from 2007 to 2017. Psychology in the Schools, 55, 661-679.
+*MCCLURE, E. B., PENNINGTON, R. C. & BEWLEY, S. C. 2024. Evaluating the
+Evidence-Base Supporting Writing Instruction Strategies for Students With Autism
+Spectrum Disorder: A Systematic Review of Experimental Research. Focus on
+Autism and Other Developmental Disabilities, 39, 139-149.
+MCINTOSH, K. & GOODMAN, S. 2016. Integrated Multi-Tiered Systems of Support:
+Blending RTI and PBIS.
+57
+MCINTYRE, N. S., SOLARI, E. J., GONZALES, J. E., SOLOMON, M., LERRO, L. E.,
+NOVOTNY, S., OSWALD, T. M. & MUNDY, P. C. 2017. The Scope and Nature of
+Reading Comprehension Impairments in School-Aged Children with Higher-
+Functioning Autism Spectrum Disorder. Journal of Autism and Developmental
+Disorders, 47, 2838-2860.
+MERRELL, K. W. 2011. Social emotional assets and resilience scales, Lutz, PAR.
+*MIGUEL CRUZ, A., RIOS RINCON, A.M., RODRIGUEZ DUEÑAS, W.R., QUIROGA
+TORRES, D.A. AND BOHÓRQUEZ-HEREDIA, A.F., 2017. What does the
+literature say about using robots on children with disabilities?. Disability and
+Rehabilitation: Assistive Technology, 12(5), pp.429-440.
+*MORSE, T. E. 2022. Simultaneous Prompting and Students with Autism. Procedural
+Guidance for Teachers from a Review of the Literature. Education and Training in
+Autism and Developmental Disabilities, 57, 44-66.
+MUKHERJEE, D., BHAVNANI, S., LOCKWOOD ESTRIN, G., RAO, V., DASGUPTA, J.,
+IRFAN, H., CHAKRABARTI, B., PATEL, V. & BELMONTE, M. K. 2022. Digital
+tools for direct assessment of autism risk during early childhood: A systematic
+review. Autism, 28, 6-31.
+NATION, K., CLARKE, P., WRIGHT, B. & WILLIAMS, C. 2006. Patterns of reading ability
+in children with autism spectrum disorder. Journal of Autism and Developmental
+Disorders, 36, 911-9.
+NATIONAL INSTITUTE FOR HEALTH AND CARE EXCELLENCE 2017. Autism
+spectrum disorder in under 19s: recognition, referral and diagnosis.
+NATIONAL READING PANEL, N. I. O. C. H. H. D. 2000. Report of the National Reading
+Panel: Teaching children to read: An evidence-based assessment of the scientific
+research literature on reading and its implications for reading instruction: Reports
+of the subgroups. United States: National Institute of Child Health and Human
+Development.
+NORBURY, C. & NATION, K. 2011. Understanding variability in reading comprehension
+in adolescents with autism spectrum disorders: Interactions with language status
+and decoding skill. Scientific Studies of Reading, 15, 191-210.
+PLAVNICK, J. B., MARCHAND-MARTELLA N. E., MARTELLA, R. C., THOMPSON, J.
+L. & WOOD, A. L. 2015. A Review of Explicit and Systematic Scripted Instructional
+58
+Programs for Students with Autism Spectrum Disorder. Review Journal of Autism
+and Developmental Disorders, 2, 55-66.
+POLLOCK, N. 2009. Sensory integration: A review of the current state of the evidence.
+Occupational Therapy Now, 11, 6-10.
+*PONTIKAS, C. M., TSOUKALAS, E. & SERDARI, A. 2022. A map of assistive
+technology educative instruments in neurodevelopmental disorders. Disability and
+Rehabilitation: Assistive Technology, 17, 738-746.
+PRINCE-EMBURY, S. 2008. The Resiliency Scales for Children and Adolescents,
+Psychological Symptoms, and Clinical Status in Adolescents. Canadian Journal of
+School Psychology, 23, 41-56.
+*REUTEBUCH, C. K., EL ZEIN, F. & ROBERTS, G. J. 2015. A systematic review of the
+effects of choice on academic outcomes for students with autism spectrum
+disorder. Research in Autism Spectrum Disorders, 20, 1-16.
+RICKETTS, J., JONES, C. R., HAPPé, F. & CHARMAN, T. 2013. Reading
+comprehension in autism spectrum disorders: the role of oral language and social
+functioning. Journal of Autism and Developmental Disorders, 43, 807-16.
+RIVET, T. T. & MATSON, J. L. 2011. Review of gender differences in core
+symptomatology in autism spectrum disorders. Research in Autism Spectrum
+Disorders, 5, 957-976.
+ROBERTSON, C. E. & BARON-COHEN, S. 2017. Sensory perception in autism. Nature
+Reviews Neuroscience, 18, 671-684.
+*ROOT, J. R., INGELIN, B. & COX, S. K. 2021. Teaching Mathematical Word Problem
+Solving to Students with Autism Specturm Disorder: A Best-Evidence Synthesis.
+Education and Training in Autism and Developmental Disabilities, 56, 420-436.
+*ROOT, J.R., STEVENSON, B.S., DAVIS, L.L., GEDDES-HALL, J. AND TEST, D.W.,
+2017. Establishing computer-assisted instruction to teach academics to students
+with autism as an evidence-based practice. Journal of Autism and Developmental
+Disorders, 47(2), pp.275-284.
+ROSENSHINE, B. 1987. Explicit Teaching and Teacher Training. Journal of Teacher
+Education, 38, 34-36.
+*ROTH, M.E., GILLIS, J.M. AND DIGENNARO REED, F.D., 2014. A meta-analysis of
+behavioral interventions for adolescents and adults with autism spectrum
+disorders. Journal of Behavioral Education, 23(2), pp.258-286.
+59
+RUPPAR, A. L. 2017. "Without being able to read, what's literacy mean to them?":
+Situated beliefs about literacy for students with significant disabilities. Teaching
+and Teacher Education, 67, 114-124.
+RUTTER, M., BAILEY, A., LORD, C. 2003. The social communication questionnaire, Los
+Angeles, CA., Western Psychological Services.
+*SENOKOSSOFF, G. 2015. Developing Reading Comprehension Skills in High-
+Functioning Children With Autism Spectrum Disorder: A Review of the Research,
+1990-2012. Reading & Writing Quarterly, 32, 1-24.
+SHEA, B. J., REEVES, B. C., WELLS, G., THUKU, M., HAMEL, C., MORAN, J.,
+MOHER, D., TUGWELL, P., WELCH, V., KRISTJANSSON, E. & HENRY, D. A.
+2017. AMSTAR 2: a critical appraisal tool for systematic reviews that include
+randomised or non-randomised studies of healthcare interventions, or both. British
+Medical Journal, 358, j4008.
+*SINGH, B. D., MOORE, D. W., FURLONGER, B. E., ANDERSON, A., FALL, R. &
+HOWORTH, S. 2021. Reading Comprehension and Autism Spectrum Disorder: a
+Systematic Review of Interventions Involving Single-Case Experimental Designs.
+Review Journal of Autism and Developmental Disorders, 8, 3-21.
+SNOWLING, M. J. & MELBY-LERVåG, M. 2016. Oral language deficits in familial
+dyslexia: A meta-analysis and review. Psychology Bulletin, 142, 498-545.
+*SPENCER, V. G., EVMENOVA, A. S., BOON, R. T. & HAYES-HARRIS, L. 2014.
+Review of Research-Based Interventions for Students with Autism Spectrum
+Disorders in Content Area Instruction: Implications and Considerations for
+Classroom Practice. Education and Training in Autism and Developmental
+Disabilities, 49, 331-353.
+STONE, W. L., LEE, E. B., ASHFORD, L., BRISSIE, J., HEPBURN, S.L., COONROD, E.
+E. & WEISS, B. H. 1999. Can autism be diagnosed accurately in children under 3
+years? Journal of Child Psychology and Psychiatry, 40, 219-26.
+STRAIN, P. S. & FOX, J. J. 1981. Peer social initiations and the modification of social
+withdrawal: A review and future persepctive. Journal of pediatric psychology, 6,
+417-433.
+STRAIN, P. S., KERR, M. M. & RAGLAND, E. 1979. Effects of peer mediated social
+initiations and prompting/reinforcement procedures on the socil behavior of autistic
+children. Journal of autism and developmental disorders, 9, 41-54.
+60
+SUGDEN, D. A. 2006. Development Coordination as a Specific Learning Difficulty
+[Online]. Available:
+https://www.pearsonclinical.co.uk/content/dam/school/global/cinical/uk-
+clinical/files/LeedsConsensus06-movement-
+oc_2.pdf?srsltid=AfmBOoovQInlsdjliCypqpY-mFoewnU-
+WIOusGxMs1xJxaatVHYSuvGF [Accessed 25/04/25].
+SULU, M. D., MARTELLA, R. C., TOPER, O., MARCHAND-MARTELLA, N. E. & KIYAK,
+U.E. 2021. Explicit and Systematic Scripted Instructional Programs for Students
+with Autism Spectrum Disorder: An Updated and Extended Review. Review
+Journal of Autism and Developmental Disorders, 10, 203-219.
+SUMNER, E., CONNELLY, V. & BARNETT, A. L. 2016. The Influence of Spelling Ability
+on Vocabulary Choices When Writing for Children with Dyslexia. Journal of
+Learning Disabilities, 49, 293-304.
+TAGER-FLUSBERG, H. & DOMINICK, K. C. 2011. Comorbid disorders. In: HOLLANER,
+E., KOLEVZON, A., COYLE, J. T., (ed.) Textbook of Autism Spectrum Disorders.
+Arlington: American Pscyhiatric Publishing Inc.
+TAVASSOLI, T., HOEKSTRA, R. A. & BARON-COHEN, S. 2014. The Sensory
+Perception Quotient (SPQ): development and validation of a new sensory
+questionnaire for adults with and without autism. Molecular Autism, 5, 29.
+*TIPTON-FISLER, L.A. & KNIGHT, E. 2024. A Review of Group Design Studies of
+Reading Comprehension Interventions for Students with ASD. Contemporary
+School Psychology, 28, 144-156.
+*WASS, S. V. & PORAYSKA-POMSTA, K. 2014. The uses of cognitive training
+technologies in the treatment of autism spectrum disorders. Autism, 18, 851-71.
+WHITBY, P. & MANCIL, R. 2009. Academic achievement profiles of children with high
+functioning autism and Asperger syndrome: A review of the literature. Education
+and Training in Developmental Disabilities, 44, 551-560.
+WHITE, S. W., OSWALD, D., OLLENDICK, T. & SCAHILL, L. 2009. Anxiety in children
+and adolescents with autism spectrum disorders. Clinical Psychology Review, 29,
+216-229.
+WILD, G. & STEELEY, S. L. 2018. A Model for Classroom-Based Intervention for
+Children with Sensory Processing Differences. International Journal of Special
+Education, 33, 745-765.
+61
+WITMER, S. E. & FERRERI, S. J. 2014. Alignment of Instruction, Expectations, and
+Accountability Testing for Students With Autism Spectrum Disorder. Focus on
+Autism and Other Developmental Disabilities, 29, 131-144.
+WOLERY, M., HOLCOMBE, A., CYBRIWSKY, C., DOYLE, P. M., SCHUSTER, J. W.,
+AULT, M. J. & GAST, D. L. 1992. Constant time delay with discrete responses: a
+review of effectiveness and demographic, procedural, and methodological
+parameters. Research in Developmental Disabilities, 13, 239-66.
+WONG, C., ODOM, S. L., HUME, K. A., COX, A. W., FETTIG, A., KUCHARCZYK, S.,
+BROCK, M. E., PLAVNICK, J. B., FLEURY, V.P. & SCHULTZ, T. R. 2015.
+Evidence-Based Practices for Children, Youth, and Young Adults with Autism
+Spectrum Disorder: A Comprehensive Review. Journal of Autism and
+Developmental Disorders, 45, 1951-1966.
+WORLD HEALTH ORGANISATION 2007. International Classification of Functioning,
+Disability, and Health: Children & Youth Version: ICF-CY, World Health
+Organization.
+*WRIGHT, J.C., KNIGHT, V.F. AND BARTON, E.E., 2020. A review of video modeling to
+teach STEM to students with autism and intellectual disability. Research in Autism
+Spectrum Disorders, 70, p. 101476.
+YATES, K. & LE COUTEUR, A. 2016. Diagnosing autism/autism spectrum disorders.
+Paediatrics and Child Health, 26.
+*YEE, T., MAGILL-EVANS, J., ZWAIGENBAUM, L., SACREY, L.-A. R., ASKARI, S. &
+ANABY, D. 2017. Participation Measures for Preschool Children with Autism
+Spectrum Disorder: a Scoping Review. Review Journal of Autism and
+Developmental Disorders, 4, 132-141.
+*YEUNG, L. H. J. & THOMACOS, N. 2020. Assessments of sensory processing in infants
+and children with autism spectrum disorder between 0-12 years old: A scoping
+review. Research in Autism Spectrum Disorders, 72, 101517.
+*YORKE, A. M., CARON, J. G., PUKYS, N., STERNAD, E., GRECOL, C. & SHERMAK,
+C. 2021. Foundational Reading Interventions Adapted for Individuals Who Require
+Augmentative and Alternative Communication (AAC): a Systematic Review of the
+Research. Journal of Developmental and Physical Disabilities, 33, 537-582.
+62
+ZHAO, M. & CHEN, S. 2018. The Effects of Structured Physical Activity Program on
+Social Interaction and Communication for Children with Autism. BioMed Research
+International, 2018, 1825046.
+63
+Department
+for Education
+© Department for Education Copyright 2025
+This publication is licensed under the terms of the Open Government Licence v3.0,
+except where otherwise stated. To view this licence, visit
+nationalarchives.gov.uk/doc/open-government-licence/version/3.
+Where we have identified any third-party copyright information you will need to obtain
+permission from the copyright holders concerned.
+Reference: RR1551
+ISBN: 978-1-83870-702-6
+For any enquiries regarding this publication, contact www.gov.uk/contact-dfe.
+This document is available for download at www.gov.uk/government/publications.
+64

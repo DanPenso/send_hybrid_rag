@@ -1,0 +1,9 @@
+category,metric,delta
+Cognition & Learning,delta_drift_q,0.09978857093713034
+Cognition & Learning,delta_drift_ctx,-0.07450877017369906
+Communication & Interaction,delta_drift_q,0.06263204600128336
+Communication & Interaction,delta_drift_ctx,-0.08483197617458604
+SEMH,delta_drift_q,0.08513550693461977
+SEMH,delta_drift_ctx,-0.09753602791429372
+Sensory & Physical,delta_drift_q,0.0970126897771332
+Sensory & Physical,delta_drift_ctx,-0.08216624374391485

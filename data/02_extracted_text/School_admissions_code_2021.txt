@@ -1,0 +1,2311 @@
+Department
+for Education
+School Admissions
+Code
+Mandatory requirements and statutory
+guidance for admission authorities,
+governing bodies, local authorities,
+schools adjudicators and admission
+appeals panels
+September 2021
+Contents
+The Statutory Basis for the School Admissions Code
+4
+Introduction
+7
+Purpose of this Code
+7
+Overall principles behind setting arrangements
+7
+How admissions work
+7
+Section 1: Determining Admission Arrangements
+9
+Published Admission Number (PAN)
+9
+Oversubscription criteria
+10
+Consultation
+18
+Determination
+19
+Composite prospectuses
+20
+Section 2: Applications and Offers
+21
+Applying for places in the normal admissions round
+21
+Applying for places at Sixth Form
+22
+Allocating places
+22
+Offering a place
+23
+Withdrawing an offer or a place
+23
+Waiting lists
+24
+Infant class size
+24
+Admission of children below compulsory school age and deferred entry to school
+25
+Admission of children outside their normal age group
+25
+Children of UK service personnel and crown servants
+26
+Co-ordination
+26
+In-year admissions
+27
+Right to appeal
+29
+School closure
+29
+Section 3: Ensuring Fairness and Resolving Issues
+30
+The Schools Adjudicator
+30
+Variations
+31
+Children who have been permanently excluded twice or display challenging behaviour 31
+Fair Access Protocols
+32
+Local authority powers of direction (general)
+35
+Local authority powers of direction (looked after children)
+35
+Secretary of State's power of direction (Academies)
+36
+Local authority reports
+36
+2
+Appendix 1 - Relevant Legislation
+37
+Equality Act 2010
+37
+Human Rights Act 1998
+38
+School Standards and Framework Act 1998
+38
+Appendix 2- Sample Admission Arrangements
+39
+The Admissions Timeline
+41
+Example timetable
+41
+Glossary
+44
+Index
+49
+3
+The Statutory Basis for the School Admissions
+Code
+1.
+The School Admissions Code ('the Code') has been issued under Section
+84 of the School Standards and Framework Act 1998 ('SSFA 1998')¹ The Code
+has been made following a consultation under Section 85(2) of the SSFA 1998
+and after being laid before Parliament for forty days.
+2.
+This Code comes into force on 1 September 2021 and, unless otherwise
+stated, applies with immediate effect. The Code applies to admissions to all
+maintained schools in England. It should be read alongside the School Admission
+Appeals Code and other guidance and law that affect admissions and admission
+appeals in England.
+3.
+This Code imposes mandatory requirements and includes guidelines
+setting out aims, objectives and other matters in relation to the discharge of
+functions relating to admissions by the bodies listed below:
+a)
+Admission authorities of maintained schools as defined in
+Section 88(1) (a) and (b) of the SSFA 1998²
+b)
+Governing bodies and local authorities (when not admission
+authorities)
+c)
+Schools Adjudicators
+d)
+Admission Appeal Panels.
+These bodies have a statutory duty to act in accordance with the relevant
+provisions of the Code.
+Application of the Code to Academies
+4.
+Academies, by which we mean Academy Schools³, (including those
+that are Free Schools, University Technical Colleges and Studio Schools), are
+state-funded, non fee-paying independent schools set up under a Funding
+Agreement between the Secretary of State and the proprietor of an Academy
+(most commonly, and hereafter, referred to as an Academy Trust). Academies are
+required by their funding agreements to comply with the Code and the law relating
+to admissions, although the Secretary of State has the power to vary this
+requirement where there is demonstrable need.
+1 Where statutory provisions have been amended, any references to them are references to them
+as amended.
+2 For community and voluntary controlled schools the admission authority is usually the local
+authority, but it may be the governing body if the local authority with the governing body's
+agreement has delegated responsibility to it for determining admission arrangements. Governing
+bodies are the admission authorities for foundation schools (including Trust schools) and voluntary
+aided schools.
+3 Academies are defined in Section 1A of the Academies Act 2010.
+4
+Compliance with the Code
+5.
+It is the responsibility of admission authorities to ensure that admission
+arrangements⁴ are compliant with this Code. Where a school is their own
+admission authority, this responsibility falls to the governing body or Academy
+Trust.
+6.
+Section 88P of the SSFA 1998 requires local authorities to make reports to
+the Schools Adjudicator about such matters connected with relevant school
+admissions as required by the Code. Minimum requirements for that report are set
+out at paragraph 3.30 of this Code and include an assessment of the
+effectiveness of Fair Access Protocols and co-ordination in their area, how
+admission arrangements affect the interests of looked after children and
+previously looked after children, and the number and percentage of lodged and
+upheld parental appeals. The report must be published locally. The Schools
+Adjudicator will report annually to the Secretary of State on Fair Access.
+7.
+Objections to the admission arrangements of both maintained schools and
+Academies can be made to the Schools Adjudicator whose decisions are binding
+and enforceable⁵.
+8.
+The Secretary of State may refer the admission arrangements of any
+school to the Schools Adjudicator at any time if the Secretary of State considers
+that they do not or may not comply with the mandatory requirements of this Code
+or the law.
+9.
+The Schools Adjudicator may investigate the admission arrangements of
+any school that the Adjudicator considers do not or may not comply with the
+mandatory requirements of this Code or the law.
+10.
+Any decision of the Schools Adjudicator will be binding on the admission
+authority. The admission authority must, where necessary, revise their admission
+arrangements to give effect to the Schools Adjudicator's decision within two
+months of the decision (or by 28 February following the decision, whichever is
+sooner), unless an alternative timescale is specified by the Adjudicator. An
+Adjudicator's determination is binding and enforceable. Where admission
+authorities fail to implement decisions of the Adjudicator the Secretary of State
+may direct the admission authority (either the governing body, the local authority,
+or Academy Trust) to do so under Section 496 or 497 of the Education Act 1996
+or the Funding Agreement.
+4 Admission arrangements means the overall procedure, practices, criteria, and supplementary
+information to be used in deciding on the allocation of school places and refers to any device or
+means used to determine whether a school place is to be offered.
+5 Section 88H of the SSFA 1998.
+5
+11.
+The table below sets out the admission authority for each type of school in
+England.
+Who is
+responsible
+Who is the
+Who deals with
+for arranging/
+Type of School
+admission
+complaints about
+providing for an
+authority?
+arrangements?
+appeal against
+refusal of a place
+at a school?
+Schools
+Academies
+Academy Trust
+Academy Trust
+Adjudicator
+Foundation
+Schools
+Schools
+Governing body
+Adjudicator
+Governing body
+Voluntary aided
+Schools
+schools
+Governing body
+Governing body
+Adjudicator
+Community
+Schools
+Schools
+Local Authority
+Adjudicator
+Local Authority
+Voluntary
+Schools
+controlled schools
+Local Authority
+Local Authority
+Adjudicator
+6
+Introduction
+Purpose of this Code
+12.
+The purpose of the Code is to ensure that all school places for
+maintained schools and Academies (excluding maintained special schools and
+special academies⁶) are allocated and offered in an open and fair way. The
+Code has the force of law, and where the words 'must' or 'must not' are used,
+these represent a mandatory requirement.
+13.
+Admission authorities and local authorities must also comply with the
+regulations and legislation set out in the Appendix to this Code.
+Overall principles behind setting arrangements
+14.
+In drawing up their admission arrangements, admission authorities must
+ensure that the practices and the criteria used to decide the allocation of school
+places are fair, clear, and objective. Parents should be able to look at a set of
+arrangements and understand easily how places for that school will be
+allocated.
+How admissions work
+15.
+In summary, the process operates as follows:
+a)
+All schools must have admission arrangements that clearly set out
+how children will be admitted, including the criteria that will be
+applied if there are more applications than places at the school.
+Admission arrangements are determined by admission authorities.
+b)
+Admission authorities must set ('determine') admission
+arrangements annually. Where changes are proposed to
+admission arrangements, the admission authority must first
+publicly consult on those arrangements⁷. If no changes are made
+to admission arrangements, they must be consulted on at least
+once every 7 years. Consultation must be for a minimum of 6
+weeks and must take place between 1 October and 31 January
+of the school year before those arrangements are to apply (the
+determination year). For example: for arrangements which are to
+apply for entry in September 2023, consultation must be
+6 A maintained special school is a school maintained by the local authority, which is specifically
+organised to make special educational provision for pupils with special educational needs. A
+special academy is an Academy including a free school, which meets the criteria set out in
+Section 1A(2) of the Academies Act 2010. A special academy may be subject to the Code and
+other relevant admissions law (as they apply to maintained schools) through its funding
+agreement in relation to any child or young person with SEN it admits without an Education,
+Health and Care Plan.
+7 Except where the change is an increase to a school's published admission number (see
+paragraph 1.3) or is made to comply with any mandatory requirements of the Code or The
+School Admissions (Admission Arrangements and Co-ordination of Admission Arrangements)
+(England) Regulations 2012 (hereafter the "School Admissions Regulations 2012").
+7
+completed by 31 January 2022. This consultation period allows
+parents, other schools, religious authorities, and the local
+community to raise any concerns about the proposed admission
+arrangements.
+c)
+Once all arrangements have been determined, arrangements can
+be objected to and referred to the Schools Adjudicator. Objections
+to admission arrangements must be referred to the Adjudicator by
+15 May in the school year before those arrangements are to apply
+(the determination year). For example: for arrangements which are
+to apply for entry in September 2023, objections must be referred
+to the Adjudicator by 15 May 2022. Any decision of the Adjudicator
+must be acted on by the admission authority and admission
+arrangements amended accordingly. The local authority will collate
+and publish all the admission arrangements in the area in a single
+composite prospectus.
+d)
+In the normal admissions round⁸ parents apply to the local
+authority in which they live for places at their preferred schools.
+Parents are able to express a preference for at least three schools.
+The application can include schools outside the local authority
+where the child lives: a parent can apply for a place for their child
+at any state-funded school in any area. If a school is
+undersubscribed, any parent that applies must be offered a place.
+When oversubscribed, a school's admission authority must rank
+applications in order against its published oversubscription criteria
+and send that list back to the local authority. Published admission
+arrangements must make clear to parents that a separate
+application must be made for any transfer from nursery to primary
+school, and from infant to junior school.
+e)
+All preferences are collated and parents then receive an offer from
+the local authority at the highest preference school at which a
+place is available. The offer is made on National Offer Day - this is
+1 March for secondary schools or 16 April for primary schools (or
+the next working day where 1 March or 16 April fall on a weekend
+or bank holiday), in the year in which the child will be admitted.
+f)
+Parents, and in some circumstances children, have the right to
+appeal against an admission authority's decision to refuse
+admission. The admission authority must set out the reasons for
+the decision, that there is a right of appeal and the process for
+hearing such appeals. The admission authority must establish an
+independent appeals panel to hear the appeal. The panel will
+decide whether to uphold or dismiss the appeal. Where a panel
+upholds the appeal, the school is required to admit the child.
+8 The "normal admissions round" covers applications for admission in a relevant age group,
+which are made in time for the local authority to offer a school place on National Offer Day. The
+deadlines for submitting applications to be allocated on National Offer Day are 31 October for
+secondary school and 15 January for primary school.
+8
+Section 1: Determining Admission Arrangements
+1.1
+Admission authorities are responsible for admissions and must act in
+accordance with this Code, the School Admission Appeals Code, other laws
+relating to admissions⁹, and relevant human rights and equalities legislation.
+Published Admission Number (PAN)
+1.2
+As part of determining their admission arrangements¹⁰ all admission
+authorities must set an admission number for each 'relevant age group'¹¹.
+1.3
+Own admission authorities are not required to consult on their PAN where
+they propose either to increase or keep the same PAN¹² For a community or
+voluntary controlled school, the local authority (as admission authority) must
+consult at least the governing body of the school where it proposes either to
+increase or keep the same PAN. All admission authorities must consult in
+accordance with paragraph 1.45 below where they propose a decrease to the
+PAN. Community and voluntary controlled schools have the right to object to the
+Schools Adjudicator if the PAN set for them is lower than they would wish. There
+is a strong presumption in favour of an increase to the PAN to which the
+Schools Adjudicator must have regard when considering any such objection.
+1.4
+Admission authorities must notify their local authority of their intention to
+increase the school's PAN and reference to the change should be made on the
+school's website. If, at any time following determination of the PAN, an
+admission authority decides that it is able to admit above its PAN, it must notify
+the local authority in good time to allow the local authority to deliver its co-
+ordination responsibilities effectively. Admission authorities may also admit
+above their PAN through in-year admissions. The PAN only applies to the
+relevant age group. This means that admission authorities may not refuse
+admission to other age groups on the grounds that they have already reached
+their PAN. They may, however, refuse admission where the admission of
+another child would prejudice the provision of efficient education or efficient use
+of resources.
+1.5
+Any admissions above the PAN as set out in paragraph 1.4 above will not
+constitute an increase to the PAN¹³. Information on variations to the PAN after
+admission arrangements have been determined for a particular school year is
+set out in paragraph 3.6 of this Code.
+9 The main provisions relating to admissions are in Chapter 1 of Part 3 of the SSFA 1998.
+10 See Sections 88C and 88D of the SSFA 1998.
+11 This is the age group at which pupils are or will normally be admitted to the school e.g.
+reception, year 7 and year 12 where the school admits external applicants to the sixth form
+(Section 142 of the SSFA 1998).
+12 Regulation 14 of School Admissions Regulations 2012.
+13 Where an enlargement of school premises is proposed the governing body of a maintained
+school is required to observe the relevant regulations, currently the School Organisation
+(Prescribed Alterations to Maintained Schools) (England) Regulations 2013 (SI 2013/3110). For
+Academies, such changes are agreed with the Secretary of State through the Funding
+Agreement.
+9
+Oversubscription criteria
+1.6
+The admission authority for the school must set out in their arrangements
+the criteria against which places will be allocated at the school when there are
+more applications than places and the order in which the criteria will be applied.
+All children whose Education, Health and Care Plan 14 names the school must be
+admitted. If the school is not oversubscribed, all applicants must be offered a
+place (with the exception of designated grammar schools - see paragraph 2.8 of
+this Code).
+1.7
+All schools must have oversubscription criteria for each 'relevant age
+group' and the highest priority must be given, unless otherwise provided in this
+Code, to looked after children 15 and all previously looked after children, including
+those children who appear (to the admission authority) to have been in state
+care outside of England and ceased to be in state care as a result of being
+adopted 16 Previously looked after children are children who were looked after
+but ceased to be so because they were adopted¹⁷ (or became subject to a child
+arrangements order 18 or special guardianship order All references to
+previously looked after children in this Code mean such children who were
+adopted (or subject to child arrangements orders or special guardianship orders)
+immediately following having been looked after and those children who appear
+(to the admission authority) to have been in state care outside of England and
+ceased to be in state care as a result of being adopted. Oversubscription criteria
+must then be applied to all other applicants in the order set out in the
+arrangements.
+1.8
+Oversubscription criteria must be reasonable, clear, objective,
+procedurally fair, and comply with all relevant legislation, including equalities
+legislation. Admission authorities must ensure that their arrangements will not
+disadvantage unfairly, either directly or indirectly, a child from a particular social
+or racial group, or a child with a disability or special educational needs, and that
+other policies around school uniform or school trips do not discourage parents
+from applying for a place for their child. Admission arrangements must include
+an effective, clear, and fair tie-breaker to decide between two applications that
+cannot otherwise be separated.
+14 An Education, Health and Care Plan is a plan made by the local authority under Section 37 of
+the Children and Families Act 2014 specifying the special education, health and social care
+provision required for that child.
+15 A 'looked after child' is a child who is (a) in the care of a local authority, or (b) being provided
+with accommodation by a local authority in the exercise of their social services functions (see the
+definition in Section 22(1) of the Children Act 1989) at the time of making an application to a
+school.
+16 A child is regarded as having been in state care outside of England if they were in the care of
+or were accommodated by a public authority, a religious organisation, or any other provider of
+care whose sole or main purpose is to benefit society.
+17 This includes children who were adopted under the Adoption Act 1976 (see Section 12
+adoption orders) and children who were adopted under the Adoption and Children Act 2002 (see
+Section 46 adoption orders).
+18 Child arrangements orders are defined in Section 8 of the Children Act 1989, as amended by
+Section 12 of the Children and Families Act 2014. Child arrangements orders replace residence
+orders and any residence order in force prior to 22 April 2014 is deemed to be a child
+arrangements order.
+19 See Section 14A of the Children Act 1989 which defines a 'special guardianship order' as an
+order appointing one or more individuals to be a child's special guardian (or special guardians).
+10
+1.9
+It is for admission authorities to formulate their admission arrangements,
+but they must not:
+a) place any conditions on the consideration of any application other
+than those in the oversubscription criteria published in their
+admission arrangements;
+b) take into account any previous schools attended, unless it is a named
+feeder school;
+c) give extra priority to children whose parents rank preferred schools
+in a particular order, including 'first preference first' arrangements;
+d) introduce any new selection by ability²⁰;
+e) give priority to children on the basis of any practical or financial
+support parents may give to the school or any associated
+organisation, including any religious authority²¹. The exception to this
+is where parents pay optional nursery fees to the school or school-run
+nursery, for additional hours on top of their 15-hour funded early
+education, where children from the school nursery class or school-run
+nursery are given priority for admission to Reception;
+f) give priority to children according to the occupational, marital,
+financial, or educational status of parents applying. The exceptions to
+this are children of staff at the school and those eligible for the early
+years pupil premium, the pupil premium and the service premium who
+may be prioritised in the arrangements in accordance with
+paragraphs 1.39 - 1.42;
+g) take account of reports from previous schools about children's past
+behaviour, attendance, attitude, or achievement, or that of any other
+children in the family;
+h) discriminate against or disadvantage disabled children, those with
+special educational needs, or those applying for admission outside
+their normal age group where an admission authority has agreed to
+this under paragraphs 2.18 to 2.20;
+i) prioritise children on the basis of their own or their parents' past or
+current hobbies or activities (schools which have been designated as
+having a religious character²² may take account of religious activities,
+as laid out by the body or person representing the religion or religious
+denomination²³);
+j)
+in designated grammar schools that rank all children according to a
+20 There is a general restriction on selection by ability. Only the following schools are permitted
+to use selection by ability: designated grammar schools; schools with partially selective
+arrangements which already had such arrangements in place during the 1997/98 school year;
+and school sixth forms. Grammar schools are designated as such by order made by the
+Secretary of State under Section 104 of the SSFA 1998.
+21 This includes any donations, paid work, or voluntary activity, which supports or benefits the
+school or any associated organisation, including any religious organisation, or its employees
+either directly or through work in the community. This does not include any religious activities as
+permitted by paragraph 1.9(i) for schools which have been designated as having a religious
+character, or instances where the admission authority has chosen to list children of staff within
+their oversubscription criteria as permitted by paragraph 1.39 of this Code.
+22 Designated by order under Section 69(3) of the SSFA 1998.
+23 Schedule 3 of the School Admissions Regulations 2012. For Academies, the representative
+body or person is set out in the Funding Agreement.
+11
+pre-determined pass mark and then allocate places to those who
+score highest, give priority to siblings of current or former pupils;
+k) in the case of schools with boarding places, rank children on the
+basis of a child's suitability for boarding - more information on
+boarding schools is set out at paragraphs 1.43 - 1.44 below;
+I)
+name fee-paying independent schools as feeder schools;
+m) interview children or parents. In the case of sixth form applications, a
+meeting may be held to discuss options and academic entry
+requirements for particular courses, but this meeting cannot form part
+of the decision making process on whether to offer a place. Boarding
+schools may interview children to assess their suitability for boarding;
+n) request financial contributions (either in the form of voluntary
+contributions, donations, or deposits (even if refundable)) as any part
+of the admissions process - including for tests; or
+o) request photographs of a child for any part of the admissions
+process, other than as proof of identity when sitting a selection test.
+1.10 This Code does not give a definitive list of acceptable oversubscription
+criteria. It is for admission authorities to decide which criteria would be most
+suitable to the school according to the local circumstances. The most common
+are set out below.
+Siblings at the school
+1.11 Admission authorities must state clearly in their arrangements what they
+mean by 'sibling' (e.g. whether this includes step siblings, foster siblings,
+adopted siblings and other children living permanently at the same address or
+siblings who are former pupils of the school). If an admission authority wishes to
+give some priority to siblings of former pupils, it must set out a clear and simple
+definition of such former pupils and how their siblings will be treated in the
+oversubscription criteria (bearing in mind the restrictions set out in paragraph 1.9
+above).
+1.12 Some schools give priority to siblings of pupils attending another state
+funded school with which they have close links (for example, schools on the
+same site, or close links between two single sex schools). Where this is the
+case, this priority must be set out clearly in the arrangements.
+Distance from the school or nodal points
+1.13 Admission authorities must clearly set out how distance from home to the
+school and/or any nodal points used in the arrangements will be measured. This
+must include making clear how the 'home' address will be determined and the
+point(s) in the school or nodal points from which all distances will be measured.
+This should include provision for cases where parents have shared
+responsibility for a child following the breakdown of their relationship and the
+child lives for part of the week with each parent. The selection of a nodal point
+must be clearly explained and made on reasonable grounds.
+12
+Catchment Areas
+1.14 Catchment areas must be designed so that they are reasonable and
+clearly defined²⁴ Catchment areas do not prevent parents who live outside the
+catchment of a particular school from expressing a preference for the school.
+Feeder Schools
+1.15 Admission authorities may wish to name a primary or middle school as a
+feeder school. The selection of a feeder school or schools as an
+oversubscription criterion must be transparent and made on reasonable
+grounds.
+Social and medical need
+1.16 If admission authorities decide to use social and medical need as an
+oversubscription criterion, they must set out in their arrangements how they will
+define this need and give clear details about what supporting evidence will be
+required (e.g. a letter from a doctor or social worker) and then make consistent
+decisions based on the evidence provided.
+Selection by ability or aptitude
+1.17 The admission authorities for all selective schools must publish the entry
+requirements for a selective place and the process for such selection in their
+admission arrangements.
+Grammar schools
+1.18 Only designated grammar schools²⁵ are permitted to select their entire
+intake on the basis of high academic ability²⁶. They do not have to fill all of their
+places if applicants have not reached the required standard.
+1.19 Where arrangements for pupils are wholly based on selection by
+reference to ability and provide for only those pupils who score highest in any
+selection test to be admitted, no priority needs to be given to looked after
+children or previously looked after children.
+1.20 Where admission arrangements are not based solely on highest scores in
+a selection test, the admission authority must give priority in its oversubscription
+criteria to all looked after children and previously looked after children who meet
+the pre-set standards of the ability test.
+24 R V Greenwich London Borough Council, ex parte John Ball Primary School (1989) 88 LGR
+589 [1990] Fam Law 469 held that pupils should not be discriminated against in relation to
+admission to the school simply because they reside outside the local authority area in which the
+school is situated. Section 86(8) of the SSFA 1998 places an equal duty on local authorities to
+comply with parental preference in respect of parents living within and outside their boundary.
+25 As designated by the Education (Grammar School Designation) Order 1998 (SI
+1998/2219). Where a designated grammar school converts to become an Academy, the
+Academy is permitted to continue selecting their entire intake: Section 6(3) of the Academies Act
+2010.
+26 Section 104 of the SSFA 1998.
+13
+Pre-existing, partially selective schools
+1.21 Partially selective schools select a proportion of their intake by ability.
+Where schools can partially select, they must publish the entry requirements for
+a selective place, and the process for such selection. They must offer places to
+other children if there are insufficient applicants who have satisfied the published
+entry requirements for a selective place.
+1.22 Partially selective schools must not exceed the lowest proportion of
+selection that has been used since the 1997/98 school year²⁷.
+1.23 In relation to the proportion of pupils admitted on a selective basis, where
+arrangements provide for only those pupils who score highest in any selection
+test to be admitted, no priority needs to be given to looked after children or
+previously looked after children. Where such arrangements are not based on
+highest scores in a selection test, the admission authority must give priority in
+its oversubscription criteria to all looked after children and previously looked
+after children who meet the pre-set standards of the test. For the allocation of
+the remainder of places after selection, looked after children and previously
+looked after children must again be given first priority for admission.
+Selection by aptitude
+1.24 Schools that have arrangements to select by aptitude must not allow for
+more than 10 per cent of the total admissions intake to be allocated on the basis
+of such aptitude (even if the school has more than one specialism). The only
+specialist subjects on which a school may select by aptitude are:
+a)
+physical education or sport, or one or more sports;
+b)
+the performing arts, or any one or more of those arts;
+c)
+the visual arts, or any one or more of those arts;
+d)
+modern foreign languages, or any such language; and
+e)
+design and technology and information technology. Only schools
+which selected on either of these specialist subjects in the school
+year 2007/08 and every subsequent year may continue to do so.
+Banding
+1.25 Pupil ability banding is a permitted form of selection 28 used by some
+admission authorities to ensure that the intake for a school includes a
+proportionate spread of children of different abilities. Banding can be used to
+produce an intake that is representative of:
+a)
+the full range of ability of applicants for the school(s);
+b)
+the range of ability of children in the local area; or
+c)
+the national ability range.
+27 Section 100 of the SSFA 1998.
+28 Section 101 of the SSFA 1998.
+14
+1.26 Admission authorities' entry requirements for banding must be fair, clear,
+and objective. Banding arrangements which favour high ability children that have
+been continuously used since the 1997/98 school year may continue but must
+not be introduced by any other school.
+1.27 The admission authority must publish the admission requirements and
+the process for such banding and decisions, including details of any tests that
+will be used to band children according to ability.
+1.28 Where the school is oversubscribed:
+a)
+looked after children and previously looked after children must be
+given top priority in each band, and then any oversubscription
+criteria applied within each band, and
+b)
+priority must not be given within bands according to the
+applicant's performance in the test.
+1.29 Schools that operate admission arrangements which include both
+banding and selection of up to 10% of pupils with reference to aptitude, must
+set out clearly in their admission arrangements how those two methods of
+selection will be applied.
+1.30 Children with Education, Health and Care Plans may be included in
+banding tests and allocated places in the appropriate bands but, regardless of
+any banding arrangements, they must be allocated a place if their Education,
+Health and Care Plan names the school.
+Tests for selection
+1.31 Tests for all forms of selection must be clear, objective, and give an
+accurate reflection of the child's ability or aptitude, irrespective of sex, race, or
+disability. It is for the admission authority to decide the content of the test,
+providing that the test is a true test of aptitude or ability.
+1.32 Admission authorities must:
+a)
+ensure that tests for aptitude in a particular subject are designed to
+test only for aptitude in the subject concerned, and not for ability;
+b)
+ensure that tests are accessible to children with special
+educational needs and disabilities, having regard to the
+reasonable adjustments for disabled pupils required under
+equalities legislation; and
+c)
+take all reasonable steps to inform parents of the outcome of
+selection tests 29 before the closing date for secondary applications
+on 31 October so as to allow parents time to make an informed
+choice of school - while making clear that this does not equate to a
+guarantee of a selective place.
+1.33 Admission authorities must not adjust the score achieved by any child in a test
+to take account of oversubscription criteria, such as having a sibling at the school.
+29 This does not apply to testing as part of banding arrangements, as described in paragraphs
+1.25 - 1.30 of this Code.
+15
+Random allocation
+1.34 Local authorities must not use random allocation as the principal
+oversubscription criterion for allocating places at all the schools in the area for
+which they are the admission authority. Admission authorities that decide to use
+random allocation when schools are oversubscribed must set out clearly how
+this will operate, ensuring that arrangements are transparent, and that looked
+after children and previously looked after children are prioritised.
+1.35 The random allocation process must be supervised by someone
+independent of the school, and a fresh round of random allocation must be
+used each time a child is to be offered a place from a waiting list.
+Faith based oversubscription criteria in schools designated
+with a religious character
+1.36 As with other publicly funded mainstream schools, these schools are
+required to offer every child who applies, whether of the faith, another faith or no
+faith, a place at the school if there are places available. Schools designated by
+the Secretary of State as having a religious character (commonly known as faith
+schools) may use faith-based oversubscription criteria³⁰ and allocate places by
+reference to faith where the school is oversubscribed.
+1.37 Admission authorities must ensure that parents can easily understand
+how any faith-based criteria will be reasonably satisfied. Admission authorities
+for schools designated with a religious character may give priority to all looked
+after children and previously looked after children whether or not of the faith, but
+they must give priority to looked after children and previously looked after
+children of the faith before other children of the faith. Where any element of
+priority is given in relation to children not of the faith, they must give priority to
+looked after children and previously looked after children not of the faith above
+other children not of the faith³¹,
+1.38 Admission authorities for schools designated as having a religious
+character must have regard to any guidance from the body or person
+representing the religion or religious denomination when constructing faith-
+based admission arrangements, to the extent that the guidance complies with
+the mandatory provisions and guidelines of this Code. They must also consult
+with the body or person representing the religion or religious denomination when
+deciding how membership or practice of the faith is to be demonstrated. Church
+of England schools must, as required by the Diocesan Boards of Education
+Measure 1991³², consult with their diocese about proposed admission
+arrangements before any public consultation.
+30 Funding Agreements for entirely new Academies (i.e. not converters from the maintained
+sector, or those sponsored Academies with a predecessor school) and Free Schools with a
+religious character provide that where the school is oversubscribed at least 50% of places are to
+be allocated without reference to faith.
+31 Regulation 9 of the School Admissions Regulations 2012.
+32 Diocesan Boards of Education Measure 1991 (No.2).
+16
+Children of staff at the school
+1.39 Admission authorities may give priority in their oversubscription criteria to
+children of staff in either or both of the following circumstances:
+a)
+where the member of staff has been employed at the school for
+two or more years at the time at which the application for
+admission to the school is made; and/or
+b)
+the member of staff is recruited to fill a vacant post at the school
+for which there is a demonstrable skill shortage.
+1.40 Admissions authorities must specify in their admission arrangements
+how this priority will be applied, for example, which groups of staff it will apply to.
+Children eligible for pupil premium, early years premium or
+service premium
+1.41 Admission authorities may give priority in their oversubscription criteria to
+children eligible for the early years pupil premium³³, the pupil premium³⁴ and also
+children eligible for the service premium³⁵ Admission authorities should clearly define
+in their arrangements the categories of eligible premium recipients to be prioritised.
+1.42 Admission authorities may give priority in their oversubscription criteria to
+children eligible for the early years pupil premium, the pupil premium, or the
+service premium who:
+a)
+are in a nursery class which is part of the school; or
+b)
+attend a nursery that is established and run by the school. The
+nursery must be named in the admission arrangements and its
+selection must be transparent and made on reasonable grounds.
+Maintained boarding schools
+1.43 Maintained boarding schools can set separate admission numbers for
+day places and boarding places³⁶, A maintained boarding school can interview
+applicants to assess suitability for boarding, but such interviews must only
+consider whether a child presents a serious health and safety hazard to other
+boarders or whether they would be able to cope with and benefit from a
+boarding environment. To help with this assessment, they may also use a
+supplementary information form, and information provided by the previous
+school and by the child's home local authority (on safeguarding issues). These
+processes, and the timeline for them, must be clearly set out in the school's
+admission arrangements.
+33 The early years pupil premium is additional funding paid to support disadvantaged children
+receiving government-funded early education, as per Section 7 of the Childcare Act 2006.
+34 The pupil premium is additional funding paid annually to schools under Section 14 of the
+Education Act 2002 for the purposes of supporting the attainment of disadvantaged children.
+35 The service premium is additional funding paid annually to schools under Section 14 of the
+Education Act 2002 for the purposes of supporting the pastoral needs of the children of Armed
+Services personnel.
+36 Boarding places are places for pupils who are provided with overnight board and lodging by
+the school. Day places are places for pupils who attend school on a daily basis, including pupils
+who participate in optional school activities outside school hours (for example breakfast club,
+after-school clubs, music lessons, tea, and supervised homework sessions).
+17
+1.44 Boarding schools must give priority in their oversubscription criteria in the
+following order:
+a)
+looked after children and previously looked after children;
+b)
+children of members of the UK Armed Forces who qualify for
+Ministry of Defence financial assistance with the cost of boarding
+school fees;
+c)
+children with a 'boarding need', making it clear what they mean by
+this.
+Consultation³⁷
+1.45 When changes³⁸ are proposed to admission arrangements, all admission
+authorities must consult on their admission arrangements (including any
+supplementary information form) that will apply for admission applications the
+following school year. Where the admission arrangements have not changed
+from the previous year there is no requirement to consult, subject to the
+requirement that admission authorities must consult on their admission
+arrangements at least once every 7 years, even if there have been no changes
+during that period³⁹
+1.46 Consultation must last for a minimum of 6 weeks and must take place
+between 1 October and 31 January in the determination year.
+1.47 Admission authorities must consult with:
+a)
+parents of children between the ages of two and eighteen;
+b)
+other persons in the relevant area⁴⁰ who in the opinion of the
+admission authority have an interest in the proposed admissions;
+c)
+all other admission authorities within the relevant area (except that
+primary schools need not consult secondary schools);
+d)
+whichever of the governing body and the local authority is not the
+admission authority;
+e)
+any adjoining neighbouring local authorities where the admission
+authority is the local authority; and
+f)
+in the case of schools designated with a religious character, the
+body or person representing the religion or religious denomination.
+37 See also paragraph 1.3. Regulations 12 to 17 of the School Admissions Regulations 2012
+cover consultation requirements.
+38 An increase to PAN, or a change to the admission arrangements to comply with the
+mandatory provisions of the Code or the School Admissions Regulations 2012, is not a change
+requiring consultation.
+39 A consultation on a proposal to increase or keep the same PAN by a local authority as
+admission authority with the governing body of a voluntary controlled or community school is not
+a consultation for the purposes of calculating a seven year period without consultation.
+40 As set out in the Glossary.
+18
+1.48 For the duration of the consultation period, the admission authority must
+publish a copy of their full proposed admission arrangements (including the
+proposed PAN) on the school's website or its own website (in the case of a local
+authority) together with details of where comments may be sent and the areas
+on which comments are not sought4¹ Admission authorities must also send,
+upon request, a copy of the proposed admission arrangements to any of the
+persons or bodies listed above inviting comment. Failure to consult effectively
+may be grounds for subsequent complaints and appeals.
+Determination
+1.49
+All admission authorities must determine⁴² their admission
+arrangements, including their PAN, every year, even if they have not changed
+from previous years and a consultation has not been required by 28 February
+in the determination year⁴³.
+1.50 Once admission authorities have determined their admission
+arrangements, they must notify the appropriate bodies⁴⁴ and must publish a
+copy of the determined arrangements on the school's website or their own
+website (in the case of a local authority) by 15 March in the determination year⁴⁵
+and continue displaying them for the whole offer year (the school year in which
+offers for places are made). Admission authorities must also send a copy of
+their full, determined arrangements to the local authority as soon as possible
+before 15 March in the determination year. Admission authorities for schools
+designated with a religious character must also send a copy of their
+arrangements to the body or person representing their religion or religious
+denomination.
+1.51 Where an admission authority has determined a PAN that is higher than
+in previous years, they must notify the local authority that they have done so
+and make specific reference to the change on their website.
+1.52 Local authorities must publish on their website the proposed admission
+arrangements for any new school or Academy which is intended to open in their
+area within the determination year, details of where the determined
+arrangements for all schools, including Academies, can be viewed, and
+information on how to refer objections to the Schools Adjudicator. Local
+authorities must publish these details by 15 March in the determination year⁴⁶.
+1.53 Following determination of arrangements, any objections to those
+arrangements must be made to the Schools Adjudicator. Objections to
+admission arrangements must be referred to the Schools Adjudicator by 15
+41 Regulation 16 of the School Admissions Regulations 2012.
+42 Determination occurs at the point at which the admission arrangements are formally agreed by
+the admission authority. This decision should be recorded in the minutes of the meeting at which
+it is made.
+43 Regulation 17 of the School Admissions Regulations 2012.
+44 In addition to the bodies listed at paragraph 1.47 (c), (d) and (f) and so far as not covered by
+them, all governing bodies for community and voluntary controlled schools in the relevant area.
+45 The governing body of a community or voluntary controlled school must also publish this
+information on the school's website - see regulation 10 of the School Information Regulations
+2008.
+46 Regulation 18 of the School Admissions Regulations 2012.
+19
+May in the determination year⁴⁷. Admission authorities that are not the local
+authority must provide all the information that the local authority needs to
+compile the composite prospectus no later than 8 August, unless agreed
+otherwise⁴⁸,
+Composite prospectuses
+1.54 Local authorities must publish online - with hard copies available for
+those who do not have access to the internet - a composite prospectus for
+parents by 12 September⁴⁹ in the offer year, which contains the admission
+arrangements and any supplementary information forms for each of the state-
+funded schools in the local authority area to which parents can apply (i.e. all
+schools including Academies). They must ensure that this information is kept up
+to date throughout the period in which it is possible for parents to apply for a
+place for their child, including updating it with information about any new
+schools which open in their area during the offer year. They must ensure the
+prospectus is written in a way that makes it clear and accessible to all parents.
+47 Regulation 23 of the School Admissions Regulations 2012. See also paragraphs 3.2 - 3.5 of
+this Code regarding objections to the Schools Adjudicator.
+48 Regulation 7 of the School Information (England) Regulations 2008 SI 2008/3093.
+49 Regulations 5, 6 and Schedule 2 of the School Information (England) Regulations 2008.
+20
+Section 2: Applications and Offers
+Applying for places in the normal admissions round
+2.1
+Local authorities must provide a common application form (CAF) that
+enables parents to express their preference for a place at any state funded
+school, with a minimum of 3 preferences in rank order, allowing them to give
+reasons for their preferences. While parents may express a preference for any
+state funded school - regardless of whether it is in the local authority area in
+which they live - admission authorities must not give any guarantees that a
+preference will be met.
+2.2
+The CAF must allow parents to provide their name, their address
+(including documentary evidence in support), and the name, address, and date
+of birth of the child. The child must not be required to complete any part of the
+CAF. Local authorities must provide advice and assistance to parents when
+they are deciding which schools to apply for⁵⁰.
+2.3
+Regardless of which schools parents express preferences for, the CAF is
+required to be returned to the local authority in the area that they live (the
+'home' authority). The home authority must then pass information on
+applications to other local ('maintaining') authorities about applications to
+schools in their area. The maintaining authority must determine the application
+and inform the home local authority if a place is available. The offer to parents
+must be made by the home local authority.
+2.4
+In some cases, admission authorities will need to ask for supplementary
+information forms in order to process applications. If they do so, they must only
+use supplementary forms that request additional information when it has a direct
+bearing on decisions about oversubscription criteria or for the purpose of
+selection by aptitude or ability. Places must be allocated on the basis of the
+oversubscription criteria only. An applicant must not be given additional priority
+solely on the basis of having completed a supplementary form. Admission
+authorities must not ask, or use supplementary forms that ask, for any of the
+information prohibited by paragraph 1.9 above or for:
+a)
+any personal details about parents and families, such as maiden
+names, criminal convictions, marital, or financial status (including
+marriage certificates);
+b)
+the first language of parents or the child;
+c)
+details about parents' or a child's disabilities, special educational
+needs, or medical conditions;
+d)
+parents to agree to support the ethos of the school in a practical
+way;
+e)
+both parents to sign the form, or for the child to complete the form.
+50 In accordance with Section 86(1A) of the SSFA 1998.
+21
+2.5
+Admission authorities may need to ask for proof of address where it is
+unclear whether a child meets the published oversubscription criteria. In these
+cases, they must not ask for any evidence that would include any of the
+information detailed above. Once a place has been offered, admission
+authorities may ask for proof of birth date, but must not ask for a 'long' birth
+certificate or other documents which would include information about the child's
+parents. In the case of previously looked after children, admission authorities
+may request a copy of the adoption order, child arrangements order or special
+guardianship order and a letter from the local authority that last looked after the
+child, confirming that they were looked after immediately prior to that order being
+made, or such evidence that demonstrates a child was in state care outside of
+England prior to being adopted.
+Applying for places at Sixth Form
+2.6
+Children and their parents applying for sixth form places may use the
+CAF, although if they are already on the roll, they are not required to do so in
+order to transfer into year 12. Admission authorities can, however, set academic
+entry criteria for their sixth forms, which must be the same for both external and
+internal places. School sixth form admission arrangements for external
+applicants must be consulted upon, determined, and published in accordance
+with the same timetable as for admission arrangements for other entry points.
+As with other points of entry to schools, highest priority in oversubscription
+criteria for sixth form places must be given to looked after children and
+previously looked after children who meet the academic entry criteria. As stated
+in paragraph 1.9 m) above, any meetings held to discuss options and courses
+must not form part of the decision process on whether to offer a place.
+Allocating places
+2.7
+Admission authorities must allocate places on the basis of their
+determined admission arrangements only. A decision to offer or refuse
+admission must not be made by one individual in an admission authority.
+Where the school is its own admission authority the whole governing body, or an
+admissions committee established by the governing body, must make such
+decisions⁵ The admission authority must keep a clear record of any decisions
+on applications, including in-year applications.
+2.8
+With the exception of designated grammar schools, all maintained
+schools, and academies, including schools designated with a religious
+character, that have enough places available must offer a place to every child
+who has applied for one, without condition or the use of any oversubscription
+criteria.
+51 Where it is not possible to convene a face to face meeting of a governing body or the
+admissions committee (where applicable) in order to make a decision on an application,
+decisions may be made 'virtually', provided members are 'present' - for example via telephone
+or video conference. Admission authorities must ensure their processes comply with relevant
+governance requirements.
+22
+2.9
+Admission authorities must not refuse to admit a child solely because:
+a)
+they have applied later than other applicants;
+b)
+they are not of the faith of the school, in the case of a school
+designated with a religious character;
+c)
+they followed a different curriculum at their previous school;
+d)
+information has not been received from their previous school; or
+e)
+they have missed entrance tests for selective places.
+2.10 In the normal admissions round, offers of primary and secondary places
+must be sent by the home local authority and schools must not contact parents
+about the outcome of their applications until after these offers have been
+received. Admission authorities must not provide any guarantees to applicants
+of the outcome of their application prior to the formal notification of any offers of
+a place in a suitable school by the home local authority.
+2.11 Where a place is available for a child at more than one school, the home
+local authority must ensure, so far as is reasonably practicable, that the child is
+offered a place at whichever of these schools is their highest preference. If the
+local authority is unable to offer a place at one of the parents' preferred schools
+it must, if there are places available, offer a place at another school.
+Offering a place
+2.12 Where schools are oversubscribed, admission authorities must rank
+applications in accordance with their determined arrangements. The qualifying
+scheme must ensure that:
+a)
+only one offer per child is made by the local authority;
+b)
+for secondary school applications, all offers must be made on the
+same secondary National Offer Day i.e.1 March or the next
+working day, and
+c)
+for primary school applications, all offers must be made on the
+same primary National Offer Day i.e. 16 April or the next working
+day.
+Withdrawing an offer or a place
+2.13 An admission authority must not withdraw an offer unless it has been
+offered in error, a parent has not responded within a reasonable period of time,
+or it is established that the offer was obtained through a fraudulent or
+intentionally misleading application. Where the parent has not responded to the
+offer, the admission authority must give the parent a further opportunity to
+respond and explain that the offer may be withdrawn if they do not. Where an
+offer is withdrawn on the basis of misleading information, the application must
+be considered afresh, and a right of appeal offered if an offer is refused.
+23
+2.14 A school must not withdraw a place once a child has started at the
+school, except where that place was fraudulently obtained. In deciding whether
+to withdraw the place, the length of time that the child has been at the school
+must be taken into account. For example, it might be considered appropriate to
+withdraw the place if the child has been at the school for less than one term.
+Waiting lists
+2.15 Each admission authority must maintain a clear, fair, and objective
+waiting list until at least 31 December of each school year of admission, stating
+in their arrangements that each added child will require the list to be ranked
+again in line with the published oversubscription criteria. Priority must not be
+given to children based on the date their application was received, or their name
+was added to the list. Looked after children or previously looked after children
+allocated a place at the school in accordance with a Fair Access Protocol must
+take precedence over those on a waiting list⁵².
+Infant class size
+2.16 Infant classes (those where the majority of children will reach the age of
+5, 6 or 7 during the school year) must not contain more than 30 pupils with a
+single school teacher⁵³. Additional children may be admitted under limited
+exceptional circumstances. These children will remain an 'excepted pupil' for the
+time they are in an infant class or until the class numbers fall back to the current
+infant class size limit. The excepted children are:
+a)
+children admitted outside the normal admissions round with
+Education, Health and Care Plans specifying the school;
+b)
+looked after children and previously looked after children admitted
+outside the normal admissions round;
+c)
+children admitted after initial allocation of places, because of a
+procedural error made by the admission authority or local authority
+in the original application process;
+d)
+children admitted after an independent appeals panel upholds an
+appeal;
+e)
+children who move into the area outside the normal admissions
+round for whom there is no other available school within
+reasonable distance;
+f)
+children of UK service personnel admitted outside the normal
+admissions round;
+g)
+children whose twin or sibling from a multiple birth is admitted
+otherwise than as an excepted pupil;
+h)
+children with special educational needs who are normally taught in
+52 Admission authorities for schools designated with a religious character must treat looked after
+children and previously looked after children on their waiting list in line with the principles set out
+in paragraph 1.37.
+53 'Teacher' is defined in Section 4 of the SSFA 1998.
+24
+a special educational needs unit⁵⁴ attached to the school, or
+registered at a special school, who attend some infant classes
+within the mainstream school⁵⁵.
+Admission of children below compulsory school age 56
+and deferred entry to school
+2.17 Admission authorities must provide for the admission of all children in
+the September following their fourth birthday. The authority must make it clear
+in their arrangements that where they have offered a child a place at a school:
+a)
+that child is entitled to a full-time place in the September following
+their fourth birthday;
+b)
+the child's parents can defer the date their child is admitted to the
+school until later in the school year but not beyond the point at
+which they reach compulsory school age and not beyond the
+beginning of the final term of the school year for which it was
+made; and
+c)
+where the parents wish, children may attend part-time until later in
+the school year but not beyond the point at which they reach
+compulsory school age.
+Admission of children outside their normal age group
+2.18 Parents may seek a place for their child outside of their normal age group,
+for example, if the child is gifted and talented or has experienced problems such
+as ill health. In addition, the parents of a summer born child⁵⁷ may choose not to
+send that child to school until the September following their fifth birthday and
+may request that they are admitted out of their normal age group - to reception
+rather than year 1. Admission authorities must make clear in their admission
+arrangements the process for requesting admission out of the normal age group.
+2.19 Admission authorities must make decisions on the basis of the
+circumstances of each case and in the best interests of the child concerned.
+This will include taking account of the parent's views; information about the
+child's academic, social, and emotional development; where relevant, their
+medical history and the views of a medical professional; whether they have
+previously been educated out of their normal age group; and whether they may
+naturally have fallen into a lower age group if it were not for being born
+54 A special educational needs unit forms part of a school and is specially organised to provide
+education for pupils with special educational needs.
+55 The School Admissions (Infant Class Sizes) (England) Regulations 2012.
+56 Compulsory school age is set out in Section 8 of the Education Act 1996 and the Education
+(Start of Compulsory School Age) Order 1998. A child reaches compulsory school age on the
+prescribed day following his or her fifth birthday (or on his or her fifth birthday if it falls on a
+prescribed day). The prescribed days are 31 December, 31 March, and 31 August.
+57 The term summer born children relates to all children born from 1 April to 31 August. These
+children reach compulsory school age on 31 August following their fifth birthday (or on their fifth
+birthday if it falls on 31 August). It is likely that most requests for summer born children to be
+admitted out of their normal age group will come from parents of children born in the later
+summer months or those born prematurely.
+25
+prematurely. They must also take into account the views of the head teacher of
+the school concerned. When informing a parent of their decision on the year
+group the child should be admitted to, the admission authority must set out
+clearly the reasons for their decision.
+2.20 Where an admission authority agrees to a parent's request for their child
+to be admitted out of their normal age group and, as a consequence of that
+decision, the child will be admitted to a relevant age group (i.e. the age group to
+which pupils are normally admitted to the school) the local authority and
+admission authority must process the application as part of the main admissions
+round, unless the parental request is made too late for this to be possible, and
+on the basis of their determined admission arrangements only, including the
+application of oversubscription criteria where applicable. They must not give the
+application lower priority on the basis that the child is being admitted out of their
+normal age group. Parents have a statutory right to appeal against the refusal of
+a place at a school for which they have applied. This right does not apply if they
+are offered a place at the school, but it is not in their preferred age group.
+Children of UK service personnel and crown servants
+2.21 For families of service personnel with a confirmed posting, or crown
+servants returning from overseas, admission authorities must:
+a)
+allocate a place in advance of the family arriving in the area (as
+long as one is available), provided the application is accompanied
+by an official letter that declares a relocation date. Admission
+authorities must not refuse to process an application and must
+not refuse a place solely because the family do not yet have an
+intended address, or do not yet live in the area.
+b)
+use the address at which the child will live when applying their
+oversubscription criteria, as long as the parents provide some
+evidence of their intended address. Admission authorities must
+use a Unit or quartering address as the child's home address when
+considering the application against their oversubscription criteria,
+where a parent requests this.
+c)
+not reserve blocks of places for these children.
+d)
+ensure that arrangements in their area support the Government's
+commitment to removing disadvantage for service children.
+Arrangements must be appropriate for the area and be described
+in the local authority's composite prospectus.
+Co-ordination
+2.22 Each year all local authorities must formulate and publish on their
+website by 1 January in the relevant determination year, a scheme to co-
+ordinate admission arrangements for the normal admissions round and late
+26
+applications⁵⁸ for all publicly funded schools within their area⁵⁹. Where the
+scheme is substantially different from the scheme adopted for the previous
+academic year, the local authority must consult the other admission authorities
+in the area and any other local authorities it determines. Where the scheme has
+not changed from the previous year there is no requirement to consult, subject
+to the requirement that the local authority must consult on the scheme at least
+once every seven years, even if there have been no changes during that period.
+Following any such consultation, which must be undertaken with a view to
+ensuring the admission of pupils in different local authorities is, as far as
+reasonably practicable, compatible with each other, the local authority must
+determine the qualifying scheme and must take all reasonable steps to secure
+its adoption. A local authority must inform the Secretary of State whether they
+have secured the adoption of a qualifying scheme by 28 February in the
+determination year. The Secretary of State may impose a scheme where a
+scheme has not been adopted. All admission authorities must participate in co-
+ordination for the normal admissions round and late applications and provide
+the local authority with the information it needs to co-ordinate admissions by the
+dates agreed within the scheme. Local authorities must make application forms
+available to parents who wish to apply to a school in a neighbouring area which
+operates a different age of transfer (e.g. middle schools), and process these as
+it would in its normal admissions round.
+In-year admissions
+2.23 A parent can apply for a place for their child at any school, at any time.
+Local authorities are not required to co-ordinate in-year applications' 60 for
+schools for which they are not the admission authority. They may, however, co-
+ordinate in-year applications for any or all own admission authority schools in
+their area, with the agreement of the relevant admission authorities. In 2021,
+local authorities must publish information on their website by 31 October 2021
+to explain how in-year applications can be made and how they will be dealt with
+from 1 November 2021 until 31 August 2022. In all subsequent years, local
+authorities must publish information on their website by 31 August at the latest
+each year to explain how in-year applications can be made and how they will be
+dealt with from 1 September onwards in that year. This includes setting out
+which schools they will co-ordinate the applications for and which schools will
+manage their own in-year admissions. They must also set out contact details for
+any admission authority that manages its own in-year admissions.
+2.24 To enable local authorities to do this, in 2021 own admission authority
+schools must inform the local authority by 1 October whether they intend to be
+part of the local authority's in-year co-ordination scheme for the period to 31
+August 2022 (where this is offered). In all subsequent years, own admission
+authorities must inform the local authority by 1 August at the latest each year
+58 "Late applications" are applications for entry in a relevant age group which are submitted
+before the first day of the first term in the admission year but have not been made in time to
+enable the local authority to offer a place on National Offer Day.
+59 Regulations 26 to 32 and Schedule 2 of the School Admissions Regulations 2012 cover the
+requirements for such schemes.
+60 An application is an in-year application if it is for the admission of a child to a relevant age
+group, but it is submitted on or after the first day of the first term of the admission year, or if it is
+for the admission of a child to an age group other than a relevant age group.
+27
+whether they intend to be part of the local authority's in-year co-ordination
+scheme for the following 1 September to 31 August (where this is offered) or
+whether they will be managing their own in-year admissions. By the same date,
+for schools that intend to be part of the local authority's in-year co-ordination for
+the following academic year, they must also provide the local authority with all
+the information that the local authority is required to publish on its website,
+including application forms.
+2.25 Local authorities must provide a suitable application form (and a
+supplementary information form where necessary) for parents to complete when
+applying for a place for their child at a school for which they co-ordinate in-year
+admissions. Where a local authority receives an in-year application for a school
+which manages its own in-year admissions, it must promptly forward the
+application to the relevant admission authority, which must process it in
+accordance with its own in-year admission arrangements.
+2.26 In 2021, own admission authorities and governing bodies must set out on
+the school's website by 31 October 2021 how in-year applications will be dealt
+with from the 1 November 2021 until 31 August 2022. In all subsequent years,
+they must set out by 31 August at the latest each year, on the school's website
+how in-year applications will be dealt with from the 1 September until the
+following 31 August. They must set out how parents can apply for a school
+place, and, where they manage their own in-year admissions, provide a suitable
+application form for parents to complete (and a supplementary information form
+where necessary), and set out when parents will be notified of the outcome of
+their application and details about the right to appeal. If the admission authority
+is to be a part of the local authority's in-year co-ordination scheme, it must
+provide information on where parents can find details of the relevant scheme. An
+admission authority, governing body or local authority must provide a hard copy
+of the information about in-year applications on request for those who do not
+have access to the internet.
+2.27 Local authorities must, on request, provide information to prospective
+parents about the places still available in all schools within their area. To enable
+them to do this, the admission authorities for all schools in the area must
+provide the local authority with details of the number of places available at their
+schools whenever this information is requested, to assist a parent seeking a
+school place. Such details should be provided no later than two school days
+following receipt of a request from the local authority.
+2.28 With the exception of designated grammar schools, all maintained schools,
+and academies, including schools designated with a religious character, that have
+places available must offer a place to every child who has applied for one, without
+condition or the use of any oversubscription criteria, unless admitting the child
+would prejudice the efficient provision of education or use of resources. For
+example, admission authorities must not refuse to admit a child solely because:
+a) they have applied later than other applicants;
+b) they are not of the faith of the school in the case of a school
+designated with a religious character;
+c) they have followed a different curriculum at their previous school; or
+d) information has not been received from their previous school.
+28
+2.29 Where an admission authority is dealing with multiple in-year admissions
+and do not have sufficient places for every child who has applied for one, they
+must allocate places on the basis of the oversubscription criteria in their
+determined admission arrangements⁶¹ only. If a waiting list is maintained, it
+must be maintained in line with paragraph 2.15.
+2.30 Parents must not be refused the opportunity to make an application or
+be told that they can only be placed on a waiting list rather than make a formal
+application. Upon receipt of an in-year application, the admission authority, or
+the local authority if it is co-ordinating the admissions authority's in-year
+admissions, should aim to notify the parents of the outcome of their application
+in writing within 10 school days, but they must be notified in writing within 15
+school days⁶². Where an application is refused, the admission authority must
+also set out the reason for refusal and information about the right to appeal in
+accordance with paragraph 2.32. Where an admission authority manages its
+own in-year admissions, it must also notify the local authority of every
+application and its outcome as soon as reasonably practicable, but should aim
+to be within two school days, to allow the local authority to keep up to date
+figures on the availability of places in the area and to ensure they are aware of
+any children who may not have a school place.
+2.31 Where an applicant is offered a school place following an in-year
+application, and the offer is accepted, arrangements should be made for the child
+to start school as soon as possible, particularly where the child is out of school.
+Right to appeal
+2.32 When an admission authority informs a parent of a decision to refuse
+their child a place at a school for which they have applied, it must include the
+reason why admission was refused; information about the right to appeal; the
+deadline for lodging an appeal and the contact details for making an appeal.
+Parents must be informed that, if they wish to appeal, they must set out their
+grounds for appeal in writing⁶³. Admission authorities must not limit the grounds
+on which appeals can be made.
+School closure
+2.33 Where a maintained school or Academy is to be closed, the local
+authority must collaborate with all schools in their area to consider the best way
+to secure provision for children in other local schools.
+61 The determined admission arrangements that relate to the admission of pupils in the relevant
+school year.
+62 This does not apply to grammar schools which must, instead, notify a parent in writing within
+15 school days of their in-year application of either the date for the assessment of ability or the
+reason for refusal with information about the right of appeal (where the admission authority
+chooses not to assess the child's ability because admitting an additional child would prejudice
+the provision of efficient education or efficient use of resources).
+63 Where a looked after child has been refused a school place, it is likely to be more appropriate
+for the local authority looking after the child to use the powers of direction set out in paragraphs
+3.27 to 3.29 of the Code, than to submit an appeal.
+29
+Section 3: Ensuring Fairness and Resolving
+Issues
+The Schools Adjudicator
+3.1
+The Schools Adjudicator must consider whether admission arrangements
+referred to the Schools Adjudicator comply with the Code and the law relating to
+admissions. The admission authority must, where necessary, revise their
+admission arrangements to give effect to the Schools Adjudicator's decision
+within two months of the decision (or by 28 February following the decision,
+whichever is sooner), unless an alternative timescale is specified by the Schools
+Adjudicator. The Schools Adjudicator's determination is binding and enforceable.
+3.2
+Local authorities must refer an objection to the Schools Adjudicator if
+they are of the view or suspect that the admission arrangements that have been
+determined by other admission authorities are unlawful. If requested by the
+Schools Adjudicator, admission authorities must provide the information set out
+in Schedule 1 to the School Admissions Regulations⁶⁴
+3.3
+Any person or body who considers that any maintained school or
+Academy's arrangements are unlawful, or not in compliance with the Code or
+relevant law relating to admissions, can make an objection to the Schools
+Adjudicator⁶⁵. The following types of objections cannot be brought⁶⁶
+a)
+objections that seek to remove selective arrangements at a
+maintained school (which are permitted under Section 105 to 109
+of the SSFA 1988) or a selective Academy;
+b)
+objections about own authority admission's decision to increase or
+keep the same PAN;
+c)
+objections about a decision by the admission authority of a
+voluntary controlled or community school to increase or keep the
+same PAN, unless the objection is brought by the governing body
+of the school;
+d)
+objections in respect of an agreed variation from the Code in
+relation to admission arrangements for an Academy;
+e)
+objections to arrangements which raise the same or substantially
+the same matters as the adjudicator has decided on for that school
+in the last 2 years⁶⁷; and
+f)
+anonymous objections⁶⁸
+3.4
+The Schools Adjudicator may also consider arrangements that come to
+its attention by other means, which they consider may not comply with
+mandatory requirements.
+64 Regulation 25 of the School Admissions Regulations 2012.
+65 Section 88H of the SSFA 1998.
+66 Regulation 21 of the School Admissions Regulations 2012.
+67 Regulation 22 of the School Admissions Regulations 2012.
+68 Regulation 24 of the School Admissions Regulations 2012. The person or body referring the
+objection must provide their name and address to the adjudicator.
+30
+3.5
+Objections to admission arrangements must be referred to the Schools
+Adjudicator by 15 May in the determination year⁶⁹. Further information on how to
+make an objection can be obtained from the Office of the Schools Adjudicator.
+Variations
+3.6
+Once admission arrangements have been determined for a particular
+school year, they cannot be revised by the admission authority unless such
+revision is necessary to give effect to a mandatory requirement of this Code,
+admissions law, a determination of the Schools Adjudicator or any misprint in
+the admission arrangements⁷⁰ Admission authorities may propose other
+variations where they consider such changes to be necessary in view of a major
+change in circumstances. Such proposals must be referred to the Schools
+Adjudicator (for maintained schools) or the Secretary of State (for academies⁷¹)
+for approval, and the appropriate bodies notified⁷² Where the local authority is
+the admission authority for a community or voluntary controlled school, it must
+consult the governing body of the school before making any reference. A
+variation to increase a school's PAN is not required to be referred to the Schools
+Adjudicator⁷³
+3.7
+Admission authorities must notify the appropriate bodies⁷⁴ of all
+variations and must display a copy of the full varied admission arrangements on
+the school's website or their website (in the case of a local authority) until they
+are replaced by different admission arrangements. Local authorities must
+display the varied admission arrangements on their website where an admission
+authority has raised its PAN.
+Children who have been permanently excluded twice or
+display challenging behaviour
+3.8
+Where a child has been permanently excluded from two or more schools
+there is no need for an admission authority to comply with parental preference
+for a period of two years from the last exclusion⁷⁵ The twice excluded rule does
+not apply to the following children:
+a)
+children who were below compulsory school age at the time of the
+permanent exclusion;
+b)
+children who have been reinstated following a permanent
+exclusion (or would have been reinstated had it been practicable to
+do so);
+c)
+children whose permanent exclusion has been considered by a
+69 Regulation 23 of the School Admissions Regulations 2012.
+70 Regulation 19 of the School Admissions Regulations 2012.
+71 Section 88E of the SSFA 1998.
+72 In addition to the bodies listed at paragraph 1.47 (c), (d) and (f) and so far as not covered by
+them, all governing bodies for community and voluntary controlled schools in the relevant
+area.
+73 Regulation 20 of the School Admissions Regulations 2012.
+74 See footnote 44.
+75 Section 87 of the SSFA 1998.
+31
+review panel, and the review panel has decided to quash a
+decision not to reinstate them following the exclusion; and
+d)
+children with Education, Health and Care Plans naming the school.
+3.9 Admission authorities must not refuse to admit a child on behavioural
+grounds in the normal admissions round or at any point in the normal year of
+entry, except for where paragraph 3.8 applies.
+3.10 Where an admission authority receives an in-year application for a year
+group that is not the normal point of entry and it does not wish to admit the child
+because it has good reason to believe that the child may display challenging
+behaviour⁷⁶, it may refuse admission⁷⁷ and refer the child to the Fair Access
+Protocol⁷⁸.
+3.11 An admission authority should only rely on the provision in paragraph
+3.10 if it has a particularly high proportion of either children with challenging
+behaviour or previously permanently excluded pupils on roll compared to other
+local schools and it considers that admitting another child with challenging
+behaviour would prejudice the provision of efficient education or the efficient use
+of resources.
+3.12 The provision in paragraph 3.10 cannot be used to refuse admission to
+looked after children, previously looked after children; and children who have
+Education, Health and Care Plans naming the school in question.
+3.13 Admission authorities must not refuse to admit a child thought to be
+potentially disruptive, or likely to exhibit challenging behaviour, on the grounds
+that the child is first to be assessed for special educational needs.
+Fair Access Protocols
+3.14 Each local authority must have a Fair Access Protocol to ensure that
+unplaced and vulnerable children, and those who are having difficulty in
+securing a school place in-year, are allocated a school place as quickly as
+possible.
+76 For the purposes of this Code, behaviour can be described as challenging where it would be
+unlikely to be responsive to the usual range of interventions to help prevent and address pupil
+misbehaviour or it is of such severity, frequency, or duration that it is beyond the normal range
+that schools can tolerate. We would expect this behaviour to significantly interfere with the
+pupil's/other pupils' education or jeopardise the right of staff and pupils to a safe and orderly
+environment.
+77 A child with challenging behaviour may also be disabled as defined in the Equality Act 2010.
+When considering refusing admission on these grounds, admission authorities must consider
+their duties under that Act. Admission authorities should also consider the effect of the decision
+of the Upper Tribunal in C & C V The Governing Body of a School, The Secretary of State for
+Education (First Interested Party) and The National Autistic Society (Second Interested Party)
+(SEN) [2018] UKUT 269 (AAC) about the implications of the Equality Act 2010 when a pupil
+exhibits a tendency to physical abuse of other persons as a consequence of a disability.
+78 Paragraph 1.9(g) does not apply where an admission authority takes account of past
+behaviour as evidence for concerns about challenging behaviour, solely for the purpose of
+making a decision on whether it would be appropriate to refuse admission on the basis
+described in paragraph 3.10.
+32
+3.15 The Protocol must be consulted upon and developed in partnership with
+all schools in its area. Once the Protocol has been agreed by the majority of
+schools in its area, all admission authorities must participate in it. Participation
+includes making available a representative who is authorised to participate in
+discussions, make decisions on placing children via the Protocol, and admitting
+pupils when asked to do so in accordance with the Protocol, even when the
+school is full⁷⁹. Local authorities must provide admission authorities with
+reasonable notice and information as to how and when discussions around the
+placement of children via the Protocol will take place.
+3.16 No school - including those with places available - should be asked to
+take a disproportionate number of children who have been permanently
+excluded from other schools, who display challenging behaviour, or who are
+placed via the Protocol. Fair Access Protocols must also set out how the needs
+of children who have been permanently excluded, and children for whom
+mainstream education is not yet possible, will be met.
+3.17 Fair Access Protocols may only be used to place the following groups of
+vulnerable and/or hard to place children, where they are having difficulty in
+securing a school place in-year, and it can be demonstrated that reasonable
+measures have been taken to secure a place through the usual in-year
+admission procedures
+a)
+children either subject to a Child in Need Plan or a Child Protection
+Plan⁸¹ or having had a Child in Need Plan or a Child Protection
+Plan within 12 months at the point of being referred to the Protocol;
+b)
+children living in a refuge or in other Relevant Accommodation at
+the point of being referred to the Protocol;
+c)
+children from the criminal justice system;
+d)
+children in alternative provision who need to be reintegrated into
+mainstream education or who have been permanently excluded
+but are deemed suitable for mainstream education;
+e)
+children with special educational needs (but without an Education,
+Health and Care plan), disabilities or medical conditions;
+f)
+children who are carers;
+g)
+children who are homeless;
+h)
+children in formal kinship care arrangements ⁸²
+79 Decisions about admitting children under the Protocol can be made by one individual in an
+admission authority provided that suitable authority has been delegated to that individual.
+Admission authorities must ensure this process complies with relevant governance
+requirements.
+80 For example, where an application has been made to at least one school and this has been
+refused, or the local authority has confirmed that there are no places available at any school
+within a reasonable distance.
+81 Child in Need Plans and Child Protection Plans are plans of help and protection to address
+safeguarding and welfare needs, where a child has been assessed by the local authority as
+being a child in need under Section 17 of the Children Act 1989 and/or as suffering or likely to
+suffer significant hardship under Section 47 of the Children Act 1989. See also statutory
+guidance Working Together to Safeguard Children (2018) (pages 35 and 48-49).
+82 As evidenced by either a child arrangements order not relating to either birth parent or a
+special guardianship order.
+33
+i)
+children of, or who are, Gypsies, Roma, Travellers, refugees, and
+asylum seekers;
+j)
+children who have been refused a school place on the grounds of
+their challenging behaviour and referred to the Protocol in
+accordance with paragraph 3.10 of this Code;
+k)
+children for whom a place has not been sought due to exceptional
+circumstances⁸³
+I)
+children who have been out of education for four or more weeks
+where it can be demonstrated that there are no places available at
+any school within a reasonable distance of their home. This does
+not include circumstances where a suitable place has been offered
+to a child and this has not been accepted; and
+m)
+previously looked after children for whom the local authority has
+been unable to promptly secure a school place⁸⁴.
+3.18 Eligibility for the Fair Access Protocol does not limit a parent's right to
+make an in-year application to any school for their child. Admission authorities
+must process these applications in accordance with their usual in-year
+admission procedures (as set out in paragraphs 2.23-2.31). They must not
+refuse to admit such children on the basis that they may be eligible to be placed
+via the Fair Access Protocol. The parent will continue to have the right of appeal
+for any place they have been refused, even if the child has been offered a
+school place via the Fair Access Protocol.
+3.19 There is no duty for local authorities or admission authorities to comply
+with parental preference when allocating places through the Fair Access Protocol,
+but parents' views should be taken into account.
+3.20 Fair Access Protocols should seek to place a child in a school that is
+appropriate to any particular needs they may have. The Fair Access Protocol must
+not require a school automatically to admit a child via the Fair Access Protocol, in
+place of a child permanently excluded from the school.
+3.21 Where it has been agreed that a child will be considered under the Fair
+Access Protocol, a school place must be allocated for that child within 20 school
+days. Once they have been allocated a school place via the Fair Access Protocol,
+arrangements should be made for the child to start at the school as soon as
+possible.
+3.22 In the event that the majority of schools in an area can no longer support
+the principles and approach of their local Fair Access Protocol, they should initiate
+a review with the local authority. There should be a clear process for how such a
+review can be initiated within each Fair Access Protocol. The existing Fair Access
+83 It is for the local authority to decide whether a child qualifies to be placed via the Protocol on
+this basis, based on the circumstances of the case.
+84 In most cases use of the Fair Access Protocol should be unnecessary for a previously looked
+after child. We would expect the local authority to aim to secure a school place particularly
+promptly for a previously looked after child and for admission authorities to cooperate with this.
+The local authority may consider swift use of their general powers of direction (under paragraphs
+3.26-3.28) or asking the Secretary of State to consider a direction (under paragraph 3.29) to be
+the most suitable course of action if a school place for a previously looked after child cannot be
+agreed with an admission authority promptly.
+34
+Protocol will remain binding on all schools in the local area until the point at which
+a new one is adopted.
+Local authority powers of direction (general)
+3.23 A local authority has the power⁸⁵ to direct the governing body of a
+maintained school for which they are not the admission authority to admit a child
+in their area even when the school is full. The local authority can only make such
+a direction in respect of a child in the local authority's area who has been
+refused entry to, or has been permanently excluded from, every suitable school
+within a reasonable distance. The local authority must choose a school that is a
+reasonable distance from the child's home and from which the child is not
+permanently excluded. It must not choose a sixth-form that selects by ability
+unless the child meets the selection requirements, or a school that would have
+to take measures to avoid breaking the rules on infant class sizes if those
+measures would prejudice the provision of efficient education or the efficient use
+of resources.
+3.24 Before deciding to give a direction, the local authority must consult the
+governing body of the school, the parent of the child and the child if they are
+over compulsory school age. If, following consultation, the local authority
+decides to direct, it must inform the governing body and head teacher of the
+school. The governing body can appeal by referring the case to the Schools
+Adjudicator within 15 days. If it does this, the governing body must tell the local
+authority. The local authority must not make a direction until the 15 days have
+passed and the case has not been referred.
+3.25 If the case is referred to the Schools Adjudicator, the Schools Adjudicator
+may either uphold the direction, determine that another maintained school must
+admit the child or decide not to issue a direction. The Adjudicator's decision is
+binding. The Schools Adjudicator must not direct a school to admit a child if this
+would require the school to take measures to avoid breaking the rules on infant
+class sizes and those measures would prejudice the provision of efficient
+education or the efficient use of resources.
+Local authority powers of direction (looked after children)
+3.26 A local authority also has the power⁸⁶ to direct the admission authority for
+any maintained school in England (other than a school for which they are the
+admission authority) to admit a child who is looked after by the local authority,
+even when the school is full. The local authority must not choose a school from
+which the child is permanently excluded but may choose a school whose infant
+classes are already at the maximum size⁸⁷.
+3.27 Before deciding to give a direction, the local authority must consult the
+admission authority of the school it proposes to direct. The admission authority
+must tell the local authority within 7 days whether it is willing to admit the child.
+85 Sections 96 and 97 of the SSFA 1998.
+86 Sections 97A-C of the SSFA 1998.
+87 Looked after children are excepted pupils outside of the normal admissions round under the
+School Admissions (Infant Class Sizes) (England) Regulations 2012.
+35
+If, following consultation, the local authority decides to direct, it must inform the
+admission authority, the governing body (if the school is a voluntary controlled
+or community school), the local authority that maintains the school, and the
+head teacher. The admission authority can appeal by referring the case to the
+Schools Adjudicator within 7 days. If the child has been permanently excluded
+from two other schools and the most recent exclusion was within the previous
+two years, the governing body (if the school is a voluntary controlled or
+community school) may also refer the case to the Schools Adjudicator. The
+admission authority or governing body must not refer the case unless it
+considers that admitting the child would seriously prejudice the provision of
+efficient education or the efficient use of resources. If the admission authority or
+governing body does refer the case, it must notify the local authority that looks
+after the child. The local authority must not make a direction until the 7 days
+have passed and the case has not been referred.
+3.28 If the case is referred to the Schools Adjudicator, the Schools Adjudicator
+may either uphold the direction or determine that another maintained school in
+England must admit the child. The Schools Adjudicator's decision is binding. The
+Schools Adjudicator must not direct an alternative school to admit a child unless
+the local authority that looks after the child agrees, nor if the child is permanently
+excluded from that school, nor if the admission of the child would seriously
+prejudice the provision of efficient education or the efficient use of resources.
+Secretary of State's power of direction (Academies)
+3.29 Where a local authority considers that an Academy will best meet the
+needs of any child, it can ask the Academy to admit that child but has no power
+to direct it to do so. The local authority and the Academy will usually come to an
+agreement, but if the Academy refuses to admit the child, the local authority can
+ask the Secretary of State to intervene. The Secretary of State has the power
+under an Academy's Funding Agreement to direct the Academy to admit a child
+and can seek advice from the Schools Adjudicator in reaching a decision⁸⁸
+Local authority reports
+3.30 Local authorities must produce an annual report on admissions for all the
+schools in their area for which they co-ordinate admissions. From 2022, it must
+be published locally and sent to the Schools Adjudicator by 31 October each
+year covering the prior academic year. The report must cover as a minimum:
+a)
+information about how admission arrangements in the area of the
+local authority serve the interests of looked after children and
+previously looked after children, children with disabilities and
+children with special educational needs, including any details of
+where problems have arisen;
+b)
+an assessment of the effectiveness of Fair Access Protocols including
+how many children were admitted to each school under it; and
+c)
+any other issues the local authority may wish to include.
+88 Section 25(3A) of the SSFA 1998.
+36
+Appendix 1 — Relevant Legislation
+1.
+This appendix sets out the primary legislation and regulations most
+relevant to admissions decisions. Admission authorities, Schools
+Adjudicators, appeal panels, local authorities and maintained schools
+must comply with the relevant law as well as acting in accordance with
+the provisions of this Code. This Code and the School Admission Appeals
+Code (the Codes) are applied to Academies through their Funding
+Agreements. The information here aims to signpost the relevant law; it
+does not aim to provide definitive guidance on interpreting the law: that is
+for the courts.
+Equality Act 2010
+2.
+This Act consolidates the law prohibiting discrimination, harassment and
+victimisation and expands the list of protected characteristics. All schools
+must have due regard to their obligations under the Act and review their
+policies and practices to make sure these meet the requirements of the
+Act, even if they believe that they are already operating in a non-
+discriminatory way.
+3.
+An admission authority must not discriminate on the grounds of disability;
+gender reassignment; pregnancy and maternity; race; religion or belief;
+sex; or sexual orientation, against a person in the arrangements and
+decisions it makes as to who is offered admission as a pupil.
+4.
+An admission authority must not harass a person who has applied for
+admission as a pupil, in relation to their disability; race; or sex.
+5.
+An admission authority must not victimise a person in relation to a protected
+act either done, or believed to have been done, by that person (e.g. bringing
+proceedings under the Equality Act 2010) in the arrangements and decisions
+it makes as to who is offered admission as a pupil.
+6.
+This Act contains limited exceptions to the prohibition of discrimination on
+grounds of religion or belief and sex. Schools designated by the
+Secretary of State as having a religious character are exempt from some
+aspects of the prohibition of discrimination on the grounds of religion or
+belief and this means they can make a decision about whether or not to
+admit a child as a pupil on the basis of religion or belief. Single-sex
+schools are lawfully permitted to discriminate on the grounds of sex in
+their admission arrangements.
+7.
+Admission authorities are also subject to the Public Sector Equality Duty
+and therefore must have due regard to the need to eliminate
+discrimination, harassment and victimisation, advance equality of
+opportunity, and foster good relations in relation to persons who share a
+relevant protected characteristic and persons who do not share it.
+8.
+The protected characteristics for these purposes are: disability; gender
+reassignment; pregnancy and maternity; race; religion or belief; sex; and
+sexual orientation.
+37
+9.
+Further guidance on the Public Sector Equality Duty is available in the
+Department for Education's Advice to Schools on the Equality Act 2010,
+on the website of the Government Equalities Office and from the Equality
+and Human Rights Commission.
+Human Rights Act 1998
+10.
+The Human Rights Act 1998 confers a right of access to education. This right
+does not extend to securing a place at a particular school. Admission
+authorities, however, do need to consider parents' reasons for expressing a
+preference when they make admission decisions, though this may not
+necessarily result in the allocation of a place. These might include, for example,
+the parents' rights to ensure that their child's education conforms to their own
+religious or philosophical convictions (as far as is compatible with the provision
+of efficient instruction and the avoidance of unreasonable public expenditure).
+11.
+Please note the case of R (Hounslow London Borough Council) V School
+Admission Appeal Panel for Hounslow (2002) regarding exceptional
+circumstances⁸⁹
+School Standards and Framework Act 1998
+12.
+Chapter 1 of Part 3 of the School Standards and Framework Act 1998
+contains the key provisions regarding school admissions, including the
+statutory basis for this Code.
+13.
+Section 86 of the SSFA 1998 provides that the admission authority for a
+maintained school (with the exception of those that select wholly by
+ability) must comply with any preference expressed by a parent except
+where to do so would prejudice the provision of efficient education or the
+efficient use of resources.
+14.
+Section 94 of the SSFA 1998 provides that parents (and in some
+circumstances children) may appeal against a decision to refuse
+admission to the school. Two or more admission authorities in the same
+local authority area may make joint arrangements.
+15.
+The Codes largely include the provisions relating to school admissions
+made in regulations. The most relevant regulations are:
+a)
+The School Admissions (Admission Arrangements and Co-
+ordination of Admission Arrangements) (England) Regulations
+2012;
+b)
+The School Admissions (Infant Class Sizes) (England) Regulations
+2012;
+c)
+The School Admissions (Appeals) (England) Regulations 2012; and
+d)
+The School Information (England) Regulations 2008.
+89 See https://www.baili.org/ew/cases/EWCA/Civ/2002/900.html
+38
+Appendix 2- Sample Admission Arrangements
+These example arrangements are provided for illustrative purposes only - they
+are not "suggested" arrangements and should not be seen as such.
+Arrangements for individual schools must be set in the context of local
+circumstances.
+The school has an agreed admission number of 240 pupils for entry in year 7.
+The school will accordingly admit up to 240 pupils in the relevant age group
+each year if sufficient applications are received. All applicants will be admitted if
+240 or fewer apply.
+If the school is oversubscribed, after the admission of pupils with an Education,
+Health and Care Plan where the school is named in the Plan, priority for admission
+will be given to those children who meet the criteria set out below, in order:
+(1)
+A 'looked after child' or a child who was previously looked after but
+immediately after being looked after became subject to an adoption,
+child arrangements, or special guardianship order⁹⁰ including those
+who appear [to the admission authority] to have been in state care
+outside of England and ceased to be in state care as a result of
+being adopted. A looked after child is a child who is (a) in the care of
+a local authority, or (b) being provided with accommodation by a
+local authority in the exercise of their social services functions (see
+the definition in Section 22(1) of the Children Act 1989).
+(2)
+Children with a sibling attending the school at the time of
+application. Sibling is defined in these arrangements as children
+who live as brother or sister in the same house, including natural
+brothers or sisters, adopted siblings, stepbrothers or sisters and
+foster brothers and sisters.
+(3)
+Other children by distance from the school, with priority for
+admission given to children who live nearest to the school as
+measured by using Ordnance Survey data to plot an address in this
+system. Distances are measured as the crow flies from the main
+entrance of the child's home to the main entrance of the school as
+specified by the local authority's GIS.
+Random allocation will be used as a tie-break in category '3' above to decide
+who has highest priority for admission if the distance between two children's
+homes and the school is the same. This process will be independently verified.
+If a tie-break is required in earlier categories to decide who has priority for
+admission between two children, distance from the school will be used to decide
+as measured above.
+90 An adoption order is an order under the Adoption Act 1976 (see Section 12 adoption orders)
+and children who were adopted under the Adoption and Children Act 2002 (see Section 46
+adoption orders). A 'child arrangements order' is an order settling the arrangements to be made
+as to the person with whom the child is to live under Section 8 of the Children Act 1989 as
+amended by Section 14 of the Children and Families Act 2014. Section 14A of the Children Act
+1989 defines a 'special guardianship order' as an order appointing one or more individuals to be
+a child's special guardian (or special guardians).
+39
+Admission of children outside their normal age group
+Families may seek a place for their child outside of his/her normal age group
+under various circumstances such as ill health, if the child is gifted and talented
+or when the child has experienced problems.
+40
+The Admissions Timeline
+The timetable and procedures for admissions are set out in both this Code
+and the School Admissions Regulations 2012. The admissions timeline applies
+to all state funded schools including Academies and Free Schools (through their
+funding agreement).
+Local authorities have a key role in providing information to parents on
+admission arrangements and schools in their area and in co-ordinating school
+admissions for parents for all state funded schools. Local authorities will also be
+notified and have oversight of the outcome of all in-year applications.
+In the normal admissions round, parents apply to the local authority in which
+they live for places at their preferred primary or secondary schools, and the local
+authority makes an offer of a place on National Offer Day. For late applications
+(those which are submitted before the first day of the first term but are too late
+for an offer to be made on National Offer Day), parents also apply to and receive
+an offer from the local authority. There is no requirement for local authorities to
+co-ordinate in-year applications (applications for the admission of a child to a
+relevant age group that are made on or after the first day of the first term, or for
+the admission of a child to an age group other than a relevant age group) but
+they must, on request, provide information to a parent about the places still
+available in all schools within its area, and a suitable form for parents to
+complete when applying for a place for their child at a school for which they co-
+ordinate in-year admissions within the area. Where a local authority receives an
+in-year application for a school which manages its own in-year admissions, it
+must promptly forward the application to the relevant admission authority, which
+must process it in accordance with its own in-year admission arrangements.
+Any parent can apply for a place for their child at any time to any school outside
+the normal admissions round. Parents can apply directly to own admission
+authority schools who are managing their own in-year applications.
+Example timetable
+Determination Year (2021/22)
+(The school year in which admission authorities determine their admission arrangements)
+Date
+Relevance
+Earliest date to start consultation on proposed
+1 October 2021
+arrangements. Consultation must last a minimum of 6
+weeks.
+Governing bodies must provide information about in-year
+1 October 2021
+applications to local authorities for the period until 31
+August 2022.
+41
+Local authority must publish information on their website to
+explain how in-year applications can be made and how
+31 October 2021
+they will be dealt with for the period until 31 August 2022.
+Governing bodies must also publish information about in-
+year applications by the same date.
+Deadline for the local authority to formulate a co-ordinated
+1 January 2022
+scheme for state funded schools in their area, including
+any new school or Academy which is expected to open.
+Deadline for the completion of the consultation on
+31 January 2022
+proposed admission arrangements.
+Deadline for admission arrangements to be determined
+28 February 2022
+even if they have not changed from the previous year and
+a consultation has not been required.
+After which the Secretary of State may impose a co-
+28 February 2022
+ordinated scheme if local agreement has not been secured
+by this date.
+Deadline for admission authorities to send a copy of their
+full determined admission arrangements to their local
+15 March 2022
+authority and publish those arrangements on the schools
+website or on their website (in the case of a local
+authority).
+Deadline for local authorities to publish on their website the
+proposed admission arrangements for any new school or
+Academy which is intended to open within the
+15 March 2022
+determination year, details of where the determined
+arrangements for all schools, including Academies, can be
+viewed, and information on how to refer objections to the
+Schools Adjudicator.
+15 May 2022
+Deadline for objections to the Schools Adjudicator.
+Deadline for admission authorities to inform the local
+authority whether they intend to be part of the local
+authority's in-year co-ordination scheme and provide all
+1 August 2022
+information to the local authority that the local authority is
+required to publish on its website in relation to how in-year
+applications can be made from September onwards.
+Deadline for governing bodies to provide admission
+8 August 2022
+arrangements information to the local authority to allow
+them to compile composite prospectus.
+Deadline for local authorities to publish on their website
+details about how in-year applications can be made and
+how they will be dealt with from the September onwards for
+31 August 2022
+all schools in their area. Governing bodies must also
+publish information about in-year applications by the same
+date.
+42
+Offer Year (2022/23)
+Date
+Relevance
+12 September
+Deadline for local authorities to publish composite
+2022
+prospectus.
+31 October 2022
+National closing date for secondary school applications.
+31 October 2022
+Deadline for local authorities to report to the Schools
+Adjudicator on admission arrangements in their area.
+15 January 2023
+National closing date for primary school applications.
+Deadline for admission authorities to publish their appeals
+28 February 2023
+timetable on their website.
+1 March 2023
+National offer day for secondary school places.
+16 April 2023
+National offer day for primary school places.
+Appeals
+The timescales within which admission authorities must ensure that appeals
+are heard are detailed in Section 2 of the School Admission Appeals Code. For
+example, for applications made in the normal admissions round, appeals must
+be heard within 40 days of the deadline for lodging appeals.
+Admission Year (2023/24)
+Date
+Relevance
+September
+New intake starts at school.
+2023
+43
+Glossary
+Academic Year
+A period commencing with 1 August and ending with the next 31 July, as
+defined by Section 88M of the SSFA 1998.
+Admission Authority
+The body responsible for setting and applying a school's admission
+arrangements. For community or voluntary controlled schools, this body is the
+local authority unless it has agreed to delegate responsibility to the governing
+body. For foundation or voluntary aided schools, this body is the governing
+body of the school. For Academies, this body is the Academy Trust.
+Admission Arrangements
+The overall procedure, practices and oversubscription criteria used in deciding
+the allocation of school places including any device or means used to determine
+whether a school place is to be offered.
+Admission Number (or Published Admission Number - (PAN))
+The number of school places that the admission authority must offer in each
+relevant age group of a school for which it is the admission authority. Admission
+numbers are part of a school's admission arrangements.
+Banding
+A system of oversubscription criteria in which all children applying for a place at
+a banding school are placed into ability bands based on their performance in a
+test or other assessment. Places are then allocated so that the school's intake
+either reflects the ability profile of those children applying to the school, those
+children applying to a group of schools banding jointly, the local authority ability
+profile or the national ability profile.
+Catchment Area
+A geographical area, from which children may be afforded priority for admission
+to a particular school. A catchment area is part of a school's admission
+arrangements and must therefore be consulted upon, determined, and published
+in the same way as other admission arrangements.
+Common Application Form (CAF)
+The form parents complete, listing their preferred choices of schools, and then
+submit to local authorities when applying for a school place for their child as part
+of the local co-ordination scheme, during the normal admissions round. Parents
+must be allowed to express a preference for a minimum of three schools on the
+relevant common application form as determined by their local authority. Local
+authorities may allow parents to express a higher number of preferences if they
+wish.
+44
+Composite prospectus
+The prospectus that a local authority is required to publish by 12 September in
+the offer year. This prospectus must include detailed admission arrangements of
+all maintained schools and academies in the area (including admission numbers
+and catchment areas).
+Conditionality
+Oversubscription criterion that stipulates conditions which affect the priority
+given to an application, for example taking account of other preferences or
+giving priority to families who include in their other preferences a particular type
+of school (e.g. where other schools are of the same religious denomination).
+Conditionality is prohibited by this Code.
+Co-ordination / Co-ordinated Scheme
+The process by which local authorities co-ordinate the distribution of offers of
+places for schools in their area. All local authorities are required to co-ordinate
+the normal admissions round and late applications for primary and secondary
+schools in their area. There is no requirement for local authorities to co-ordinate
+in-year admissions, but they can offer to do so if they wish. Own admission
+authority schools can take in-year applications directly from parents, provided
+they notify their local authority of each application and its outcome.
+Determined Admission Arrangements
+Admission arrangements that have been formally agreed by the admission
+authority, for example, agreed at a meeting of the admission authority and the
+decision recorded in the minutes of the meeting.
+Determination Year
+The school year immediately preceding the offer year. This is the school year in
+which admission authorities determine their admission arrangements.
+Education, Health and Care Plan
+An Education, Health and Care Plan is a plan made by the local authority under
+Section 37 of the Children and Families Act 2014 specifying the special
+education, health and social care provision required for that child.
+First Preference First
+Oversubscription criterion that giving priority to children according to the order of
+other schools named as a preference by their parents, or only considering
+applications stated as a first preference. The First Preference First
+oversubscription criterion is prohibited by this Code.
+Governing Bodies
+School governing bodies are bodies corporate responsible for conducting
+schools with a view to promoting high standards of educational achievement.
+Governing bodies have three key roles: setting strategic direction, ensuring
+accountability, and monitoring and evaluation.
+45
+Grammar Schools (designated)
+These were the 163 schools that were designated under Section 104(5) of the
+SSFA 1998 as grammar schools. A 'grammar school' is defined by Section
+104(2) of that Act as a school which selects all (or substantially all) of its pupils
+on the basis of general (i.e. academic) ability. At the time of publication, most
+grammar schools have converted to Academy status.
+Home Local Authority
+A child's home local authority is the local authority in whose area the child
+resides.
+Infant Class Size Exceptions
+The School Admissions (Infant Class Sizes) (England) Regulations 2012 permit
+children to be admitted as exceptions to the infant class size limit. These are set
+out in paragraph 2.15.
+Infant Class Size Limit
+Section 1 of the SSFA 1998 limits the size of an infant class (i.e. a class in which
+the majority of children will reach the age of five, six or seven during the school
+year) to 30 pupils per school teacher.
+In-year application
+An application is an in-year application if it is for the admission of a child to a
+relevant age group and it is submitted on or after the first day of the first school
+term of the admission year; or it is for the admission of a child to an age group
+other than a relevant age group.
+Late application
+Late applications are applications for entry in a relevant age group which are
+submitted before the first day of the first term in the admission year but have not
+been made in time to enable the local authority to offer a place on National Offer
+Day.
+Local Government and Social Care Ombudsman
+An independent, impartial, and free service that investigates complaints about
+maladministration of certain public bodies.
+Looked After Children (see also Previously Looked After Children)
+Children who are in the care of local authorities as defined by Section 22 of the
+Children Act 1989. In relation to school admissions legislation a 'looked after
+child' is a child in public care at the time of application to a school.
+Maintaining Local Authority
+The area in which a school is located is referred to as the maintaining local
+authority.
+46
+National Offer Day
+The day each year on which local authorities are required to send the offer of a
+school place to all parents in their area. Secondary National Offer Day is 1
+March (or the next working day). Primary National Offer Day is 16 April (or the
+next working day).
+Nodal Point
+A fixed geographical point, other than the location of the school, from which
+children may be afforded priority for admission to a particular school, based on
+the distance from the child's home to the nodal point. A nodal point is part of a
+school's admission arrangements and must therefore be consulted upon,
+determined, and published in the same way as other admission arrangements.
+The selection of such a point must be clearly explained and made on reasonable
+grounds.
+Normal Admissions Round
+The period during which parents are invited to express a minimum of three
+preferences for a place at any state-funded school, in rank order on the common
+application form provided by their home local authority. This period usually
+follows publication of the local authority composite prospectus on 12
+September, with the deadlines for parental applications of 31 October (for
+secondary places) and 15 January (for primary places), and subsequent offers
+made to parents on National Offer Day as defined above.
+Offer Year
+The school year immediately preceding the school year in which pupils are to be
+admitted to schools under the admission arrangements in question. This is the
+school year in which the offers of school places are communicated.
+Oversubscription
+Where a school has a higher number of applicants than the school's published
+admission number.
+Oversubscription Criteria
+This refers to the published criteria that an admission authority applies when a
+school has more applications than places available in order to decide which
+children will be allocated a place.
+Previously Looked After Children
+Previously looked after children are children who were looked after but ceased
+to be so because they were adopted (or became subject to a child arrangements
+order or special guardianship order).
+Reception Class
+Defined by Section 142 of the SSFA 1998 as a class in which education is
+provided which is suitable for children aged five and any children who are under
+or over five years old whom it is expedient to educate with pupils of that age.
+47
+Relevant Accommodation
+The term 'relevant accommodation' is used in relation to the proposed local
+authority duty to provide support to victims of domestic abuse and their children.
+For the purposes of this Code 'relevant accommodation' is a safe place to stay
+for victims and their children fleeing domestic abuse. This can include, but is not
+limited to, refuges, specialist safe accommodation, sanctuary schemes and
+second stage accommodation.
+Relevant Age Group
+The age group to which children are normally admitted. Each relevant age group
+must have admission arrangements, including an admission number. Some
+schools (for example schools with sixth forms which admit children into the sixth
+form) may have more than one relevant age group.
+Relevant Area
+The area for a school (determined by its local authority and then reviewed every
+two years) within which the admission authority for that school must consult all
+other prescribed schools on its admission arrangements.
+Schools Adjudicator
+A statutory office-holder who is appointed by the Secretary of State for
+Education but is independent. The Schools Adjudicator decides on objections to
+determined admission arrangements of all state-funded schools and variations
+of determined admission arrangements for maintained schools. The Schools
+Adjudicator also deals with referrals of directions by local authorities to
+maintained schools to admit a child and provides advice on requests to the
+Secretary of State by local authorities to direct academies to admit children.
+School Year
+The period beginning with the first school term to begin after July and ending
+with the beginning of the first such term to begin after the following July, as
+defined by Section 579 of the Education Act 1996.
+Twice Excluded Pupils
+A child who has been permanently excluded from two or more schools.
+Waiting Lists
+A list of children held and maintained by the admission authority when the
+school has allocated all of its places, on which children are ranked in priority
+order against the school's published oversubscription criteria.
+48
+Index
+A
+Ability/Aptitude: 1.17-1.24, 1.31, 1.32
+Academies: 4, 5, 7, 10, 11, 12, 13, 1.49, 1.50, 1.51, 1.53, 2.8, 2.22, 2.24, 2.26,
+2.28, 3.3, 3.6, 3.29
+Adjudicator, Schools: 3, 6-11, 15, 1.3, 1.52, 1.53, 3.1-3.6, 3.24, 3.25, 3.27-3.30
+Admission arrangements: 5-11, 14, 15, 1.1-1.54, 2.6, 2.7, 2.12, 2.15, 2.18,2.22,
+2.29, 3.1-3.7, 3.30
+Admission number (PAN): 1.2-1.5, 1.43, 1.48, 1.49, 1.51, 3.3, 3.6, 3.7
+Admission authorities: 3, 5, 10, 11, 13-15, 1.1-1.53, 2.1, 2.4-2.7, 2.9, 2.10, 2.12,
+2.13, 2.15, 2.17-2.30, 2.32, 3.1-3.4, 3.6-3.11, 3.153.18, 3.19, 3.23,3.26,
+3.27, 3.29
+Admission of children below compulsory age: 2.17
+Admission of children outside normal age group: 2.18-2.20
+Allocating places: 12, 1.6, 2.4, 2.7-2.11, 2.15, 2.21, 2.29, 3.14, 3.21
+Appeals: 2, 3, 6, 11, 15, 2.13, 2.16, 2.20, 2.26, 2.30, 2.32, 3.18
+Applying for places: 2.1-2.6, 2.23, 2.30
+Applying for places at sixth form: 1.9, 2.6
+Armed forces/UK service personnel: 1.41, 1.42, 1.44, 2.16, 2.21
+Asylum seekers and refugees: 3.17
+B
+Banding: 1.25-1.30
+Behaviour: 1.9, 3.8-3.11, 3.13, 3.16, 3.17
+Birth certificates: 2.5
+Boarding schools: 1.9, 1.43, 1.44
+C
+Catchment areas: 1.14
+Challenging behaviour: 3.8-3.11, 3.13, 3.16, 3.17
+Children below compulsory school age: 2.17
+Children of staff: 1.9, 1.39, 1.40
+Children of armed forces/UK service personnel: 1.41, 1.44, 2.16, 2.21
+Children outside their normal age group: 2.18-2.20
+Common Application Form (CAF): 2.1-2.6
+Composite prospectus: 15, 1.53, 1.54, 2.21
+Conditionality: 1.9
+Consultation: 15, 1.3, 1.38, 1.45-1.48, 2.22, 3.15, 3.24, 3.27
+Co-ordination: 6, 1.4, 2.22, 2.23-2.26, 2.30, 3.30
+D
+Deferred entry: 2.17
+Determination of admission arrangements: 1.49-1.53
+Direction (local authority powers): 3.23-3.25
+Direction (local authority powers - looked after children): 3.26-3.28
+Direction (Secretary of State's powers - academies): 3.29
+Disability: 1.8, 1.9, 1.33, 2.4, 3.10, 3.17
+E
+Equality Act: Appendix 1
+Excepted pupils: 2.16
+Excluded pupils: 3.8-3.12, 3.16, 3.17, 3.20, 3.23, 3.26-3.28
+49
+F
+Fair Access Protocols (FAP): 2.14-22
+Faith based oversubscription criteria: 1.36-1.38, 2.9, 2.28
+Faith, schools designated with a religious character: 1.9, 1.36-1.38, 1.47, 2.8,
+2.9, 2.15, 2.28
+Feeder schools: 1.9, 1.15
+Financial contributions: 1.9
+Financial status: 1.9, 2.4
+Free school meals: 1.9, 1.41, 1.42
+G
+Gifted and talented children: 2.18
+Governing body: 3, 11, 1.3, 2.7, 2.26, 3.3, 3.6, 3.23-3.25, 3.27
+Grammar schools: 1.6, 1.9, 1.18-1.20, 1.31-1.33
+H
+Homeless children: 3.17
+Human Rights Act: Appendix 1
+I
+In-year admission/application: 2.23-2.31
+Independent school: 1.9
+Infant class size: 2.16
+L
+Local authority reports: 6, 3.30
+Looked after children and previously looked after children: 1.7, 1.19-1.20, 1.23,
+1.28, 1.34, 1.37, 1.44, 2.5, 2.6, 2.15, 2.16, 3.12, 3.17, 3.26-3.28
+M
+Medical and social need: 1.16
+Misprints in admission arrangements: 3.6
+Multiple births: 2.16
+N
+National Offer Day: 15, 2.12
+Normal admissions round: 15, 2.1-2.5, 2.10
+Nurseries: 1.9, 1.42
+o
+Objections to determined admission arrangements: 7-8, 15, 1.52, 1.53, 3.1-3.5
+Offering a place: 2.7-2.12
+Oversubscription criteria: 1.6-1.44
+P
+Partial selection: 1.21-1.23, 1.24, 1.29, 1.31-1.33
+Photographs: 1.9
+Preferred schools: 1.9
+Previous schools: 1.9
+Proof of address: 2.5
+Prospectus: 1.54
+Public Sector Equality Duty: Appendix 1
+Published Admission Number (PAN): 1.2-1.5, 1.45, 1.48, 1.49, 1.51, 3.3, 3.6, 3.7
+Pupil Premium: 1.9, 1.41, 1.42
+50
+R
+Racial groups: 1.8
+Random allocation: 1.34-1.35
+Religious character, schools designated with: 1.9, 1.36-1.38, 1.47, 2.8, 2.9
+Refugees and asylum seekers: 3.17
+Relevant age group: 1.2, 1.4, 1.7, 2.20
+S
+School closure: 2.33
+Schools Adjudicator: 3, 6-11, 15, 1.3, 1.52, 1.53, 3.1-3.6, 3.24, 3.25, 3.27-3.30
+School trips: 1.8
+School uniform: 1.8
+Selection by ability: 1.9, 1.17-1.24, 1.25-1.33
+Selection by aptitude: 1.17, 1.24, 1.29, 1.31-1.33, 3.3
+Service children: 2.21
+Service Premium: 1.9, 1.41, 1.42
+Siblings: 1.9, 1.11-1.12
+Sixth form: 1.9, 2.6
+Social and medical need: 1.16
+Special Educational Needs (SEN): 1.6, 1.8, 1.9, 1.30, 1.32, 2.4, 2.16, 3.8, 3.9,
+3.11, 3.12, 3.17
+Summer born children: 2.18-2.20
+Supplementary Information Form (SIF): 1.43, 1.45, 1.54, 2.4, 2.25, 2.26
+T
+Tests (Selection): 1.31-1.33
+Tie breaker: 1.8
+Travellers / Gypsies / Roma: 3.17
+U
+Uniform: 1.8
+V
+Variations (to determined admission arrangements): 3.6-3.7
+Vulnerable children: 3.17
+W
+Waiting lists: 2.15
+Withdrawing an offer: 2.13, 2.14
+51
+Department
+for Education
+OGL
+© Crown copyright 2021
+This publication is licensed under the terms of the Open Government Licence
+v3.0 except where otherwise stated. To view this licence,
+visit nationalarchives.gov.uk/doc/open-government-licence/version/3.
+Where we have identified any third party copyright information you will need to
+obtain permission from the copyright holders concerned.
+This publication is available at www.gov.uk/official-documents.
+Any enquiries regarding this publication should be sent to us
+at www.education.gov.uk/contactus.
+ISBN 978-1-5286-2575-3
+CCS0521535686
+05/21
+52

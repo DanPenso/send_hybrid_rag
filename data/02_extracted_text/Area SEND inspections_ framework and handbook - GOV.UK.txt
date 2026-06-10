@@ -1,0 +1,2478 @@
+4/11/26, 4:08 PM
+Area SEND inspections: framework and handbook - GOV.UK
+GOV
+UK
+Ofsted
+Care Quality
+Commission
+Guidance
+Area SEND inspections:
+framework and handbook
+Updated 7 July 2025
+Applies to England
+Contents
+Introduction
+The area SEND inspection framework
+The area SEND inspection handbook
+Part 1: The evaluation schedule - how we will assess local areas
+Part 2: How local area partnerships' provision for children and young people
+with SEND will be inspected
+Part 3: Monitoring inspections
+Part 4: Engagement meetings
+Annex A: information requested to support inspections
+https://wwwov.uk/goverment/publications/area-sendframework-and-handbook/area-send-inspections-framework-and-handboolt
+1/59
+4/11/26, 4:08 PM
+Area SEND inspections: framework and handbook - GOV.UK
+OGL
+© Crown copyright 2025
+This publication is licensed under the terms of the Open Government Licence v3.0 except where
+otherwise stated. To view this licence, visit nationalarchives.gov.uk/doc/open-government-
+licence/version/3 or write to the Information Policy Team, The National Archives, Kew, London
+TW9 4DU, or email: psi@nationalarchives.gov.uk.
+Where we have identified any third party copyright information you will need to obtain
+permission from the copyright holders concerned.
+This publication is available at https://www.gov.uk/government/publications/area-send-
+framework-and-handbook/area-send-inspections-framework-and-handbook
+https:/wwwgovuk/govement/pubications/areasend-framework-and-handbook/area-send-inspections-framework-and-handboolt
+2/59
+4/11/26, 4:08 PM
+Area SEND inspections: framework and handbook - GOV.UK
+!
+This guidance came into force on 6 June 2025
+Introduction
+1. This document sets out the framework and handbook for inspecting local
+area arrangements for children and young people with special educational
+needs and/or disabilities (SEND). It was devised jointly by Ofsted and the
+Care Quality Commission (CQC) for use from 2023, and reviewed and
+updated in June 2025. We will continue to review and amend it periodically.
+2. This document has 2 parts:
+the area SEND inspection framework - this sets out the purposes and
+principles of inspection and its statutory basis, along with the inspection
+approach, model, frequency and timing
+the area SEND inspection handbook - this sets out the evaluation criteria
+that inspectors use to reach inspection outcomes, and examples of the
+kinds of evidence they gather and activities they carry out to evaluate the
+local area's arrangements for children and young people with SEND. It
+includes information about the inspection process before, during and after
+the inspection
+3. These inspections are carried out jointly by Ofsted and CQC. Inspectors
+who specialise in education, health and social care will work together as a
+single inspection team.
+Collecting and processing personal information
+4. During an inspection, inspectors will gather personal data and information
+that are necessary to help them evaluate local SEND arrangements.
+Ofsted's privacy notice (https://www.gov.uk/government/publications/ofsted-
+privacy-notices) and the CQC's privacy statement (https://www.cqc.org.uk/about-
+us/our-policies/privacy-statement) set out what data we collect, what we do with
+it, how long we keep it and people's rights under data protection legislation.
+The area SEND inspection framework
+http/wwwvuk/govement/ubications/area-sendframework-and-handbook/area-send-inspections-framework-and-handbookt
+3/59
+4/11/26, 4:08 PM
+Area SEND inspections: framework and handbook - GOV.UK
+5. This framework sets out the purposes and principles of inspection and its
+statutory basis, along with the inspection approach, model, frequency and
+timing.
+Principles and purpose of inspection
+6. The purpose of inspection is to:
+provide an independent, external evaluation of the effectiveness of the
+local area partnership's arrangements for children and young people with
+SEND
+where appropriate, recommend what the local area partnership should do
+to improve the arrangements
+7. Inspectors will uphold the highest professional standards in their work.
+They will treat everyone they meet during inspections fairly and with the
+respect and sensitivity they deserve. Inspectors will work constructively with
+leaders and staff, demonstrating professionalism, courtesy, empathy and
+respect at all times. Inspectors will evaluate a range of evidence against the
+evaluation schedule (https://www.gov.uk/government/publications/area-send-
+framework-and-handbook/area-send-inspections-framework-and-
+handbook#evaluation-schedule). They will follow Ofsted and CQC's published
+policies and relevant legislation in areas such as safeguarding and equality.
+8. Ofsted's code of conduct (https://www.gov.uk/guidance/conduct-during-ofsted-
+inspections) sets out the expectations for both inspectors and providers. At
+the set-up discussion, the lead inspector will explain these expectations and
+ask providers to read the code. Inspectors will work with leaders and staff
+constructively and will act with professionalism, courtesy, empathy and
+respect.
+9. Our inspections of local area partnerships:
+evaluate the impact of the local area partnership's arrangements for
+children and young people with SEND
+provide information to help local area partnerships improve their
+arrangements for children and young people with SEND, and to support
+improvement of the SEND system as a whole
+ensure that information on the effectiveness of the local area
+partnership's SEND arrangements is available to children and young
+people with SEND and their families, so they can make informed
+decisions about their education, health and care
+include an evaluation of the local authority's commissioning and oversight
+arrangements for children and young people in alternative provision; our
+reports include information on this, to help local authorities improve their
+arrangements
+htp://wwwgougovenment/publications/area-send-framework-and-handbook/area-send-inspections-framework-and-handboolt
+4/59
+4/11/26, 4:08 PM
+Area SEND inspections: framework and handbook - GOV.UK
+provide information for the Secretary of State for Education, the Secretary
+of State for Health and Social Care, and Parliament about the
+effectiveness of the local area partnership's SEND arrangements, to
+enable the government to act, if necessary; this information includes
+whether local area partnerships are working effectively to improve the
+experiences and outcomes of children and young people with SEND
+Statutory basis for area SEND inspections
+10. Ofsted and CQC carry out joint inspections of local areas at the request
+of the Secretary of State for Education under section 20(1)(a) of the
+Children Act 2004.
+[footnote 1] At their discretion, they may also carry out
+monitoring inspections of local areas using their power in section 20(2) of
+the Children Act 2004.
+Local area partnership duties
+11. Inspectors assess the extent to which the local area partners are
+complying with relevant legal duties relating to arrangements for children
+and young people with SEND. Relevant legal duties may include duties
+under the Children and Families Act 2014, the Equality Act 2010 and the
+Human Rights Act 1998.
+Overarching approach to inspection
+12. Inspections evaluate how well members of a local area partnership work
+together to improve the experiences and outcomes of children and young
+people with SEND. The focus is not on inspecting the specific individuals
+who work in the local area partnership.
+13. 'Local area partnership' refers to those in education, health and social
+care who are responsible for the strategic planning, commissioning,
+management, delivery and evaluation of arrangements for children and
+young people with SEND who live in a local area. A local area is the
+geographical area covered by a local authority. When evaluating the local
+area partnership, inspectors focus mainly on how effectively the local
+authority and integrated care board (ICB) jointly plan, evaluate and develop
+services for children and young people with SEND. However, they also
+consider the duties of other area partners, which are set out in the Children
+and Families Act 2014 and described further in the SEND code of practice.
+14. Inspections evaluate arrangements for all children and young people
+with SEND aged 0 to 25 covered by the SEND code of practice, including
+those who have an education, health and care (EHC) plan and those who
+htt/wwwugovemet/pbicaon/areasendframework-and-handbook/area-send-inspections-framework-and-handbool,
+5/59
+4/11/26, 4:08 PM
+Area SEND inspections: framework and handbook - GOV.UK
+receive special educational needs (SEN) support. The scope of the
+inspection covers children and young people with SEND who live in the
+local authority area and attend education settings or receive health and/or
+care services outside of the local authority's geographical boundaries.
+However, it does not cover those who live in other local areas and attend an
+education setting within the local authority's boundaries.
+15. The inspection will consider whether local authorities' approach to
+commissioning and overseeing alternative provision arrangements for
+children and young people in the local authority area meets their duties as
+set out in section 19 of the Education Act 1996 and in statutory guidance.
+[footnote 2]
+Inspection model
+16. The area SEND inspection system is an on-going cycle of inspection
+activity. We use previous area SEND inspection outcomes as well as the
+intelligence and information we have to inform our decisions about the
+timing and type of inspection.
+17. The area SEND inspection system includes:
+full inspections, which evaluate and report on the impact of the local area
+partnership's arrangements for children and young people with SEND.
+We ask all areas to update and publish their strategic plans after a full
+inspection. Where we have identified areas for priority action, we will
+require the area to publish a priority action plan (area SEND), in line with
+Regulations 3 and 4 of the Children Act 2004 (Joint Area Reviews)
+Regulations 2015. This will ensure that the area fulfils the requirement
+under the previous framework to produce a written statement of action
+(WSoA)
+monitoring inspections of local areas that were identified as having
+widespread and/or systemic failings at their full inspection. These
+inspections will evaluate and report on what the local area partnership
+has done to address the areas for priority action that Ofsted and CQC
+identified at the previous full inspection. Monitoring inspections may also
+be carried out at the discretion of Ofsted and CQC where serious
+concerns have been identified through intelligence gathered outside a full
+inspection
+engagement meetings between Ofsted, CQC and representatives of the
+local area partnership. The purpose of these meetings is for Ofsted, CQC
+and the local area partnership to discuss the partnership's self-evaluation,
+SEND action plan, any challenges, and how leaders are addressing
+them. These meetings do not result in an evaluative outcome
+p:/wwwo.govenmet/ubications/areasend-framework-and-handbook/area-send-inspections-framework-and-handbook
+6/59
+4/11/26, 4:08 PM
+Area SEND inspections: framework and handbook - GOV.UK
+area SEND thematic visits to a small number of areas, to investigate a
+particular aspect of the SEND system in depth. These visits do not result
+in an evaluative outcome, although we do share our findings from the
+visits in a national report
+The guidance for each set of thematic visits will be published separately.
+18. Following a full inspection, inspectors will report on the effectiveness of
+the local area partnership's arrangements for children and young people
+with SEND. The report will include:
+the inspection outcome
+what it is like to be a child or young person with SEND in the local area
+what the local area partnership is doing well and what needs to be
+improved
+recommendations for improvements that the local area partnership
+should act on
+whether any areas for priority action have been identified, and which area
+partners are responsible for addressing them
+the likely type and timing of the next inspection activity
+Frequency and type of area SEND inspections,
+monitoring inspections and meetings
+19. All local areas will receive a full inspection at least once during a 5-year
+period. The frequency and type of inspection activity in any individual local
+area will be based on previous inspection outcomes and any relevant
+additional information. This includes regional intelligence and information
+that the local area partnership shares during engagement meetings.
+20. Ofsted and CQC use the information we have when deciding how best
+to inspect each local area partnership. There will be times when concerns
+arise about a local area partnership. When this happens, the Ofsted
+regional director, in discussion with CQC, will decide whether to bring
+forward a full inspection or carry out a monitoring inspection.
+21. There are 3 possible full inspection outcomes, leading to different
+subsequent inspection activity:
+htt/wwogvemet/ubicais/areasend-framework-and-handook/areasend-inspections-framework-and-handbodk
+7/59
+4/11/26, 4:08 PM
+Area SEND inspections: framework and handbook - GOV.UK
+Inspection outcome
+Subsequent meetings
+and inspection activities
+The local area partnership's SEND
+Engagement meetings
+arrangements typically lead to positive
+experiences and outcomes for children
+Full inspection usually
+and young people with SEND. The local
+within 5 years
+area partnership is taking action where
+improvements are needed.
+The local area partnership's arrangements
+Engagement meetings
+lead to inconsistent experiences and
+outcomes for children and young people
+Full inspection usually
+with SEND. The local area partnership
+within 3 years
+must work jointly to make improvements.
+There are widespread and/or systemic
+Engagement meetings
+failings leading to significant concerns
+about the experiences and outcomes of
+Submission of priority
+children and young people with SEND,
+action plan (area SEND)
+which the local area partnership must
+address urgently.
+Monitoring inspection,
+usually 18 months from the
+date when the local area
+partnership receives its
+final full inspection report
+Full inspection, usually
+within 3 years
+22. If we become aware of information that suggests a significant
+deterioration in performance or a serious concern, Ofsted and CQC may
+carry out a monitoring inspection or bring forward an area's full inspection to
+take place sooner than originally planned.
+23. If the local authority in the local area is also receiving monitoring visits
+under the 'Inspecting local authority children's services' framework
+(https://www.gov.uk/government/publications/inspecting-local-authority-childrens
+services-from-2018/inspecting-local-authority-childrens-services), there will usually
+be no more than 3 monitoring visits across both frameworks within a 12-
+month period.
+24. Under the previous area SEND inspection framework, His Majesty's
+Chief Inspector (HMCI) required local areas identified as having significant
+weaknesses to produce a WSoA. Local areas with a WSoA that were not
+revisited under the previous framework will usually have a full inspection
+within the first 3 years of the new inspection cycle.
+http/wwwvuk/govement/ubications/area-sendframework-and-handbook/area-send-inspections-framework-and-handbookt
+8/59
+4/11/26, 4:08 PM
+Area SEND inspections: framework and handbook - GOV.UK
+25. New local areas will usually have a full inspection within 3 years of
+coming into existence. Any monitoring inspections that were planned for the
+predecessor local area or areas will not be carried out.
+26. There are other Ofsted and CQC inspections that will involve local area
+partners. When possible, we will take the timing of these inspections into
+account when planning the overall inspection schedule.
+The area SEND inspection handbook
+27. This handbook sets out how inspectors gather evidence and evaluate a
+local area partnership's arrangements for children and young people with
+SEND. This handbook is primarily a guide for inspectors on how to carry out
+area SEND inspections. We have made it publicly available so that children
+and young people with SEND, families, local area leaders, practitioners, and
+other organisations are informed about the processes and procedures of
+inspection.
+28. The handbook balances the need for consistency in inspections with the
+flexibility required to respond to the individual circumstances of each local
+area. It should not be regarded as a set of inflexible rules, but as a broad
+account of inspection procedures. When applying the guidance in this
+handbook, inspectors will take appropriate action to comply with Ofsted and
+CQC's duties under the Equality Act 2010.
+29. During the inspection, inspectors will visit providers such as early years
+settings, schools, alternative provision and colleges. In addition, inspectors
+may visit providers in specialist health and social care services, or those
+providing early help, support or services, to gather evidence.
+[footnote
+3]
+Any
+setting that we visit will not be under inspection; the provision will remain
+subject to separate inspection arrangements in line with Ofsted and CQC's
+statutory and regulatory duties and powers.
+30. This handbook has 4 parts:
+Part 1: The evaluation schedule - the evaluation criteria that inspectors
+use to reach an inspection outcome
+Part 2: How local area partnerships will be inspected - information about
+the processes before, during and after an inspection
+Part 3: Monitoring inspections - the purpose and details of monitoring
+inspections
+Part 4: Engagement meetings - the purpose and details of engagement
+meetings
+htps:/wwwgovukgovenment/ubications/areasend-framework-and-handbook/area-send-inspections-framework-and-handboolk
+9/59
+4/11/26, 4:08 PM
+Area SEND inspections: framework and handbook - GOV.UK
+Part 1: The evaluation schedule - how
+we will assess local areas
+31. Ofsted and CQC have identified the features of effective local SEND
+arrangements from research, inspection evidence and consultation with
+children, young people, families, leaders and practitioners. We have used
+these features to create the evaluation criteria. Inspectors will use the
+evaluation criteria to determine the effectiveness of the local area
+partnership's SEND arrangements and their impact on the experiences and
+outcomes of children and young people.
+32. Inspectors will evaluate the impact of the local area partnership's
+arrangements on the experiences and outcomes of children and young
+people with SEND, including the extent to which:
+children and young people's needs are identified accurately and
+assessed in a timely and effective way
+children, young people and their families participate in decision-making
+about their individual plans and support
+children and young people receive the right help at the right time
+children and young people are well prepared for their next steps, and
+achieve strong outcomes
+children and young people are valued, visible and included in their
+communities
+33. Inspectors will evaluate how the local area partners work together to
+plan, evaluate and develop the SEND system, including the extent to which:
+leaders are ambitious for children and young people with SEND
+leaders actively engage and work with children, young people and
+families
+leaders have an accurate, shared understanding of the needs of children
+and young people in their local area
+leaders commission services and provision to meet the needs and
+aspirations of children and young people, including commissioning
+arrangements for children and young people in alternative provision
+leaders evaluate services and make improvements
+leaders create an environment in which effective practice and multi-
+agency working can flourish
+https:/wwwgovukgovemet/pubications/areasendframework-and-handbook/area-sendinspections-framework-and-handbook
+10/59
+4/11/26, 4:08 PM
+Area SEND inspections: framework and handbook - GOV.UK
+34. The evaluation schedule is not exhaustive. In applying it, inspectors will
+use their professional judgement, together with the instructions and
+guidance in part 2 (https://www.gov.uk/government/publications/area-send-
+framework-and-handbook/area-send-inspections-framework-and-handbook#part-
+two).
+35. The evaluation schedule is a guide for inspectors. It can also support
+the local area partnership in its self-evaluation and ongoing improvement
+activities.
+Approach to inspection outcomes
+36. Following a full inspection, inspectors will give an overall summary
+outcome about the local area partnership. This inspection outcome reflects
+the inspectors' evaluation of the impact of the local area partnership's
+arrangements on the experiences and outcomes of children and young
+people with SEND.
+37. Inspectors will use their professional judgement to decide how much
+evidence they need to gather against each of the evaluation criteria,
+following lines of enquiry as they emerge, to reach the final inspection
+outcome.
+Inspection outcomes
+38. There are 3 inspection outcomes:
+The local area partnership's arrangements typically lead to positive
+experiences and outcomes for children and young people with SEND.
+The local area partnership is taking action where improvements are
+needed.
+The next full area SEND inspection will be within 5 years.
+Ofsted and CQC ask the local area partnership to update and publish its
+strategic plan based on the recommendations set out in this report.
+The local area partnership's arrangements lead to inconsistent
+experiences and outcomes for children and young people with SEND.
+The local area partnership must work jointly to make improvements.
+The next full area SEND inspection will take place within approximately
+3 years.
+hwwwuvenmet/ubications/rea-send-framework-and-handbook/area-send-inspections-framework-and-handbook.
+11/59
+4/11/26, 4:08 PM
+Area SEND inspections: framework and handbook - GOV.UK
+Ofsted and CQC ask that the local area partnership updates and
+publishes its strategic plan based on the recommendations set out in
+this report.
+There are widespread and/or systemic failings leading to significant
+concerns about the experiences and outcomes of children and young
+people with SEND, which the local area partnership must address
+urgently.
+A monitoring inspection will be carried out within approximately 18
+months. The next full area SEND inspection will take place within
+approximately 3 years.
+HMCI requires the local area partnership to prepare and submit a
+priority action plan (area SEND) to address the identified areas for
+priority action.
+Reaching an outcome that the local area partnership's arrangements
+typically lead to positive experiences and outcomes
+39. Inspectors will reach this outcome if, having gathered and evaluated
+evidence using the evaluation criteria, they find that:
+children and young people are typically achieving strong outcomes, and
+children and young people's experiences of their education, health and
+care are typically positive, and
+the local area partnership has identified any areas for improvement and is
+taking effective action to address them, and
+there are no areas for priority action
+Reaching an outcome that the local area partnership's arrangements
+lead to inconsistent experiences and outcomes
+40. Inspectors will reach this outcome if:
+any of the points in relation to the experiences and outcomes of children
+and young people in paragraph 39 are not met, but
+there are no areas for priority action
+Reaching an outcome that there are widespread and/or systemic
+failings
+41. Inspectors will reach this outcome when:
+they have identified one or more areas for priority action; this will happen
+when there are significant concerns about the experiences and outcomes
+https://wwwgov.uk/govenment/pubications/areasend-framework-and-handbook/area-send-inspections-framewor-and-handbodl,
+12/59
+4/11/26, 4:08 PM
+Area SEND inspections: framework and handbook - GOV.UK
+of children and young people, because of particular systemic or
+widespread failings that have a significant negative impact on the
+experiences and outcomes of children and young people
+Experiences and outcomes
+42. The evaluation criteria describe the features of effective SEND
+arrangements. Inspectors will evaluate the impact of the local area
+partnership's SEND arrangements through the experiences and outcomes
+of children and young people.
+43. Inspectors will evaluate individual children and young people's
+outcomes as part of their assessment of the local area partnership's self-
+evaluation of its strategic outcomes. Strategic outcomes are the outcomes
+that partnership leaders want to see for all children and young people in
+their local area. Inspectors will evaluate individuals' outcomes through
+activities such as tracking and sampling. Themes are likely to include, but
+are not limited to: health and well-being, communication, independence,
+positive relationships, community participation, moving into further and
+higher education and/or employment and preparation for adulthood.
+44. Inspectors will evaluate outcomes as described in the SEND code of
+practice, including the individual outcomes that children and young people
+with SEND have told us are important to them. Inspectors will assess
+whether outcomes are sufficiently ambitious and reflect high expectations.
+This includes whether children and young people with SEND:
+have developed the knowledge, skills and behaviours to gain employment
+or meaningful occupation, move on to further or higher education, and/or
+live as healthily and as independently as possible
+have developed their self-esteem and resilience
+have made friends, and feel safe, valued and visible in their local
+communities
+45. When evaluating experiences, inspectors will assess whether children
+and young people's experiences of education, health and care in their local
+area are positive, and why. They will evaluate whether children and young
+people with SEND:
+have gained from stable, supportive relationships and environments
+have had the opportunity to participate in community activities to widen
+their understanding of the opportunities available to them now and in their
+future
+have participated in decision-making about their own plans and support
+have had support provided when they have needed it, feel supported and
+believe that adults understand and advocate for them.
+tp:/wwwgvenmet/ubicaos/areasendframework-and-handbook/area-send-inspections-framework-and-handbook
+13/59
+4/11/26, 4:08 PM
+Area SEND inspections: framework and handbook - GOV.UK
+46. Inspectors will also seek to understand how children and young people
+have been supported through any adverse experiences they may have had.
+47. Inspectors will not emphasise one type of evidence above others.
+Inspectors will gather evidence that is balanced and connected, to form a
+picture of the typical experiences and outcomes of children and young
+people and how the local area partnership's SEND arrangements have led
+to these.
+The evaluation criteria
+48. This section provides detail about what inspectors will consider when
+evaluating against each criterion.
+49. The evaluation criteria apply across education, health and care, and to
+all children and young people with SEND aged 0 to 25 covered by the
+SEND code of practice, including those receiving SEN support and those
+with EHC plans.
+50. Inspectors will evaluate the local authority's commissioning and
+oversight of alternative provision for all children and young people who
+attend, not only those with SEND.
+The needs of children and young people with SEND are identified
+accurately and assessed in a timely and effective way
+51. Inspectors will take account of the extent to which:
+children and young people are accurately identified as having SEND
+children and young people's needs are identified in a timely way, to
+prevent needs from escalating, whenever possible
+practitioners assess the strengths and determine the aspirations of the
+child or young person alongside their individual needs
+the criteria for carrying out assessments of need and for accessing
+services and support are understood, and the application of these criteria
+improves outcomes
+timely referrals are made to other services and agencies, where
+necessary
+Children and young people with SEND and their families participate in
+decision-making about their individual plans and support
+52. Inspectors will take account of the extent to which:
+children and young people access impartial information, advice and
+support that enables them to make informed choices about their future
+http://wwwovuk/goverment/pubications/area-sendframework-and-handbook/area-sendinspections-frameworkand-handboolt
+14/59
+4/11/26, 4:08 PM
+Area SEND inspections: framework and handbook - GOV.UK
+children, young people and their families are supported to understand
+their rights, make choices and contribute to decision-making about their
+plans and support
+children and young people understand their plans and support, including
+intended outcomes, and why some changes are not possible
+Children and young people with SEND receive the right help and
+support at the right time
+53. Inspectors will take account of the extent to which:
+plans are developed and support is provided in a timely way, and meets
+children and young people's needs
+children and young people receive support based on their identified
+needs when they are awaiting assessment
+plans and support are coordinated within and, where necessary, across
+providers and services, and are based on a shared understanding of the
+child or young person
+plans and support are regularly reviewed and updated to reflect changes
+in children and young people's skills, independence, understanding and
+other factors in their lives, including reduced support in line with reduced
+need where appropriate
+the wider needs of the child or young person's family are considered, and
+barriers to learning and participation are addressed
+Children and young people with SEND are well prepared for their next
+steps and achieve strong outcomes
+54. Inspectors will take account of the extent to which:
+the outcomes that are the most important to children, young people and
+their families are understood and planned for
+support and plans reflect children and young people's ambitions, and
+extend beyond required levels of support (such as the number of hours of
+support from a particular service) to focus on the planned outcome
+children and young people are supported before and during any point of
+transition, including when they will no longer be eligible for a service
+from an early age, children and young people develop the knowledge,
+skills and behaviours necessary to prepare for greater independence and
+adulthood, including in the areas of further and higher education,
+employment, more independent living, optimal health, positive
+relationships and participation in society
+Children and young people with SEND are valued, visible and included
+in their communities
+55. Inspectors will take account of the extent to which:
+t:/ww.govenmet/ubicatos/areasendframework-and-handbook/area-sendinspections-framework-and-handbook.
+15/59
+4/11/26, 4:08 PM
+Area SEND inspections: framework and handbook - GOV.UK
+children, young people and their families understand what community
+activities are available
+children and young people are supported to participate, where
+appropriate, in activities, and to make friends and develop positive
+relationships
+children and young people are supported to develop their confidence,
+resilience and knowledge, so that they can participate in universal and
+specialist activities as appropriate
+Leaders are ambitious for children and young people with SEND
+56. Inspectors will take account of the extent to which:
+leaders have an ambitious strategy that defines the shared outcomes
+they will work collectively to achieve for all children and young people
+with SEND, and they embed an aspirational culture of high expectations
+and quality across services and provision
+leaders understand their responsibilities and accountabilities, including
+their statutory duties and their individual responsibilities in the wider area
+strategy
+responsibilities are delegated in line with leaders' legal duties and there is
+strong oversight of the resulting activities
+processes for making decisions are structured so that the leaders
+responsible can swiftly agree to the changes that are required to improve
+services
+leaders challenge themselves and each other to improve experiences
+and outcomes for children and young people
+Leaders actively engage and work with children and young people
+with SEND and their families
+57. Inspectors will take account of the extent to which:
+leaders consider the specific needs of groups of children and young
+people with SEND, and how best to engage them in co-production
+leaders ensure that decisions relating to services are appropriately
+shaped by children and young people's needs, experiences, ambitions
+and outcomes
+leaders give feedback to children, young people and their families on
+changes they have made to their area's services, and explain where
+change is not possible and why
+Leaders have an accurate, shared understanding of the needs of
+children and young people with SEND in their local area
+58. Inspectors will take account of the extent to which:
+:/ww.govenmet/ubications/areasend-framework-and-handbook/area-send-inspections-framework-and-handbook.
+16/59
+4/11/26, 4:08 PM
+Area SEND inspections: framework and handbook - GOV.UK
+leaders gather accurate, timely information about children and young
+people with SEND in their local area and monitor the changing needs of
+the population, including using the perspectives of children, young people
+and their families
+leaders understand the experiences and outcomes of children and young
+people with SEND in their area; their backgrounds and identities,
+including any barriers to them accessing support; and their needs and
+strengths
+leaders share information across education, care and health services so
+they can learn from different perspectives and approaches
+Leaders commission services and provision to meet the needs and
+aspirations of children and young people with SEND
+59. Inspectors will take account of the extent to which:
+services and systems have been designed around the needs of children
+and young people, and are informed by evidence of what works in
+achieving good outcomes
+joint commissioning arrangements enable partners to make best use of
+all the resources available to improve outcomes for children and young
+people in the most efficient, effective, equitable and sustainable way
+joint commissioning arrangements meet the local area's statutory
+responsibilities for identifying, assessing and meeting needs
+leaders understand that children and young people with SEND may be
+more vulnerable to abuse, and ensure that this is carefully considered
+when commissioning and evaluating services
+the local authority identifies children and young people's needs accurately
+and arranges suitable full-time educational provision to meet the needs of
+children or young people who require alternative provision as early as
+possible, for example, ensuring that full-time education for children and
+young people who have been excluded begins no later than the sixth day
+of the exclusion
+the local authority ensures that there are intervention plans for each child
+and young person in alternative provision, including clear objectives and
+plans for their next steps, such as returning to mainstream education
+Leaders evaluate services and make improvements
+60. Inspectors will take account of the extent to which:
+leaders jointly evaluate whether their services and provision are
+improving outcomes for children and young people with SEND, not only
+whether children and young people have received the services
+leaders monitor whether there are sufficient services and provision to
+meet the needs and aspirations of the children and young people in their
+area and take appropriate action as a result
+t/wwvgvemet/ubcaos/areasendframework-and-handbook/area-sendinspections-framework-and-handbook
+17/59
+4/11/26, 4:08 PM
+Area SEND inspections: framework and handbook - GOV.UK
+leaders use information from a range of sources in their evaluation to
+improve their services and provision, including feedback from
+representative groups, children and young people who use services and
+data relating to outcomes
+leaders have established clear processes to enable services and
+providers to evaluate and improve their provision regularly
+the local authority evaluates how well the alternative provision it
+commissions is improving outcomes for children and young people, and
+takes action if needed
+the local authority maintains strong oversight arrangements for alternative
+provision it commissions, including oversight of each alternative
+provision's safety and suitability, and in particular of alternative providers
+that are not registered as schools
+Leaders create an environment for effective practice and multi-agency
+working to flourish
+61. Inspectors will take account of the extent to which:
+processes and systems are set up to support practitioners to work
+together and share appropriate information in a timely manner, including
+strong systems for identifying and responding to risks to children and
+young people with SEND
+leaders ensure that practitioners are clear on their individual roles and
+how they can best work together to improve outcomes for children and
+young people
+leaders ensure that practitioners have the appropriate skills to understand
+children and young people's needs and aspirations, and to create an
+inclusive environment
+leaders encourage practitioners working together to focus on the child or
+young person, identifying alternative solutions when existing options do
+not meet needs and aspirations effectively
+leaders ensure that practitioners working with children and young people
+with SEND have the right knowledge and skills to reduce the risk of harm,
+and understand that children and young people with SEND may be more
+vulnerable to abuse, neglect and exploitation
+Alternative provision
+62. Inspectors will use the evaluation criteria to evaluate the local authority's
+commissioning and oversight of alternative provision for all children and
+young people in placements directly commissioned by the local authority.
+This includes evaluating how the local authority ensures that placements:
+http:/wwwgovukgovemet/pubicaion/area-sendframework-and-handbook/area-send-inspections-framework-and-handbookt
+18/59
+4/11/26, 4:08 PM
+Area SEND inspections: framework and handbook - GOV.UK
+meet the needs and aspirations of children and young people; provide the
+support they need; prepare them for their next steps; and enable them to
+feel valued and included in their community. Inspectors will consider
+whether the local authority's use of unregistered and online provision is
+appropriate to children and young people's needs.
+63. Inspectors will gather evidence to help evaluate the experiences and
+outcomes of children and young people with SEND in alternative provision
+commissioned by the local authority. Where local authorities work with
+schools or trusts to commission and oversee placements, inspectors may
+gather and evaluate evidence about the local authority's role. In Ofsted
+education inspections, inspectors evaluate the experiences of children and
+young people in alternative provision commissioned directly by schools.
+64. Section 19 of the Education Act 1996 places a duty on local authorities
+to arrange alternative educational provision in school or elsewhere 'for
+pupils who, because of exclusion, illness or other reasons, would not
+otherwise receive suitable education'. [footnote 4] The education provided
+under section 19 should be full time and suitable for the child, taking
+account of their age, ability and special educational needs (if any). Where
+full-time education would not be in the child's best interests for reasons
+relating to their physical or mental health, local authorities must arrange
+part-time education on whatever basis they consider to be in the child's best
+interests.
+65. When evaluating the local authority's commissioning and oversight of
+alternative provision, including unregistered provision, inspectors will:
+meet local authority leaders to understand their strategy for
+commissioning and oversight of alternative provision
+meet local authority leaders to understand their strategic use and
+oversight of unregistered alternative provision
+review information provided to Ofsted by the authority about its alternative
+provision arrangements
+have discussions with senior leaders and special educational needs
+coordinators to understand the authority's processes and decision-
+making
+review the fair access protocols
+carry out sampling activities in one or more alternative provision settings
+Legal duties
+https:/wwwgovukgovement/pubications/areasend-framework-and-handbook/area-send-inspections-framework-and-handboolt
+19/59
+4/11/26, 4:08 PM
+Area SEND inspections: framework and handbook - GOV.UK
+66. The area SEND framework focuses on the impact of the local area
+partnership's arrangements for children and young people with SEND. Its
+fulfilment of legal duties is part of this impact. Inspectors will not check
+compliance with every legal duty in relation to children and young people
+with SEND. However, there are legal duties underpinning our evaluation
+criteria. Where inspectors find that those duties are not being met, they will
+report on how this affects children and young people with SEND.
+67. The legal duties that may be considered include duties outlined in the
+SEND code of practice (https://www.gov.uk/government/publications/send-code-
+of-practice-0-to-25) and in the Department for Education (DfE)'s alternative
+provision guidance (https://www.gov.uk/government/publications/alternative-
+provision).
+Other areas of focus
+68. Inspectors may gather evidence in relation to the oversight of children
+and young people with SEND who are not attending a school or alternative
+provision. This includes children and young people with SEND who are
+educated somewhere other than a school, are not on a school roll or are
+home educated. Examples include those who receive special education
+through education otherwise than at school (EOTAS) arrangements and
+those who are on flexi-schooling arrangements.
+69. Inspectors may also consider the local area partnership's approach to
+improving the attendance of children and young people with SEND at
+education settings. Some children and young people with SEND face
+greater barriers to attendance than their peers and may need additional
+support to help them access the education they are entitled to. Overall,
+children and young people with SEND have lower attendance rates than
+their peers, on average, and this affects their future outcomes. Inspectors
+will also evaluate information in relation to part-time timetables and may ask
+for further information. The DfE's attendance guidance
+(https://www.gov.uk/government/publications/working-together-to-improve-school-
+attendance) explains the responsibilities of all partners, including local
+authorities.
+70. Inspectors may consider the local area partnership's oversight and
+commissioning for children and young people who are placed in residential
+special schools, including those who are placed outside their local authority
+area and those who are in residential special schools for more than 295
+days a year. Inspectors may evaluate how effectively the local area
+partnership is ensuring that these children and young people are being
+safeguarded, having positive experiences and achieving strong outcomes.
+:/ww.govenmet/ubications/areasend-framework-and-handbook/area-send-inspections-framework-and-handbook.
+20/59
+4/11/26, 4:08 PM
+Area SEND inspections: framework and handbook - GOV.UK
+Safeguarding
+71. Safeguarding is not a specific evaluation area, but inspectors will always
+consider it as part of any inspection activity. Inspectors will look at how well
+children and young people are helped and protected so that they are kept
+safe. Inspectors will follow established procedures if they receive
+information during the inspection that raises concerns about the
+safeguarding of children or young people. This includes following up
+concerns with the appropriate leaders in the local area.
+72. Safeguarding concerns: guidance for inspectors
+(https://www.gov.uk/government/publications/ofsted-safeguarding-
+policy/safeguarding-concerns-guidance-for-inspectors) should be read alongside
+this guidance. It sets out the approach inspectors should take to inspecting
+safeguarding. It is essential that inspectors, local area partners, and
+individual providers are also familiar with, and follow, statutory guidance on
+safeguarding:
+'Keeping children safe in education: statutory guidance for schools and
+colleges
+[footnote 5]
+'Working together to safeguard children 2023'.
+[footnote 6]
+Part 2: How local area partnerships'
+provision for children and young people
+with SEND will be inspected
+73. This part sets out the methodology for full inspections.
+How local areas are selected for inspection
+74. All local areas will have a full inspection at least once during a 5-year
+period. The type and timing of the inspection will be based on the area's
+previous inspection outcomes, as set out in paragraphs 19 and 21
+(https://www.gov.uk/government/publications/area-send-framework-and-
+handbook/area-send-inspections-framework-and-handbook#type-and-timing, of the
+framework. The selection of local areas to be inspected will, wherever
+possible, take account of the timing of other Ofsted and CQC inspection
+activity. Inspections will usually take place during school term time.
+http:/wwwvuk/govement/ubications/area-sendframework-and-handbook/area-send-inspections-framework-and-handbookt
+21/59
+4/11/26, 4:08 PM
+Area SEND inspections: framework and handbook - GOV.UK
+75. Where intelligence suggests that there are concerns about
+arrangements for children and young people with SEND in a particular local
+area, we may inspect that local area at any time.
+Composition of the inspection team
+76. The inspection team will be led by one of His Majesty's Inspectors (HMI)
+from Ofsted, and will include Children's Services Inspectors from CQC, and
+education and social care inspectors from Ofsted.
+77. Ofsted and CQC may vary the composition and size of the inspection
+team. We will base this decision on several factors, including the complexity
+of the local SEND system, and the size and nature of the geographical area.
+78. At times, other Ofsted and CQC inspectors may visit on site, to shadow
+the work of the inspection team. This is done for training, development and
+quality assurance purposes only. Any activities carried out by these
+inspectors will not form part of the evidence gathered by the inspection
+team or contribute in any way to the team's evaluation.
+Overview of the inspection
+79. Area SEND full inspections will follow the structure set out below. The
+lead inspector will provide a detailed timeline when they notify leaders in the
+local area of the inspection.
+80. Inspection activities are structured to enable inspectors to draw together
+evidence from across education, health and care services and form a
+connection between the different findings to reach an inspection outcome.
+Inspectors will use their evaluation of children and young people's
+experiences and outcomes to build a picture of the impact of the local area's
+SEND arrangements. During the inspection, inspectors will need to speak to
+a range of people. They will do so in line with our code of conduct, and act
+at all times with professionalism, courtesy, empathy and respect. Inspectors
+should take careful account of the well-being of leaders and staff. They
+should adjust their approach or activity, as appropriate, as they go about
+their inspection work. If inspectors see or suspect that a staff member
+(including all leaders) is upset or distressed at any point during the
+inspection, inspectors should respond sensitively. Where appropriate,
+inspectors will consider suitable adjustments to enable the staff member to
+continue. Where there are serious concerns, inspectors will normally
+contact the duty desk and inform those responsible for the person's well-
+being. There may be exceptional occasions when we need to consider
+htt://wwwu/goverment/ubications/area-sendframework-and-handbook/area-send-inspections-framework-and-handboolk
+22/59
+4/11/26, 4:08 PM
+Area SEND inspections: framework and handbook - GOV.UK
+pausing an inspection. We will consider these on a case-by-case basis
+according to our published guidance on pausing inspections
+(https://www.gov.uk/guidance/pausing-state-funded-school-inspections).
+Activities in week 1
+Inspectors notify the local area leaders of the inspection 8 working days
+before the fieldwork begins and 10 working days before coming on site.
+This will usually be on a Monday, but may be in the previous week if there
+is a bank holiday in week 1 or 2 of the inspection.
+Inspectors request information to support the inspection (this information
+is set out in Annex A (https://www.gov.uk/government/publications/area-send-
+framework-and-handbook/area-send-inspections-framework-and-
+handbook#annex-A) of this guidance).
+Inspectors and local area leaders hold a set-up discussion (this is carried
+out virtually).
+The local area partnership distributes links to the surveys for children and
+young people with SEND, parents and carers, and practitioners (please
+see paragraph 90 (https://www.gov.uk/government/publications/area-send-
+framework-and-handbook/area-send-inspections-framework-and-
+handbook#SEND-surveys) for additional information.
+We will update our information about ongoing area SEND inspections
+page (https://www.gov.uk/government/publications/local-area-send-inspections-
+information-for-families) with details of the inspection, including a link to the
+survey.
+The local area partnership shares information to support the inspection.
+Inspectors select individual children and young people, and ask the local
+area partnership to set up tracking meetings.
+Inspectors carry out planning and pre-inspection analysis.
+Activities in week 2
+Inspectors work with the local area partnership to agree an inspection
+timetable.
+Inspectors hold tracking meetings (please see paragraph 100 for
+additional information).
+Inspectors carry out pre-inspection analysis and review the information
+set out in Annex A https://www.gov.uk/government/publications/area-send-
+framework-and-handbook/area-send-inspections-framework-and-
+handbook#annex-A).
+Inspectors may meet virtually with local leaders, staff, representative
+groups and stakeholders.
+Activities in week 3
+Inspectors gather evidence on site, including sampling visits, focused
+sampling and meetings with children and young people, families and
+https://wwwgovuk/goverment/pubication/area-sendframework-and-handbook/area-send-inspections-framework-and-handboolt
+23/59
+4/11/26, 4:08 PM
+Area SEND inspections: framework and handbook - GOV.UK
+representative groups.
+Inspection findings fed back to the local area partnership.
+Including the views of children and young people and families during
+the inspection
+81. The inspectors will gather evidence directly from children and young
+people and their families during the inspection. Inspectors will form their
+initial lines of enquiry by gathering evidence about recent experiences from:
+inspection surveys
+tracking meetings with children, young people, parents, carers and
+practitioners
+meetings with representative groups and local area leaders
+82. Inspectors will continue to consider the views of children, young people
+and their families about their recent experiences as they test their initial
+lines of enquiry and gather further evidence to evaluate the broader
+framework through activities, including:
+sampling visits across a range of settings and providers within the local
+area - during these visits, inspectors will sample the experiences and
+outcomes of children and young people across education, health and
+care; inspectors may contact families whose records have been sampled
+during the inspection week to seek their views
+focused sampling to look specifically at certain areas of SEND - during
+focused sampling, inspectors may speak with children and young people,
+families and practitioners to gather evidence
+meet with stakeholders, which may include the parent carer forum,
+children, young people and family representative groups and providers
+from other services
+Inspectors will use these inspection activities to hear about recent
+experiences directly from children, young people, families and practitioners
+to understand the impact of the local area's commissioning arrangements
+on their experiences and outcomes (see paragraphs 43 to 47).
+Pre-inspection activity
+83. Ofsted and CQC inspectors will review relevant information held by the
+inspectorates about the local area arrangements for children and young
+people with SEND. This will include previous inspection outcomes and any
+WSoA that an area was required to produce under the previous framework.
+http://wwwovukgovemet/pubicaions/areasendframework-and-handbook/area-send-inspections-framework-and-handboolk
+24/59
+4/11/26, 4:08 PM
+Area SEND inspections: framework and handbook - GOV.UK
+Week 1: notification, set-up and information request
+Notification
+84. On day 1 (10 working days before the on-site evidence-gathering),
+inspectors will contact the relevant leaders in the local area to notify them of
+the inspection:
+Ofsted will notify the director of children's services (DCS)
+CQC will notify the chief executive of the ICB
+85. Each local area will be asked to nominate a representative - a local
+area nominated officer (LANO) - who will act as a single point of contact on
+behalf of the local area partnership throughout the inspection. If the LANO is
+a representative of the ICB, the local area must also nominate a
+representative from the local authority. Alternatively, if the LANO is a
+representative of the local authority, the local area must also nominate a
+representative from the ICB. Their roles will be to liaise with the lead
+inspector throughout the inspection, so that inspection activities can be
+coordinated effectively.
+86. While it is important that we carry out our planned inspections wherever
+possible, sometimes there may be reasons why a planned inspection may
+not go ahead. Ofsted and CQC will only defer the inspection of a local area
+in exceptional circumstances. If a local area partnership has a concern
+about the timing of an inspection, it may submit a deferral request in line
+with Ofsted's deferral policy (https://www.gov.uk/guidance/deferring-ofsted-
+inspections).
+Set-up discussion
+87. Once the inspection has been confirmed, the lead inspector and CQC
+inspector will make an extended telephone call to the LANO and the ICB
+representative. The lead inspector will make it clear that the LANO and the
+ICB representative are encouraged to have someone present during the call
+to assist and support them if they wish. This should be at least one other
+senior leader who typically deputises for them and can understand and
+discuss the content of the call. The purpose of this call is to:
+check on the leaders' well-being and whether any steps need to be taken
+to ensure any issues or concerns are addressed, including that
+appropriate support is available. The lead inspector should ascertain how
+to contact whoever is responsible for the leaders' well-being on a day-to-
+day basis, so that they can pass on well-being concerns if appropriate
+and necessary
+discuss the arrangements for the inspection, including the timetable of
+activities, arrangements for talking to children, young people and their
+http://wwwuk/goverment/pubications/areasend-framework-and-handbook/area-send-inspections-framework-and-handboolk
+25/59
+4/11/26, 4:08 PM
+Area SEND inspections: framework and handbook - GOV.UK
+families, the key officers and representatives to involve in specific
+meetings, and arrangements for giving regular feedback and having
+discussions regarding the emerging findings of the inspection
+discuss the arrangements for distributing the survey links to children,
+young people, parents, carers, and practitioners
+discuss the information requested for the inspection (Annex A
+(https://www.gov.uk/government/publications/area-send-framework-and-
+handbook/area-send-inspections-framework-and-handbook#annex-A))
+ask that the key stakeholders involved in arrangements for children and
+young people with SEND and the commissioning of alternative provision
+are made aware of the inspections, including providers, services, parents
+and carers
+provide an opportunity for leaders to raise any issues or concerns, or to
+seek clarification before the inspection, and explain how the local area
+partnership will be able to raise any matters during the inspection itself
+provide an opportunity for leaders to discuss and/or give inspectors
+information on potential equality duties, including reasonable adjustments
+for individuals
+Information request (Annex A)
+88. Annex A https://www.gov.uk/government/publications/area-send-framework-
+and-handbook/area-send-inspections-framework-and-handbookannex-A sets out
+the information inspectors will request and the timeline for the local area
+partnership to share it. Any evidence submitted should be a part of the local
+area partners' routine business and not produced solely for inspection.
+89. Inspectors may ask for additional information not set out in Annex A
+(https://www.gov.uk/government/publications/area-send-framework-and-
+handbook/area-send-inspections-framework-and-handbook#annex-A), and may
+agree to look at additional information provided by the area partners. Any
+additional information must be:
+necessary for an accurate understanding of children and young people's
+experiences and outcomes in relation to the scope of the inspection
+part of the local area partners' business as usual and not produced solely
+for inspection
+Arrangements for surveys
+90. Inspectors will share 4 surveys: one for children and young people with
+SEND, one for parents and carers, an Easy Read version of the parent and
+carer survey and one for practitioners. The purpose of these surveys is for
+people to share their recent experiences with the inspection team to support
+inspectors when developing initial lines of enquiry. The questions have been
+developed with children and young people's groups, parent carer forums,
+and local area leaders and practitioners.
+https:/wwwgov.u/govenment/pubications/areasend-framework-and-handbook/area-send-inspections-framework-and-handboolk
+26/59
+4/11/26, 4:08 PM
+Area SEND inspections: framework and handbook - GOV.UK
+91. The surveys will go live on the day the local area is notified of the
+inspection. They will remain live for 6 working days from the notification day.
+On the day of notification, local area partnerships should arrange for survey
+links to be sent to all children and young people with SEND in their local
+area, their parents and carers, and made available to all settings and
+services working with children and young people with SEND. We will also
+update our information about ongoing area SEND inspections page
+(https://www.gov.uk/government/publications/local-area-send-inspections-
+information-for-families) with links to our inspection survey once we notify.
+Inspectors will ensure that they work with the local area partnership to
+consider accessibility issues, including making paper copies available on
+request.
+Selecting children and young people for tracking meetings
+92. During week 1, inspectors will select approximately 6 children and
+young people to be involved in tracking meetings. These are meetings with
+children and young people, their parents or carers (if appropriate) and the
+practitioners who are directly involved with them. The meetings are for
+inspectors to hear about children and young people's experiences and
+outcomes. Tracking meetings will help inspectors to establish initial lines of
+enquiry before they begin their on-site activity.
+93. When selecting the children and young people to track, inspectors will
+take into account: information shared by the local area partnership; the
+demographic make-up of the local area, including protected characteristics
+defined by the Equality Act 2010; and any contextual issues specific to the
+local area. They will choose children and young people with a range of
+needs, who access a range of services, from a range of age groups and
+who are at different stages in their education and/or involvement with health
+and social care services. The scope is children and young people for whom
+the local authority is responsible. This includes children and young people
+with an EHC plan for whom the local authority is responsible but who are
+educated outside the local authority area. It also includes those who have
+been placed in children's homes and educational establishments out of
+area. However, the scope does not cover children and young people who
+live in other areas but attend education within the local area boundaries.
+94. Inspectors will usually include at least 1 child or young person who is
+studying in alternative provision, and at least 2 children who are receiving
+SEN support. Inspectors will include a few children receiving social care
+support and this may include a child placed out of the local area. Inspectors
+will usually include at least one child or young person whose needs are in
+each of the 4 categories of need: communication and interaction; cognition
+and learning; social, emotional and mental health difficulties; sensory and/or
+physical needs.
+95. Once children and young people have been selected, the LANO will:
+h:/wwwov.u/govenment/publications/erea-send-framework-and-handbook/area-send-inspections-framework-and-handboolt
+27/59
+4/11/26, 4:08 PM
+Area SEND inspections: framework and handbook - GOV.UK
+arrange for a practitioner who knows the child or young person well to
+approach them, and their parents or carers, for their agreement to be
+involved
+share information about the child or young person as outlined in Annex A
+(https://www.gov.uk/government/publications/area-send-framework-and-
+handbook/area-send-inspections-framework-and-handbook#annex-A)
+arrange tracking meetings with children and young people, their parents
+and carers
+arrange a multi-disciplinary tracking meeting with practitioners who work
+with the child or young person
+Week 2: off-site analysis and creating an on-site
+timetable
+Off-site analysis
+96. Inspectors will review the information requested from the local area
+partners outlined in Annex A (https://www.gov.uk/government/publications/area-
+send-framework-and-handbook/area-send-inspections-framework-and-
+handbook#annex-A).
+Creating the inspection timetable
+97. The Ofsted lead inspector will coordinate the creation of a timetable for
+gathering evidence off site in week 2, and on site in week 3. They will work
+jointly with the lead inspector from CQC to liaise with the LANO and the ICB
+representative to help create the timetable. This will include arrangements
+for meeting with practitioners, managers and leaders to discuss their work.
+Inspectors will also make arrangements for keep-in-touch and feedback
+meetings to share inspectors' findings.
+98. When creating the timetable, the Ofsted lead inspector and CQC lead
+inspector will:
+consider which activities should be carried out in person, and which
+should be carried out by phone or video call
+include enough time for inspectors to travel between appointments
+include time for inspectors to review and analyse their evidence,
+individually and together
+ensure that the timetable is flexible enough to be changed in response to
+emerging findings
+work with the LANO and ICB representative to ensure that local leaders
+and practitioners are aware of the timetable and any changes to it
+htp:/wwwgovugovenment/pubications/areasendframework-and-handbook/area-sendinspections-framework-and-handbook
+28/59
+4/11/26, 4:08 PM
+Area SEND inspections: framework and handbook - GOV.UK
+99. The inspection team will meet during week 2 to discuss the plan for the
+inspection and any matters arising from their off-site analysis.
+Weeks 2 and 3: meetings with children, young people,
+parents and carers and practitioners
+Tracking meetings with children, young people, parents and carers
+100. Inspectors will use tracking meetings to gather evidence of the impact
+of the local area partnership's strategy and commissioning on individual
+children and young people with SEND. Tracking meetings enable inspectors
+to understand specific children and young people's experiences and
+journeys through the SEND system. Inspectors will look at the impact of the
+local area partnership's SEND arrangements on the experiences and
+outcomes of children and young people, including how decisions have been
+made, how children, young people and their families have been involved
+and whether they have received the right help at the right time. Tracking
+meetings will help inspectors to identify lines of enquiry they wish to review
+through the range of inspection activities.
+101. Inspectors will discuss the child or young person's experiences with
+them. Inspectors will ask the LANO and ICB representative to work with
+practitioners and families so as to understand how inspectors can best
+support the child or young person to share their experiences. Inspectors
+may also discuss children and young people's experiences with their
+parents and/or carers, either together with or separately from their child,
+depending on the age of the child or young person and the family's
+preferences.
+Tracking meetings with practitioners
+102. Inspectors will have a multi-agency tracking meeting with the child or
+young person's health, social care and education professionals, and any
+other practitioners involved. Where relevant, this may include providers of
+commissioned services (for example, practitioners working directly with the
+child or young person at their children's home or through children and
+young people's mental health services) or other services that may be
+relevant to understanding the child or young person's experience. The lead
+inspector will ask the LANO and ICB representative to ensure that the
+practitioners involved in the meeting include any staff who coordinate the
+child or young person's overall plan of support, or who have the greatest
+awareness of it and know the child. Leaders and/or practitioners may
+always be accompanied by a colleague of their choice when speaking to
+inspectors if they wish. However, it is important that they can express their
+views freely to inspectors.
+hp:/wwwougovenmet/ubications/areasend-framework-and-handbook/area-send-inspections-framework-and-handbook
+29/59
+4/11/26, 4:08 PM
+Area SEND inspections: framework and handbook - GOV.UK
+103. Inspectors may discuss children and young people's records with
+practitioners, using their knowledge of the child or young person, file
+structure and recording systems. They may also consider any case
+supervision notes. Where children and young peoples' case records are
+held wholly or partly electronically, the service should arrange for identified
+inspectors to have secure access to the electronic system. This activity will
+be carried out in line with Ofsted's privacy notice
+(https://www.gov.uk/government/publications/ofsted-privacy-notices/social-care-
+ofsted-privacy-notice#local-area-send-inspections) and CQC's privacy notice
+(https://www.cqc.org.uk/about-us/our-policies/privacy-statement).
+104. Inspectors will base their findings on contemporary practice that has an
+impact on the child or young person's current situation. However, they will
+also review some historical information to understand the child or young
+person's journey.
+Discussions with children and young people
+105. Inspectors will also meet with children and young people during week 2
+of the inspection. Inspectors may also arrange to contact or meet with
+additional children and young people to discuss relevant lines of enquiry,
+discuss their individual experiences or seek their views on a specific aspect
+of the local area's arrangements throughout the inspection, including during
+sampling and focusing visits. These discussions will support the inspectors
+to:
+understand the experiences and outcomes of the child or young person
+understand how the local area partnership engages with children and
+young people, and the impact this engagement has
+identify any common themes that will contribute to lines of enquiry for the
+inspection
+discuss their views on effective practice and how the local area
+partnership could improve its arrangements for children and young
+people with SEND
+Discussions with parents and carers
+106. Inspectors will contact or meet with parents and carers during the
+inspection to:
+understand the impact on their child of the local area's SEND
+arrangements
+understand the impact on the wider family
+identify effective practice and how arrangements could be improved
+gain more information about specific lines of enquiry
+Discussions with parent and carer representative groups
+https:/wwwgovukgovemet/pubications/areasendframework-and-handbook/area-sendinspections-framework-and-handbook
+30/59
+4/11/26, 4:08 PM
+Area SEND inspections: framework and handbook - GOV.UK
+107. Inspectors will meet remotely with representatives from the parent
+carer forum and/or other representative groups of parents and carers in
+week 2 of the inspection. Lead inspectors may contact the local area
+partnership, the DfE and regional NHS England (NHSE) officials before the
+inspection to agree which relevant representative groups inspectors will
+contact. This is to:
+identify any common themes that contribute to developing lines of enquiry
+for the inspection
+discuss their views on effective practice and how the local area
+partnership could improve its arrangements for children and young
+people with SEND
+Week 3: focused sampling of decision-making and
+oversight
+108. Inspectors will evaluate the decision-making processes and oversight,
+including those related to legal duties, for specific groups of children and
+young people with SEND, by sampling from these groups with officers from
+the local area partnership.
+109. Inspectors will ask to discuss a selection of children and young
+people's experiences with one or two officers who know the child and are
+directly involved in the decision-making and oversight of their support.
+Leaders and/or practitioners may always be accompanied by a colleague of
+their choice when speaking to inspectors if they wish. However, it is
+important that they can express their views freely to inspectors.
+110. Inspectors will choose which children and young people they want to
+discuss. They may do this before the meeting, using the information
+provided by the local area partnership. Alternatively, they will ask the officers
+to show them records based on certain criteria, and will choose the children
+and young people with officers during the meeting.
+111. Topics that may be a subject for focused sampling include the decision-
+making and oversight of the quality of EHC plans, fair access protocols, and
+use of the dynamic support register. Inspectors may also use focused
+sampling to review the local area partnership's oversight of particular
+groups of children and young people with SEND, for example those who
+have high rates of absence from school, are EOTAS, are known to the
+youth justice service, are not on a school roll or are home educated.
+112. Inspectors may ask to speak to children, young people and/or their
+families who have been identified during a focused sampling exercise.
+https:/wwwgov.u/govenment/pubications/areasend-framework-and-handbook/area-send-inspections-framework-and-handboolk
+31/59
+4/11/26, 4:08 PM
+Area SEND inspections: framework and handbook - GOV.UK
+Week 3: sampling visits to providers and services
+113. Inspectors will visit a number of providers and services across
+education, health and social care to review the experiences of a wider group
+of children and young people, in line with their specific lines of enquiry.
+These visits are not to directly inspect the quality of provision, as these
+providers are subject to other inspection arrangements. Leaders and/or
+practitioners may always be accompanied by a colleague of their choice
+when speaking to inspectors if they wish. However, it is important that they
+can express their views freely to inspectors.
+114. These sampling visits enable inspectors to review the impact of the
+local area partnership's arrangements on a larger group of children and
+young people with SEND. Inspectors will evaluate children and young
+people's experiences and outcomes by reviewing documents and talking to
+practitioners.
+115. Ofsted and CQC will select providers and services to visit, and will
+discuss their suitability with the LANO and the ICB representative. The lead
+inspector will provide the LANO with notification letters to send to the
+chosen education, health and care providers. The LANO will set up the
+visits and arrangements for case sampling.
+116. During sampling visits, inspectors will visit a specific provider or service
+and ask for information about individual children and young people's
+experiences. These may include children and young people who have a
+specific need, who are receiving a specific service and/or who are at a
+particular point in their education with a range of health and care needs.
+117. Inspectors will choose the children and young people. They may do
+this before the visit, using the information provided by the local area
+partnership. Alternatively, they will ask practitioners to show them records
+based on certain criteria established from the lines of enquiry, and will
+choose the children with practitioners during the visit.
+118. Inspectors will look at any documents relating to the children and
+young people, and will discuss their experiences and outcomes with the
+practitioners in that provision or service. Inspectors may also look at case
+supervision notes. Where case records are held wholly or partly
+electronically, the provider should arrange for the inspectors to have secure
+access to the electronic system.
+119. Inspectors sampling in education settings will include children and
+young people receiving SEN support. This may include meeting children
+and young people and, if appropriate, reviewing files and talking to
+practitioners. These visits may include early years settings, schools,
+htt:/wwugovemen/ucaton/area-sendframework-and-handbook/area-send-inspections-framework-and-handbookt
+32/59
+4/11/26, 4:08 PM
+Area SEND inspections: framework and handbook - GOV.UK
+colleges, alternative provision and specialist services. The scope of the
+inspection covers children and young people who live in the local authority
+area, including those educated out of area. However, it does not cover
+those who live in other areas but attend an education setting within the local
+authority's boundaries.
+120. Inspectors sampling in health providers and services will gather
+evidence of the assessment, intervention and transition stages of health
+support. These visits will include universal, targeted and specialist health
+teams, such as speech and language therapy services and children and
+young people's mental health teams.
+121. Inspectors sampling in social care will consider the identification,
+assessment, intervention and transition stages of social care support. This
+may include visits to services such as the disabled children's team, early
+help services and adult social care teams.
+122. Findings will be based on contemporary practice, and on practice that
+has an impact on the child or young person's current situation. However,
+they will also review some historical information to understand the child or
+young person's journey.
+123. Inspectors may ask to speak to children, young people and/or their
+families during the sampling visit.
+Week 3: inspection team meetings
+124. The inspection team will meet at different points during the 5 on-site
+days, and remotely during the 2 working days before being on site. In
+particular, the team should, as far as is practicable, meet each day to
+discuss and record emerging findings and ensure that the lead inspector
+has the most recent evaluative information to feed back to the LANO and
+the ICB representative.
+125. During the final team meeting, inspectors will summarise the key
+evidence and share final evaluative outcomes. The main points for feedback
+to the local area partners will be recorded as the meeting progresses,
+including the overall inspection outcome, strengths, recommendations for
+improvement and any areas for priority action.
+Week 2 and 3: meetings with leaders
+Initial meeting with leaders
+htt://wwwu/goverment/pubicatons/area-sendframework-and-handbook/area-send-inspections-framework-and-handbook
+33/59
+4/11/26, 4:08 PM
+Area SEND inspections: framework and handbook - GOV.UK
+126. The lead inspector and CQC inspector should meet with the LANO,
+ICB representative and other colleagues, as agreed by the lead inspector
+and the LANO and the ICB representative, before on-site activity begins.
+127. At this first meeting, the LANO, ICB representative and other
+colleagues will share information on the local area partnership's context.
+Meeting to discuss the local area partnership's self-evaluation and
+strategic planning
+128. The lead inspector, the LANO and ICB representative will arrange a
+meeting with leaders on the first day on site, to review the local area
+partnership's self-evaluation, strategy and associated action plans.
+129. This meeting should include the following people:
+the DCS and elected member with specific responsibilities for SEND
+the LANO
+the ICB representative
+representatives of the parent carer forum
+senior managers responsible for the strategic development and
+operational management of education, health and social care provision
+for children and young people with SEND; this may include the
+designated clinical officer and/or the community health provider strategic
+lead
+senior local authority manager responsible for the commissioning and
+oversight of alternative provision
+a colleague chosen by the DCS, the ICB representative or the LANO, if
+they wish, such as another senior leader who typically deputises for them
+and can understand and discuss the content of the meeting (optional)
+Keep-in-touch meetings
+130. At the heart of our inspections is a professional dialogue between
+inspectors and leaders. The lead inspector will establish keep-in-touch
+meetings at key points during the inspection. This will enable the inspection
+team to feed back to the DCS, the ICB representative and the LANO on
+findings from inspection activity, any emerging lines of enquiry, identify any
+additional evidence required, answer any questions and make changes to
+the timetable if necessary. The DCS, the ICB representative and the LANO
+may always be accompanied by a colleague of their choice, if they wish,
+such as another senior leader who typically deputises for them and can
+understand and discuss the content of the meetings.
+131. The local area partnership is responsible for providing evidence of the
+impact of its arrangements for children and young people with SEND. This
+includes the local area partnership providing appropriate information and
+data, such as any analysis of the experiences and outcomes of children and
+http:/wwwvuk/govemet/pubications/areasend-framework-and-handbook/area-send-inspections-framework-and-handbook.
+34/59
+4/11/26, 4:08 PM
+Area SEND inspections: framework and handbook - GOV.UK
+young people with SEND in its local area. It also includes opportunities to
+meet relevant managers and other local area representatives.
+132. The local authority is responsible for providing evidence of its
+arrangements for commissioning and overseeing alternative provision for
+children and young people in its area.
+133. Inspectors may also work with the LANO and the ICB representative to
+arrange additional meetings with leaders and/or practitioners throughout the
+on-site inspection. This will enable inspectors to discuss specific lines of
+enquiry or information that they have gathered through tracking meetings or
+sampling visits. Leaders and/or practitioners may always be accompanied
+by a colleague of their choice when speaking to inspectors if they wish.
+However, it is important that they can express their views freely to
+inspectors.
+The final feedback meeting
+134. The inspection concludes with a final feedback meeting attended by
+representatives from the local area, and the DfE and regional NHSE
+officials. Attendance is voluntary and any attendee may leave at any time,
+including leaving for a short time and then returning. If the feedback is likely
+to be challenging or is likely to raise difficult issues, the lead inspector will
+be sensitive to any implications arising from this. The lead inspector will
+liaise with the DCS and the ICB representative, through the LANO, to agree
+who attends this meeting. However, we expect the attendees to include:
+the chief executive officer or leader of the council
+the DCS and elected member with responsibility for SEND from the local
+authority
+the LANO
+the ICB representative
+the parent carer forum representatives
+a colleague that the DCS, chief executive officer or council leader, the
+ICB representative and the LANO has chosen to accompany them
+(optional)
+DfE and regional NHSE officials who are the primary contacts for the
+local area
+135. During the final feedback meeting, the lead inspector will ensure that
+all attendees are clear:
+about inspectors' evaluation of the local area partnership's effectiveness
+in improving the experiences and outcomes of children and young people
+with SEND
+htp:/wwwgov.ugovenmet/pubications/area-send-framework-and-handbook/area-send-inspections-framework-and-handboolk
+35/59
+4/11/26, 4:08 PM
+Area SEND inspections: framework and handbook - GOV.UK
+about the inspection outcome and resulting time frame for the next
+inspection activity
+about any areas of widespread and/or systemic failings identified as
+areas for priority action that will result in the requirement for a priority
+action plan (area SEND) and in further monitoring
+that any safeguarding concerns identified during the inspection have
+already been fed back to senior leaders and/or acted on
+that all feedback remains confidential to those present at the meeting,
+until the local area receives their final report
+that, on receiving the draft report, the local area partnership must ensure
+that the report remains restricted and confidential to the relevant
+personnel and should not be shared more widely or published. Leaders
+may share inspection outcomes, in confidence, with others, provided the
+information is not made public. This may include leaders' colleagues,
+family members, medical advisers and/or their wider support group
+that, in addition to being able to raise concerns at any stage during the
+inspection, the local area partnership has an opportunity to raise any
+issues or concerns or to seek clarification about the inspection, and can
+also contact Ofsted after the end of the inspection, if needed
+After the inspection
+Arrangements for publishing the report
+136. The lead inspector is responsible for writing the inspection report, with
+contributions from the full inspection team across education, health and
+care, and submitting the evidence shortly after the inspection ends. Findings
+and inspection outcomes are reached jointly by the inspection team and the
+report is published by both Ofsted and CQC.
+137. The text of the report should explain the outcomes and reflect the
+evidence. The findings should be consistent with the feedback given to the
+local area at the end of the inspection, but are likely to be a succinct
+account.
+138. Inspection reports will be quality assured before we send a draft to the
+local area. In most circumstances, the local area will receive the draft report
+within 14 working days of the end of the inspection. The draft report is
+restricted and confidential to the relevant personnel, and should not be
+shared more widely or published.
+139. The local area will have 10 working days to comment on the draft
+report. The local area can highlight minor points relating to the clarity and/or
+factual accuracy of the report, or it can submit a formal complaint seeking a
+http://wwwovukgovemet/pubicaions/areasendframework-and-handbook/area-send-inspections-framework-and-handboolk
+36/59
+4/11/26, 4:08 PM
+Area SEND inspections: framework and handbook - GOV.UK
+review of the inspection process, including the judgement made or concerns
+about inspector conduct (see paragraph 140). If it only submits minor points
+of clarity or factual accuracy, we will respond to these when we share the
+final report with the local area. This will normally be within 30 working days
+of the end of the inspection.
+140. If the local area wishes to make a formal complaint, we will follow the
+process set out in our published Ofsted complaints procedure
+(https://www.gov.uk/government/organisations/ofsted/about/complaints-procedure)
+or CQC complaints procedure (https://www.cqc.org.uk/contact-us/how-
+complain/complain-about-service-or-provider). We will respond to any complaint
+before we finalise and send the report to the local area. If the local area has
+previously chosen to highlight some minor points of clarity or factual
+accuracy on the draft inspection report (see paragraph 139), it will not
+normally be able to submit a formal complaint or challenge later. We will
+normally publish the report on our reports website
+(https://reports.ofsted.gov.uk/) 5 working days after sending it to the local area.
+141. Once a local area has received its final report, relevant recipients of
+the report are required to publish it on their organisation's website and
+supply a copy to a member of the public, on demand, for a reasonable
+charge.
+[footnote
+7]
+The local area partnership should ensure that the parent
+carer forum receives a copy of the report.
+142. As required by The Children Act 2004 (Joint Area Reviews)
+Regulations 2015, Ofsted and CQC will disseminate the report to:
+the Secretary of State for Education
+the Secretary of State for Health and Social Care
+the local authority for the area inspected
+the principal authority that is responsible for making the action plan, if
+HMCI has determined that the principal authority is different from the local
+authority
+any other people or organisations HMCI considers appropriate for the
+nature of the inspection
+143. In all cases, the inspection process should not be regarded as
+complete until all inspection activity has been carried out and the final
+version of the inspection report has been sent to the local area.
+144. The evidence base for the inspection must be retained in line with
+Ofsted's retention and disposal policy. We may decide that retaining it for
+longer is warranted for research purposes. The evidence base for CQC will
+also be retained in line with CQC's retention and disposal policy.
+:ww.vmtubicatos/reasen-framework-and-handbook/area-sendinspections-framework-and-handbook.
+37/59
+4/11/26, 4:08 PM
+Area SEND inspections: framework and handbook - GOV.UK
+Requirement for local area partnerships to produce a
+priority action plan (area SEND)
+145. If the inspection finds that there are widespread and/or systemic
+failings leading to significant concerns about the experiences and outcomes
+of children and young people with SEND, then the local area partnership is
+required to develop and publish a priority action plan (area SEND).
+146. The inspection report will name the principal authority responsible for
+making the priority action plan. The principal authority may be the local area
+partnership as a whole or one particular partner. The DfE and regional
+NHSE will work with local area partnership officials to offer support and
+challenge when they are developing a priority action plan.
+147. The principal authority should aim to submit the priority action plan
+(area SEND) to the DfE and regional NHSE within 35 working days from the
+date that the local area partnership receives the final report. The DfE and
+regional NHSE then review whether the priority action plan (area SEND)
+meets the criteria outlined in paragraph 148.
+148. The priority action plan (area SEND) must include:
+the local area partnership's proposed measures to address the areas for
+priority action identified in the inspection report
+the responsible partner for each proposed action
+the period within which the action is to be taken
+149. Following feedback on the priority action plan (area SEND), the DfE,
+regional NHSE, Ofsted and CQC ask that the principal authority, and any
+other local area partners who were involved in making the priority action
+plan (area SEND), should aim to publish the plan, as a section within their
+updated strategic plan, within 50 working days from the date that the local
+area partnership receives their final report. The principal authority must
+supply a copy to a member of the public on demand (a reasonable charge
+may be specified for this) and share a copy with Ofsted and CQC.
+Request for local area partnerships to update their
+strategic plans
+150. We ask all local area partnerships to update and publish their strategic
+plans after a full inspection. The plan should include the action the
+https://wwwgovuk/goverment/pubicaion/area-sendframework-and-handbook/area-send-inspections-framework-and-handboolt
+38/59
+4/11/26, 4:08 PM
+Area SEND inspections: framework and handbook - GOV.UK
+partnership is taking, or will take, in response to the recommendations
+made in the inspection report. This strategic plan should set out the local
+area partnership's SEND strategy and how the local area partnership will
+deliver the strategy. Local area partnerships may update existing plans or
+choose to produce new plans.
+151. Local area partnerships should aim to update their strategic plans
+within 50 working days from the date they received their final report. They
+should follow the recommendations in the inspection report, and are
+expected to engage with all partners and stakeholders when deciding what
+actions they need to take.
+152. All strategic plans and priority action plans (area SEND), including
+those produced as described in paragraphs 145 to 150
+(https://www.gov.uk/government/publications/area-send-framework-and-
+handbook/area-send-inspections-framework-and-handbook#priority-action-plan),
+should be published in a way which ensures that they are accessible to
+children and young people with SEND, and their parents and carers.
+Quality assurance and complaints
+Quality assurance
+153. All inspectors are responsible for the quality of their work. The lead
+inspector must ensure that inspections are carried out in accordance with
+the principles of inspection and the Ofsted code of conduct
+(https://www.gov.uk/guidance/conduct-during-ofsted-inspections).
+154. We monitor the quality of inspections through a range of formal
+processes, and HMI/senior HMI and Children's Services Inspectors from
+CQC may be on site in some local areas, or may monitor remotely, to
+quality assure inspections. We may also evaluate the quality of an
+inspection evidence base. The lead inspector will be responsible for giving
+Ofsted team inspectors feedback on the quality of their work and their
+conduct. The CQC lead inspector will be responsible for giving CQC team
+inspectors feedback on the quality of their work and their conduct. In very
+rare circumstances, if we find a weakness in the inspection process, we
+may carry out a further visit to gather additional evidence
+(https://www.gov.uk/government/publications/gathering-additional-evidence-to-
+secure-an-incomplete-inspection).
+155. Additionally, quality assurance inspectors from CQC may either join
+inspectors on site or provide off-site quality assurance of area SEND
+inspection activity.
+156. All local areas are invited to take part in a voluntary post-inspection
+survey in order to contribute to our ongoing improvement of our inspection
+https://wwwvuk/goverment/pubications/areasendframework-and-handbook/area-send-inspections-framework-and-handboolk
+39/59
+4/11/26, 4:08 PM
+Area SEND inspections: framework and handbook - GOV.UK
+work. The link to this survey is provided when the local area receives the
+final copy of its inspection report.
+Handling concerns and complaints
+157. The great majority of our work is carried out smoothly and without
+incident. If concerns do arise during the inspection, they should be raised
+with the lead inspector as soon as possible, in order to resolve issues
+before the inspection is completed. Any concerns raised, and actions taken,
+will be recorded in the inspection evidence. If there is any concern that is
+not possible to resolve with the lead inspector during the inspection, the
+local area partnership can contact a senior Ofsted leader using the number
+provided during the notification process. In exceptional circumstances, this
+might lead to the inspection being paused (see published guidance on
+pausing inspections (https://www.gov.uk/guidance/pausing-state-funded-school-
+inspections)).
+158. If an issue remains unresolved, the local area partnership can contact
+Ofsted after the end of the inspection. This will be an opportunity for the
+local area partnership to raise informal concerns about the inspection
+process or outcomes, ask about next steps or highlight information that they
+feel was not fully considered during the inspection. This will be directed to
+an inspector who is independent of the inspection, to discuss and to
+resolve, where appropriate, at the earliest opportunity.
+159. If it is not possible to resolve concerns during the inspection or through
+a telephone call after the inspection, the local area partnership may wish to
+lodge a formal complaint when it receives the draft report. The lead
+inspector will ensure that the local area partnership is informed that it is able
+to make a formal complaint, and that information about how to complain
+(https://www.gov.uk/government/organisations/ofsted/about/complaints-procedure)
+is available on GOV.UK.
+Part 3: Monitoring inspections
+160. Ofsted and CQC will carry out monitoring inspections in local areas
+that were found, at a full inspection, to have widespread and/or systemic
+failings and were required to produce a priority action plan (area SEND).
+Monitoring inspections will be carried out around 18 months from the date
+when the local area partnership received its final report following the full
+inspection.
+161. The purpose of the monitoring inspection is to assess the extent to
+which the local area partnership is taking effective action to address the
+areas for priority action set out in the inspection report. Inspectors will tailor
+their enquiries and evidence-gathering to focus on the areas for priority
+:/ww./govenmet/ubications/areasend-framework-and-handbook/area-send-inspections-framework-and-handbook.
+40/59
+4/11/26, 4:08 PM
+Area SEND inspections: framework and handbook - GOV.UK
+action that were identified at the full inspection. If inspectors identify any
+new, widespread and/or systemic failings during the monitoring inspection,
+the monitoring inspection outcome letter will refer to these.
+162. The monitoring inspection will always be led by an Ofsted HMI,
+accompanied by a Children's Services Inspector from CQC. The team will
+normally be made up of inspectors from education, health and social care.
+163. Ofsted and CQC may vary the composition and size of the inspection
+team. We base this decision on several factors, including the complexity of
+the areas for priority action, and the size and nature of the geographical
+area covered by the ICB.
+164. Inspectors will carry out activities that are similar to those carried out
+during full inspections. These include, but are not limited to, discussions
+with leaders; sampling children and young people's experiences during
+visits to education, health and social care providers; and holding meetings
+with children and young people, parents and carers, practitioners and
+leaders.
+165. Inspectors will take account of:
+any action taken by leaders, since the initial inspection, to address the
+areas for priority action
+evidence provided by the local area partnership that shows how leaders
+have assured themselves that the necessary action is being taken for
+children and young people against each area of priority action
+any self-evaluation carried out by the local area partnership
+the views of children and young people and their parents and carers,
+gathered through inspection activity such as sampling activities, and
+discussions with children and young people with SEND
+166. Ofsted and CQC retain the discretion to carry out a monitoring
+inspection in any local area if information held, or received, by Ofsted and/or
+CQC raises sufficient concern about the effectiveness of arrangements for
+children and young people with SEND and their families. This may be
+carried out in a local area that was not previously required to produce a
+priority action plan (area SEND). In such cases, inspectors will gather
+evidence that is relevant to the issues that gave rise to the decision to
+inspect.
+Arrangements for monitoring inspections
+Weeks 1 and 2: notification, set-up and information request
+htt://wwwugoverment/ubicatons/area-send-framework-and-handbook/area-send-inspections-framework-and-handbook
+41/59
+4/11/26, 4:08 PM
+Area SEND inspections: framework and handbook - GOV.UK
+167. The process for notifying the local area is the same as for full
+inspections (see paragraph 84
+(https://www.gov.uk/government/publications/area-send-framework-and-
+handbook/area-send-inspections-framework-and-handbook#notification). On the
+same day as the notification to the local area, the lead inspector will also
+notify the parent carer forum or other parents' groups involved in the priority
+action plan (area SEND), if known. The Ofsted lead inspector will handle
+any deferral requests, as set out in paragraph 86
+(https://www.gov.uk/government/publications/area-send-framework-and-
+handbook/area-send-inspections-framework-and-handbook#deferrals).
+Set-up discussion
+168. Following notification, the Ofsted lead inspector and CQC inspector will
+contact the LANO and the ICB representative. The inspectors will
+encourage the LANO and the ICB representative to have someone present
+during the call to assist and support them if they wish. This should be at
+least one other senior leader who typically deputises for them and can
+understand and discuss the content of the call. The purpose of this call is to:
+check on the leaders' well-being and whether any issues or concerns
+need to be addressed, including to make sure appropriate support is
+available. The lead inspector should establish how to contact whoever is
+responsible for the leaders' well-being on a day-to-day basis, so that they
+can pass on well-being concerns if appropriate and necessary
+to arrange for any relevant up-to-date information to be made available to
+inspectors before the on-site week; this will include the current version of
+the priority action plan (area SEND) and the local area's strategic plan
+discuss the arrangements for the inspection, including the timetable of
+activities; arrangements for talking to children, young people and their
+families; the key officers and representatives to involve in specific
+meetings; and arrangements for giving regular feedback and discussing
+the emerging findings of the inspection
+discuss the information requested for the inspection (Annex A
+(https://www.gov.uk/government/publications/area-send-framework-and-
+handbook/area-send-inspections-framework-and-handbook#annex-A))
+ask that the key stakeholders involved in arrangements for children and
+young people with SEND and the commissioning of alternative provision
+are made aware of the inspections, including providers, services, parents
+and carers
+provide an opportunity for leaders to raise any issues or concerns, or to
+seek clarification before the inspection, and explain how the local area
+partnership will be able to raise any matters during the inspection itself
+provide an opportunity for leaders to discuss and/or give inspectors
+information on potential equality duties, including reasonable adjustments
+for individuals
+p:/wwwov.govenmet/ubicatios/areasendframework-and-handbook/area-send-inspections-framework-and-handbookt
+42/59
+4/11/26, 4:08 PM
+Area SEND inspections: framework and handbook - GOV.UK
+169. The local area partnership is responsible for providing the monitoring
+inspection team with any relevant data/information. Any data requested
+must only be what the local area partnership produces as part of its routine
+work or as set out in Annex A. The inspection team will tell the partnership
+what data they require from Annex A. We do not expect the inspection team
+to require all of the data set out in Annex A but only data relevant to the
+areas for priority action that were set out in the full inspection report. We do
+not expect the local area partnership to provide any data or information in a
+particular format.
+170. The local area partners should provide evidence to show how they
+have assured themselves that they are addressing the areas for priority
+action that were identified in the full inspection report. Evidence should
+include how the local area partnership has involved children and young
+people with SEND and their families in their actions. This should include
+how the partnership has ensured that the voices, experiences and
+outcomes of children and young people with SEND remain a focus of its
+actions.
+171. Inspectors will review the uploaded evidence and arrange a telephone
+call with the LANO and the ICB representative. This will be to discuss the
+schedule for the monitoring inspection, including the evidence-gathering
+activities deemed appropriate by the inspection team to explore what the
+local area partnership is doing to address identified areas for priority action.
+They will also discuss other practical arrangements, such as who should
+attend meetings.
+172. The lead inspector and CQC inspector will also hold a discussion with
+the officials from the DfE and regional NHSE about any support they have
+given the local area partnership to address the areas for priority action. All
+discussions must be recorded in the evidence base.
+Inspectors will meet remotely with representatives from the parent carer
+forum and/or, when appropriate, another representative group of parents
+and carers at the start of the inspection. This is to:
+establish their views on whether the local area partnership has taken
+effective action to address the areas for priority action
+understand how parent/carer groups have been involved in the
+developments and in monitoring the priority action plan
+Inspectors may also meet with representative groups of children and young
+people to understand how the local area partnership has engaged with them
+in addressing the areas for priority action.
+p:/wwwgvenmet/ubicaos/areasendframework-and-handbook/area-sendinspections-framework-and-handbook
+43/59
+4/11/26, 4:08 PM
+Area SEND inspections: framework and handbook - GOV.UK
+The on-site week
+173. Typically, inspectors will spend a minimum of 2.5 days on site, although
+this may vary depending on the circumstances of the local area. Inspectors
+and local areas will discuss and agree on the precise timing of activities.
+174. Inspectors will focus their enquiries and evidence-gathering activities
+on the areas for priority action that were identified in the full inspection.
+Activities may include, but are not limited to, meetings with leaders from the
+local area partnership, sampling the experiences of children and young
+people, visits to settings/provision and discussions with children and young
+people with SEND, their families and practitioners.
+Discussions with children and young people with SEND and their
+families
+175. Inspectors may arrange to meet with children and young people with
+SEND and their families during the inspection. This is to discuss their
+individual experiences or to ask for their views on a specific aspect of the
+local area's arrangements and the action it has taken to address the areas
+for priority action.
+Feedback to leaders
+176. On the final day of the monitoring inspection, the inspection team will
+provide feedback to leaders on whether they have taken effective action to
+address the areas for priority action in the full inspection report. Attendance
+is voluntary, and any attendee may leave at any time, including leaving for a
+short time and then returning. If the feedback is likely to be challenging or is
+likely to raise difficult issues, the lead inspector will be sensitive to any
+implications of this. The attendees at this feedback meeting will be agreed
+between the Ofsted lead inspector, CQC inspector, the LANO and the ICB
+representative. However, we expect them to include:
+the chief executive officer or leader of the council
+the DCS and elected member with responsibility for SEND from the local
+authority
+the LANO
+the ICB representative
+the parent carer forum representatives
+http/wwovgvenmet/ublication/area-send-framework-and-andbook/area-send-inspections-framework-and-handbool
+44/59
+4/11/26, 4:08 PM
+Area SEND inspections: framework and handbook - GOV.UK
+a colleague chosen by the DCS, chief executive officer or council leader,
+the LANO and the ICB representative to accompany them (optional)
+DfE and regional NHSE officials who are the primary contacts for the
+local area
+Approach to outcomes
+177. Inspectors will evaluate whether the local area partnership is taking
+effective action against each area for priority action set out in the full
+inspection report. When deciding on the outcomes, inspectors will consider
+the relevant evaluation criteria, as set out in paragraphs 48 to 61, that relate
+to each area for priority action.
+Effective action
+Inspectors will reach this outcome if, having gathered and evaluated
+evidence, they find that the local area partnership has taken reasonable
+steps to address the area for priority action since the full inspection, based
+on the relevant evaluation criteria.
+Effective action does not mean that the area for priority action is no longer a
+concern or that the local area can stop taking action to address it.
+Inspections are a point-in-time evaluation. Areas for priority action that
+receive an effective action outcome may still be identified as areas for
+priority action in future inspections. This can happen if the local area has not
+continued to take action and/or the action has not continued to have a
+positive impact on the experiences and outcomes for children and young
+people with SEND.
+Ineffective action
+Inspectors will reach this outcome if, having gathered and evaluated
+evidence, they find that the local area partnership has not taken reasonable
+steps to address the area for priority action since the full inspection based
+on the relevant evaluation criteria.
+An ineffective action outcome means that the area for priority action is still a
+significant concern and that the local area partnership needs to take further
+and/or different action.
+Each outcome will be accompanied by a short summary of the inspectors'
+evaluation of the action the local area partnership has taken to address the
+area for priority action.
+The monitoring inspection letter
+178. The lead inspector is responsible for writing the monitoring inspection
+outcome letter and submitting the evidence to Ofsted shortly after the end of
+https://wwwvuk/goverment/pubications/areasendframework-and-handbook/area-send-inspections-framework-and-handboolk
+45/59
+4/11/26, 4:08 PM
+Area SEND inspections: framework and handbook - GOV.UK
+the monitoring inspection. The CQC inspector and any Ofsted team
+inspectors will contribute to the process of drafting the letter.
+179. The letter will include:
+the findings on whether the local area partnership has taken effective
+action to address the areas for priority action identified at the full
+inspection
+a clear and brief summary of the evidence gathered during the inspection
+clarification that inspection findings will be sent to the DfE and regional
+NHSE, and may be used by them to determine further intervention and/or
+support
+180. As far as possible, and subject to the outcome of the quality assurance
+process, the findings in the letter will be consistent with the feedback given
+to the local area partners at the end of the inspection.
+181. In cases where Ofsted and CQC have had reason to carry out a
+monitoring inspection of a local area that was not previously required to
+produce a priority action plan (area SEND) (see also paragraph 161), the
+contents of the letter will directly address the issues that gave rise to the
+decision to inspect. Inspectors may decide that the local area should
+produce a priority action plan (area SEND) and/or that the next planned full
+inspection should be brought forward.
+Quality assurance and publication of the monitoring
+inspection letter
+182. Ofsted will publish the monitoring inspection letter on the local authority
+section of Ofsted's reports website (https://reports.ofsted.gov.uk/). The final
+letter will normally be shared with the local area partnership within 30
+working days of the end of the monitoring inspection.
+183. The process and arrangements for quality assuring and finalising the
+monitoring inspection letter are the same as for inspection reports (please
+refer to paragraphs 136 to 142
+(https://www.gov.uk/government/publications/area-send-framework-and-
+handbook/area-send-inspections-framework-and-handbook#arrangements-for-
+publishing)).
+184. The process for ensuring the quality of monitoring inspections is the
+same as that for full inspections, as set out in paragraphs 153 to 156
+(https://www.gov.uk/government/publications/area-send-framework-and-
+handbook/area-send-inspections-framework-and-handbook#quality-assurance).
+https:/wwwgovukgovemet/pubications/areasendframework-and-handbook/area-sendinspections-framework-and-handbook
+46/59
+4/11/26, 4:08 PM
+Area SEND inspections: framework and handbook - GOV.UK
+After the monitoring inspection
+185. Ofsted and CQC ask that the principal authority, and any other local
+area partners who were involved in making the priority action plan (area
+SEND), update the plan after the monitoring inspection.
+186. Any complaints about monitoring inspections will be subject to the
+same arrangements as for complaints about full inspections. Information
+about this is set out in paragraphs 157 to 159
+(https://www.gov.uk/government/publications/area-send-framework-and-
+handbook/area-send-inspections-framework-and-handbook#complaints).
+187. Arrangements for securing, retaining and disposing of the evidence
+base for monitoring inspections are the same as for full inspections, as
+detailed in paragraph 144 (https://www.gov.uk/government/publications/area-
+send-framework-and-handbook/area-send-inspections-framework-and-
+handbook#monitoring-inspections).
+Part 4: Engagement meetings
+188. Ofsted and CQC will invite local area partnerships to engagement
+meetings, with at least 1 month's notice. These meetings do not have
+evaluative outcomes but support collaboration by bringing education, health
+and social care partners together, as well as keeping a spotlight on SEND
+provision.
+The engagement meeting will:
+discuss the partnership's self-evaluation, SEND action plan or equivalent
+document and how they measure the impact of their work on the
+experiences and outcomes of children and young people with SEND and
+their families
+discuss any concerns or changes to the local SEND system and how
+leaders are addressing them
+What will be discussed at engagement meetings
+189. During engagement meetings, Ofsted and CQC will explore how the
+local area partnership monitors the impact of its arrangements for children
+hp:/wwwougovenmet/ubications/areasend-framework-and-handbook/area-send-inspections-framework-and-handbook
+47/59
+4/11/26, 4:08 PM
+Area SEND inspections: framework and handbook - GOV.UK
+and young people with SEND. The meeting should last no longer than 2
+hours.
+The meeting will focus on:
+the content of the self-evaluation, SEND action plan or equivalent
+document
+the action the local area leaders are taking to address the areas for
+improvement and/or priority action set out in the full inspection report
+what the local area partnership is doing to maintain or improve good
+practice
+how local area leaders are monitoring the impact of their actions
+emerging local and/or national SEND issues that affect delivery of
+services
+a discussion about the current area SEND thematic topic, if appropriate
+the approximate timing of the next engagement meeting
+Self-evaluation in advance of engagement meetings
+190. We will ask local area partnerships to provide us with any available
+self-evaluation or similar documents at least 2 weeks before the
+engagement meeting. This should set out:
+what leaders know about children and young people's needs, aspirations,
+experiences and outcomes in their area
+how the local area partnership monitors the impact of its arrangements
+for children and young people with SEND
+191. There is no prescribed format or content for the self-evaluation, but it
+should be succinct and reflect the local area partnership's routine business.
+Ofsted must ensure that CQC representatives receive a copy.
+192. Ofsted and CQC representatives should prepare for the meeting
+having reviewed the self-evaluation, SEND action plan or similar document
+and any local trends or key issues they consider relevant. For Ofsted, this
+includes a review of regional intelligence about the experiences or children
+and young people with SEND in the local area.
+Timing and arrangements for engagement meetings
+htt/wwwugoveme/ucaton/area-sendframework-and-handbook/area-send-inspections-framework-and-handbook
+48/59
+4/11/26, 4:08 PM
+Area SEND inspections: framework and handbook - GOV.UK
+193. The frequency and timing of engagement meetings will depend on the
+outcome that the local area receives at their full inspection and any regional
+intelligence received by Ofsted and CQC.
+Local area partnerships whose arrangements typically lead to positive
+experiences and outcomes for children and young people with SEND will
+be invited to up to 2 engagement meetings before their next full
+inspection.
+Local area partnerships whose arrangements lead to inconsistent
+experiences and outcomes for children and young people will be invited
+to 1 engagement meeting before their next full inspection.
+Local area partnerships whose arrangements are found to have
+widespread and/or systemic failings will receive a monitoring inspection
+usually within 18 months from the date they received their final report.
+They may also be invited to an engagement meeting before their next full
+inspection. This will usually take place after their monitoring inspection.
+194. Local area partnerships who have not had a full inspection under the
+new area SEND framework will continue to be invited to engagement
+meetings until they have their full inspection.
+195. Ofsted and CQC retain the right to invite local area partnerships to
+further engagement meetings if they hold or receive any information that
+raises a concern about the effectiveness of arrangements for children and
+young people with SEND and their families.
+Arrangements for the engagement meeting
+196. Engagement meetings will take place at a mutually convenient time.
+The Ofsted regional director may exercise their discretion about the timing
+of the meeting, taking into account inspection outcomes and any recent
+inspection activity or intelligence. The engagement meeting will usually take
+place online. A regional representative from Ofsted will chair the discussion
+and will be accompanied by a Children's Services Inspector from CQC. An
+Ofsted regional representative will chair the meeting. A social care senior
+HMI or HMI may also attend.
+197. We expect the DCS, the ICB representative and parent carer forum
+representatives to attend the engagement meeting. It is for the DCS and the
+ICB representative to determine who else attends from the local authority
+and the health teams. For the meeting to be effective, all attendees should
+have a clear purpose for being there and be able to contribute to the
+meeting.
+After the engagement meeting
+198. Ofsted and CQC will write a meeting note after the engagement
+meeting and send this to the DCS and the ICB representative within a
+month of the meeting taking place. The regional representative from Ofsted
+will take the lead in writing the meeting note but must share it with the CQC
+tp/wwgovgovenmet/ubications/areasend-framework-and-handbook/area-send-inspections-framework-and-handboolk
+49/59
+4/11/26, 4:08 PM
+Area SEND inspections: framework and handbook - GOV.UK
+representative before sending it to the local area partnership. The meeting
+note will include:
+the date of the meeting and who attended
+a factual summary of the agenda items discussed
+the approximate timing of the next engagement meeting
+any next steps
+199. The engagement meeting will not result in evaluative outcomes. The
+meeting note will only be for Ofsted, CQC and the leaders of the local area
+partnership to retain for their records. Ofsted and CQC will not publish the
+meeting note. The local area partnership can decide whether it wants to
+publish the meeting note. It may also wish to share the meeting note with
+DfE and regional NHSE.
+Annex A: information requested to
+support inspections
+200. This annex sets out the information that inspectors request when they
+notify the local area partnership of an area SEND full inspection. It also sets
+out the information that the inspectors will request to assist them in
+selecting children and young people's cases for tracking, and the further
+information they will request about those selected. Inspectors may request
+some of the Annex A information for monitoring inspections. The table below
+sets out the high-level timeline for sharing this information.
+Day/time
+Activity
+Week 1,
+Inspectors request the information set out in Annex A
+Monday
+Week 1,
+Local area partnership provides person-level data to help
+Tuesday,
+inspectors to select children and young people to track
+by 11am
+Local area partnership provides requested information about
+arrangements for commissioning SEND-related health
+services: see the health commissioning template. Additional
+information is in section 1.5 of the Information to be provided
+by the local area partnership following notification table
+Local area partnership provides information on
+commissioning of residential special schools: see the
+information on commissioning of residential special schools
+/wwgvem/ubicas/areasendramework-and-handbook/area-send-nspections-framework-and-handbook
+50/59
+4/11/26, 4:08 PM
+Area SEND inspections: framework and handbook - GOV.UK
+Day/time
+Activity
+template). Additional information is in section 3.2 of the
+Information about education at the end of week 1 table
+Week 1,
+Inspectors select children and young people's cases to be
+Tuesday,
+tracked
+by 5pm
+Week 1,
+Local area partnership provides additional information about
+Friday, by
+children and young people selected for tracking
+5pm
+Local area partnership provides additional information about
+SEND arrangements
+201. Inspectors will provide details for accessing an online system that the
+local area partnership can use to share the information.
+202. Inspectors will gather personal information, including some sensitive
+personal data, that is necessary to help them evaluate local arrangements
+for children and young people with SEND. Ofsted's privacy notice
+(https://www.gov.uk/government/publications/ofsted-privacy-notices) and CQC's
+privacy notice https://www.cqc.org.uk/about-us/our-policies/privacy-statement) set
+out what data we collect, what we do with it, how long we keep it for and
+people's rights under the Data Protection Act 2018.
+203. If information is shared that is relevant to more than one of the
+requests, it does not need to be replicated in each section, but the lead
+inspector should be made aware of it.
+Week 1: person-level data
+204. When the lead inspector contacts the local area partnership, they will
+ask for lists containing person-level data. An outline of the broad contents of
+each list is set out below. Detailed guidance about the fields for each list is
+available in the person-level data guidance and template
+(https://www.gov.uk/government/publications/area-send-framework-and-handbook).
+Included in the spreadsheet is a template for each person-level list. Please
+provide these links in Excel. The local area partnership should provide the
+person-level data lists by 11am on the day after notification.
+205. The inspectors will use this data to select the children and young
+people whose experiences they will evaluate. The person-level data lists
+should be as up to date as possible. However, if the most recent available
+data is a historical snapshot, such as from the special educational needs
+survey (SEN2) https://www.gov.uk/guidance/special-educational-needs-survey) or
+https:/wwwgov.u/govenment/pubications/areasend-framework-and-handbook/area-send-inspections-framework-and-handboolk
+51/59
+4/11/26, 4:08 PM
+Area SEND inspections: framework and handbook - GOV.UK
+the alternative provision (https://www.gov.uk/guidance/alternative-provision-ap-
+census) census, this will be acceptable.
+List
+Description
+number
+List 1
+All children and young people with an EHC plan for whom your
+local authority is responsible. Please see the 'Guidance' and
+'FAQ' tabs in the person-level data guidance and template for
+further information
+List 2
+All children and young people who are in receipt of SEN support
+educated in settings within your local area. Please see the
+'Guidance' and 'FAQ' tabs in the person-level data guidance and
+template for further information
+206. Where possible, we have aligned the information in the person-level
+lists with DfE guidance on SEN2 and the school/alternative provision
+census. The spreadsheet template includes an overview of the codes to
+use, sourced from the SEN2 or school/alternative provision census
+guidance.
+207. The person-level data lists should represent the local area
+partnership's most recent available data at the point of notification. When
+the local area partnership shares the lists, they should indicate what date(s)
+the data in each list represents as far as possible.
+208. If certain data is unavailable, the lead inspector may wish to discuss
+how the local area partnership monitors those areas.
+209. In the future, we may request different information, but this will always
+happen following engagement with local area partnerships.
+210. If you have any queries after you have been notified that an inspection
+is to take place, please contact the lead inspector.
+Week 1: information about the local area partnership's
+SEND arrangements
+211. In the first week of inspection, the local area partnership should provide
+the information set out below.
+212. The local area partnership should not provide all of the information that
+it holds on each subject. The inspectors will want only the local area
+https://wwwvuk/govement/pubications/areasendframework-and-handbook/area-send-inspections-framework-and-handboolk
+52/59
+4/11/26, 4:08 PM
+Area SEND inspections: framework and handbook - GOV.UK
+partnership's best and most recent information that relates to the scope of
+the inspection. Inspectors will not review information that they deem to fall
+outside the scope of the inspection.
+Information to be provided by the local area partnership following
+notification
+Number
+Item
+Description
+1.1
+Local area
+The education, health and care partners
+partnership
+involved in the local area partnership; the
+structure
+governance arrangements, decision-
+making structures, how partners work
+together and who is responsible for
+delivering what
+1.2
+Assessment of
+Local area partnership's analysis of the
+needs
+local needs of SEND including the current
+joint strategic needs assessment
+1.3
+Strategic planning
+Planning strategies for children and young
+people with SEND, including any self-
+evaluations and action plans resulting
+from internal and external reviews
+1.4
+Dynamic support
+List of all children and young people aged
+register
+0 to 25 on the dynamic support register
+1.5
+Health system
+The structure of the local health services,
+overview and
+which includes who commissions the
+commissioning
+service and who provides the service. This
+arrangements
+information must provided by 11am on the
+day after notification. This proforma can
+be used: Health commissioning template
+Additional information to be provided by the local area
+partnership at the end of week 1
+Number
+Item
+Description
+2.1
+Approach to
+The local area partnership's findings related to
+EHC plans
+the development, oversight and quality
+assurance of EHC plans, including the services
+53/59
+4/11/26, 4:08 PM
+Area SEND inspections: framework and handbook - GOV.UK
+Number
+Item
+Description
+involved; and the assurance framework for EHC
+plans, including findings from EHC plan audits
+2.2
+Tribunal
+Analysis and learning from tribunal applications
+appeals
+and resolutions from the last 12 months
+2.3
+Information
+The numbers of children and young people with
+about specific
+SEND who are: not attending an education
+cohorts
+setting, including those who receive home
+education; attending alternative provision;
+known to youth justice services; eligible to
+receive adult care services; on part-time
+timetables for their education
+2.4
+Outcome
+The partnership's analysis of outcomes data on
+measures
+preparation for adulthood for children and young
+people with SEND, including strengths,
+challenges and actions taken
+Information about education at the end of week 1
+Number
+Item
+Description
+3.1
+Education
+The structure of the local education system,
+system
+including the types of education setting, and
+overview
+which settings have specialist provision
+available
+3.2
+Residential
+Information about the commissioning and
+special
+oversight of placements of children and young
+schools
+people in residential special schools. This
+proforma can be used: Residential special
+school commissioning and provision
+3.3
+Out-of-area
+Information about the commissioning and
+placements
+oversight of education settings outside the local
+area that provide education for the area's
+children and young people with EHC plans; data
+on the number of children and young people
+with SEND who are placed out of area, and the
+reasons for this
+https:/wwwgovuk/govement/pubications/areasend-framework-and-handbook/area-send-inspections-framework-and-handboolt
+54/59
+4/11/26, 4:08 PM
+Area SEND inspections: framework and handbook - GOV.UK
+Number
+Item
+Description
+3.4
+Alternative
+Data about children and young people who
+provision
+have EHC plans, or are in alternative provision
+on part-time timetables; this should include the
+numbers of children and the length of time they
+have been in alternative provision
+3.5
+Attendance
+The most recent evaluation of educational
+attendance of children and young people with
+SEND in the local area and any supporting
+action plan
+3.6
+Transport
+Information about the strategy for transporting
+children and young people with SEND to
+provision, including activities, short breaks and
+health appointments (where relevant)
+3.7
+Destinations
+Data about destinations after leaving school,
+and
+including data about young people not in
+employment
+education, employment or training, and
+employment data for 18- to 25-year-olds with
+SEND
+Information about care at the end of week 1
+Number
+Item
+Description
+4.1
+Social care
+Organisational structure showing lines of
+services
+reporting and accountability. Details of any
+services in the area that have been
+commissioned for children and young people
+with SEND, including from the community, the
+voluntary sector and the local offer
+4.2
+Short breaks
+The local authority short-break statement, and
+information on the current provision and
+uptake
+htt/wwugovemet/ubications/area-send-framework-and-handook/area-send-inspections-fameworkand-handboo)
+55/59
+4/11/26, 4:08 PM
+Area SEND inspections: framework and handbook - GOV.UK
+Number
+Item
+Description
+4.3
+Thresholds,
+The thresholds/criteria for providing services
+assessments
+and assessments for children and young
+and provision
+people with SEND, at different levels of need.
+This should include information on services
+for early help
+4.4
+ILACS lists
+ILACS person-level data lists 6, 7, 8, 9 as
+described in ILACS Annex A
+4.5
+Virtual schools
+The annual report of the headteacher of the
+virtual school and any other relevant plans
+4.6
+Transition and
+The arrangements for transition for children
+adult social care
+and young people with SEND and how adult
+social care services are provided to 18- to 25-
+year-olds
+Information about health at the end of week 1
+Number Item
+Description
+5.1
+Performance
+Performance data from the previous 12 months
+data
+(including current waiting times) on delivery of:
+the healthy child programme, therapy services
+(including speech and language therapy;
+occupational therapy; physiotherapy; newborn
+hearing, audiology, dietetics, child and
+adolescent community mental health services,
+neurodiversity assessment and community
+paediatricians) for children and young people
+aged 0 to 19 years and 19 to 25, if available
+5.2
+Pathways
+Pathways for referrals to health services for
+assessment, as set out in 5.1
+5.3
+Recovery
+Recovery action plans to support children and
+action plans
+young people who are waiting longer than the
+recommended time frames for assessment,
+diagnosis and treatment for the services
+identified in 5.1
+https://wwwvuk/goverment/pubication/area-sendframework-and-handbook/area-send-inspections-framework-and-handboolt
+56/59
+4/11/26, 4:08 PM
+Area SEND inspections: framework and handbook - GOV.UK
+Information from the local authority about alternative
+provision at the end of week 1
+Number
+Item
+Description
+6.1
+Strategy and
+Information about the needs of children
+commissioning
+and young people in alternative provision
+arrangements of
+and the local authority's strategy and
+alternative provision
+commissioning arrangements for
+alternative provision, including how they
+monitor future need for placements and
+maintain sufficient provision
+6.2
+Needs of children
+Information about the needs of the
+and young people
+children and young people in the area
+who are in alternative provision
+6.3
+Settings and
+Information about the alternative provision
+attendees
+settings used by the local authority, and
+the children or young people who attend
+them, including whether these are part-
+time placements
+6.4
+Monitoring and
+A summary of the local authority's quality
+oversight
+assurance process for alternative
+information
+provision, including the relevant
+framework
+Week 1: selecting providers and settings for sampling
+visits
+213. The lead inspector will ask the LANO and ICB representative to identify
+a list of providers and services where inspectors can sample the records of
+individual children and young people. The inspection team will then select
+the providers and services where it will carry out sampling, and will ask the
+LANO to inform the providers and services.
+http:/wwwovugovemet/ubications/areasend-ramework-and-handbook/areasend-inspections-framework-and-handbook
+57/59
+4/11/26, 4:08 PM
+Area SEND inspections: framework and handbook - GOV.UK
+Week 1: additional information about children and
+young people selected for tracking
+214. The lead inspector will ask the LANO to coordinate the sharing of
+information with the inspection team about the children and young people
+who are being tracked. For each child or young person, this information will
+include:
+Number Item
+Description
+7.1
+Pen portrait
+A pen portrait of the child or young person,
+including information about their needs,
+aspirations and support
+7.2
+Multi-agency
+A multi-agency chronology of the
+audit
+partnership's involvement with the child or
+young person. This may include significant
+events; any education, health and/or care
+assessments, including an early help
+assessment if applicable; any evaluation of
+the impact of plans and support; and learning
+for the providers and services involved in the
+last 2 years
+7.3
+Plans
+The most recent plans, including an EHC
+plan, personal education plan or care plan,
+where relevant
+7.4
+Discussion
+Notes of any key multi-agency discussions or
+notes
+equivalent
+7.5
+Commissioning
+The current commissioning agreement, when
+agreements
+the child or young person is in alternative
+provision
+1. Children Act 2004 (https://www.legislation.gov.uk/ukpga/2004/31/section/20),
+section 20.
+2. 'Alternative provision: statutory guidance for local authorities'
+(https://www.gov.uk/government/publications/alternative-provision) Department
+for Education, January 2013.
+3. Health services for children and young people with SEND are provided
+through acute and community services, and Mental Health Trusts and
+http://wwwuk/goverment/pubications/areasend-framework-and-handbook/area-send-inspections-framework-and-handboolk
+58/59
+4/11/26, 4:08 PM
+Area SEND inspections: framework and handbook - GOV.UK
+other non-NHS providers. The majority of services are termed as
+community services. These include speech and language therapy,
+occupational therapy and physiotherapy, orthotics, community and
+specialist nursing, and medical care and interventions. Children and
+young people with SEND also use children and young people's mental
+health services (community and inpatient) and may access health and
+justice services and secure estates. Children and young people with
+SEND may also need access to specialist equipment, wheelchairs,
+continence supplies and assistive technology.
+4. 'Alternative provision: statutory guidance for local authorities'
+(https://www.gov.uk/government/publications/alternative-provision) Department
+for Education, January 2013.
+5. 'Keeping children safe in education'
+(https://www.gov.uk/government/publications/keeping-children-safe-in-education-
+-2), Department for Education, 2015.
+6. 'Working together to safeguard children'
+(https://www.gov.uk/government/publications/working-together-to-safeguard-
+children--2), Department for Education, 2018.
+7. The Children Act 2004 (Joint Area Reviews) Regulations 2015
+(https://www.legislation.gov.uk/uksi/2015/1792/regulation/3/made).
+OGL
+DIEUET
+MONDROIT
+All content is available under the Open Government Licence v3.0, except where otherwise stated
+© Crown copyright
+htp:/wwgov.u/govenmet/pubications/areasend-framework-and-handbook/area-send-inspections-framework-and-handboolk
+59/59

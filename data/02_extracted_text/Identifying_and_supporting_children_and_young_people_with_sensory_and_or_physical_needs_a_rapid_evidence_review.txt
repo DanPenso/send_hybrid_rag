@@ -1,0 +1,1968 @@
+Department
+for Education
+Identifying and supporting
+children and young people
+with sensory and/or
+physical needs: a rapid
+evidence review
+Research report
+September 2025
+Authors: Catherine Antalek, Fiona
+Dixon, Jessica Hayton, and Leda
+Kamenopoulou - University College
+London
+Government
+Social Research
+Disclaimer
+This research does not constitute an endorsement by the Department for Education of
+any of the approaches described. It does not reflect current Government policy, nor does
+it indicate future policy direction. Materials, resources, websites, and commercially
+developed programmes or products mentioned in this report are included solely because
+they were identified and reviewed as part of the rapid evidence assessment. Other tools
+or products with similar functions may exist and their absence from this report should not
+be interpreted as a reflection of their effectiveness. Reference to specific named or third-
+party products and materials should not be seen as an endorsement by either the
+authors or the Department for Education of their use, or of any particular company or its
+offerings.
+1
+Contents
+Disclaimer
+1
+List of tables
+4
+Executive summary
+5
+Background
+5
+Approach
+5
+Key findings
+6
+Identification
+6
+Support
+6
+Conclusions
+7
+Introduction
+8
+Physical and motor difficulties
+8
+Cerebral palsy
+8
+Developmental coordination disorder
+9
+Sensory difficulties
+9
+Vision impairment
+9
+Hearing impairment
+10
+Multi-sensory impairment (deafblindness)
+10
+Sensory needs often associated with autism
+11
+Types of sensory and/or physical needs addressed in this REA summary
+11
+Aims
+11
+Methods
+13
+Identification and assessment of need
+15
+Key considerations for identification of sensory and/or physical needs
+18
+Identification of sensory needs
+22
+Identification of physical and motor difficulties
+23
+Teacher-friendly tools to identify DCD and motor difficulties summary
+26
+Literacy assessment
+26
+Identification and assessment summary
+27
+2
+Support and intervention
+29
+High quality teaching and universal support
+30
+Physical environment
+30
+Targeted support
+31
+Assistive technology
+31
+Effective assistive technology support approaches summary
+33
+Augmentative and Alternative Communication
+34
+STEM (science, technology, engineering, and maths) interventions
+34
+Effective STEM support for children and young people with sensory and/or
+physical impairments summary
+39
+Literacy interventions
+39
+Effective literacy support for children and young people with sensory and/or
+physical impairments summary
+42
+Support and intervention summary
+43
+Conclusions
+45
+Appendices
+47
+Appendix A: Search terms (PICOS criteria)
+47
+References
+51
+3
+List of tables
+Table 1. Number of identified studies informing each strand
+14
+Table 2. Definitions of identification terms in the educational and clinical context
+16
+Table 3. Number of studies addressing identification and assessment
+18
+Table 4. Specialists and healthcare providers who may be involved in collaboration
+19
+Table 5. Number of studies addressing support and intervention
+29
+4
+Executive summary
+Background
+In the SEND Code of Practice, the area of sensory and/or physical needs includes
+children and young people with sensory impairments such as those affecting sight or
+hearing, as well as multi-sensory impairment (MSI), which involves combined difficulties
+with vision and hearing, and physical disabilities affecting motor skills and coordination
+(including both fine motor difficulties such as handwriting and gross motor difficulties).
+These children and young people may have difficulties accessing the standard
+educational facilities typically available in schools such as classrooms, playgrounds,
+libraries, and other shared spaces. Those with sensory and/or physical needs may
+require additional support, adaptations, or specialised equipment to use these facilities
+effectively.
+Sensory and/or physical needs can be age related and may fluctuate over time. Many
+children and young people with vision impairment (VI), hearing impairment (HI) or a multi-
+sensory impairment (MSI) will require specialist support and/or equipment to access their
+learning, or habilitation support. Although some children with sensory and/or physical
+needs may also have sensory processing difficulties, given they are commonly
+associated with autism, sensory processing difficulties ¹will be addressed in the rapid
+evidence review on identifying and supporting the needs of autistic children and young
+people. Therefore, sensory processing difficulties will not be examined in this report.
+Approach
+The evidence was collected by means of a rapid evidence assessment (REA). A search
+of the literature aimed at drawing out key findings for children and young people with
+sensory and/or physical needs. The literature search focused on systematic reviews and
+meta-analyses evaluating effective tools and strategies for the identification and support
+for children and young people with sensory and/or physical needs in mainstream settings
+as well as reviews evaluating collaborative practices between families, schools, and
+healthcare providers or specialists.
+1 A sensory impairment refers specifically to a diagnosed impairment of vision, hearing, or multi-sensory function that significantly impacts access to learning.
+Sensory processing difficulties, while they may involve atypical responses to sensory stimuli, are not classified as sensory impairments and are more commonly
+associated with neurodevelopmental conditions such as autism. See: National Sensory Impairment Partnership (NatSIP,2018)
+5
+Key findings
+Identification
+The findings from this review highlight that sensory and/or physical needs are widely
+identified and diagnosed by qualified practitioners through specialised clinical and
+functional assessment. While there are a few strategies that mainstream educators can
+use to identify and screen for difficulties, it is often best to interpret findings with the help
+of a specialist. Unsurprisingly, the most effective approach is to carry out a
+comprehensive assessment using multiple methods of identification. It is recommended
+that these assessments be understood and organised within the International
+Classification of Functioning, Disability and Health (ICF) framework, which provides a
+holistic view of functioning, participation, and context to measure health and disability
+associated with any health condition.
+Although there are some evidence-based strategies to support children and young
+people with sensory and/or physical needs, the evidence remains limited with a need for
+larger-scale studies employing randomised controlled trials. However, a few useful
+techniques were highlighted in this REA. Across these systematic and meta-analyses
+identified in our REA, several key themes emerged. Positive effects were observed for
+maths, reading, and phonological awareness interventions, and the use of assistive
+technology for students with communication needs and sensory and/or physical needs.
+However, assistive technology, computer-assisted instruction, and the use of some
+Augmentative and Alternative Communication (AAC) devices including software,
+hardware, apps, and robotics, often requires specialist support from both technology
+experts and IT specialists in schools for setup, programming, and troubleshooting.
+Support
+Multisensory strategies in teaching may help make information more accessible to
+children and young people with sensory needs which can help with memory and
+encoding. Similarly, in STEM learning there are many forms of substitution, modification,
+augmentation, or redefinition to make learning more accessible. However, it is important
+that these strategies are meaningful to the task. It is important that educators work with
+specialists and healthcare professionals to identify educational needs of students with
+sensory and/or physical needs and to design tailored and effective support plans.
+The role of the teacher and the individual student are important in delivering effective
+interventions. Teaching should be well-planned and differentiated using a range of
+multisensory techniques and explicit instruction. Well-informed teachers who engage in
+regular reflection of their practice provide more effective provision. Initial teacher training
+6
+and ongoing development should provide information about sensory and physical needs
+of children and young people to support this.
+The student should be consulted where targeted intervention is planned to account for
+their individual needs, learning goals, and preferences. Materials and strategies that
+need substitution, modification, augmentation, or redefinition, should be produced in a
+timely manner so that students with sensory and/or physical needs can have equitable
+access to learning materials in line with their peers.
+However, inconsistencies in study methodologies and outcome reporting highlight the
+need for more rigorous research in terms of identification and support of needs of
+children and young people with sensory and/or physical needs. While assistive
+technologies show promise, greater replication and standardisation are necessary to
+confirm their academic benefits. Similarly, computer-assisted instruction (CAI)
+interventions appear useful for students with vision impairments but require better
+implementation strategies and educator involvement.
+Conclusions
+Overall, there is a growing body of evidence on identifying and supporting children and
+young people with sensory and/or physical needs from which we can draw some
+preliminary conclusions about best practices for mainstream educators. However, many
+studies are still very small-scale or low in quality which limit the degree to which we can
+generalise some of this evidence. Further research is needed to validate these strategies
+with a representative sample participant and also to evaluate other tools of identification
+and support that educators without specialist qualifications can use in mainstream
+settings.
+7
+Introduction
+In England, during the 2024/25 academic year, approximately 1.44 million pupils with
+identified special educational needs (SEN) are educated in mainstream state-funded
+primary and secondary schools (DfE, 2025).
+As of 2025, 1.8% of pupils receiving SEN support and 3.3% of those with an Education,
+Health and Care (EHC) plan have physical disabilities recorded as their primary need.
+For hearing impairment, the figures are 1.5% on SEN support and 1.4% with an EHC
+plan. Vision impairment is recorded in 0.8% of pupils on SEN support and 0.9% of those
+with an EHC plan, while multi-sensory impairment is less common, affecting 0.3% of
+pupils on SEN support and with an EHC plan. Due to the relative low incidence of these
+needs, schools may have limited experience in supporting children with these types of
+need. The impact of coordination, sensorimotor difficulties, or impairment of the senses
+can affect the learning, cognition, and emotional well-being of children and young people.
+Diagnoses are highly comorbid with other types of SEND (20-80%) and are associated
+with difficulties in working memory, phonological processing, executive function, and
+inattention, leading to large variation in symptoms and routes to identification and
+support.
+While a wide range of physical, motor, and sensory needs fall under this SEND category,
+our review will focus on the primary needs identified in the studies retrieved from our
+search. These conditions and needs are briefly defined and examined in the following
+sections.
+Physical and motor difficulties
+Children and young people with physical and motor difficulties may face challenges with
+movement, coordination, strength, and endurance, which can impact their ability to fully
+participate in learning and daily school activities. Difficulties with gross motor skills, such
+as whole-body movement, balance, and coordination, can affect walking, running,
+maintaining posture, and engaging in playground activities. Similarly, fine motor
+challenges may interfere with writing, cutting, fastening clothing, and using tools like
+pencils, scissors, or keyboards. These difficulties can limit participation in key
+developmental activities, including leisure and play, functional tasks, academic work, and
+social interactions (Wang et al., 2009).
+Cerebral palsy
+Cerebral palsy (CP) is the most common motor impairment affecting children. CP is a
+neurological condition that affects movement, muscle tone, and coordination (Mutch et
+8
+al., 1992). It is caused by damage to the developing brain, usually before, during, or
+shortly after birth. CP is a lifelong condition, and its severity can vary widely across
+individuals. Some individuals may have mild motor difficulties, while others experience
+significant physical and mobility challenges.
+Cerebral palsy can impact educational outcomes in several ways. Motor impairments
+may affect a child's ability to write, use classroom equipment, or participate in physical
+activities. Communication may also be affected, particularly if muscles involved in speech
+are impacted. Some children with CP have associated learning difficulties, sensory
+difficulties, behavioural disorders, and the presence of seizures (Michelsen et al., 2005).
+Developmental coordination disorder
+Developmental coordination disorder (DCD), sometimes referred to as Dyspraxia, is
+neuromotor condition characterised by motor impairment which is not due to intellectual
+disability or any specific congenital or acquired neurologic condition (Blank et al., 2012)
+The estimated prevalence of DCD ranges from 5% to 6% internationally (Blank et al.,
+2019). While DCD is primarily classified as a specific learning difficulty under cognition
+and learning in the SEND Code of Practice (DfE, 2015), given its link to physical and
+motor challenges, we have chosen to address DCD in this rapid evidence assessment
+(REA). However, DCD may also affect processing speed and written expression as well
+as verbal and non-verbal communication. In addition, DCD often co-occurs with other
+developmental disorders, most commonly attention deficit hyperactivity disorder (ADHD)
+(Piek and Dyck, 2004).
+Children and young people with DCD may demonstrate poor balance, clumsiness, and
+difficulty with spatial awareness. The acquisition and function of motor skills is often
+below expectations for their age.
+Sensory difficulties
+Vision impairment
+Vision Impairment (VI) is an umbrella term for a range of vision difficulties resulting from
+acquired or congenital monocular, binocular, or brain-based conditions that cannot be
+corrected by prescription lenses (World Health Organization, 2023). The risk of childhood
+VI is associated with factors such as prematurity, low birthweight, economically deprived
+backgrounds, poor maternal health, and learning difficulties.
+Children with VI often demonstrate developmental delays, particularly in movement, as
+non-visual sensory inputs do not provide sufficient spatial, directional, and motivational
+9
+information. Domains impacted by childhood VI include visual functioning, cognitive
+implications (such as spatial awareness and depth perception), motor development,
+language, social interaction and play, self-concept and self-esteem, and other areas like
+sleep, education, leisure, social development, and health. There may also be fewer
+opportunities for incidental learning (e.g., observing others).
+Hearing impairment
+Hearing impairment (HI) refers to the permanent, partial or total inability to hear sounds in
+one or both ears. HI ranges from mild to profound and can affect speech perception,
+spoken language acquisition, and overall auditory processing. Within this category,
+individuals who are deaf typically have little to no functional hearing and may rely on sign
+language, lip reading, or assistive technology for communication. Those who are hard of
+hearing (HH) have some residual hearing that can often be supported with hearing aids,
+cochlear implants, or other assistive listening devices. The degree and nature of hearing
+impairment can vary widely depending on factors such as the age of onset, severity, and
+whether it is congenital or acquired.
+Risk factors for hearing impairment in children include genetic factors, exposure to loud
+noises, certain infections, and complications during birth (Olusanya et al., 2014). Hearing
+impairment can lead to developmental delays in speech and language, social skills,
+academic performance, and emotional well-being. Children with hearing impairments, for
+example children who are deaf, often experience limited or altered access to spoken
+language, as speech perception can be challenging and may impact speech production
+skills and speech intelligibility (Spencer et al., 2011). Some children with hearing
+impairments (e.g., those with difficulty acquiring spoken language) may also experience
+difficulties with literacy (Mayer and Trezek, 2017) which may impact educational
+outcomes (Appelman, 2012).
+Multi-sensory impairment (deafblindness)
+Children and young people with multisensory impairment (MSI) experience impairments
+in both sight and hearing, and many also have medical conditions or physical disabilities
+(e.g., Kamenopoulou, 2022). While a very small number are completely blind and deaf,
+most have some useful vision and/or hearing. Deafblindness is defined as a combined
+sight and hearing impairment that causes difficulties with communication, access to
+information, and mobility, and it includes those with progressive sight and hearing loss
+(Department of Health, 1995).
+MSI can affect development in several ways, including limited communication, distorted
+perception of the environment, limited capacity to anticipate events and outcomes, lack of
+basic extrinsic motivation, and developmental delays due to medical conditions. These
+10
+challenges impact various domains such as acquiring information and building world
+knowledge, expressing, and receiving messages, moving around independently
+(orientation and mobility), emotional development (self-confidence and motivation), and
+social development (social skills, interactions, and relationships) (McInnes and Treffry,
+1982, Kamenopoulou, 2012). Addressing the needs of children and young people with
+MSI requires a comprehensive approach that integrates support across these domains to
+ensure their overall development and well-being.
+Sensory needs often associated with autism
+Our Autism Report provides some discussion of sensory needs often associated with
+autism. Sensory processing disorder (SPD) can be linked to autism and ADHD, but all
+people have a sensory profile, especially those who are neurodivergent. Sensory
+response can be hypersensitivity (over-responsiveness), hyposensitivity (under-
+responsiveness), or a combination of both. Environments can be overstimulating (i.e.,
+with multiple visual, auditory or tactile input) and can lead to sensory overload or anxiety,
+exhaustion, or burnout (Autism Speaks, 2024).
+Types of sensory and/or physical needs addressed in this REA summary
+Cerebral palsy
+Development Coordination Disorder (also referred to as dyspraxia)
+Vision impairment
+Hearing impairment
+Multi-sensory impairment
+Aims
+The goal of this rapid review was to synthesise evidence-based strategies for the (1)
+identification, (2) support, and (3) collaborative practices available to mainstream
+teachers in supporting children and young people with sensory and/or physical needs.
+Our research questions were as follows;
+Identification:
+Which formal and informal methods and measurement tools are available to
+practitioners to identify sensory and/or physical needs within diverse classroom
+settings?
+11
+For which ages or age ranges can these tools be used?
+What are the performance parameters of these measurement tools (e.g.
+reliability/validity/specificity)?
+How can these tools be used to guide decisions regarding the provision of
+universal, targeted or specialist support?
+Support:
+What are the most effective universal and targeted strategies, approaches, or
+adaptations for supporting children and young people with sensory and/or physical
+needs to improve educational outcomes?
+What is the most appropriate level of delivery (universal, targeted or
+specialist) for each of these interventions?
+What specific age groups are targeted by these interventions?
+What types of approaches/interventions do children with sensory and/or physical
+needs respond best to?
+Working with others:
+What components and characteristics foster effective collaboration between
+teachers, specialists, and parents/caregivers in the identification and support for
+children and young people with sensory and/or physical needs, and how can clear
+role boundaries and knowledge-sharing frameworks support this process?
+What examples are there of different models of collaboration between the
+multidisciplinary team?
+12
+Methods
+To address these research questions, a Rapid Evidence Assessment (REA) was
+conducted following Cochrane rapid review guidance (Garritty et al., 2024). This REA
+followed the Preferred Reporting Items for Systematic Reviews and Meta-Analysis
+(PRISMA) statement when selecting relevant articles.
+We conducted a targeted search in October 2024 of two academic databases (i.e.,
+Scopus: PsychINFO and EBSCO: ERIC) as well as grey literature using specific
+keywords related to the research questions (see Appendix A: Search terms). We
+identified systematic reviews and meta-analyses published in English between 2014 and
+2024, focusing on children and young people aged 0-25 with identified physical or
+sensory impairments in mainstream educational settings. Included studies evaluated
+identification, support, or collaborative practices that are feasible in UK educational
+settings, excluding medical, home-based, or highly resource-dependent interventions
+(e.g. beyond what is typically available in a mainstream classroom such as animals,
+robotics and virtual reality). Included studies could be UK-based or international but had
+to be relevant to the UK educational context (e.g., a study examining the role of
+classroom-based occupational therapists in mainstream schools may not be relevant, as
+this model of in-school provision is not routinely available within the UK education
+system). Identification tools had to be usable by mainstream staff (not clinicians), and
+SEND status were independently verified through diagnosis, EHC plan, or standardised
+measures. Studies relying solely on teacher judgement or reporting only behavioural,
+emotional, physical, or motivational outcomes were excluded. Only studies reporting
+measurable educational attainment outcomes were included.
+Titles and abstracts were initially screened for relevance by trained members of the team,
+followed by full-text review. This resulted in the inclusion of 29 studies in the final review,
+with 11 studies on identification and assessment, and 18 studies on support and
+intervention (see Table 1). Given the central role of collaboration across both the
+identification and intervention processes, this strand is not presented as a standalone
+section. Instead, within each review strand, we highlight where collaborative practices are
+necessary and effective. Additionally, as many studies identified for inclusion relate to
+collaborative practices in general SEND provision or across different areas of need, a
+breakdown of studies specific to sensory and/or physical needs is not included here, with
+collaborative practices across the categories of SEND addressed in the Cross-Cutting
+Themes Report.
+13
+Table 1. Number of identified studies informing each strand
+Strands
+Number of studies included
+Identification and assessment
+11
+Support and intervention
+18
+Total
+29
+Data from each study were then extracted by trained members of the team. We extracted
+descriptive information regarding the characteristics of each study as well as information
+about identification tools and support strategies from the included paper(s) where
+available.
+Our search efforts prioritised high-quality and relevant research, ensuring the inclusion of
+peer-reviewed studies and robust methodologies. All studies identified in the final sample
+are either systematic reviews or meta-analyses. To evaluate the quality of these studies,
+we used the Assessing the Methodology Quality of Systematic Reviews tool 2
+(AMSTAR2) (Shea et al., 2017). Findings suggest that the evidence base is mixed
+according to this tool. Most studies were rated as high or moderate confidence in the
+results, with some rated as low due to a 'critical flaw' (detailed in our Technical Report).
+The typical critical flaw was that many studies did not conduct a formal risk of bias
+assessment using a recognised tool (e.g., ROBINS-I, Cochrane Risk of Bias).
+A full account of our methodology including search terms, inclusion, and exclusion
+criteria, PRISMA flow diagram, extraction variables, and quality appraisal can be found in
+our Technical Report.
+14
+Identification and assessment of need
+The aim of this section is to review the studies identified in our search that focused on
+identification and assessment strategies suitable for use by mainstream education
+professionals in identifying the needs of children and young people with sensory and/or
+physical impairments.
+It is important to emphasise that subject and class teachers are not responsible for the
+formal identification or assessment of learners' needs. In line with the SEND Code of
+Practice (Department for Education & Department of Health and Social Care, 2015), their
+role is to support the early recognition of students who may be experiencing difficulties,
+particularly those affecting educational progress. Therefore, these approaches reviewed
+in this REA are not intended to diagnose any conditions, but they can help mainstream
+educators in recognising children and young people's strengths and challenges to guide
+decisions about support or to highlight cases where referral for specialist assessment
+may be warranted. Where concerns are identified, these should be discussed with the
+school's Special Educational Needs Coordinator (SENCo) and the child's family to
+determine appropriate next steps, including referral and formal assessment where
+necessary.
+Further, although many screening and assessment tools may be effective at identification
+and needs-based assessment, these tools should be interpreted with caution by
+mainstream educators without specialist qualifications. This is because many screening
+tools and assessments are founded on psychometric principles (e.g., reliability, validity,
+and standardisation) which determine how the results should be interpreted and used.
+Without specific training in these areas, it may be difficult to interpret how scores
+compare to typically developing populations, whether they represent meaningful results,
+or what it means when scores fall within clinical ranges. In practice, this ambiguity places
+greater reliance on professional judgment, which can lead to variability in how results are
+interpreted, particularly among assessors with less experience or limited training. While
+educators play a vital role in completing these tools as informants, accurate interpretation
+should typically be assisted by an individual with specialist training. While the strategies
+detailed in this REA can be useful for intervention planning or flagging potential issues,
+they should not be used for labelling or identifying specific personality traits or diagnosis.
+Rather, these tools should be used to identify critical areas of need that may impact a
+student's academic performance.
+The purpose of identification is to verify the existence of an educational need, while
+assessment aims to characterise the nature and extent of the child's difficulties in terms
+of differing skills (e.g., cognitive, language, literacy) (McCauley, 2001). The terms
+'identification', 'screening', 'assessment', and 'profiling' are often used inconsistently
+across research, policy, and practice and can have different meanings in relation to
+15
+educational versus clinical practice. For example, the term 'screening' in an educational
+context typically refers to the process by which a tool or a strategy is used to flag
+potential needs in a population (e.g., whole-school or whole-class) to provide timely
+support or targeted interventions in educational settings. In contrast, screening for clinical
+purposes is typically carried out by health or mental health professionals using
+standardised tools to determine whether a child meets criteria for a specific diagnosis,
+such as DCD, with the goal of planning for further assessment or clinical treatment.
+However, some processes may overlap. For example, a functional vision assessment
+could be used by educational staff to help identify visual processing difficulties that may
+impact classroom learning, or it could be used as part of a formal assessment by a
+specialist teacher or clinician to inform decisions around access arrangements or
+assistive technology, or to monitor a pupil's progress in adapting to visual supports or
+mobility training. For clarity throughout this document, we define each term within an
+educational context. Definitions of terms are provided in Table 2.
+Table 2. Definitions of identification terms in the educational and clinical context
+Term
+Educational use
+Clinical use
+Needs-based
+The process of recognising that a child
+Not a formal clinical term;
+identification
+may have additional needs (whether
+overlaps with early signs
+they do or do not have a diagnosis),
+that may prompt
+often based on parental or child
+diagnostic referral but is
+concern, observations, or professional
+not sufficient for
+judgement. However, this process can
+diagnosis.
+also include informal assessments.
+Informal assessments are flexible
+methods of gathering data to identify
+areas of need, guide interventions and
+monitor progress. These tools include
+checklists, questionnaires, or more
+structured assessments (e.g., listening
+comprehension, reading fluency).
+16
+Term
+Educational use
+Clinical use
+Screening
+A brief, tool or procedure used to flag
+Tools used to determine
+or identify potential concerns across a
+whether further
+population. In educational contexts, the
+diagnostic assessment is
+goal is to flag potential needs early so
+warranted, often as a first
+that timely support or targeted
+step in a medical or
+interventions can be put in place within
+psychological evaluation
+the school setting. However, given that
+pathway. Typically, these
+screeners are typically quick to
+tools should be
+complete and usually measure only a
+administered by a trained
+specific area of concern, they should
+specialist.
+be interpreted with caution.
+Assessment
+Refers to a systematic structured
+A systematic and
+process of data gathering from
+structured process of
+standardised tools to understand
+data collection for
+individual strengths and needs in order
+diagnostic purposes.
+to plan intervention or monitor
+Assessment is conducted
+progress. For educational purposes,
+by specialists (e.g.,
+these can be informal or formal
+educational
+assessments.
+psychologists) and
+Formal assessments are structured,
+involves standardised
+standardised tools used to evaluate a
+diagnostic tools to
+student's performance against national
+determine specific
+or normative standards. These include
+conditions or
+GCSEs and A-levels but also
+developmental profiles.
+standardised assessments of literacy
+or other types of skills. Formal
+assessments sometimes require input
+from specialists to administer and/or
+interpret results.
+Profiling
+A holistic summary of a child's
+Less commonly used as
+functioning, strengths, and areas of
+a standalone concept;
+difficulty, often used to guide provision.
+elements of profiling are
+Includes data from multiple informants
+embedded in
+and through multiple methods.
+comprehensive
+diagnostic assessments
+that explore functional
+impact across domains.
+17
+These approaches can help teachers and school staff in recognising students' strengths
+and challenges, guide decisions about support, or highlight cases where referral for
+specialist assessment may be warranted. Of these 11 studies on identification and
+assessment, 3 addressed hearing impairment, and 8 covered physical and motor
+difficulties (including DCD) (see Table 3). No studies were found for vision or multi-
+sensory impairment.
+Table 3. Number of studies addressing identification and assessment
+Area of Need
+Number of Studies
+Vision Impairment
+0
+Hearing Impairment
+3
+Physical and Motor Difficulties (including DCD)
+8
+Multisensory impairment
+0
+The path to identification and support for children and young people with sensory and
+physical needs is typically initiated through medical channels. Concerns may first be
+raised by parents, teachers, or healthcare professionals who notice signs such as
+difficulties with vision, hearing, movement, or coordination. Here, signs of challenges
+might include delayed gross motor milestones (e.g., difficulty walking, poor balance), fine
+motor challenges (e.g., difficulty holding a pencil, using scissors, or fastening buttons),
+clumsiness or coordination difficulties (e.g., struggling with PE, frequent tripping), fatigue,
+pain, or posture issues that affect participation. Parents may notice signs of vision
+impairment, such as lack of eye contact, delayed tracking, or sensitivity to light. They
+may also notice signs of hearing impairment such as delayed speech development,
+inattentiveness, or difficulty responding to sounds.
+Key considerations for identification of sensory and/or
+physical needs
+The SEND Code of Practice (Department for Education & Department of Health and
+Social Care, 2015) highlights the importance of parents' early observations and notes
+that signs of complex developmental or sensory needs can be identified in early
+development through methods such as health assessments, assessments via the Early
+Years Foundation Stage Profile, and formal progress checks (e.g., two-year development
+reviews). The UK also has a universal newborn hearing screening programme. Early
+concerns often lead to a referral to healthcare professionals, such as a general
+practitioner (GP) or directly to paediatric services. From there, the child is usually
+assessed by specialists; this might include audiologists for hearing impairments,
+18
+ophthalmologists for vision impairments, Occupational Therapists (OT) for difficulties with
+fine motor skills (e.g., handwriting, self-care tasks), or Physiotherapists may be consulted
+for concerns about mobility, strength, coordination, or chronic pain.
+Health professionals must inform parents if they believe a child under compulsory school
+age has SEND, notify the local authority, and offer support, including signposting to
+relevant organisations. Early support may involve home visits from specialists, parent
+training, and structured home-based programmes. In addition to the formal checks, early
+years practitioners working with children should monitor and review the progress and
+development of all children throughout the early years.
+A diagnosis is generally made by a medical professional, based on clinical testing and
+observations. Ongoing support typically involves multidisciplinary collaboration, bringing
+together health and education professionals to coordinate care and ensure that
+adaptations, equipment, and tailored support are provided in both educational and home
+settings. Because of its grounding in clinical assessment and medical terminology, this
+route is generally more medicalised than pathways for many other types of special
+educational needs (Farrell, 2006). See Table 4 for a list of specialists and healthcare
+professionals who may be involved in the identification and support processes for
+children and young people with sensory and/or physical needs.
+Table 4. Specialists and healthcare providers who may be involved in collaboration
+Specialist
+Role
+Audiologist
+Conducts hearing assessments. Diagnoses hearing
+loss and recommends hearing aids or other devices
+Clinical Psychologist /
+Supports cognitive and functional assessments;
+Educational Psychologist
+explores emotional impact of sensory/physical needs
+Ear, Nose and Throat (ENT)
+Investigates medical causes of hearing issues. May
+Specialist
+recommend surgery or further medical treatment
+Neurologist
+Assesses neurological causes of physical or sensory
+difficulties
+Occupational Therapist (OT)
+Assesses fine motor skills, daily living skills, and
+sensory processing. Recommends adaptations to
+support functional independence
+Ophthalmologist
+Diagnoses vision impairments and prescribes
+treatments or corrective lenses
+19
+Specialist
+Role
+Optometrist
+Performs vision tests and prescribes glasses.
+Identifies functional vision issues
+Orthopaedic Surgeon
+May assess structural or musculoskeletal conditions
+(e.g., scoliosis, joint issues)
+Orthoptist
+Assesses and treats eye movement and coordination
+issues
+Paediatrician
+Coordinates assessment of complex developmental
+or physical needs. Screens for conditions like
+cerebral palsy, muscular dystrophy, or global
+developmental delay
+Physiotherapist
+Assesses movement, posture, and muscle function.
+Designs physical therapy programmes to support
+mobility and motor development
+Speech and Language
+May be involved where motor needs affect speech
+Therapist (SLT)
+production (e.g., DCD, cerebral palsy, hearing
+impairment)
+Specialist Nurses (e.g.,
+Provide health monitoring, care planning, and parent
+Community Children's Nurses,
+support for long-term conditions
+Epilepsy Nurse)
+Teacher of the Deaf (ToD)
+Educational specialist who supports children with
+hearing loss in accessing the curriculum
+Teacher of the Visually
+Supports access to learning materials and the
+Impaired (QTVI)
+environment for children with vision impairment
+The International Classification of Functioning, Disability and Health (ICF) is a framework
+developed by the World Health Organisation (WHO), which provides a comprehensive
+and standardised way of understanding health conditions, disabilities, and their impact on
+daily life. The ICF is particularly useful in the assessment and identification of physical
+and sensory impairments in children as it provides a holistic approach. It considers not
+only the medical diagnosis but also the functional abilities, activity limitations, and
+participation restrictions a child may experience in various contexts such as school,
+home, and community settings. Typically, both clinical and functional assessments are
+used to inform tailored support programmes and may feed directly into the process of
+obtaining an EHC plan.
+The ICF explicitly includes activities of daily living (ADLs) and activities and participation
+as a key part of its framework. ADLs are typically assessed in the process of
+20
+identification and diagnosis. Assessment of capacity in ADL should comprise a
+representative set of items from all three domains of ADL: 'self-care and self-
+maintenance', 'productivity and schoolwork' and 'leisure and play' (Sugden, 2006).
+Activities and participation are also often assessed. These include barriers to
+participation in different contexts including in educational environments. Insight into ADLs
+and activities and participation are essential for diagnosis and treatment planning.
+The 'F-words' are a child-friendly and family-centred way to apply the principles of the
+ICF (Gonzalez Lopez et al., 2023). They were introduced by Rosenbaum and Gorter
+(2012) to shift the focus from a deficit-based model of disability to a more holistic,
+strengths-based approach. The F-Words can be used to guide identification and support
+and support collaboration with parents and children and young people.
+The six 'F-words' used to guide identification and support are:
+Function: What the child can do (not what they can't); emphasises activities rather
+than limitations
+Family: The essential environment for a child's development and well-being
+Fitness: Physical activity, health, and well-being
+Fun: Enjoyment, play, and activities that are meaningful to the child
+Friends: Relationships and social development
+Future: Setting goals, growing up, and planning for the child's life ahead
+Although our review found relatively few studies focused on non-clinical methods of
+identification and assessment, several practical strategies emerged that educators could
+use to better identify and support children and young people with physical and sensory
+impairments in educational settings. This review highlights several tools and strategies
+that mainstream educators can use to help recognise strengths and challenges to
+coordinate support or refer for further assessment.
+In general, identification of needs should be a collaborative effort with a multidisciplinary
+team. While some tools can be administered or completed by teachers or other
+educational staff, these tools often require specialist input to interpret the results and help
+to make suggestions for support. Further, risk assessments and professional advice
+(e.g., from OTs, physiotherapists, or VI specialists) can also guide reasonable
+adjustments and support. It is also important to note that most studies in our review
+emphasise the need for a multi-method assessment approach, combining different tools
+(e.g., physical examinations, observations, and structured interviews) within each area of
+concern to ensure a comprehensive evaluation.
+21
+Identification of sensory needs
+Many methods of identification and diagnosis of vision and hearing impairments are
+administered and interpreted by specialists or trained healthcare professional and
+therefore will not be reviewed here. However, there are a few things teachers may do to
+flag concerns. Our search resulted in three systematic reviews addressing the
+identification and assessment of children and young people with hearing impairments
+(one of these studies is discussed in the literacy assessments section). However, no
+studies were found that addressed the identification and assessment strategies available
+to mainstream educators of children and young people with vision impairments or multi-
+sensory impairments.
+Stefánsdóttir et al. (2023) investigated the measures and methods that have been used
+when examining the speech intelligibility of children and young people with hearing
+impairments aged 6 months to 31 years. Speech intelligibility refers to how clear a
+person's speech is, or how much of a person's speech is understood by a listener
+(Spencer et al., 2011). Speech intelligibility may be important to measure in children with
+hearing impairments who use spoken language as part/all of their communication system
+to evaluate intervention progress when connected speech is the goal (Coppens-Hofman
+et al., 2016; Ertmer, 2011). Speech intelligibility is measured by how speech is produced
+by the speaker and how it is perceived by the listener (McLeod, 2020). Speech
+intelligibility may be determined by various aspects of spoken language such as speech
+perception, phonological knowledge, and motor control of articulation, timing, and
+intonation (Freeman, 2018). However, speech intelligibility may also be determined by
+factors related to the listener such as their relationship with the speaker, the speaker's
+native language, and the listener's attitudes and understanding of communication
+patterns and those that may be involved in communication disorders or hearing
+impairments (McLeod, 2020).
+Stefánsdóttir et al. (2023) identified 204 studies reporting on a speech intelligibility
+measure used by a range of different listeners including audiologists, naïve listeners
+(e.g., has no specialist training in speech, language, or communication disorders)
+parents, Speech and Language Pathologists/Therapist students, and other
+professionals. The most common subjective rating scale was the Speech Intelligibility
+Rating scale (SIR) (Allen et al., 2001). Two of the most commonly used objective
+measures of speech intelligibility were the Percentage of Consonants Correct (PCC) and
+the Beginners' Intelligibility Test (BIT).
+1. The SIR is a five-point rating scale that measures the level of speech intelligibility
+(i.e., the ease of understanding), with reference to everyday situations. This
+measure can be used for children and young people of all ages.
+22
+2. PCC is used for children and young people aged 3 and older and estimates the
+severity of speech sound disorders by calculating the proportion of correctly
+produced consonants in a speech sample.
+3. BIT is used for children between the ages of 4 and 9 and is a sentence repetition
+task designed for young children with hearing impairments; listeners transcribe
+short, familiar sentences and accuracy is scored as the percentage of words
+correctly transcribed.
+This systematic review did not compare the effectiveness of different scales but did
+report the most commonly used measures. Additionally, it was unclear which
+assessments were used by which types of listeners, although naive listeners were used
+in 33 of the 204 included studies. Therefore, it is not possible to conclude whether these
+three assessments can be used independently by mainstream educators, and it is
+recommended that administration and interpretation is supported by a speech and
+language therapist.
+Questionnaires have been identified as one low-cost method of screening for hearing
+impairments in children and young people (e.g. Newton et al., 2001). Muñoz et al. (2015)
+explored the effectiveness of parent or teacher-completed questionnaires developed by
+researchers in screening for permanent hearing loss in school-aged children. Findings
+suggested mixed results in effectiveness where half of the study authors of the studies
+included in this review recommended the use of the developed questionnaire tool and
+half did not recommend questionnaires. Thus, the authors ultimately concluded that there
+is currently insufficient evidence that parent or teacher-completed questionnaire
+screening can be used to identify children in need of further hearing assessment.
+There is a clear need for validated screening tools that can reliably be used by educators
+as part of school-based monitoring of vision and hearing impairments.
+Identification of physical and motor difficulties
+A diagnosis of developmental coordination disorder (DCD) before the age of 5 is typically
+not recommended as there may be spontaneous recovery in young children with motor
+delay, a possible lack of cooperation to perform motor evaluations, and the age-
+dependent variability for the acquisition of skills necessary for daily life activities (Blank et
+al., 2019). However, signs of DCD or motor impairment may occur early in development.
+Four studies included in our review addressed the identification and assessment of
+children and young people with DCD.
+Lee and Zwicker (2021) reviewed the evidence supporting early identification of DCD
+(i.e., before age 5). Their review suggests there is emerging evidence that children,
+23
+particularly those at higher risk of DCD, can be identified before starting school, enabling
+earlier intervention that may improve developmental outcomes and reduce secondary
+difficulties. Health professionals are encouraged to use the term "at risk of DCD"
+explicitly. However, it is important to note that many of the questionnaires currently used
+to assess DCD have not yet been fully validated for use as general screening tools in
+mainstream settings. Further research is needed to confirm their reliability and accuracy
+before they can be confidently used to identify children who may require additional
+support. Although these studies involved children pre-school aged, these findings
+suggest with further research there may be scope for children to enter school with a
+diagnosis of DCD or be considered 'at risk' which could help to support further support
+plans and school-based interventions.
+González López et al. (2023) investigated the early signs of impairment in body functions
+and structures, activities, and participation in children with or at risk of DCD between the
+ages of 0 and 6 years. They reviewed what types of features are typically measured, and
+who the informant is. They found that most parents observed differences in motor level
+before the age of 4. However, the diagnosis tends to occur over two years after families
+first report these differences. Further, in most studies, the parents are the informants,
+meaning they are the ones that complete the assessments. These findings highlight the
+important role of including families in the identification and diagnostic processes and in
+the subsequent support plan. Therefore, mainstream educators may consider working
+directly with parents in the assessment of these domains.
+Bieber and colleagues (2016) systematically reviewed manual function outcome
+measures for children with DCD aged 3-18 years. They found that several questionnaires
+that can be used by teachers to investigate movement, coordination, and motor control
+without the need of a specialist qualification or training. However, the review concluded
+that a combination of different assessments was needed for a comprehensive
+assessment of manual function in children with DCD. These assessments should
+consider physical and motor difficulties in relation to how they impact activities of daily
+living and participation, including attention to participation in educational settings.
+1. The Children's Activity Scale for Parents and Teachers (ChAS-P/T) (Rosenblum,
+2006) can also be administered by parents and teachers to identify children at risk
+of DCD based on measures of fine motor skills, gross motor coordination,
+activities of daily living (ADLs), and organisation in space and time. This test is
+suitable for children aged 4-8 years old. Teachers can use the teacher-specific
+version to assess motor coordination and organisational skills in their settings.
+2. The Movement Assessment Battery for Children - Second Edition Checklist
+(MABC-2 Checklist) (Henderson, 2007) is aimed at addressing a broader
+population of children with motor difficulties. This assessment can be used for
+24
+children aged 5 to 12 years. Specifically, this assessment screens for motor
+coordination difficulties in self-care, classroom, and physical activities. While,
+teachers can complete the checklist based on classroom observations, a specialist
+(e.g., OT, physiotherapist) should analyse the results and assist in interpretation if
+concerns arise.
+3. The Developmental Coordination Disorder Questionnaire 2007 (Wilson et al.,
+2009) can be administered by parents or teachers to identify children at risk of
+DCD based on observable movement control, fine motor skills, and general
+coordination. This test is suitable for children ages 5-15 and can be completed by
+teachers based on classroom observations of handwriting, PE performance, and
+coordination in daily school activities.
+Van der Linde et al (2015) also reviewed instruments for assessment of capacity in
+activities of daily living in children with DCD. Seven assessments were considered in this
+review: (1) the Bruininks-Oseretsky Test of Motor Performance-2 (BOT-2) (Bruininks,
+2005), (2) the Do-Eat (Josman et al., 2010), (3) the Movement Assessment Battery for
+Children-2 (MABC-2) (Henderson, 2007), (4) the School-Assessment of Motor and
+Process Skills (School AMPS) (Fisher et al., 2002), (5) the Tuffts Assessment of Motor
+Performance (TAMP) (Haley et al., 1992), (6) the Test of Gross Motor Development
+(TGMD) (Ulrich, 1985), and (7) the Functional Independence Measure for Children
+(WeeFIM) (Msall et al., 1994). While most assessment instruments in this review were
+standardised clinical or functional tools designed to be administered by trained
+professionals, there was one tool that could be administered by educators; the Test of
+Gross Motor Development. This test was also reviewed as part of another systematic
+review identified in our search (Lee and Zwicker, 2021). However, it is important to note
+that this assessment only assesses one domain of activities of daily living (play/leisure).
+While it could be used as a screening tool for this domain, the other domains of activities
+of daily living (self-care and productivity, and schoolwork) should also be considered for a
+more holistic understanding of need.
+The Test of Gross Motor Development (TGMD) is sometimes used in physical education
+or educational settings and assesses gross motor development. This test involves
+activities such as running, jumping, catching, or throwing and is suitable for children aged
+3-10 and may be administered by teachers with guidance or after some basic training.
+This test consists of two subtests with a total of 12 items: Locomotor (6) and Object
+Control (6).
+25
+Teacher-friendly tools to identify DCD and motor difficulties summary
+The Developmental Coordination Disorder Questionnaire 2007
+The Children's Activity Scale for Parents and Teachers (ChAS-P/T)
+The Movement Assessment Battery for Children - Second Edition Checklist
+The Test of Gross Motor Development (TGMD)
+Literacy assessment
+Children with sensory and/or physical difficulties may also experience challenges with
+literacy development, which can impact their ability to read, write, and engage with
+learning materials effectively. Vision impairments, even relatively common issues such as
+near-sightedness or far-sightedness, can have a significant impact on reading ability. For
+instance, children may struggle to see text clearly on the board or on a page in front of
+them, which can affect their engagement and comprehension. Similarly, children with
+hearing impairments may experience delays in oral language development, which in turn
+can hinder the acquisition of reading skills. In both cases, what may initially appear to be
+reading difficulties could in fact stem from underlying sensory difficulties. Some children
+with multisensory impairment may experience delayed oral language development and
+literacy skills development.
+Regular physical, vision, and hearing checks are considered good practice and can help
+identify or even correct certain difficulties early on. However, these routine screenings
+may not capture the full range of challenges faced by children and young people with
+sensory and/or physical needs. Some associated difficulties may go undetected, or the
+results may not fully explain the underlying issues affecting a child's learning or
+participation. However, assessing cognitive functions and literacy may be difficult for
+some children and young people with sensory and/or physical needs as many formal and
+informal measures use visual stimuli or are administered orally.
+In the Cross-Cutting Themes Report of our collection of reviews we report several
+different ways of assessing reading and writing that could apply to children and young
+people with physical, motor, or sensory difficulties. However, one study in our review
+addressed the identification of reading difficulties specifically for readers with hearing
+impairments (Lam et al., 2020).
+The identification of reading difficulties in children with hearing impairments and who use
+sign language may be different compared to children without hearing difficulties.
+Curriculum-based measurements designed to assess reading skills in children without
+26
+hearing impairments may not be appropriate at measuring reading skills in children and
+young people who use sign language as their first language given that sign language
+does not have a written form. Lam and colleagues (Lam et al., 2020) examined the use of
+curriculum-based reading measures² in benchmarking literacy skills and informing
+interventions for children with hearing impairments. Types of reading measures included
+signed and silent reading fluency, cloze assessments, and maze assessments. In a cloze
+assessment, children are asked to read passages where some words are removed or left
+blank. Children are asked to fill in the blanks with appropriate words based on context.
+This task typically measures reading comprehension, vocabulary, and language
+prediction skills. Maze assessments have the same structure, but here children are
+provided with multiple choice options to fill in the blanks.
+Lam et al.'s (2020) findings demonstrated that research on reading fluency assessments
+for students with hearing impairments highlights significant variability in reliability, validity,
+and scoring approaches across different measures. Studies examining signed reading
+fluency (where participants read the presented passage to the examiner using sign
+language) found that student responses varied depending on expressive sign language
+skills, task difficulty, and scoring methods, making it unclear whether the same construct
+was being measured across studies. These findings suggest challenges in assessing
+reading fluency through sign language due to inconsistencies in administration and
+interpretation. Thus, performance on signed fluency cannot be interpreted the same way
+as performance via oral fluency.
+Similarly, the studies on silent reading fluency (Lam et al., 2020; Rose et al., 2008)
+revealed inconsistent findings, likely due to differences in methodology, with Rose
+reporting stronger reliability and validity than Lam. The cloze assessments showed
+moderate to strong reliability in two studies, though the validity evidence varied
+depending on how it was assessed. Maze assessments demonstrated strong reliability
+across four studies, particularly for younger students (primary and early secondary) when
+short task durations and clear scoring methods were used. Overall, while maze tasks
+appear promising, all three tools should be used with caution and alongside other
+methods to provide a well-rounded evaluation of reading proficiency in children and
+young people with hearing impairments.
+Identification and assessment summary
+Our review identified few systematic reviews dedicated to the identification tools and
+methods that mainstream teachers can use to identify physical, motor, or sensory
+difficulties. This may reflect the relatively medicalised pathway to diagnosis and support
+2 Curriculum-based assessment are informal, teacher-led assessments that measure a student's progress
+aligned with the setting's curriculum.
+27
+for children and young people with these types of needs, which suggests that sensory
+and/or physical needs are usually perceived within the context of medical or clinical
+research and in the periphery of teaching and learning (Miller & Hodges, 2025;
+Kamenopoulou, 2022). For example, our REA found no studies evaluating tools available
+to mainstream educators in identifying educational needs associated with vision
+impairments. Although it is possible that there may be tools available that were not
+identified by our REA search, the lack of findings in this strand may highlight a gap in the
+research. There is a pressing need for tools that are specifically designed and validated
+for use by mainstream educators to identify difficulties related to sensory and/or physical
+needs, assess their severity, and understand their impact on educational access and
+participation. This may be important particularly given that access to medical
+professionals and specialist support may be limited or delayed.
+In summary, a multidisciplinary approach between families, education professionals and
+healthcare professionals is needed to identify key strengths and challenges and to
+coordinate tailored support. Practitioners should recognise the interaction between a
+child's health condition, functional abilities, environmental factors, and individual
+characteristics in the identification and support process. Assessment strategies should
+align with the ICF by taking a holistic, multidimensional approach to identification of need.
+While the role of identification falls predominately on the multidisciplinary team, there
+were a few observations, checklists, and screening tools that mainstream teachers, and
+non-clinicians could administer to identify and flag concerns. However, these tools often
+should involve some training, and interpretation should be aided by a healthcare
+professional.
+28
+Support and intervention
+The aim of this section is to review the studies from our search that focused on support
+and intervention strategies suitable for use by mainstream education professionals. We
+focus specifically on approaches that are effective in supporting educational outcomes
+including literacy, writing, maths, science, and general attainment. Our search identified 6
+studies on vision impairment, 7 on hearing impairment, and 5 on physical and motor
+difficulties (including DCD) (see Table 5). No studies were found for multisensory
+impairment.
+Due to the overlapping nature of approaches to support children and young people with
+different types of sensory and/or physical needs, this section is structured by approaches
+rather than by need.
+Table 5. Number of studies addressing support and intervention
+Area of need
+Number of studies
+Vision impairment
+6
+Hearing impairment
+7
+Physical and Motor Difficulties (including DCD)
+5
+Multisensory impairment
+0
+When reporting on intervention and support strategies in this REA, we sometimes refer to
+effect sizes that were reported in the studies reviewed. Effect sizes range from 0 to 1 and
+refer to how much of a difference an approach or intervention makes, beyond just
+whether it works. A small effect (around 0.2) means a modest improvement, a medium
+effect (around 0.5) suggests moderate improvement or progress, and a large effect (0.8
+or more) indicates a strong impact on learning. Additionally, evidence can come from
+various study designs, each differing in the strength and type of reliability they offer.
+Single-case designs provide strong evidence for the consistency of effects within
+individuals, making them valuable for understanding how interventions work in specific
+cases. However, their findings may not be widely generalisable (i.e., applicable to other
+individuals and/or settings). In contrast, group-design studies such as randomised
+controlled trials offer more generalisable results across larger populations but may
+overlook important individual differences in how students respond to interventions.
+Ideally, a strong body of evidence should be based off multiple types of study designs.
+29
+High quality teaching and universal support
+The SEND Code of Practice (DfE, 2015) asserts that high-quality teaching that is
+differentiated and personalised will meet the individual needs of the majority of children
+and young people. Inclusive practice and accessibility are essential for children and
+young people with sensory and/or physical impairments to meaningfully participate in
+education. While these factors are not direct educational outcomes, they contribute to
+improved learning and achievement. Adjustments and approaches can be incorporated
+at as part of universal design and high-quality teaching. The approaches identified in our
+rapid review include adjustments to the physical environment, the use of assistive
+technology, and alternative communication techniques. Each of these will be discussed
+in turn.
+Physical environment
+In the Cross-Cutting Themes Report of our collection of reviews, we highlighted several
+effective strategies to design inclusive settings which benefit children with different types
+of special educational needs. These strategies can also be applicable to children and
+young people with sensory and/or physical needs and will not be repeated in the current
+review. Here we review more specific adjustments that can be put into place for children
+and young people with sensory and/or physical needs.
+Physical and social environmental adaptations, specialist equipment, and support from
+physiotherapists, occupational therapists, speech and language therapists, teaching
+assistants, and early years practitioners can play a key role in promoting access to
+learning and helping students with sensory and/or physical needs reach their learning
+potential. Early intervention and inclusive practices are particularly important in
+supporting positive educational outcomes. However, there is no one-size-fits-all approach
+to inclusion and accessibility. Each setting and individual student will vary and thus it is
+important to understand the specific barriers and address them (Opie et al., 2017).
+There are numerous changes or adaptation that schools can consider to make their
+settings more inclusive. Settings can ensure level access to spaces in the school (e.g.,
+by installing ramps or lifts, and widening doorways). Similarly, the layout of the physical
+environment in a setting can be arranged to allow independent movement with clear
+pathways. Small changes (like where a child sits, or how they transition between lessons)
+can enhance accessibility and inclusion.
+Children with hearing impairment may find it difficult to focus on tasks in a noisy
+environment (Greenaway et al., 2022). For example, research into secondary pupils'
+impressions of their school's acoustic environment found that noisiest spaces were
+sports halls, assembly halls, corridors and dining rooms. Pupils with additional learning
+30
+needs (e.g., hearing impairment or receiving learning support) reported being significantly
+more affected by poor school acoustics, school location and build (Connolly et al., 2013).
+Therefore, settings may consider reducing excess noise and sounds. Educators can
+minimise background noise with sound-absorbing materials such as carpeting, wallpaper,
+curtains, or soft-furnishings. Teachers can also ensure that their faces can be seen when
+speaking and giving instructions.
+Attending to the 'three Cs' can support environmental access and inclusion of learners
+with physical and sensory needs: limiting visual clutter, reducing cacophony, and
+prioritising comfort. Minimising visual and auditory stimuli can help to reduce
+overstimulation, helping to improve attention and concentration. Prioritising physical
+comfort such as ambient lighting, temperature, or seating can also help children and
+young people maintain focus and improve physical wellbeing (Barrett et al., 2015; Zihl &
+Dutton, 2015).
+Targeted support
+In this section, we review several findings that address targeted support techniques for
+children and young people with sensory and/or physical needs. Although many of these
+approaches are targeted to the individual needs of the students, we have specified where
+some approaches can also be implemented in universally.
+Assistive technology
+Assistive technologies are tools or devices that aim to remove barriers to learning for
+students with different types of SEND. This synthesis of seven studies identified in our
+rapid review highlights key findings on assistive technology (AT) and evidence-based
+interventions for students with physical, hearing, and vision impairments. Examples of
+assistive technology include screen readers or screen magnifiers, braille displays, braille
+notetakers (e.g., BrailleNote Touch), Electronic Magnifiers (i.e., devices for enlarging
+printed text), audiobooks, Text-to-Speech (TTS) software, or Speech-to-Text (STT)
+software and voice command software. It is important to note here that a common
+misconception is that all people with vision impairment/blindness use Braille. Braille is a
+tactile phonetic alphabet system that can be useful for some children with vision
+impairments however, only a small percentage (around 4% to 7%) of school-aged
+children with vision impairments in the UK use Braille (RNIB, 2020). Assistive
+technologies such as screen reading software can be helpful in supporting children and
+young people with vision impairments and with multisensory impairments.
+Computer-assisted instruction is a teaching method using computers and software to
+deliver instruction. Examples include: educational software, digital learning modules,
+31
+online tutorials, and interactive simulations. Findings from two systematic reviews (Tuttle
+& Carter, 2022; 2023) focused on computer-assisted instruction (CAI) for students with
+vision impairments across different year groups. CAI was found to be effective for
+developing vocabulary and maths skills, particularly in learning the Nemeth code for
+braille mathematics. However, despite some positive outcomes, the review identified
+significant methodological concerns, including inadequate reporting of participant
+demographics, minimal educator involvement, and a lack of pre-intervention technology
+training. As a result, these reviews concluded that CAI is not yet considered an evidence-
+based practice for students with VI.
+Hoskin et al. (2024) investigated technology used as a tool for teaching and learning
+braille literacy. However, across the studies they reviewed, they found that the quality of
+research was low with little evidence to support the use of assistive technology for braille
+literacy education. They concluded that clear standards are needed to ensure that the
+evaluation of assistive technologies is consistent across researchers and clinicians,
+ultimately supporting better outcomes. Technologies designed to support braille literacy
+for children and young people should offer real-time auditory and tactile feedback,
+promote independent learning and editing, and be user-friendly, motivating, and
+engaging to encourage regular use and meaningful learning experiences.
+A review (Bell & Foiret, 2020) on assistive technology (AT) for students in secondary
+school or university (age not reported) with hearing impairments examined the impact of
+AT in educational settings. Findings highlighted the effectiveness of technologies such as
+C-Print (real-time transcription) and real-time captioning in mainstream education.
+Speech-to-text technologies (e.g., such as C-Print (real-time transcription) and real-time
+captioning) that provide live transcription of what is being said in class were effective
+tools. As the teacher speaks, a trained captionist or specialised software converts their
+spoken words into written text that appears on a screen (e.g., a laptop or tablet in front of
+the student). This helps students with hearing impairment follow the lesson more easily.
+A second scoping review (Guiberson & Crowe, 2018) on multilingual children with
+hearing loss explored evidence-based interventions in areas such as audition, speech,
+language, and literacy. Promising interventions included auditory verbal therapy, phonics
+with vision support, story grammar techniques, and explicit vocabulary instruction. While
+this review identified 35 effective interventions it also stressed the importance of
+individualised intervention planning. However, research on the academic impact of AT for
+children and young people with hearing impairment remains limited, with a strong need
+for rigorous and replicable intervention studies.
+One major limitation across these studies on AT in our REA was the lack of technology
+training for students, and general usability for educators which is concerning given that
+limited technology proficiency contributes to AT abandonment. Moreover, the
+32
+involvement of specialists in implementing AT was limited, with less than one-third of
+studies involving Qualified Teachers of Visually Impaired Children and Young People
+(QTVIs) AT specialists, or special educators. Findings from Hoskin et al. (2024) suggest
+that teacher competence and reflective practice are important for improving outcomes in
+students with VI. Many studies also failed to specify educators' roles in troubleshooting
+devices, navigating applications, or providing instructional support.
+The use of robotic-assisted interventions for rehabilitation, education, play, and social
+interaction (e.g., NAOᵀ, LegoᵀM, IROMEC, etc.) were explored in one systematic review
+(Cruz et al., 2017). Robots were used for students with Cerebral Palsy and autism in a
+variety of settings for an average of 9.76 sessions across eight and a half weeks across
+these studies. The most commonly used robot was the NAOᵀ with autistic children and
+the Lego TM in children with CP. The most versatile robot was the IROMEC, which was
+used with both autistic and CP participants. However, the findings on the use of this
+technology use were mixed with some studies reporting a positive effect and others
+reporting no significant improvement in engagement, playfulness, cognitive and social
+skills, and motor control. There were also difficulties with the usability of this technology.
+Parents, caregivers, and teachers were not always able to readily implement these
+devices and needed specialised support for technical adaptations and programming. In
+addition, the quality and validity of this evidence is low as the majority of these findings
+were from case studies rather than more robust methodologies such as randomised
+controlled trials. Although these outcomes may show potential; more evidence is needed
+to establish reliability of this technology.
+Finally, it is important to recognise that not all children and young people will find it easy
+to use different types of technology. While some tools may be intuitive and quickly
+adopted, others may present challenges depending on a student's individual needs and
+preferences. When trialling assistive technologies, it is essential to consider the child's
+comfort, confidence, and sense of independence. Their views should play a central role
+in selecting tools that genuinely support their learning. Educators should approach this
+process with patience and flexibility, offering encouragement and support as students
+explore what works best for them. Research on the academic impact of AT for children
+and young people with hearing impairment remains limited, with a strong need for
+rigorous and replicable intervention studies.
+Effective assistive technology support approaches summary
+Computer-assisted instruction for children and young people with vision
+impairments
+Importance of user training, IT support and educator confidence in using assistive
+technology
+33
+Augmentative and Alternative Communication
+Augmentative and Alternative Communication (AAC) systems refer to a range of tools or
+strategies to aid in communication for children and young people who may have
+difficulties with language production or comprehension. Types of AAC include gestures
+and facial expressions, writing, or signing systems such as Makaton, spelling words by
+pointing to letters, the use of apps, and using a computer with a "voice", sometimes
+called a speech-generating device.
+One review (Prinsloo et al., 2024) investigated elements of participation outcomes of
+AAC interventions with children with complex communication needs in early years and
+primary school settings. Findings demonstrated that different metrics of participation were
+reported across studies including attendance, involvement, activity competence,
+preference, as well as personal-related outcomes, such as symbol use, rather than
+subjective participation experiences. Access to AAC systems was linked to engagement
+levels comparable to those of typically developing peers across various activities, while
+also enhancing the duration of play and improving communication, including participation
+in group work and peer interactions. Another review identified in our search (Bunning et
+al., 2014) also reported greater social inclusion and positive parent perceptions regarding
+their children's communication following highly tailored approaches to AAC.
+This increase in participation may allow children and young people to experience a larger
+range of activities and cultivate different preferences which may in turn boost their
+internal motivation resulting in engaging in meaningful activities, enjoyment, and success.
+A child's perception of competence and activity preference can shape their sense of self
+(Imms et al., 2017).
+STEM (science, technology, engineering, and maths) interventions
+Three systematic reviews identified in our search investigated STEM interventions for
+children and young people with sensory and physical impairments. Of these, two reviews
+investigated programmes and technologies to support STEM in children with sensory and
+physical impairments.
+Ahmed and Chao (2018) reviewed 14 studies that investigated assistive learning
+technologies to support maths learning for students with vision impairments in upper
+primary to secondary school students, roughly aged 11 to 18 years. They investigated
+techniques that used the 'SAMR' model of learning technology integration. The SAMR
+model is a framework designed to help educators reflect on and improve the way
+technology is integrated into teaching and learning. It outlines four levels of technology
+use: Substitution, Augmentation, Modification, and Redefinition, which move from simple
+enhancement to transformational change.
+34
+Substitution refers to when technology is used as a direct replacement for traditional
+tools, without altering the task itself. For example, a student might type an essay on a
+word processor instead of writing it by hand. While this can make the task more efficient,
+it doesn't add new functionality or deepen the learning experience. The authors
+categorised three approaches under the 'Substitution' level. Students with vision
+impairments demonstrated better maths outcomes when using these approaches.
+1. AnimalWatch curriculum (Beal and Rosenblum, 2015, Beal et al., 2011), which
+replaces visual text with audio feedback to make the curriculum accessible for
+students with VI in learning to solve mathematics problems.
+2. The i-Math project involves the development of an audio reader designed to read
+mathematics documents and text. i-Math can read equations, mathematical
+descriptions, and other notation in LaTeX format and other common mathematics
+markup languages (Wongkia et al., 2012)
+3. Finally, Van Scoy, McLaughlin, and Fulmers (2005) developed a graphic tool that
+combined auditory output and tactile graphs for maths teaching. Here it was found
+that using a combination of auditory and tactile feedback resulted in better
+outcomes then using only one of these strategies.
+The second level, Augmentation, still involves substitution, but with added functional
+improvements. Using features such as spellcheck, formatting tools, or voice typing
+introduces efficiency and accessibility that were not possible with traditional tools.
+Although the task remains largely the same, the technology enhances how it is
+performed. The authors categorised three approaches that were categorised under the
+'Augmentation' level. However, the authors of the review did not note whether these tools
+resulted in better outcomes compared to typical maths delivery.
+1. The Graph and Number Line Input and Exploration (GNIE) project is an innovative
+approach that helps students, particularly those with vision impairments, to access
+and understand graphs and numerical data through sound. Instead of relying
+solely on visual representations, GNIE uses multimodal input, combining auditory
+cues with minimal visuals, to represent features like points on a number line or
+data trends in a graph. For example, different pitches or tones might correspond to
+different values, allowing students to "hear" the shape or direction of data. This
+method provides an alternative way for students to engage with mathematical
+concepts that are often inaccessible through traditional visual formats. While still
+under development, GNIE highlights how assistive technology can expand access
+to core curriculum content in more inclusive and creative ways.
+35
+2. High-resolution refreshable tactile devices, such as Tesla Touch, are emerging
+technologies designed to provide real-time tactile feedback, similar to how a
+screen display changes visual information. These devices can present both textual
+and non-textual digital content through touch, making them particularly promising
+for students with vision impairments. Rather than relying on static braille or simple
+vibrations, these tools create detailed, changing tactile sensations that allow users
+to explore information more dynamically, like feeling the shape of a graph or the
+layout of a diagram. However, these technologies are not yet widely available in
+schools, and early research suggests that they require significant training to use
+effectively. Importantly, they are not one-size-fits-all, meaning students may need
+personalised support to benefit fully from them.
+3. The Tactile Graphics with Voice (TGV) (Baker et al, 2014), is a system designed
+to support students with vision impairments, especially those who are not fluent in
+Braille. TGV combines raised tactile graphics with embedded audio prompts that
+students can access on demand, typically by touching specific areas of the
+graphic. This allows learners to explore mathematical content such as charts,
+shapes, or graphs, using both touch and sound, creating a multisensory learning
+experience. Research showed that for students who were not confident Braille
+readers, TGV provided an efficient and accessible way to engage with maths
+materials, supporting greater independence and understanding.
+With Modification, technology begins to change the nature of the task itself. For instance,
+students might use a shared Google Doc to collaborate on writing, provide peer feedback
+using comment functions, and revise their work in real time. This level promotes more
+interactive and collaborative learning, moving beyond individual engagement. However,
+the authors of the review did not note whether these tools resulted in better outcomes
+compared to typical maths delivery.
+1. The Math in the Dark project, developed by McDermott-Wells (2015), aimed to
+improve real-time communication in mathematics learning for students with vision
+impairments. It combines two key tools: a Nemeth Braille editor, which supports
+the specialised Braille code used for mathematical notation, and a real-time instant
+messaging system. By integrating a translator that converted between Nemeth
+Braille and MathML (Mathematics Markup Language), this tool enables students to
+engage in mathematical conversations with their sighted peers and teachers
+through instant messaging.
+2. The Talking Tactile Tablet (TTT), described by Landau and colleagues (2003),
+offers an innovative way for students with vision impairments to access and
+interact with mathematics assessments. The device allows students to place
+special raised-line or textured graphic sheets on its touch-sensitive surface. When
+36
+the student touches specific shapes, icons, or areas on the sheet, the TTT
+provides audio feedback, helping them understand and respond to mathematical
+content.
+Finally, Redefinition refers to technology that allows for the creation of new tasks that
+were previously inconceivable. An example would be students producing a multimedia
+documentary, conducting interviews via video calls with people from different countries,
+and publishing their work online. This kind of learning fosters creativity, authentic
+communication, and global collaboration, offering students transformative educational
+experiences.
+1. The Graph Sketching Tool (GSK), developed by Balik (2013), was designed to
+allow both students with vision impairments and sighted peers to work with graphs
+using a variety of input methods, such as keyboards, mice, touchscreens, voice
+commands, and screen readers. In a study involving ten students with VI, Balik
+found that the flexibility of input and output options enabled all students to interact
+with each other's graphs, fostering meaningful mathematical discussion and
+collaboration. Most notably, the GSK empowered those with vision impairments to
+independently construct and interpret graphs, making it a valuable tool for
+supporting mathematical ownership, engagement, and accessibility.
+A second systematic review reviewed methods by which STEM programs support the
+engagement of a range of neurodiverse adolescents (aged 9 to 19) including children
+and young people with sensory and physical needs (Jenson & Lee, 2024). This study
+investigated a variety of maths programmes included in the review by Ahmed and Chao
+(2018) as well as additional programmes including: (a) Inventing, Designing, and
+Engineering for All Students (IDEAS) Maker Program, (b) 3D iSTAR Engineering
+Summer Program, (c) ADHD Engineering Summer Camp, (d) Virtual Mentoring Program,
+(e) Mentor-Matching Program, (f) National Aeronautics and Space Administration (NASA)
+Neurodiversity Network (N3) Program, (g) For Inspiration and Recognition of Science and
+Technology (FIRST) Robotics Club, (h) self-voicing computer programme for pre-algebra
+maths. The synthesis of findings from these programs highlights a set of consistently
+effective strategies for fostering STEM interest and confidence among neurodiverse
+students in upper primary to secondary school. Key elements included the use of hands-
+on activities, flexible, student-led learning opportunities, and thoughtful accommodations
+tailored to individual needs. Informed by the perspectives of students, parents, and
+program leaders, these approaches not only supported meaningful engagement but also
+strengthened learners' confidence and enthusiasm for STEM subjects.
+A third review by Klingenberg et al. (2019) examined the attitudes and experiences of
+pupils and teachers regarding the use of abacuses, tactile graphics, and strategies for
+developing mathematical concepts among children and young people with vision
+37
+impairment. This review suggests that environmental factors significantly influence
+performance and emphasised the importance of parental involvement in school life.
+Although the low prevalence of vision impairment often means only one child with vision
+impairment is in a mainstream class, many of the adaptations made for these students,
+such as more descriptive explanations, benefit all learners. However, accurate instruction
+and tailored feedback was underscored, with teacher expertise shown to have a direct
+impact on VI learner outcomes.
+Increased teacher knowledge of vision impairment enhances inclusive participation, and
+when teachers are actively involved in creating alternative resources, both they and their
+students report positive experiences. For example, learners with VI often use their bodies
+as tools for measuring and counting. Teachers play a key role in helping these students
+connect their informal, physical experiences with formal mathematical concepts. Well-
+informed and teachers who reflect on their practice are linked to better outcomes for VI
+learners, unless there are additional cognitive difficulties. The Klingenberg et al. (2019)
+review found that with appropriate curriculum materials, 10 out of 12 students with VI
+performed as well as their sighted peers. However, this success was closely linked to the
+quality of the learning environment and teacher competence. Reflective practice and
+teacher attitudes were found to be particularly influential.
+Finally, a central concern raised across the body of research in this REA was the
+inconsistency in research approaches, with the authors calling for more randomised
+controlled trials (RCTs) to strengthen the evidence base.
+38
+Effective STEM support for children and young people with sensory and/or
+physical impairments summary
+Assistive technology works: Simple adaptations (like audio feedback or tactile
+graphs) can significantly improve maths outcomes for those with VI
+Combining touch, sound, and speech helps make abstract STEM content more
+accessible for children and young people with VI
+Well-informed teachers who adapt materials and offer clear, descriptive
+explanations are valued by children and young people with sensory and physical
+impairments
+Strategies like verbalising visual information and using physical objects to explore
+maths support all learners, not just those with VI
+Technology (e.g., refreshable tactile devices, captioning, collaborative platforms)
+show promise but may require specific training to implement
+Positive attitudes, reflective teaching, and parental involvement enhance
+engagement and performance
+Literacy interventions
+Children and young people with sensory and/or physical difficulties may also
+demonstrate difficulties with various aspects of literacy such as reading, spelling, or
+writing. For example, children and young people with hearing impairments may decode
+and process text differently than those without hearing impairments (Marschark, 2006;
+Marschark et al., 2011). Children with physical difficulties may have difficulties holding
+books and turning pages which could limit their engagement in reading activities (Smith
+et al., 2009). Children with hearing loss may have reduced vocabulary outcomes
+compared to hearing-age-matched peers (Convertino et al., 2014). Taken together
+literacy support is important for children and young people with sensory and/or physical
+needs.
+A systematic review by Kart (2022) on the use of Visual Phonics³ for children with
+hearing impairments examined its impact on developing code-related literacy skills. All 13
+studies in their review demonstrated strong evidence of improvement in phonemic
+awareness, decoding, and letter-sound correspondence. The effectiveness of Visual
+3 Visual Phonics is a system that uses hand cues and written symbols to represent the sounds (phonemes)
+of spoken language. It is designed to support children with hearing impairments, as well as others with
+speech, language, or reading difficulties.
+39
+Phonics was consistent across varying degrees of hearing loss, different ages,
+communication methods, and the presence of additional disabilities.
+A second scoping review (Guiberson & Crowe, 2018) on multilingual children with
+hearing loss explored evidence-based interventions in areas such as audition, speech,
+language, and literacy. The authors cite that the compelling interventions included
+auditory verbal therapy, phonics with vision support, story grammar techniques, and
+explicit vocabulary instruction. This meant that these interventions were clearly described
+in the research papers, the only variable being tested was the intervention itself (i.e., the
+study controlled for other factors that might affect the outcome). The study used a
+pretest-post-test design, meaning they measured something before and after the
+intervention to see if it made a difference, and the results showed positive effects after
+the intervention. While this scoping review identified interventions with evidence of
+effectiveness, it also stressed the importance of individualised intervention planning.
+Further, this scoping review did not comment on the quality of the evidence base,
+therefore further work needs to be done to establish the quality of this evidence base as
+well as more implementation studies which consider individualised planning.
+Stauter et al. (2017) examined literacy instruction for young children aged 3 to 8 years
+with severe speech and physical impairments (SSPI) who used augmentative and
+alternative communication (AAC) systems. The review included six studies focused on
+developing emergent literacy skills, such as phonological awareness, decoding, and
+participation in shared reading activities. Participants typically had complex
+communication needs, often associated with diagnoses like cerebral palsy, and required
+substantial physical and communicative support to access instruction.
+Across the studies, a range of adapted interventions were employed, including modelling
+AAC use (e.g., aided language stimulation), providing switch-activated or tactile reading
+materials, using motor-based cues for internal speech, and embedding literacy instruction
+in meaningful group-based or naturalistic contexts. Despite methodological variation, all
+studies reported positive outcomes. These included increased engagement, improved
+decoding and word identification, and enhanced use of AAC systems to communicate
+during reading tasks. Interventions were most effective when they enabled active
+participation, included explicit instruction and scaffolding, and were tailored to the child's
+abilities and preferred mode of communication.
+1. Modelling AAC use (e.g., aided language stimulation), adults modelled the use of
+AAC devices during shared reading by pointing to symbols or words on a
+communication board or speech-generating device while reading aloud. This
+exposed children with SSPI to language input paired with AAC use, helping them
+learn how to use their own AAC systems functionally during literacy tasks.
+40
+2. Providing switch-activated or tactile reading materials is where adapted books with
+tactile symbols and switch-activated page-turning devices are used. These
+adaptations allowed children with limited motor control to independently navigate
+storybooks and engage with content in ways aligned with their physical abilities.
+3. Motor-based cues for internal speech is where motor-based interventions like
+prompting children to use consistent motor movements (e.g., pressing a switch or
+eye-gaze selection) as a bridge to internal speech strategies are used, helping
+children rehearse and retrieve sounds or words during literacy activities even
+when they could not speak.
+4. Embedding literacy instruction in meaningful group-based or naturalistic contexts
+involves integrated phonics instruction into daily routines in classroom settings,
+involving both children with and without disabilities. Instruction occurred during
+shared group reading, morning meetings, and hands-on play, enabling children to
+practice literacy skills in authentic social and learning contexts. This promoted
+generalisation and motivation for literacy use.
+However, the Stauter et al. (2017) review also identified key limitations. Most studies
+involved very small sample sizes and lacked statistical rigour or standardised outcome
+measures. Interventions were often delivered by researchers rather than educators,
+raising questions about implementation in typical classroom settings. Follow-up data on
+long-term outcomes or skill generalisation were rarely reported. Overall, while the
+findings demonstrate effective literacy interventions, the authors highlight the need for
+more robust, teacher-led studies in mainstream settings that examine sustainable and
+scalable approaches to literacy instruction for children with SSPI.
+Finally, in a review of systematic reviews, Wang and Williams (2014) examined studies
+investigating reading instruction for children and young people (aged 3 to 22) with
+hearing impairments. There was some evidence that suggested reading outcomes were
+improved through a number of instructional strategies, including explicit instruction, story
+grammar instruction, the use of high-interest literature, instruction in the grammatical
+principles of American Sign Language (ASL) and how to translate ASL into written
+English, reading comprehension strategy instruction, and teaching of morphological
+rules, among others. There may also be benefits of repeated reading for fluency
+improvement. However, the evidence supporting these strategies is limited. They found
+limited evidence on the effectiveness of phonics and phonological awareness instruction
+for this group, as well as a lack of research on approaches to teaching reading
+comprehension.
+However, in terms of sight word recognition, Wang and Williams (2014) report on one
+systematic review which indicated that children and young people with hearing
+41
+impairments can learn to recognise words automatically similar to their hearing peers and
+that beginning readers would benefit from matching written words to signs, sign print, or
+both. Independent oral reading may be an instructional approach that is successful in
+improving reading fluency for children and young people with hearing impairments.
+Wang and Williams (2014) found some evidence that vocabulary knowledge for children
+and young people with hearing impairment may be improved through a number of
+different instructional techniques. These included direct or indirect vocabulary instruction
+(e.g., learning new words incidentally, rather than through explicit teaching), through the
+use of aural/oral habilitation (i.e., approaches that develop spoken language through
+listening and speech, typically used with children with hearing loss) following cochlear
+implantation, through the use of sign language (American Sign Language (ASL) in this
+instance) and, by using computer software.
+Effective literacy support for children and young people with sensory and/or
+physical impairments summary
+Visual Phonics for children with hearing impairment
+Auditory verbal therapy for multilingual children with hearing loss
+Phonics with vision support for multilingual children with hearing loss
+Story grammar techniques for multilingual children with hearing loss
+Explicit vocabulary instruction for multilingual children with hearing loss
+Modelling AAC use (e.g., aided language stimulation) for children with severe
+speech and physical impairments
+Providing switch-activated or tactile reading materials for children with severe
+speech and physical impairments
+Using motor-based cues for internal speech for children with severe speech and
+physical impairments
+Embedding literacy instruction in meaningful group-based or naturalistic contexts
+for children with severe speech and physical impairments
+Direct instruction for children with severe speech and physical impairments
+Scaffolding for children with severe speech and physical impairments
+42
+Support and intervention summary
+Our review identified a total of 18 systematic reviews dedicated to the support and
+intervention strategies that mainstream teachers can use to support sensory and/or
+physical needs.
+While there are some evidence-based strategies to support children and young people
+with sensory and/or physical needs, the current evidence base remains limited. There is
+a clear need for larger-scale studies using randomised controlled trials to strengthen our
+understanding of what works. Nevertheless, this review identified several promising
+techniques.
+Environmental adaptations such as level access, reduced noise, and minimised visual
+clutter support engagement and comfort for learners with sensory and/or physical needs.
+The importance of early intervention, setting-specific adjustments, and collaboration with
+therapists and specialists was underscored. Teachers can play a key role in reducing
+visual or auditory overstimulation and managing transitions through simple, low-cost
+adaptations that prioritise comfort and clarity in the learning environment.
+Assistive technology was shown to offer promise, particularly for students with vision
+impairments, but the quality of evidence was mixed. While some studies showed benefits
+from screen readers, braille notetakers, and computer-assisted instruction, most lacked
+robust methodology and educator involvement. Training and usability challenges, as well
+as low implementation by qualified staff, limited the practical impact of these tools.
+Similarly, robotic-assisted technologies for children with physical disabilities or autism
+showed some benefits, but current evidence remains too limited and inconsistent for firm
+conclusions.
+Positive outcomes were observed in areas such as mathematics, reading, phonological
+awareness, and the use of assistive technology for students with communication needs
+and sensory or physical impairments. However, implementing tools such as assistive
+technology, computer-assisted instruction, and advanced AAC devices, including
+specialised software, hardware, apps, and robotics, often require input from technology
+specialists and IT staff for setup, programming, and ongoing support.
+Multisensory teaching strategies may enhance accessibility and support memory and
+information retention for learners with sensory needs. In STEM subjects, various
+approaches, such as substitution, modification, augmentation, or redefinition, can also
+make content more accessible. However, it is essential that these adaptations are
+meaningfully aligned with the learning task. To ensure effective and individualised
+support, educators should collaborate closely with specialists and healthcare
+professionals to assess each student's needs and develop tailored interventions.
+43
+In literacy, strong evidence supports the use of Visual Phonics for children with hearing
+impairments and AAC-supported literacy instruction for children with severe speech and
+physical impairments. Key features of effective interventions included explicit instruction,
+the use of motor-based cues, tactile books, and embedding instruction in real-life
+routines. However, most studies were small-scale, researcher-led, and lacked long-term
+outcome data, highlighting the need for more robust, teacher-led research in mainstream
+contexts.
+Finally, a recurring theme across the review was the inconsistency in research design,
+limited educator involvement, and lack of standardised outcomes. While some promising
+practices are emerging, there is a clear need for larger-scale, high-quality studies that
+evaluate practical, scalable strategies for use by teachers, especially in settings with
+limited access to specialist support. Engaging learners in choosing tools and adaptations
+that work for them should also be a key consideration moving forward.
+44
+Conclusions
+This review aimed to identify effective methods for the identification and support of
+children and young people with sensory and/or physical needs in mainstream education
+while highlighting where collaborative practice is essential. These needs included vision
+impairment, hearing impairment, multi-sensory impairment (MSI), and physical disabilities
+affecting fine or gross motor skills. While such needs are well recognised in the SEND
+Code of Practice, our review found that the research on identification and support are still
+predominantly grounded in medical and clinical models. Children and young people with
+these needs often rely on specialist assessments and equipment to access the school
+environment, and teachers may lack the tools or training to identify difficulties early or
+assess how they affect learning and participation.
+Critically, we found a notable gap in research on identification tools suitable for use by
+mainstream educators. Most assessments are specialist-administered or require
+interpretation by specialists, and few tools have been adapted or validated for classroom
+or early years contexts. This is particularly concerning given limited access to medical
+and specialist services in some schools or regions. There is a pressing need for more
+research into practical, evidence-based tools that teachers can use to identify and
+respond to sensory and physical difficulties, particularly those that align with educational
+goals rather than solely clinical criteria.
+Although a small number of systematic reviews demonstrated the potential of certain
+teaching adaptations, such as multisensory approaches, assistive technology, and
+adapted STEM resources, there is a lack of large-scale, high-quality evidence (e.g.,
+randomised controlled trials) evaluating their long-term impact. Promising findings were
+reported in areas such as phonological awareness, reading, and maths, particularly when
+interventions were well structured and personalised. However, many of these strategies
+require input from IT specialists, therapists, or other professionals for implementation.
+The findings underscore the importance of collaborative planning between teachers and
+specialists, as well as the need for high-quality, accessible professional development in
+this area. Teachers must be supported to understand the diverse needs of students with
+sensory and/or physical difficulties and to confidently make necessary adaptations.
+Importantly, learners themselves should be engaged in shaping their support plans,
+ensuring strategies are both relevant and timely.
+Inconsistencies in outcome reporting and intervention design across studies limit the
+generalisability of some findings. Furthermore, due to the rapid nature of this review and
+our focus on systematic reviews and meta-analyses, it is possible that some tools or
+interventions currently in use, particularly newer, unpublished, or practitioner-led
+approaches, may not have been captured. These omissions reflect the current state of
+45
+the evidence base, not necessarily the effectiveness of those approaches. Future
+research should prioritise robust study designs, focus on outcomes linked to educational
+access and attainment, and include mainstream educator perspectives.
+In summary, while there are clear examples of effective practice, evidence gaps remain
+in the areas of teacher-led identification, inclusive classroom strategies, and collaborative
+models of provision, highlighting the urgent need to develop, test, and scale approaches
+that are feasible within everyday school settings.
+46
+Appendices
+Appendix A: Search terms (PICOS criteria)
+We conducted 15 separate searches across five rapid review categories, each focused
+on a distinct population: SEMH, SLCN, autism, sensory and/or physical needs, and
+cognition and learning. For each population, three searches were performed, focusing
+on: identification terms, support terms, and working with others. The intervention,
+comparison, and study type remained consistent across all searches, while the
+population and outcome terms varied to capture the unique characteristics of each group.
+This approach ensured a comprehensive examination of the research literature across
+the different populations. PICOS stands for: (1) Population; (2) Intervention; (3)
+Comparison; (4) Outcomes; and (5) Study type.
+Population:
+Population terms: "adolescent" OR child* OR "children and young people" OR kid*
+OR "post 16" OR pupil* OR "school aged" OR student* OR teen* OR "young
+learner*" OR "young people" OR "young person" OR youth
+Educational setting terms: "alternat* educat*" OR class* OR "class* setting" OR
+"comprehensive school*" OR "early year*" OR educat* OR elementary OR
+"elementary school*" OR "extra-curricular setting*" OR "further educat*" OR
+"further educat* setting*" OR "grammar school*" OR "high school" OR "higher
+educat*" OR inclus* OR kindergarten OR "learning environment*" OR mainstream*
+OR "middle school*" OR nursery OR preschool OR "primary educat*" OR "primary
+school*" OR reception OR "remedi* class*" OR "school setting" OR school* OR
+"secondary education*" OR "secondary school*" OR "special educat*" OR
+"university" OR "whole school" OR "independent school"
+General SEND terms: SEND OR SEN OR "special educat* need*" OR "special
+need*" OR "learning difficult*" OR "learning disab*" OR "learning difference" OR
+"additional need*" OR impair* OR disorder* OR neurodivergent OR "additional
+learning need"
+Sensory and/or physical needs terms: CVI OR MDVI OR MSI OR PCHL OR
+PMLD OR SLD OR "sensory impair*" OR "vis* impair*" OR blind* OR "cerebral
+vision impair*" OR "cochlear implant*" OR "cortical vision impair*" OR deaf OR
+deafblindness OR "dual sensory impair*" OR "hard of hearing" OR "hearing
+impair*" OR "hearing loss" OR "low vision" OR "multi* need*" OR "multi* sensory
+impair*" OR "multiple disabil*" OR "multiple impair*" OR "permanent childhood
+hearing loss" OR "profound deaf*" OR "residual vision" OR "sensory deprivation"
+OR "severe deaf*" OR "severe sight impair*" OR "sight impair*" OR "vision loss"
+OR "visual disab*"
+47
+Intervention:
+Identification terms: assess* OR "assessment app*" OR "assessment tools" OR
+"behavio* checklist*" OR checklist OR "class* assess*" OR "classroom
+observation" OR "cognitive assess*" OR "computer* app" OR "curriculum-based
+measure" OR diagnos* OR "dynamic assessment" OR "early screening tools" OR
+"educational assessment tool*" OR evaluate OR "formal assess*" OR "formative
+assess*" OR "graduated approach" OR identif* OR "informal assess*" OR
+measure OR "multi-disciplinary assessment" OR MTSS OR "multi-tiered system of
+supports" OR "neuro* assess*" OR observ* OR "parent* report" OR "pupil
+observation" OR "response to intervention" OR RTI OR screen* OR "self-
+assessment" OR "self-report" OR "smartphone app*" OR "standard* test*" OR
+"student observation" OR "tablet app*" OR "teacher judgment*" OR "teacher
+observation" OR tool* OR "performance-based"
+Support terms: "classroom environment" OR "SEN support" OR "SEND support"
+OR SWPBS OR accommodat* OR adaptat* OR approach OR "assistive tech*" OR
+"classroom interve*" OR "collaborative teach*" OR curriculum OR "curriculum
+adapt*" OR "differentiat* instruction" OR "digital learning" OR "early interven*" OR
+"education* program*" OR "education* support" OR "evidence-based interven*"
+OR "evidence-informed interven*" OR "exam access arrangement*" OR "exam
+accommodat*" OR "graduated approach" OR "group intervention" OR "high-quality
+instruct*" OR "high-quality teach*" OR inclus* OR "inclusive education" OR
+"inclusive practice" OR "individual support" OR "individual* education plan*" OR
+"instruct*" OR interven* OR integrat* OR "mainstream class* support" OR
+"mainstream education" OR "mainstream environment" OR "multimedia learning
+environment" OR "multi-tiered system* of support" OR "one-to-one" OR "parental
+support" OR pedagog* OR "peer support" OR personali*ed OR provision OR
+remediat OR "school support service*" OR "school-based" OR "special* interven*"
+OR "special* support" OR "specialist teach* support" OR support* OR strateg* OR
+"targeted interven*" OR "target* teach* strateg*" OR targeted OR "targeted
+support" OR teach* OR "teach* adaptation*" OR "teach* principle*" OR "teach*
+strateg*" OR "teach* approach" OR therapy OR "tier 1 interven*" OR "tier 1
+support" OR "tier 2 interve*" OR "tier 2 support" OR "tier 3 interven*" OR "tier 3
+support" OR treat* OR "universal design" OR "universal interven*" OR "universal
+provision" OR "universal support" OR "whole-class support" OR "whole-class
+teaching"
+Working with others terms: collabor* OR parent* OR carer OR caregiver OR famil*
+OR specialist* OR "specialist teacher" OR teacher OR educator OR TA OR
+"teaching assistant*" OR "support staff" OR "educational psychologist*" OR EP OR
+SLT or SLP or "speech and language therapist*" OR "speech and language
+pathologist*" OR "speech therapist" OR "speech pathologist" OR "health visitor"
+48
+OR HV* OR "Ed Psych" OR counsel* OR "mental health support workers" OR
+"child and adolescent mental health service" OR CAHMS OR psychologist* or
+therapist* OR "learning support assistant" OR LSA OR "communication support
+worker" OR QTOD OR QTMSI OR QTVI OR "co-production" OR "joint working"
+OR "healthcare professional" OR "personal carer" OR "occupational therapist"
+"Inter-professional collaboration" OR IPC OR expert OR clinician OR nurse
+Comparison:
+Left blank to include studies without comparison groups
+Outcome:
+Identification terms: N/A - Not needed for identification terms as there is not
+always a specific outcome
+Behavioural, Inclusion, Motivation, and Engagement terms: attendance OR
+"behavio* outcomes" OR "behavio* regulation" OR "behavio* improvement" OR
+"cognitive development" OR "communication skills" OR criminal OR economic OR
+employment OR engage* OR financial OR "functional independence" OR
+"functional skills development" OR "access to learning" OR "improvement in
+learning" OR "inclusive classroom" OR "increase* inclusion" OR "independent
+living" OR independent* OR "mental health outcomes" OR motivate* OR offend
+OR "prosocial behavio* " OR "reduce* learning barriers" OR "reduce* symptom*"
+OR "self-regulat*" OR "school performance" OR "school retention" OR "social
+inclusion" OR "social-emotional development" OR "teacher perceptions of student
+progress" OR "well-being" OR workplace
+Educational outcomes (General): "academic achievement" OR "academic
+progress*" OR "academic attainment" OR "academic measure" OR "academic
+performance" OR "additional learning support*" OR "educat* achievement" OR
+"educat* assess*" OR "educat* attainment" OR "educat* measure" OR "educat*
+outcome*" OR "educat* performance" OR "educat* progress" "executive function*"
+OR "functional skill* develop*" OR "improve* learning" OR learn* OR "learning
+progress" OR "problem solving" OR "reduced learning barriers" OR "school
+outcome*" OR "school performance" OR "school retention"
+Literacy outcomes: read* OR literacy OR "letter recognition" OR "letter-sound
+knowledge" OR "word reading" OR phonic* OR phonolog* OR "reading
+comprehension" OR "reading accuracy" OR "reading fluency" OR "reading delay*"
+OR "print knowledge" OR decod* OR "alphabet knowledge" OR "listening
+comprehension" OR "word recognition" OR "sentence completion"
+Writing outcomes: writ* OR literacy OR punctuation OR spelling OR "sentence
+writing" OR "free writing" OR "early writing" OR "emergent writing" OR "guided
+49
+writing" OR "writing fluency" OR handwriting OR "interactive writing" OR "letter
+typing" OR "sentence completion"
+Mathematics outcomes: math* OR numer* OR numb* "number sense" OR
+arithmetic* OR geomet* OR shape OR calcul* OR algebra OR counting OR
+addition OR subtraction OR multiplication OR division OR fractions OR statistics*
+OR "place value" OR "math* competenc*" OR "math* concept*" OR "math*
+knowledge"
+Working with others terms: collaboration* or partnership* or co-practice* or
+multidisciplinary* or transdisciplinary or interdisciplinary
+Study type:
+Review type: review OR "systematic review" OR "meta-analysis" OR "narrative
+review"
+50
+References
+*Indicates references identified in REA
+*AHMED, I. & CHAO, T. 2018. Assistive learning technologies for students with visual
+impairments: A critical rehumanizing review. Investigations in Mathematics
+Learning, 10, 173-185.
+ALLEN, C., NIKOLOPOULOS, T. P., DYAR, D. & O'DONOGHUE, G. M. 2001. Reliability
+of a rating scale for measuring speech intelligibility after pediatric cochlear
+implantation. Otology & Neurotology, 22, 631-3.
+ALLINDER, R. M. & ECCARIUS, M. A. 1999. Exploring the Technical Adequacy of
+Curriculum-Based Measurement in Reading for Children Who Use Manually
+Coded English. Exceptional Children, 65, 271-283.
+APPELMAN, K. I., CALLAHAN, J. O., MAYER, M. H., LUETKE, B. S., & STRYKER, D. S.
+2012. Education, employment, and independent living of young adults who are
+deaf and hard of hearing. American Annals of the Deaf, 157, 264-275.
+AUTISM SPEAKS. 2024. Sensory Issues [Online]. Available:
+https://www.autismspeaks.org/sensory-issues. [Accessed 23.04.25].
+BALIK, S. P., MEALIN, S. P., STALLMANN, M. F. & RODMAN, R. D. 2013. GSK:
+Universally Accessible Graph Sketching. Proceeding of the 44th ACM technical
+symposium on Computer science education. Denver, Colorado, USA: Association
+for Computing Machinery.
+BEAL, C. R. & ROSENBLUM, L.P. 2015. Use of an Accessible iPad App and
+Supplemental Graphics to Build Mathematics Skills: Feasibility Study Results.
+Journal of Visual Impairment & Blindness, 109, 383-394.
+BEAL, C. R., ROSENBLUM, L.P. & SMITH, D. W. 2011. A pilot study of a self-voicing
+computer program for prealgebra math problems. Journal of Visual Impairment &
+Blindness, 105, 157-169.
+*BELL, D. & FOIRET, J. 2020. A rapid review of the effect of assistive technology on the
+educational performance of students with impaired hearing. Disability and
+Rehabilitation: Assistive Technology, 15, 838-843.
+*BIEBER, E., SMITS-ENGELSMAN, B. C., SGANDURRA, G., CIONI, G., FEYS, H.,
+GUZZETTA, A. & KLINGELS, K. 2016. Manual function outcome measures in
+51
+children with developmental coordination disorder (DCD): Systematic review.
+Research in Developmental Disabilities, 55, 114-31.
+BLANK, R., BARNETT, A. L., CAIRNEY, J., GREEN, D., KIRBY, A., POLATAJKO, H.,
+ROSENBLUM, S., SMITS-ENGELSMAN, B., SUGDEN, D., WILSON, P. &
+VINçON, S. 2019. International clinical practice recommendations on the
+definition, diagnosis, assessment, intervention, and psychosocial aspects of
+developmental coordination disorder. Developmental Medicine & Child Neurology,
+61, 242-285.
+BLANK, R., SMITS-ENGELSMAN, B., POLATAJKO, H. & WILSON, P. 2012. European
+Academy for Childhood Disability (EACD): recommendations on the definition,
+diagnosis and intervention of developmental coordination disorder (long version).
+Developmental Medicine & Child Neurology., 54, 54-93.
+BRUININKS, R. H., BRUININKS, B. D. 2005. Bruininks-Oseretsky Test of Motor
+Proficiency, Minneapolis, MN, USA, Pearson Assessment.
+BUNNING, K., GONA, J. K., NEWTON, C. R. & HARTLEY, S. 2014. Caregiver
+perceptions of children who have complex communication needs following a
+home-based intervention using augmentative and alternative communication in
+rural Kenya: an intervention note. Augmentative and Alternative Communication,
+30, 344-56.
+CONNOLLY, D.M., DOCKRELL, J.E., SHIELD, B.M., CONETTA, R. AND COX, T.J.,
+2013. Adolescents' perceptions of their school's acoustic environment: The
+development of an evidence based questionnaire. Noise and Health, 15(65),
+pp.269-280.
+CONVERTINO, C., BORGNA, G., MARSCHARK, M. & DURKIN, A. 2014. Word and
+world knowledge among deaf learners with and without cochlear implants. The
+Journal of Deaf Studies and Deaf Education, 19, 471-83.
+*CRUZ, A. M., RíOS RINCóN, A. M., RODRÍGUEZ DUEñAS, W.R., QUIROGA
+TORRES, D. A. & BOH6RQUEZ-HEREDIA, A. F. 2017. What does the literature
+say about using robots on children with disabilities? Disability and Rehabilitation:
+Assistive Technology, 12, 429-440.
+DEPARTMENT FOR EDUCATION 2024. Special educational needs in England: 2023-
+24. UK Government.
+52
+DEPARTMENT FOR EDUCATION & DEPARTMENT OF HEALTH AND SOCIAL CARE
+2015. Special educational needs and disability code of practice: 0 to 25 years
+(Updated 2024). UK Government.
+DEPARTMENT OF HEALTH 1995. Think Dual Sensory.
+EASTERBROOKS, S. R. & HUSTON, S. G. 2008. The signed reading fluency of
+students who are deaf/hard of hearing. The Journal of Deaf Studies and Deaf
+Education, 13, 37-54.
+FARRELL, M. (2006). The effective teacher's guide to sensory impairment and physical
+disability: Practical strategies. Taylor & Francis.
+FISHER, A. G., BRYZE, K. & HUME, V. 2002. SchoolAMPS: School Version of the
+Assessment of Motor and Process Skills., Ft Collins, CO, USA., Three Star Press.
+GARRITTY, C., HAMEL, C., TRIVELLA, M., GARTLEHNER, G., NUSSBAUMER-
+STREIT, B., DEVANE, D., KAMEL, C., GRIEBLER, U. & KING, V. 2024. Updated
+recommendations for the Cochrane rapid review methods guidance for rapid
+reviews of effectiveness. British Medical Journal, 384, e076335.
+*GONZáLEZ LóPEZ, A., CRESPO MADRID, V., HIDALGO-ROBLES, Á. & GUTIéRREZ-
+ORTEGA, M. 2023. Early signs of functioning and contextual factors in children 0
+to 6 years of age at high risk of or with developmental coordination disorder: A
+scoping review. Child: Care, Health and Development, 49, 230-239.
+GREENAWAY, R., DALE, N., SALT, A. & SARGENT, J. (eds.) 2022. Children with vision
+impairment: assessment, development and management, London: Mac Keith
+Press.
+*GUIBERSON, M. & CROWE, K. 2018. Interventions for Multilingual Children With
+Hearing Loss: A Scoping Review. Topics in Language Disorders, 38, 225-241.
+HALEY, S. M., COSTER, W. J., LUDLOW, L. H., HALTIWANGER, J. T. & ANDRELLOS,
+P.A. 1992. Pediatric Evaluation of Disability Inventory: Development,
+Standardization and Administration Manual., Boston, MA, USA, Trustees of
+Boston University.
+HENDERSON, S. E., SUGDEN, D., BARNETT, A. L. 2007. Movement Assessment
+Battery for Children-2, Examiner's Manual, London, Pearson Assessment.
+*HOSKIN, E. R., COYNE, M. K., WHITE, M. J., DOBRI, S. C. D., DAVIES, T. C. &
+PINDER, S. D. 2024. Effectiveness of technology for braille literacy education for
+53
+children: a systematic review. Disability and Rehabilitation: Assistive Technology,
+19, 120-130.
+IMMS, C., GRANLUND, M., WILSON, P. H., STEENBERGEN, B., ROSENBAUM, P. L. &
+GORDON, A. M. 2017. Participation, both a means and an end: a conceptual
+analysis of processes and outcomes in childhood disability. Developmental
+Medicine & Child Neurology, 59, 16-25.
+*JENSON, R. J. & LEE, M. S. 2024. Engaging Neurodiverse Youth in Informal STEM
+Learning: Strategies and Recommendations. Connected Science Learning, 6,
+126-132.
+JOSMAN, N., GOFFER, A. & ROSENBLUM, S. 2010. Development and standardization
+of a "do-eat" activity of daily living performance test for children. American Journal
+of Occupational Therapy., 64, 47-58.
+KAMENOPOULOU, L. 2012. A study on the inclusion of deafblind young people in
+mainstream schools: key findings and implications for research and practice.
+British journal of special education, 39, 137-145.
+*KART, A. N. 2022. Systematic Review of Studies on Visual Phonics. Communication
+Disorders Quarterly, 43, 261-271.
+*KLINGENBERG, O. G., H., H. A. & AUGESTAD, L. B. 2019. Research evidence for
+mathematics education for students with visual impairment: A systematic review.
+Cogent Education, 6, 1626322.
+LAM, E. A., MCMASTER, K. L. & ROSE, S. 2020. Systematic Review of Curriculum-
+Based Measurement with Students Who Are Deaf. The Journal of Deaf Studies
+and Deaf Education, 25, 398-410.
+LANDAU, S., RUSSELL, M., GOURGEY, K., ERIN, J. N. & COWAN, J. 2003. Use of the
+Talking Tactile Tablet in Mathematics Testing. Journal of Visual Impairment &
+Blindness, 97, 85-96.
+LEE, E. J. & ZWICKER, J. G. 2021. Early identification of children with/at risk of
+developmental coordination disorder: a scoping review. Developmental Medicine
+& Child Neurology, 63, 649-658.
+MAYER, C. & TREZEK, B. J. 2017. Literacy Outcomes in Deaf Students with Cochlear
+Implants: Current State of the Knowledge. The Journal of Deaf Studies and Deaf
+Education, 23, 1-16.
+54
+MCDERMOTT-WELLS, P. M. 2015. Math in the Dark: Tools for Expressing Mathematical
+Content by Visually Impaired Students. Available:
+https://nsuworks.nova.edu/gscis_etd/61/ [Accessed 13/05/25].
+MCINNES, J. M. & TREFFRY, J. A. 1982. Deaf-Blind Infants and Children
+A Developmental Guide, University of Toronto Press.
+MCLEOD, S. (2020). Intelligibility in Context Scale: Cross-linguistic use, validity and
+reliability. Speech, Language and Hearing, 23(1), 9-16.
+https://doi.org/10.1080/2050571X.2020.1718837.
+MICHELSEN, S. I., ULDALL, P., KEJS, A. M. & MADSEN, M. 2005. Education and
+employment prospects in cerebral palsy. Developmental Medicine and Child
+Neurology, 47, 511-7.
+MSALL, M. E., DIGAUDIO, K., ROGERS, B. T., LAFOREST, S., CATANZARO, N. L.,
+CAMPBELL, J. & DUFFY, L. C. 1994. The functional independence measure for
+children (WeeFIM). conceptual basis and pilot use in children with developmental
+disabilities. Clinical Pediatrics, 33, 421-430.
+*MUñOZ, K., EDITH, L., CATHERINE, C.-H., EDUARDO, O. & AND WHITE, K. 2015.
+Evaluation of a hearing screening questionnaire for use with Ecuadorian school-
+aged children. International Journal of Audiology, 54, 587-592.
+MUTCH, L., ALBERMAN, E., HAGBERG, B., KODAMA, K. & PERAT, M. V. 1992.
+Cerebral palsy epidemiology: where are we now and where are we going?
+Developmental Medicine & Child Neurology, 34, 547-51.
+OLUSANYA, B. O., NEUMANN, K. J. & SAUNDERS, J. E. 2014. The global burden of
+disabling hearing impairment: a call to action. Bulletin World Health Organization,
+92, 367-73.
+OPIE, J., DEPPELER, J. & SOUTHCOTT, J. 2017. 'You have to be like everyone else':
+Support for students with vision impairment in mainstream secondary schools.
+Support for Learning, 32, 267-287.
+PIEK, J.P. & DYCK, M. J. 2004. Sensory-motor deficits in children with developmental
+coordination disorder, attention deficit hyperactivity disorder and autistic disorder.
+Human Movement Science, 23, 475-88.
+PRINSLOO, P., DADA, S., BASTABLE, K., RAGHAVENDRA, P. & GRANLUND, M.
+2024. The application of the family of participation-related constructs (fPRC)
+framework to AAC intervention outcomes in children with complex communication
+55
+needs: a scoping review. Augmentative and Alternative Communication, 40, 182-
+195.
+ROSE, S., MCANALLY, P., BARKMEIER, L., VIRNIG, S. & LONG, J. 2008. Silent
+Reading Fluency Test: Reliability, Validity, and Sensitivity to Growth for Students
+Who Are Deaf and Hard of Hearing at the Elementary, Middle School, and High
+School Levels. Research Institute on Progress Monitoring.
+ROSENBAUM, P. & GORTER, J. W. 2012. The 'F-words' in childhood disability: I swear
+this is how we should think! Child: Care, Health & Development, 38, 457-63.
+ROSENBLUM, S. 2006. The development and standardization of the Children Activity
+Scales (ChAS-P/T) for the early identification of children with Developmental
+Coordination Disorders. Child: Care, Health & Development, 32, 619-32.
+SHEA, B. J., REEVES, B. C., WELLS, G., THUKU, M., HAMEL, C., MORAN, J.,
+MOHER, D., TUGWELL, P., WELCH, V., KRISTJANSSON, E. & HENRY, D.A.
+2017. AMSTAR 2: a critical appraisal tool for systematic reviews that include
+randomised or non-randomised studies of healthcare interventions, or both. British
+Medical Journal, 358, j4008.
+SUGDEN, D. A. 2006. Development Coordination as a Specific Learning Difficulty
+[Online]. Available:
+https://www.pearsonclinical.co.uk/content/dam/school/global/clinical/uk-
+clinical/files/LeedsConsensus06-movement-
+abc_2.pdf?srsltid=AfmBOoovQInlsdjliCypgpY-mFoewmU-
+WIOusGxMs1xJxaatVHYSuvGF [Accessed 25/04/25].
+*TUTTLE, M. & CARTER, E. W. 2022. A Review of Computer-Assisted Instruction for
+Students With Visual Impairment. The Journal of Special Education, 56, 132-145.
+*TUTTLE, M. & CARTER, E. W. 2023. Systematic Review of Studies Addressing
+Computer-Assisted Instruction for Students with Visual Impairment. Journal of
+Special Education Technology, 38, 274-287.
+ULRICH, D. A. 1985. Test of Gross Motor Development (TGMD), Austin, TX, Pro-ED.
+Inc.
+VAN DER LINDE, B. W., VAN NETTEN, J. J., OTTEN, E., POSTEMA, K., GEUZE, R.H.
+& SCHOEMAKER, M. M. 2015. A systematic review of instruments for
+assessment of capacity in activities of daily living in children with developmental
+co-ordination disorder. Child: Care, Health, and Development, 41, 23-34.
+56
+WANG, T.N., TSENG, M. H., WILSON, B. N. & HU, F. C. 2009. Functional performance
+of children with developmental coordination disorder at home and at school.
+Developmental Medicine & Child Neurology, 51, 817-25.
+WANG, Y., & WILLIAMS, C. 2014. Are we hammering square pegs into round holes?: An
+investigation of the meta-analyses of reading research with students who are
+d/Deaf or hard of hearing and students who are hearing. American Annals of the
+Deaf, 159(4), 323-345.
+WILD, G. & STEELEY, S. L. 2018. A Model for Classroom-Based Intervention for
+Children with Sensory Processing Differences. International Journal of Special
+Education, 33, 745-765.
+WILSON, B. N., CRAWFORD, S. G., GREEN, D., ROBERTS, G., AYLOTT, A. &
+KAPLAN, B. J. 2009. Psychometric properties of the revised Developmental
+Coordination Disorder Questionnaire. Physical & Occupational Therapy in
+Pediatrics, 29, 182-202.
+WONGKIA, W., NARUEDOMKUL, K. & CERCONE, N. 2012. i-Math: Automatic math
+reader for Thai blind and visually impaired students. Computers & Mathematics
+with Applications, 64, 2128-2140.
+WORLD HEALTH ORGANIZATION. 2023. Blindness and Vision Impairment [Online].
+Available: https://www.who.int/news-room/fact-sheets/detail/blindness-and-visual.-
+impairment [Accessed 25/04/25].
+57
+Department
+for Education
+© Department for Education Copyright 2025
+This publication is licensed under the terms of the Open Government Licence v3.0,
+except where otherwise stated. To view this licence, visit
+nationalarchives.gov.uk/doc/open-government-licence/version/3
+Where we have identified any third-party copyright information you will need to obtain
+permission from the copyright holders concerned.
+Reference: RR1548
+ISBN: 978-1-83870-701-9
+For any enquiries regarding this publication, contact www.education.gov.uk/contactus.
+This document is available for download at www.gov.uk/government/publications.
+58

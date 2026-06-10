@@ -1,0 +1,1096 @@
+Department
+for Education
+Transforming Children
+and Young People's
+Mental Health
+Implementation
+Programme
+Data release
+May 2025
+Contents
+Introduction and content
+4
+Background
+4
+Mental Health Support Teams Coverage
+6
+Background
+6
+Overview
+6
+Data sources
+7
+Summary
+8
+Coverage by region
+9
+Coverage by setting type
+12
+Coverage by wave
+14
+Mental health support teams school and college survey
+16
+Introduction
+16
+About the survey
+16
+Understanding of the programme
+16
+Satisfaction with MHST provision
+17
+Perceived impact of the programme
+18
+School engagement
+20
+Feedback
+21
+Senior mental health lead training
+22
+Overview
+22
+Summary
+22
+Who are senior mental health leads?
+22
+Take-up by region
+23
+Take-up by local authority
+23
+Take-up by setting type
+24
+Senior mental health lead follow-up survey
+26
+Introduction
+26
+About the survey
+26
+Comparison with survey findings from Year 1 and 2 applicants
+26
+Background
+26
+2
+Effectiveness of delivery model
+28
+Impact of training
+31
+3
+Introduction and content
+The Transforming Children and Young People's Mental Health Implementation
+Programme was a joint, collaborative programme led by the Department of Health and
+Social Care (DHSC), Department for Education (DfE) and NHS England (NHSE). This
+programme has now formally closed as scheduled on 31 March 2025.
+This publication summarises the key achievements of the programme and provides the
+latest available data on the expansion of Mental Health Support Teams (MHSTs) working
+in state schools and colleges throughout England, and in relation to government funded
+senior mental health lead training for education staff. The expansion of MHSTs and the
+collaboration between education and health partners continues as part of delivering the
+government's Plan for Change; specifically as part of our mission to break down barriers
+to opportunity.
+Background
+In December 2017, the Government published a consultation to gather views on the
+proposals set out in its publication, Transforming Children and Young People's Mental
+Health Provision: A Green Paper.
+Following the consultation, the Government Response to the Consultation on
+Transforming Children and Young People's Mental Health Provision: a Green Paper and
+Next Steps was published in July 2018. It outlined a commitment to implement three core
+proposals:
+New Mental Health Support Teams (MHSTs) that provide support and extra
+capacity for early intervention and help for mild to moderate mental health issues
+and support the promotion of good mental health and wellbeing.
+Training for senior mental health leads to implement an effective whole school or
+college approach to mental health and wellbeing in schools and colleges.
+Pilots for a four-week waiting time for children and young people's mental health
+services¹.
+In response to the Covid-19 pandemic, the DfE announced further funding through the
+Wellbeing for Education Return or Recovery programmes, providing support to staff
+working in schools and colleges to respond to the additional pressures some children and
+1 Four week waiting time pilots have ended. Work on waiting times for children and young people's mental
+health is being taken forward as part of the Clinical Review of Standards: NHS England » Mental health
+clinically-led review of standards
+4
+young people may have felt has a direct result of the pandemic, as well as to any
+emotional response they or their teachers may have experienced.
+5
+Mental Health Support Teams Coverage
+Background
+MHSTs support the mental health needs of children and young people in primary,
+secondary and further education (ages 5 to 18) and use an evidence-based approach to
+provide early support on mental health and emotional wellbeing issues, such as mild to
+moderate anxiety and low mood. MHSTs also support education settings in promoting
+good mental health and wellbeing.
+First announced in 2018, MHSTs work with the pastoral care and mental health and
+wellbeing support that already exists in and around education settings. Existing mental
+health and wellbeing support may include counselling, educational psychologists, school
+nurses, educational welfare officers, VCSEs (Voluntary, Community and Social
+Enterprises), the local authority provision and NHS CYPMH (NHS Children and Young
+People Mental Health) services.
+MHSTs have three core functions:
+1. to deliver evidence-based interventions for early support for mental health issues
+2. support the senior mental health lead (where established) in each school or college
+to introduce or develop their whole school or college approach to mental health and
+wellbeing and.
+3. give timely advice to school and college staff, and liaise with external specialist
+services, to help children and young people to get the right support and stay in
+education.
+Overview
+The establishment of MHSTs began in 2018 and the number of teams has increased each
+year as set out in Table 1. The analysis presented in this publication shows coverage up
+to and including waves 9 and 10 but more teams are being introduced. A further 106 teams
+are currently training Education Mental Health Practitioners (EMHPs), which means around
+700 MHSTs are expected to be up and running by April 2026.
+6
+Table 1: Number of MHSTs per wave
+Number of
+Year teams become
+Wave
+Year EMHPs training began
+teams*
+operational²
+Trailblazer
+58
+January 2019
+March 2020
+Waves 1 & 2
+125
+Wave 1: September 2019
+Wave 1 & Wave 2:
+Wave 2: January 2020
+March 2021
+Waves 3 & 4
+104
+Wave 3: November 2020
+Waves 3 & 4: March
+Wave 4: January - February
+2022
+2021
+Wave 5 & 6
+111
+Wave 5: November 2021
+Waves 5 & 6: March
+Wave 6: January - February
+2023
+2022
+Waves 7 & 8
+100
+Wave 7: November 2022
+Waves 7 & 8: April 2024
+Wave 8: January- February
+2023
+Waves 9 &
+109
+Wave 9: September 2023
+Waves 9 & 10: April
+10
+Wave 10: January- February
+2025
+2024
+Waves 11 &
+106
+Wave 11: September 2024
+Waves 11 & 12:
+12
+Wave 12: January 2025
+Expected April 2026
+Source: * NHS England » Mental health support in schools and colleges and faster access to NHS care.
+N.B. Future dates are indicative.
+Data sources
+The analysis presented in this publication on the coverage of MHSTs uses self-reported
+information from MHSTs on the schools and colleges they support. This is linked to 2024
+DfE data³ to report on the number and percentage of schools/ colleges and pupils/
+learners⁴ covered MHSTs. The subsequent analysis relies on the quality of the data
+2 'Operational' is defined as the Education Mental Health Practitioners having successfully completed their
+training with assurance provided through NHSE regional teams. Training of Education Mental Health
+Practitioners takes around 12 months to complete.
+3 Lists of schools and colleges supported by an MHST, as provided by MHST teams have been linked to
+school and college information from 'Get information about schools,' pupil numbers from January 2024
+school census and FE learner numbers from 2023/24 Individualised Learner Record.
+4 MHSTs are intended to support all children and young people, however this analysis is based on pupils/
+learners in schools/ colleges as a proxy due to availability of data.
+7
+received, therefore the numbers presented here are our best estimates using the latest
+available data.
+Summary
+National
+There are 5.0 million pupils and learners who are covered by an MHST in 2024-25 based
+on schools and college lists returned from MHSTs, which equates to 52% coverage of
+pupils in schools and learners in FE in England.
+There are 10,100 schools and colleges supported by an MHST in 2024-25 based on
+schools and college lists returned from MHSTs, which equates to 41% of schools and
+colleges in England receiving MHST support.
+Coverage of MHSTs at school/ college level is lower than coverage at pupil/ learner level
+due to variation in setting size and MHSTs currently working with larger education settings.
+Delivery trajectory
+Nationally, there are, on average, 8,300 pupils/ learners and 17 schools/ colleges per
+MHST, up to and including waves 9 & 10. There are 106 MHSTs that will become
+operational in waves 11 & 12 (with EMHPs who started training from autumn 2024 and due
+to become operational in 2025-26).
+Assuming the average number of schools/ colleges and pupils/ learners per MHST remains
+constant, we estimate that, including waves 11 & 12, coverage could increase to 62% of
+pupils and learners and 48% of schools and colleges by 31 March 2026.
+8
+Coverage by region
+Coverage of pupils/ learners and schools/ colleges by MHSTs varies across the country.
+Here we present data for each NHSE region⁵. Note that these analyses represent a
+snapshot in time. Populations and numbers of pupils/ learners can also change between
+years and historic changes in regional and sub-regional boundaries may affect the overall
+regional proportions.
+The decision on which education settings are covered by an MHST is for local
+determination. Individual education settings can vary significantly in size, and this can
+affect analysis. For example, regions where MHSTs cover fewer, but larger, settings would
+have different coverage statistics to those with more, smaller settings. Ensuring equitable
+population coverage across all regions is a key aim and the regional variation currently
+seen in coverage of pupils/ learners and in schools/ colleges is expected to reduce as
+further waves of MHSTs become operational.
+5 NHS England » Regional teams
+9
+Regionally, the 52% coverage of pupils/ learners nationally varies between 47% (South
+East) and 58% (London) (Figure 1).
+Figure 1: Percentage of pupils/ learners in settings supported by an MHST, by
+NHSE region (up to and including waves 9 & 10)
+58%
+55%
+53%
+54%
+51%
+52%
+49%
+47%
+East of
+London
+Midlands
+North
+North
+South
+South
+Total
+England
+East and
+West
+East
+West
+Yorkshire
+Source: Self-reported MHST settings list, linked to DfE data
+10
+The 41% national coverage of schools/ colleges varies between 38% (East of England)
+and 47% (London) (Figure 2).
+Figure 2: Percentage of schools/ colleges supported by an MHST, by NHSE region
+(up to and including waves 9 & 10)
+47%
+45%
+42%
+41%
+38%
+39%
+39%
+39%
+East of
+London
+Midlands
+North East
+North
+South East
+South
+Total
+England
+and
+West
+West
+Yorkshire
+Source: Self-reported MHST settings list, linked to DfE data
+11
+Coverage by setting type
+Across all setting types, 52% of pupils/ learners are in settings supported by an MHST.
+However, this varies between 36% (Special schools) and 70% (Secondary schools) (Figure
+3).
+Figure 3: Percentage of pupils/ learners in settings supported by an MHST, by type
+of setting (up to and including waves 9 & 10)
+70%
+52%
+47%
+42%
+41%
+36%
+Primary
+Secondary
+Special
+Alternative
+Post-16
+Total
+provision
+Source: Self-reported MHST settings list, linked to DfE data
+12
+Nationally, 41% of schools/ colleges are supported by an MHST, ranging from 28% (Post-
+16) to 69% (Secondary schools) (Figure 4).
+Figure 4: Percentage of schools/ colleges supported by an MHST, by type of
+setting (up to and including waves 9 & 10)
+69%
+42%
+41%
+36%
+34%
+28%
+Primary
+Secondary
+Special
+Alternative
+Post-16
+Total
+provision
+Source: Self-reported MHST settings list, linked to DfE data
+Support from an MHST also varies by governance status; 43% of LA maintained schools
+are supported by an MHST compared to 49% of academy/ free schools. Full details of the
+number of eligible settings and the number of settings that are supported by an MHST is
+available within the data tables for this publication.
+13
+Coverage by wave
+Figures 5 and 6 show how the MHST coverage has grown over time.
+Trailblazer wave (operational C. 2019-20) covered 5% of pupils/ learners and 4%
+of schools/ colleges.
+Waves 1 & 2 (operational C. 2020-21) covered 11% of pupils/ learners and 9% of
+schools/ colleges.
+Waves 3 & 4 (operational C. 2021-22) covered 10% of pupils/ learners and 7% of
+schools/ colleges.
+Waves 5 & 6 (operational C. 2022-23) covered 10% of pupils/ learners and 8% of
+schools/ colleges.
+Waves 7 & 8 (operational C. 2023-24) covered 9% of pupils/ learners and 7% of
+schools/ colleges.
+Waves 9 & 10 (operational C. 2024-25) covered 8% of pupils/ learners and 6% of
+schools/ colleges⁶.
+Figure 5: Percentage of pupils/ learners in settings supported by an MHST, by
+wave (up to and including waves 9 & 10)
+8%
+52%
+9%
+10%
+10%
+11%
+5%
+Trailblazer Waves 1 & 2 Waves 3 & 4 Waves 5 & 6 Waves 7 & 8 Waves 9 & 10
+Total
+Source: Self-reported MHST settings list, linked to DfE data
+6 Waves 9 & 10 coverage includes schools/ colleges where information is not available about specifically
+when MHST support started, but where MHSTs are known to have been operational by the end of 2024-25.
+14
+Figure 6: Percentage of schools/ colleges supported by an MHST, by wave (up to
+and including waves 9 & 10)
+6%
+41%
+7%
+8%
+7%
+9%
+4%
+Trailblazer Waves 1 & 2 Waves 3 & 4 Waves 5 & 6 Waves 7 &8 Waves 9 & 10
+Total
+Source: Self-reported MHST settings list, linked to DfE data
+Projected coverage
+It is projected that waves 11 & 12 (becoming operational C. 2025-26) could cover an
+additional 9% of pupils and learners and 7% of schools and colleges once operational,
+assuming numbers of pupils/ learners and schools/ colleges per team remain constant.
+This would take overall coverage from 52% to 62% of pupils and learners and from 41%
+to 48% of schools and colleges in 2025-26.
+15
+Mental health support teams school and college survey
+Introduction
+This section provides a summary of findings from the 2024 Department for Education (DfE)
+Mental Health Support Team (MHST) school and college survey. The survey asked about
+the experiences of schools and colleges working with MHSTs - including the support they
+received - as well as the perceived impact of working with the MHST on their school or
+college.
+About the survey
+The data presented is based on responses to an online survey issued to schools and
+colleges in Trailblazer-Wave 8 of the MHST programme between the 3 May 2024 and the
+24 May 2024. Note that the survey period was curtailed due to the announcement of the
+general election which may have had an impact on the number of responses received.
+The survey was issued with the intent for the senior mental health lead to complete the
+survey, though we cannot guarantee that it was the senior mental health lead who
+completed the survey for every school or college.
+The survey was issued to 7,612 schools and colleges. 1,526 responses were received,
+giving an overall response rate of 20%. Response rates by National Health Service
+England (NHSE) region, wave of the programme, and phase were similar and responses
+received were therefore considered representative at the national level of schools and
+colleges enrolled in the programme.
+Understanding of the programme
+Overall, survey respondents agreed that their school or college was clear on a range of
+aspects of the MHST programme. The findings are presented in Figure 7. More than nine
+in ten respondents (92%) agreed that they were clear on the aims and objectives of the
+programme and the support the Mental Health Support Team provides in terms of direct
+interventions, 89% of respondents agreed they were clear on the scope of mental health
+needs supported by the Mental Health Support Team, 87% of respondents agreed they
+were clear on the support the Mental Health Support Team provides in helping with whole
+school/college approach and, relatively fewer respondents agreed that their school or
+college was clear on the reason(s) for changes to the offer available to them from the
+MHST (74% agreed).
+16
+Figure 7: Levels of agreement that schools or colleges were clear on aspects of
+the MHST programme
+0%
+20%
+40%
+60%
+80%
+100%
+The aims and objectives of the Mental
+92%
+Health Support Team
+The scope of mental health needs that the
+Mental Health Support Team can support
+89%
+and who that includes
+The reason(s) for any changes to the offer
+available from your Mental Health Support
+74%
+Team
+The support the Mental Health Support
+Team provides in terms of direct
+92%
+interventions
+The support the Mental Health Support
+Team provides in helping with whole
+87%
+school/college approach
+Overall agree
+Neither agree nor disagree
+Overall disagree
+Don't know
+Source: DfE MHST school and college survey 2024, n = 1,526
+Satisfaction with MHST provision
+Schools and colleges were asked about their satisfaction with provision by the MHST for
+the three core functions of the programme. The findings are presented in Figure 8. Overall,
+a large majority of schools or colleges were satisfied with provision for each of the three
+core functions: 85% of respondents were satisfied with support with direct interventions,
+76% of respondents were satisfied with support implementing whole school/college
+approach to mental health and wellbeing, 77% of respondents were satisfied with support
+accessing external services and 80% of respondents were satisfied with working together
+to shape the support offer.
+17
+Figure 8: Level of satisfaction with provision from the MHST for each of the three
+core functions
+0%
+50%
+100%
+Support with direct interventions
+85%
+Support implementing whole
+76%
+school/college approach
+Support accessing external services
+77%
+Working together to shape support offer
+80%
+Overall satisfied
+Neither satisfied nor dissatisfied
+Overall dissatisfied
+Don't know
+Source: DfE MHST school and college survey 2024, n = 1,526
+Perceived impact of the programme
+Overall, schools and colleges responded positively when asked to what extent they agreed
+that working with the MHST had had a perceived impact on each of the three functions,
+findings are presented in Figure 9.
+Schools and colleges were most likely to agree that working with the MHST had provided
+better mental health and wellbeing support than would have been available otherwise (85%
+agreed). There was also a large percentage of respondents that agreed that working with
+the MHST had improved their whole school/college approach (78%) and that working with
+the MHST had improved understanding of accessing external support (74%). Agreement,
+while still high, was slightly lower that working with an MHST had resulted in stronger links
+with partners (63% agreed) and that working with an MHST had strengthened senior
+leadership's buy in to promoting mental health and wellbeing (64% agreed).
+18
+Figure 9: Level of agreement that working with the MHST had a perceived impact
+on each of the three core functions
+0%
+20%
+40%
+60%
+80%
+100%
+Provided better support than otherwise
+85%
+available
+Improved whole school/college
+78%
+approach
+Improved understanding of accessing
+74%
+external support
+Strengthened SLT buy in
+64%
+Resulted in stronger links with partners
+63%
+Overall agree
+Neither agree nor disagree
+Overall disagree
+Don't know
+Source: DfE MHST school and college survey 2024, n = 1,526
+For the first time in 2024, respondents were asked about the perceived impact of working
+with the MHST on attendance in their school or college (Figure 10). Almost half of
+respondents agreed direct interventions from MHSTs had helped improve attendance
+(46%), with 4 out of 10 (40%) agreeing that help with the whole school or college
+approach had helped improve attendance. However, there was a large neither agree nor
+disagree response to this question. It should be noted that although these questions were
+added to the survey to reflect a key departmental priority at the time of the survey, we
+recognise that improving school attendance doesn't fall within the scope of the three core
+functions of the MHST.
+19
+Figure 10: Level of agreement that working with the MHST had a perceived impact
+on attendance
+0%
+20%
+40%
+60%
+80%
+100%
+Direct interventions
+46%
+37%
+14%
+have helped improve attendance
+Help with whole school/college
+approach
+40%
+40%
+17%
+has improved attendance
+Overall agree
+Neither agree nor disagree
+Overall disagree
+Don't know
+Source: DfE MHST school and college survey 2024, n= 1,526
+School engagement
+Schools and colleges were asked to what extent they agreed or disagreed that their
+school or college was engaged with the MHST programme through various means,
+findings are presented in Figure 11.
+Overall, schools and colleges reported high levels of engagement with the programme
+with most schools and colleges agreeing that they had senior leaders committed to
+making full use of the support offer (91%), had made staff aware of the MHST support
+offer (91%), were clear on how the MHST fits into their whole school or college approach
+(87%) and parents/carers aware of MHST (87%). There was high levels of agreement
+with other aspects including schools having time and resource to work with the MHST
+(82%) and pupils/students aware of MHST (81%). However, schools and colleges were
+less likely to agree that their school or college had provided opportunities for pupils or
+students to design the MHST offer (49%).
+20
+Figure 11: School or college engagement with the MHST programme
+0%
+20%
+40%
+60%
+80%
+100%
+SLT committed to MHST offer
+91%
+Time and resource to work with MHST
+82%
+Clear how MHST fits with whole
+87%
+school/college approach
+School/college staff aware of MHST
+91%
+Pupils/students aware of MHST
+81%
+Parents/carers aware of MHST
+87%
+Opportunities for pupils/students to
+49%
+design MHST offer
+Overall agree
+Neither agree nor disagree
+Overall disagree
+Don't know
+Source: DfE MHST school and college survey 2024, n = 1,526
+Feedback
+Respondents were asked about how responsive their MHST was to feedback from their
+school or college. Most respondents agreed that MHSTs were responsive to feedback
+from their school or college (86%), 8% neither agreed nor disagreed and 5% disagreed.
+21
+Senior mental health lead training
+Overview
+Schools and colleges were offered a £1,200 grant for a senior member of education staff
+to access DfE quality assured training to implement an effective whole school or college
+approach to mental health and wellbeing in their setting. The grant was intended to cover
+(or contribute to) the cost of attending training and could also be used to fund staff cover
+whilst leads were engaged in learning.
+Eligible settings claimed a grant through the DfE's digital grant application service,
+confirming their eligibility and providing evidence of their booking on a quality assured
+course. Management information from the grant application service was used to monitor
+take-up of the training offer by schools and colleges.
+Summary
+From 11 October 2021, schools and colleges were invited to apply for a DfE-funded senior
+mental health lead training grant and up to the end of the programme on 31 January 2025,
+17,995 state-funded schools and colleges had successfully claimed a grant. The 17,995
+settings that claimed a grant represent 81% of the total number of state-funded schools
+and colleges that were eligible to apply and means that DfE spent £21.6m in grants.
+From 8 October 2023, schools and colleges were entitled to claim a second grant to train
+a new senior mental health lead where a trained senior mental health lead had left their
+setting since completing their training. Up to 31 January 2025, 2,800 schools and colleges
+had claimed a second grant which means that DfE spent £3.4m in second grants.
+Who are senior mental health leads?
+A senior mental health lead is a strategic role in a school or college responsible for
+overseeing the setting's holistic/whole school or college approach⁷ to promote and support
+children and young people's mental health and wellbeing.
+7 Promoting children and young people's mental health and wellbeing - GOV.UK
+22
+Take-up by region
+Figure 12 shows that, nationally, more than eight in ten state-funded schools and colleges
+(81%) had completed their application for a senior mental health lead training grant by 31st
+January 2025. Take-up of the training grant varies by region with 77% of state-funded
+schools and colleges in London having completed an application for the grant compared
+to 85% of state-funded schools and colleges in the North East.
+Figure 12: Percentage of state-funded schools and colleges who had completed
+their application for a senior mental health leads training grant, by government
+office region, applications up to 31st January 2025
+82%
+82%
+84%
+84%
+85%
+80%
+81%
+81%
+79%
+77%
+London
+East of
+East
+South
+North
+South
+West
+Yorkshire
+North
+Total
+England
+Midlands
+East
+West
+West
+Midlands
+and the
+East
+Humber
+Source: DfE digital service grant application forms, n=17,990
+Take-up by local authority
+Data showing the number and percentage of state-funded schools and colleges that had
+completed their application for the senior mental health lead grant at local authority level
+is available within the data tables.
+Table 2 shows that in 60 local authorities (39%), between 60% and 80% of their state-
+funded schools and colleges had applied for the senior mental health lead training grant
+23
+and in 92 local authorities (60%), 80%-100% of their state-funded schools and colleges
+had applied for the senior mental health lead training grant.
+Table 2: The number and percentage of local authorities by percentage of state-
+funded schools and colleges that had completed application for senior mental
+health lead grant by 31st January 2025
+Percentage of state-funded schools that have
+Number of
+local
+Percentage of
+completed application for senior mental health lead
+local authorities
+grant
+authorities
+0% to less than 20%
+1
+1%
+20% to less than 40%
+0
+0%
+40% to less than 60%
+0
+0%
+60% to less than 80%
+60
+39%
+80% to 100%
+92
+60%
+Note that the local authority with 0% to less than 20% of schools and colleges that had
+completed an application is City of London which only has one eligible school/college.
+Role of the local authority
+Local authorities have an important role to play in promoting the take-up of senior mental
+health lead training, as part of the local mental health and wellbeing promotion and
+support offer to schools and colleges. Individual schools and colleges decide whether to
+take-up the offer of a grant to access training, and take-up within a local area can be
+impacted by multiple factors.
+Take-up by setting type
+In addition to state-funded schools and colleges, some independent schools, and other
+settings (such as independent training providers or higher education institutions with 16-
+19 programme funded learners) were also eligible for the training grant. Overall, 24,000
+settings were eligible for the training grant and 18,300 (76%) had successfully claimed a
+grant by the end of the programme. However, as shown in Figure 13, take-up of the training
+grant varies by setting type. Almost nine in ten state-funded secondary schools (87%)
+completed their grant application by 31st January 2025 compared to seven in ten Post-16
+settings (70%).
+24
+Figure 13: Percentage of all eligible settings who had completed their application
+for a senior mental health leads training grant, by setting type, applications up to
+31st January 2025
+87%
+83%
+80%
+80%
+76%
+70%
+30%
+17%
+Primary
+Secondary
+Special
+Alternative
+Post-16
+Independent
+Other
+Total
+provision
+Source: DfE digital service grant application forms, n=18,300
+Take-up also varies by governance status; 80% of eligible LA maintained schools had
+completed a grant application by 31st January 2025 compared to 83% of eligible
+academy/free schools. Full details of the number of eligible settings and number of
+settings that had completed grant applications, by setting type is available within the data
+tables.
+25
+Senior mental health lead follow-up survey
+Introduction
+This section provides a summary of findings from the follow-up survey issued to senior
+mental health leads who applied for their training grant during 2023-24, the third year of
+the programme. The survey was issued to senior mental health leads after completion of
+their training, to understand their experiences of the training and actions taken following
+the training.
+About the survey
+The survey was issued to senior mental health leads during the first half of the summer
+term of 2023/24. The survey was issued to 1,139 senior mental health leads and 516
+responses were received, giving an overall response rate of 45%. However, of these
+respondents there were a number where course details/dates were not correct who did not
+complete the remainder of the survey; this left 441 responses for analysis purposes.
+Comparison with survey findings from Year 1 and 2 applicants
+In May 2024 we published findings from our follow-up survey with senior mental health
+leads who applied for their training grant in the second year of the programme, 2022-23.
+The findings presented here are for applicants from the third year of the programme which
+are broadly similar to those presented for the surveys from previous years.
+Background
+As per the DfE guidance⁸, schools and colleges can decide themselves who is best placed
+to take on the role of senior mental health lead in their school/college and undertake the
+training, depending on their circumstances. The senior mental health lead may already be
+a member of the senior leadership team or another member of staff with authority, capacity,
+and support to influence strategic change in their school/ college. The senior mental health
+lead role could be a new role identified upon commencement of the training, or it could be
+8 Senior mental health lead training guidance
+26
+the training is undertaken by a member of staff with existing responsibilities for mental
+health within their school/ college.
+Role prior to training
+Based on the responses to our survey, 66% of the senior mental health leads participating
+in training were members of the senior leadership team within their school/ college and
+65% had a lead role around mental health in their school/ college prior to applying for the
+senior mental health lead training grant.
+Of those who had a lead role around mental health in their school/ college prior to applying
+for the senior mental health lead training grant, 52% had been in that role for 1 year or less,
+35% had been in that role for 2-4 years and 13% had been in that role for 5 years or more.
+Role after training
+Respondents were asked to think about the purpose and expectation of their role before
+and after the training and whether they have become more aligned with the learning
+outcomes⁹ for senior mental health leads following the training. Of the respondents who
+answered this question, 66% agreed that their role had changed as a result of applying for
+the training grant. Additionally, 73% of survey respondents stated that they have increased
+strategic oversight/ backing from the senior leadership team as a result of applying for the
+senior mental health lead training grant.
+Although not all of the senior mental health leads that participated in training were a
+member of the senior leadership team, 87% of survey respondents reported that they
+agreed or strongly agreed they had adequate influence to act as a strategic lead in their
+school or college.
+Time spent on role
+Respondents were asked how much time they spend on the senior mental health lead role
+per week, on average:
+50% of respondents said they spend up to half a day per week
+12% of respondents said they spend half to one day per week
+11% of respondents said they spend more than one day per week
+28% said the time they spend on this role varies too much to say.
+9 Learning outcomes for senior mental health leads
+27
+Respondents were also asked whether they agree they currently have enough time in this
+role to achieve their goals; 37% of respondents agreed or strongly agreed that they did
+have enough time and 43% of respondents disagreed or strongly disagreed.
+Effectiveness of delivery model
+Satisfaction
+Survey respondents were asked about their satisfaction with a range of elements of the
+delivery of the training. In terms of choosing their course, 87% of respondents were
+extremely satisfied or somewhat satisfied with the process. There were also high levels of
+satisfaction with the various aspects of the course itself, as shown in Figure 14. More than
+nine in ten respondents (94%) were satisfied that the course contents were as described
+and that the course was appropriate to their education setting, a similar percentage (93%)
+were satisfied that the course content met their needs and with the quality of the course
+trainer and a slightly lower percentage (90%) were satisfied that the delivery of their course
+enabled them to plan or improve an effective whole school or college approach to mental
+health and wellbeing in their school or college.
+28
+Figure 14: Level of satisfaction with different elements of training course,
+percentage of respondents
+0%
+20%
+40%
+60%
+80%
+100%
+Net
+satisfied:
+The course contents were as described
+65%
+29%
+94%
+The course content met your needs
+61%
+32%
+93%
+The quality of course trainer(s)
+71%
+22%
+93%
+The course was appropriate to your type of
+63%
+30%
+94%
+education setting
+The delivery of your course enabled you to
+plan/improve an effective whole school or
+56%
+34%
+college approach to mental health and
+90%
+wellbeing in your school/college
+Extremely satisfied
+Somewhat satisfied
+Neither satisfied nor dissatisfied
+Somewhat dissatisfied
+Extremely dissatisfied
+Source: DfE Senior mental health lead training follow-up survey, 2023-24 applicants,
+n=517
+Survey respondents were asked how likely they would be to recommend their training
+course to someone else and 89% of respondents said they would be extremely likely or
+somewhat likely to.
+How training grant spent
+Eligible schools/ colleges each receive a training grant of £1,200 to cover (or contribute to)
+the cost of attending a quality assured training course and may also be used to hire supply
+staff while senior mental health leads are engaged in training. In the follow-up survey
+respondents were asked in addition to their training course what else (if anything) their
+school/ college spent their grant funding on. The most common response was that all of
+the grant funding was spent on training (48% of respondents), 18% of respondents stated
+they spent remaining grant funding on supply cover to backfill during training, 16% of
+respondents spent grant funding of other activities to promote and support mental health
+and wellbeing within their school or college, 11% or respondents and 9% of respondents
+spent grant funding on resources to support them in their senior mental health lead role.
+(see Figure 15).
+29
+Figure 15: Percentage of respondents who stated what their school/ college spent
+grant funding on, in addition to their training course¹⁰
+0%
+10%
+20%
+30%
+40%
+50%
+60%
+Nothing - all of the grant was spent on
+48%
+training
+Supply cover to backfill during training
+18%
+Other activities to promote and support
+16%
+mental health and wellbeing
+Don't know
+15%
+Additional training/ coaching for senior
+11%
+mental health lead
+Resources to support you in your
+9%
+senior mental health lead role
+Other (please specify)
+3%
+External support to assess your school
+2%
+or college approach
+Source: DfE Senior mental health lead training follow-up survey, 2023-24 applicants,
+n=517
+Further resources
+Respondents were asked what further practical resources and support would be helpful to
+bring about effective change in their school/ college to promote and support mental health
+and wellbeing. The most common response was 'Resources or tools specifically to help
+with wellbeing measurement' (60% of respondents). This was followed by 'Access to peer
+networks to share good practice and work through problems' (48% of respondents), help
+to more easily identify and access evidence-based resources or tools (44%), further
+guidance or resources on whole school or college approach to mental health and wellbeing
+(42%) and further senior mental health lead training (30%) (see Figure 16).
+10 For this question, respondents could select more than one option, therefore
+percentages do not sum to 100%
+30
+Figure 16: Percentage of respondents who stated which further resources or
+support would help to bring about effective change in their school/college to
+promote and support mental health and wellbeing
+0% 10% 20% 30% 40% 50% 60% 70%
+Resources or tools to help with
+60%
+wellbeing measurement
+Access to peer networks
+48%
+Help to more easily identify and
+access evidence-based resources or
+44%
+tools
+Further guidance or resources on
+42%
+whole school or college approach
+Further senior mental health lead
+30%
+training
+Other (please specify)
+7%
+None of these
+4%
+Source: DfE Senior mental health lead training follow-up survey, 2023-24 applicants,
+n=517
+Impact of training
+In order to understand the impact of the training courses, survey respondents were asked
+to what extent they agreed that following their training they were better able to act on each
+of the principles 11 of a whole school/college approach to mental health and wellbeing.
+Although not all courses cover all of the principles, there were high levels of agreement
+from survey recipients that the training enabled them to better act on all the principles, as
+shown in Figure 18.
+11 Promoting children and young people's mental health and wellbeing: A whole school or
+college approach
+31
+92% of respondents agreed that following their training they were better able to act
+on an ethos and environment that promotes respect and values diversity.
+90% of respondents agreed that following their training they were better able to act
+on leadership and management that supports and champions efforts to promote
+emotional health and wellbeing.
+87% of respondents agreed that following their training they were better able to act
+on enabling student voice to influence decisions.
+86% of respondents agreed that following their training they were better able to act
+targeted support and appropriate referrals.
+84% of respondents agreed that following their training they were better able to act
+curriculum teaching and learning to promote resilience and support social and
+emotional learning.
+84% of respondents agreed that following their training they were better able to act
+identifying need and monitoring impact of interventions.
+84% of respondents agreed that following their training they were better able to act
+on staff development to support their own wellbeing and that of students.
+82% of respondents agreed that following their training they were better able to act
+on working with parents and carers.
+32
+Figure 17: Eight principles to promoting a whole school or college approach to
+mental health and wellbeing¹²
+Curriculum
+An ethos and
+teaching and
+environment that
+learning to promote
+resilience and
+promotes respect and
+support social and
+values diversity
+emotional learning
+Targeted
+support and
+Enabling
+appropriate
+Leadership and
+student voice to
+referral
+management that
+influence
+supports and champions
+decisions
+efforts to promote
+emotional health and
+wellbeing
+Staff
+Working with
+development to
+Parents
+support their
+and carers
+own wellbeing
+and that
+Identifying need
+of students
+and monitoring
+impact of
+interventions
+12 Source: Promoting children and young people's mental health and wellbeing
+(publishing.service.gov.uk).
+33
+Figure 18: Levels of agreement that following their training course trainees were
+better able to act on each principle of the Whole School/ College Approach to
+Mental Health and Wellbeing
+0%
+20%
+40%
+60%
+80%
+100%
+Net
+Leadership and management
+42%
+48%
+Agree:
+90%
+Ethos and environment
+52%
+40%
+92%
+Curriculum teaching and learning
+33%
+51%
+83%
+Identifying need
+35%
+49%
+84%
+Student voice
+40%
+47%
+88%
+Targeted support
+36%
+50%
+86%
+Staff development
+35%
+49%
+84%
+Parents and carers
+31%
+51%
+83%
+Strongly agree
+Somewhat agree
+Neither agree nor disagree
+Somewhat disagree
+Strongly disagree
+This wasn't covered in my course
+Source: DfE Senior mental health lead training follow-up survey, 2023-24 applicants,
+n=517
+Note some net agree values don't match constituent parts due to rounding
+Respondents were also asked about action taken against each of the principles since
+completing the training. 68% of respondents said they had either created a new plan (43%)
+to develop, implement and sustain a whole school or college approach to mental health or
+wellbeing, tailored to their school/ college's needs, or had revised an existing plan (24%),
+since completing their training. 23% of respondents said they plan to create or revise a
+plan in the near future; 2% said they had already made progress prior to undertaking
+training and 7% said current capacity meant they have prioritised other actions for now.
+34
+Department
+for Education
+© Crown copyright 2025
+This publication is licensed under the terms of the Open Government Licence v3.0,
+except where otherwise stated. To view this licence, visit
+nationalarchives.gov.uk/doc/open-government-licence/version/3.
+Where we have identified any third-party copyright information, you will need to obtain
+permission from the copyright holders concerned.
+About this publication:
+enquiries https://www.gov.uk/contact-dfe
+download www.gov.uk/government/publications
+Follow us on Twitter: @educationgovuk
+Connect with us on Facebook: facebook.com/educationgovuk
+35

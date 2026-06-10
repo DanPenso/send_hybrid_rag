@@ -1,0 +1,4230 @@
+Department
+for Education
+Analysis of the
+consultation
+responses to the
+SEND review:
+right support, right
+place, right time
+March 2023
+Authors: Fiona Sinclair, Ali Zaidi, ICF
+Consulting Services Limited
+Contents
+Executive summary
+6
+Key findings
+6
+1
+Introduction
+12
+1.1
+Background and context
+12
+1.2
+Overview of consultation responses
+16
+1.3
+Approach
+18
+2
+Responses from children and young people
+21
+2.2
+Question 1: Support for preparing for adulthood
+21
+2.3
+Question 2: Decision makers
+22
+2.4
+Question 3: EHCPs
+23
+2.5
+Question 4: Preparing lists
+24
+2.6
+Question 5: Access to apprenticeships
+25
+2.7
+Question 6: Support for staying in mainstream education
+25
+3
+Responses to questions 1-7: A single national SEND and alternative provision
+system
+26
+3.1
+Question 1: National standards
+26
+3.2
+Question 2: Local SEND partnerships
+31
+3.3
+Question 3: Commissioning across local boundaries
+34
+3.4
+Question 4: EHCPs
+35
+3.5
+Question 5: Tailored list of placements
+38
+3.6
+Question 6: Approach to strengthen redress
+40
+3.7
+Question 7: Disability discrimination
+42
+4
+Responses to questions 8-12: Excellent provision from early years to adulthood
+44
+4.2
+Question 8: Two-year-old progress check
+44
+4.3
+Question 9: Mandatory SENCo NPQ
+45
+4.4
+Question 10: SENCo training requirement
+47
+4.5
+Question 11: Role of specialist and mixed MATs
+49
+4.6
+Question 12: Access to apprenticeships
+51
+5
+Responses to questions 13-16: A reformed and integrated role for alternative
+provision
+53
+2
+5.2
+Question 13: New vision for alternative provision
+53
+5.3
+Question 14: Distributing existing funding effectively
+54
+5.4
+Question 15: Alternative provision performance framework
+56
+5.5
+Question 16: Statutory framework for pupil movements
+57
+6
+Responses to questions 17-18: System roles, accountabilities, and funding reform 59
+6.2
+Question 17: National performance metrics
+59
+6.3
+Question 18: Funding bands and tariffs
+61
+7
+Responses to questions 19-22: Delivering change for children and families
+62
+7.2
+Question 19: National SEND Delivery Board
+62
+7.3
+Question 20: Barriers and enablers of success
+63
+7.4
+Question 21: Support for local systems
+64
+7.5
+Question 22: Further reflections
+65
+3
+List of figures
+Figure 1: Overview of age ranges: children and young people
+18
+Figure 2: Groups who respondents feel should be involved in making decisions about
+help for children and young people with additional needs
+22
+Figure 3: Respondent views on the most important parts of the EHCP
+23
+Figure 4: Respondent views on the points of consideration when creating a list of
+appropriate schools for children with EHCPs
+24
+Figure 5: Respondent views of the components of the EHCP that most need reviewing
+or amending
+36
+Figure 6: Respondent views on the approach to strengthen redress
+40
+Figure 7: Respondent views on the approach to strengthening redress by respondent
+group
+41
+Figure 8: Agreement with introduction of mandatory SENCo NPQ
+46
+Figure 9: Agreement with introduction of mandatory SENCo NPQ by respondent type 46
+Figure 10: Need for strengthening the mandatory SENCo training requirement
+48
+Figure 11: Need for strengthening the mandatory SENCo training requirement by
+respondent type
+48
+Figure 12: Respondent views on the roles of specialist and mixed MATs
+49
+Figure 13: Respondent views on the roles of specialist and mixed MATs by respondent
+type
+50
+Figure 14: Agreement with vision of alternative provision
+53
+Figure 15: Agreement with vision of alternative provision by respondent type
+54
+Figure 16: Agreement with alternative provision performance framework
+56
+Figure 17: Agreement with alternative provision framework by respondent type
+57
+Figure 18: Agreement on statutory framework for pupil movement
+57
+Figure 19: Agreement on statutory framework for pupil movement by respondent type 58
+Figure 20: Overview of sentiment: parents/carers
+66
+Figure 21: Overview of sentiment respondents from education settings
+67
+Figure 22: Overview of sentiment: local authorities
+68
+Figure 23: Overview of sentiment: other individuals
+69
+4
+List of tables
+Table 1: Overview of responses by respondent type
+16
+Table 2: Number of responses per question
+21
+Table 3: Number of responses per question by respondent group (Q1 to Q7)
+26
+Table 4: Number of responses per question by respondent group (Q8 and Q12)
+44
+Table 5: Number of responses per question by respondent group (Q13 and Q16)
+53
+Table 6: Number of responses per question by respondent group (Q17 and Q18)
+59
+Table 7: Number of responses per question by respondent group (Q19 - Q22)
+62
+5
+Executive summary
+This report presents analysis of the Department for Education's consultation on the
+SEND Review: Right Support, Right Place, Right Time. The consultation ran from 29
+March 2022 to 22 July 2022 and received just under 6,000 formal responses. The
+majority of responses were received by parents/carers (53.4% of all respondents)
+followed by headteachers/teachers/other teaching staff (18.4%). Children and young
+people who responded to the consultation (162 responses) answered a separate set of
+consultation questions¹.
+Key findings
+A single national SEND and alternative provision system
+There was general support among consultation respondents for the need for a national
+SEND and alternative provision system. This was mostly because it was felt it would help
+to address variation in provision by local area and avoid a 'postcode lottery'.
+However, respondents most commonly reported that this needs to be underpinned by:
+SEND training for teaching staff, social workers and healthcare professionals in
+order to ensure consistency in the support provided by practitioners 'on the
+ground'.
+Availability and accessibility of funding to ensure that local actors are able to
+implement the reforms in a consistent manner.
+Education Health and Care Plans (EHCPs)
+There was generally strong support for digitalisation of EHCPs. However, some
+respondents stressed that consideration should be given to those in digital poverty in
+order to be inclusive and that there should be enough flexibility to capture the needs of
+the individual.
+Most consultation respondents also identified areas of potential improvements in EHCPs.
+The most commonly reported areas for review were Section F (special educational
+provision) and Section B (special educational need). Some respondents also felt that it
+was important to ensure that EHCPs are updated regularly and that a child or young
+person's view is incorporated.
+When children and young people were asked about the most important part of EHCPs,
+respondents most commonly selected Section A (the views, interests and aspirations of
+the child or young person) followed by Section B (special educational needs).
+Developing local SEND partnerships
+To develop effective local SEND partnerships, respondents commonly stated that
+partnerships should contain a wide range of stakeholders, including representatives from
+every education sector (specialist and mainstream provision and both schools and
+1 See Annex 1 for the questions children and young people were asked.
+6
+colleges) as well as parents/carers and children and young people. A few respondents
+also felt they should include professionals who work directly with children and families,
+rather than just higher-level decision makers.
+Some respondents suggested that when establishing SEND partnerships, local areas
+should conduct area audits of SEND provision. This would help identify good practice
+and areas of improvement that should inform the priorities of the SEND partnerships.
+Developing a tailored list of placements
+There were mixed views on the benefits of a tailored list of placements in enabling parent
+and carers to make more informed choices. Parents/carers were mostly concerned that
+the requirement to provide a list could limit choice as they would have fewer options to
+choose from. Some respondents from local authorities were also concerned that allowing
+parents/carers to select from tailored lists could exacerbate the issue of popular settings
+being over-subscribed and may result in more difficult conversations with parents/carers
+when there are insufficient places to provide them with their first-choice option.
+To improve the process for developing a tailored list of placements, respondents most
+commonly reported a need for co-production so that parents/carers can voice their
+opinions. Some respondents also felt that a centralised, freely available and regularly
+updated list of settings and available provision within each local authority area could
+improve transparency, alongside building capacity to ensure there is sufficient provision
+to meet demand.
+Some respondents felt the list should be "a conversation starter" rather than a fixed set of
+choices, in order to make the subsequent discussions less adversarial. Children and
+young people most commonly reported that the list should consider the needs of the child
+or young person, followed by distance and ease of reaching the school.
+Providing redress
+Some respondents did not believe the current remedies available from SEND tribunals
+were effective in putting children and young people's education back on track. The main
+issues that respondents reported were the high cost of tribunals, the resultant length of
+time a child or young person is out of school, and the negative impact disputes have on
+the relationship between the family and setting. Some respondents also noted that as
+tribunal directions are not enforceable there is a lack of accountability to ensure there is
+rectification.
+However, only 29% (1,283) of consultation respondents felt the proposals set out in the
+green paper, such as national standards and mandatory mediation, would strengthen
+redress. Over half (59%, 2,534) disagreed or strongly disagreed. There was however
+variation by respondent groups. The majority of respondents from healthcare, local
+authorities and education settings agreed with the overall approach to strengthen
+redress, but a majority of parents or carers disagreed.
+The most common reasons why respondents disagreed with the overall approach to
+redress was the proposal for mandatory mediation. Some respondents felt this would
+7
+lead to delays in providing a child with SEND support; would still create an adversarial
+system; could make the whole process unnecessarily longer; and would be a further
+burden on local authorities in organising mediations.
+Two-year-old progress checks
+Most respondents felt there was a need to strengthen early years practice with regard to
+conducting the two-year-old progress check and integration with the Healthy Child
+Programme review. They felt that currently the two-year-old progress checks are not
+always being done consistently or on time.
+To strengthen the two-year-old progress checks, respondents most commonly suggested
+providing training for practitioners on the early identification of SEND needs. Some
+respondents also suggested a need for health visitors and organisations providing early
+years education to work more closely together.
+SENCo training and standards
+There was general support for a new mandatory SENCo NPQ to replace the NASENCo,
+with 48% (1,278) of respondents agreeing or strongly agreeing with this change and only
+20% (529) disagreeing or strongly disagreeing. Parents and carers who disagreed with
+the need for a new mandatory SENCo NPQ felt that instead there should be more SEND
+training for teachers and that introducing a qualification which they perceived to be at a
+lower level could be detrimental to standards. Respondents from education settings who
+disagreed (around a quarter) did so because they felt the current qualification was fit for
+purpose and there would be high costs for rolling out the new qualification.
+Apprenticeships
+To improve access to apprenticeships among young people with SEND, respondents
+most commonly suggested raising awareness among employers of the benefits of
+employing young people with SEND. Some also suggested the government should
+provide incentives (financial or otherwise) for employers and set quotas of young people
+with SEND for employers to interview, while some wanted employers to provide transition
+measures to help young people with SEND adjust to employment. A few respondents
+also reported a need for a more flexible school and college curriculum that better
+prepares young people with SEND for work and adulthood.
+To help them take part in an apprenticeship, children and young people most commonly
+stated they wanted an upfront understanding about what apprenticeships entail. This
+included wanting information related to the working environment such as whether the
+environment is inclusive, whether there is access to assistive technology and suitable
+building access and if adjustments can be provided. A few also reported wanting clarity
+on expectations, an outline of the skills that will have been developed by completion of an
+apprenticeship and a trial prior to committing to an apprenticeship.
+Alternative provision
+There were mixed views on whether the new vision for alternative provision set out in the
+green paper would result in improved outcomes for children and young people. Overall,
+8
+37% (927) of respondents either strongly agreed or agreed that it would result in
+improved outcomes, while 32% (824) either disagreed or strongly disagreed. However,
+this varied significantly by respondent group. Over half of respondents from local
+authorities, education settings and healthcare provisions agreed with the statement while
+less than a quarter of parents/carers and academic researchers did. Parents' main
+reported reasons for this scepticism was around the intention and implementation of the
+vision, particularly on the accountability of local authorities and schools to ensure
+compliance.
+However, there was overall support for the introduction of a bespoke alternative provision
+performance framework, based on the five outcomes set out in the green paper. A total of
+44% (1,028) of respondents either strongly agreed or agreed that this would improve the
+quality of alternative provision, while only 23% (526) either disagreed or strongly
+disagreed. Those that disagreed mainly did so because they did not feel the five
+outcomes were appropriate as they felt they provided insufficient emphasis on life skills
+and mental wellbeing and overemphasised English and maths.
+There was also general support for the statutory framework for pupil movement. Over
+half (58%, 1335) of respondents either strongly agreed or agreed that it would improve
+oversight and transparency of placements into and out of alternative provision. Only 15%
+(343) either disagreed or strongly disagreed. There was however some variation by type
+of respondent. Nearly all respondents from local authorities and alternative providers
+(91%, 92) agreed with this statement while less than a third of parents/carers (24%, 227)
+agreed. All respondents that either disagreed or strongly disagreed did so because they
+felt there would be challenges in implementing a statutory framework.
+In terms of funding for alternative providers, most respondents from alternative provision
+felt there needed to be a shift away from funding individuals to direct national core annual
+funding for alternative providers based on a minimum number of places, which is
+regularly reviewed. They felt that funding individuals impeded longer-term planning and
+recruitment of suitable staff. In contrast, having a guaranteed income that is dedicated to
+alternative provision schools would "enable good practice to be built on year on year."
+Some also suggested there needs to be equality in funding of alternative provision across
+the country, which should include local authorities following a "uniform funding structure."
+Metrics for measuring performance
+The most commonly suggested quantitative key metrics to measure local and national
+performance were:
+The rate of attendance and exclusions/suspensions
+Progress rates of children and young people from their individual baselines
+Waiting times for assessments/diagnosis and securing provision
+Mediation, tribunal, and tribunal appeal rates
+9
+Academic progress and learner outcomes, such as qualification attainment, entry
+to employment and entry to further learning such as apprenticeships
+The most commonly reported qualitative key metrics were mental health and wellbeing;
+parents/carers and children/young people satisfaction; and confidence in the system.
+Funding
+Most respondents supported the introduction of funding bands and tariffs, as it was felt to
+help ensure a standardised approach for SEND funding across local authority areas.
+However, a few respondents had concerns that having bands would limit local authorities'
+ability to develop individualised programmes. A few respondents were also concerned
+that standard bands and tariffs would not take into account regional differences. A few
+parents/carers also expressed concern that there would be manipulation of the bandings
+if the framework is not transparent and if there are not suitable accountability measures.
+National SEND delivery board
+To enable the National SEND Delivery Board to work effectively with local partnerships to
+implement the green paper proposals, respondents most commonly reported the need for
+clear communication and collaboration with all partners. This included "open dialogue"
+and for all actors to "listen and engage" with each other. Parents/carers generally
+advocated for working with and listening to parents and teaching staff. Some
+parents/carers and respondents from local authorities also felt there was a need for
+robust monitoring of accountability processes.
+Enablers and challenges for implementing the reforms
+Funding, accountability and training were the most commonly reported factors that would
+make the biggest difference to the successful implementation of the green paper
+proposals. Accountability was felt to be important to ensure that all partners are aware of
+their role and responsibilities and that any under-performance is identified early and
+addressed. Training and funding were felt to be key to ensure that all partners can do the
+roles expected of them.
+The most commonly reported barriers to success were:
+The reforms limiting the ability to provide individualised support for individuals and
+instead encouraging a 'one-size-fits all' approach
+Unnecessary bureaucracy slowing implementation
+A lack of qualified and experienced staff to apply the green paper proposals
+Local services not buying into the changes
+A slow pace of change which loses partner buy-in
+A lack of responsibility and ownership among partners
+A focus on schools that results in little consideration of other sectors
+10
+Final reflections
+When reporting their final reflections about the proposals in the green paper, local
+authorities and health workers/professionals and social workers were more likely to
+express a positive sentiment towards the proposals than a negative sentiment. However,
+parent/carers and other interested individuals were slightly more likely to express
+negative sentiment. Negative sentiment was mostly due to concerns about the
+implementation of the green paper proposals rather than the proposals themselves.
+11
+1
+Introduction
+This report presents analysis of the Department for Education's consultation on the
+SEND Review: Right Support, Right Place, Right Time. The consultation ran from 29
+March 2022 to 22 July 2022. This paper includes analysis of the near 6,000 formal
+responses to the consultation and additional written submissions.
+1.1
+Background and context
+In March 2022, the government published the Special Educational Needs and Disabilities
+(SEND) and Alternative Provision (AP) Green Paper (SEND Review: Right Support,
+Right Place, Right Time). The green paper set out proposals to deliver improved
+outcomes for children and young people with SEND, restore parents' and carers'
+confidence in the system and secure financial sustainability. It identified that while there
+are examples of good practice in the current landscape, this is not the norm and too often
+the experiences and outcomes of children and young people are poor. The green paper
+set out three key challenges facing the SEND and alternative provision system:
+1. Outcomes for children and young people with SEND or in alternative provision are
+consistently worse than their peers across every measure.
+2. Navigating the SEND system and alternative provision is not a positive experience for
+too many children, young people and their families.
+3. Despite the continuing and unprecedented investment, the system is not financially
+sustainable².
+The review identified significant inconsistency in how needs are met across different local
+authority areas with a lack of clarity around what services can be expected and who
+provides them. Inconsistent practice across the system exacerbates challenges caused
+by late or misidentification. Parents, carers and providers do not know what is reasonable
+to expect from their local settings and so lose confidence that they can meet their child's
+needs effectively. As a result, parents, carers and providers feel they have no choice but
+to seek EHCPs and, in some cases, specialist provision, as a means of legally
+guaranteeing the right and appropriate support for their children. Increased numbers of
+requests for EHCPs and specialist provision means that children and young people often
+face significant delays in accessing support, as they need to go through a long and
+bureaucratic process to access provision. As more children and young people receive
+EHCPs and attend specialist settings, more financial resource and workforce capacity is
+pulled to the specialist end of the system, meaning that there is less available to deliver
+early intervention and effective, timely support in mainstream settings.
+To address these issues, the green paper proposes a series of reforms:
+2 SEND Review - right support, right place, right time. Available at:
+https://www.gov.uk/government/consultations/send-review-right-support-right-place-right-tine
+12
+SEND Review proposals
+A single national SEND and alternative provision system
+Establish a new national SEND and alternative provision system setting
+nationally consistent standards for how needs are identified and met at every
+stage of a child's journey across education, health and care. Parents and carers
+will be confident that their child's needs will be met effectively in the most
+appropriate local setting, they will be clear about what support their child is
+receiving and will be engaged in decision-making at every stage.
+Create new local SEND partnerships bringing together education, health and
+care partners with local government to produce a local inclusion plan setting out
+how each area will meet the national standards. When specialist support is
+needed, the local inclusion plan will set out the provision that is available within
+the local area, including units within mainstream, alternative and specialist
+provision.
+Support parents and carers to express an informed preference for a suitable
+placement by providing a tailored list of settings, including mainstream, specialist
+and independent. They will continue to have the right to request a mainstream
+setting for their child.
+Introduce a standardised and digitised EHCP process and template to minimise
+bureaucracy and deliver consistency.
+Streamline the redress process to make it easier to resolve disputes earlier,
+including through mandatory mediation, whilst retaining the tribunal for the most
+challenging cases.
+Excellent provision from early years to adulthood
+Increase the total investment in the schools' budget, with an additional £1 billion
+in 2022 to 2023 to support children and young people with the most complex
+needs.
+Improve mainstream provision, building on the ambitious schools white paper
+reforms, through excellent teacher training and development and a 'what works'
+evidence programme to identify and share best practice including in early
+intervention.
+Build expertise and leadership, by consulting on a new SENCo national
+professional qualification (NPQ) for school SENCos, alongside increasing the
+number of staff with an accredited SENCo qualification in early years settings.
+Invest £2.6 billion, over the next 3 years, to deliver new places and improve
+existing provision for children and young people with SEND or who require
+alternative provision.
+13
+Deliver more new special and alternative provision free schools in addition to
+60 already in the pipeline.
+Set out a clear timeline that, by 2030, all children and young people will
+benefit from being taught in a family of schools, with their school, including
+special and alternative provision in a strong trust or with plans to join or form
+one, sharing expertise and resource to improve outcomes.
+Commission analysis to better understand the support that children and
+young people with SEND need from the health workforce so that there is a
+clear focus on SEND in health workforce planning.
+Fund more than 10,000 additional respite placements and invest £82 million
+in a network of family hubs so more children, young people and their families
+can access wraparound support.
+Invest £18 million, over the next 3 years, to build capacity in the supported
+internships programme.
+Improve transition to further education by introducing common transfer files
+alongside piloting the roll out of adjustment passports to ensure young
+people with SEND are prepared for employment and higher education.
+A reformed and integrated role for alternative provision
+Make alternative provision an integral part of local SEND systems by
+requiring the new SEND partnerships to plan and deliver an alternative
+provision service focused on early intervention.
+Give alternative provision schools the funding stability to deliver a service
+focused on early intervention by requiring local authorities to create and
+distribute an alternative provision specific budget.
+Develop a bespoke performance framework for alternative provision which
+sets robust standards focused on progress, re-integration into mainstream
+education or sustainable post-16 destinations.
+Deliver greater oversight and transparency on children and young people's
+movements into and out of alternative provision.
+Launch a call for evidence on the use of unregistered provision to investigate
+existing practice.
+Develop a bespoke performance framework for alternative provision which
+sets robust standards focused on progress, re-integration into mainstream
+education or sustainable post-16 destinations.
+Deliver greater oversight and transparency on children and young people's
+movements into and out of alternative provision.
+14
+Launch a call for evidence on the use of unregistered provision to
+investigate existing practice.
+System roles, accountabilities and funding reform
+Deliver clarity on roles and responsibilities for all partners, across
+education, health, care and local government through the new national
+standards - with aligned accountabilities, so everyone has the right
+incentives and levers to do their role and be held to account.
+Equip the Department for Education's new regions group to take
+responsibility for holding local authorities and trusts to account for
+delivering for children and young people with SEND locally through new
+funding agreements between local government and the Department for
+Education.
+Introduce a new inclusion dashboard for 0 to 25 provision giving a timely,
+transparent picture of how the system is performing at a local and national
+level across education, health and care.
+Work with Ofsted and the Care Quality Commission to deliver an updated
+local area SEND inspection framework with a focus on arrangements and
+experiences of children and young people with SEND and in alternative
+provision.
+Deliver funding reform through the introduction of a new national framework
+of banding and price tariffs for funding, matched to levels of need and types
+of education provision set out in the new national standards. Providers will
+have clarity on how much funding they should expect to receive for
+delivering support or a service, whilst ensuring the right pricing structures
+are in place, helping to control high costs attributed to expensive provision.
+Source: SEND Review - right support, right place right time
+The publication of the SEND and Alternative Provision Green Paper marked the start of a
+16-week consultation on the proposals. This was an accessible consultation with
+accessible versions of the green paper available (including an easy read and full British
+Sign Language version).
+The consultation invited responses to 21 specific questions with a final question that
+allowed respondents to share general views. This comprised 15 open-ended questions
+and seven closed-ended questions (Q6, Q9, Q10, Q11, Q13, Q15, Q16). The closed-
+ended questions included a supplementary free text box that respondents could complete
+if they either disagreed or strongly disagreed with the proposal. There were also seven
+separate questions aimed at children and young people.
+This paper presents the findings from this consultation.
+15
+1.2
+Overview of consultation responses
+1.2.1 Sources of responses
+As shown in Table 1, there were 5,863 responses to the consultation. The two largest
+respondent groups were parent/carers and headteachers/teachers/other teaching staff,
+which accounted for 72% (4,226) of all responses³.
+In this report, we have presented the overall findings for each consultation question and
+have grouped some respondents together:
+Staff within education institutions (including schools, early years providers, further
+education (FE) colleges and multi and single academy trusts)
+Health and social care workers
+A full list of the groupings is presented in Annex 2.
+Table 1: Overview of responses by respondent type
+Respondent
+Count
+Percentage
+A parent/carer
+3,129
+53.4%
+A headteacher/teacher/other teaching staff
+1,097
+18.7%
+Other
+312
+5.3%
+Interested individual
+164
+2.8%
+A child/young person (up to age 25)
+162
+2.8%
+Other education professionals
+153
+2.6%
+Other organisations
+148
+2.5%
+On behalf of a charity/ voluntary or community organisation
+146
+2.5%
+On behalf of a local authority
+120
+2.0%
+On behalf of a multi or single academy trust
+69
+1.2%
+Educational support staff
+57
+1.0%
+A health care professional
+52
+0.9%
+On behalf of a representative SEND sector body
+48
+0.8%
+On behalf of a special education setting
+33
+0.6%
+Academic/ researcher/ research body
+31
+0.5%
+On behalf of a further education/post 16 setting
+29
+0.5%
+On behalf of a health service
+29
+0.5%
+On behalf of an early years setting
+27
+0.5%
+On behalf of an alternative provision provider
+15
+0.3%
+On behalf of an independent education provider
+13
+0.2%
+Prefer not to say
+13
+0.2%
+Other social care professional
+9
+0.2%
+A social worker
+7
+0.1%
+5,863
+3 Responses from Special Needs Jungle, the NNPCF and the DCP have been classified as parents/carers.
+Organisational responses which were received by email have been classified as 'Other organisations' and
+email responses from individuals where the respondent type was not known have been classified as
+'Interested individual'.
+16
+Respondents were invited to respond to the consultation through the online Citizen
+Space portal or by email. Responses received through the online portal represented 53%
+of all responses. Email responses represented 15% of responses and either contained
+responses to at least one of the consultation questions, or generic feedback. A further
+31% of responses were from members of the Disabled Children's Partnership (DCP) who
+answered a separate set of questions related to the green paper.
+During the consultation, the Disabled Children's Partnership (DCP) set up their own
+online form. They edited and simplified the original wording of the consultation questions,
+which may have had an impact on responses. The questions used by the DCP and how
+they were mapped to the consultation questions for analysis are included in Annex 2.
+There were 38 organisations who submitted position papers⁴ instead of responses to the
+questions posed in the consultation. Their responses have been mapped to the
+consultation questions and analysed alongside the consultation responses.
+The National Network of Parent Carer Forums (NNPCF) submitted a single
+organisational response to the consultation. This was a summary of a consultation they
+conducted with their members. The number of respondents represented by the summary
+was just over 1,200 parents/carers.
+Special Needs Jungle (SNJ) provided a link to the consultation questions on their
+website. Alongside the questions, SNJ provided their own guidance and how to respond.
+There were 39 individual responses received by SNJ which were submitted to the
+Department for Education alongside the SNJ's organisational response. In most cases,
+the responses submitted by parents/carers through the SNJ website echoed the views
+expressed in the SNJ organisational response.
+Organisational responses have been analysed alongside the most appropriate
+respondent group. Responses from the NNPCF are examined alongside the consultation
+responses from parent/carers and the National Education Union response has been
+analysed with education staff respondents. Responses from SNJ have been classified as
+parents/carers as most respondents who stated the capacity in which they were
+responding stated that they were parents or carers.
+A list of organisations that responded to the consultation are included in Annex 3.
+1.2.2 Campaigns
+An email campaign, consisting of 609 identical or very similar responses, was received
+from the National Deaf Children's Society (NDCS).
+Within responses to the consultation, there were 59 duplicated responses from
+parents/carers, which could be broken down into two different sets of responses. The
+source of these collective responses is unknown.
+4 A written report from an organisation that discusses a particular issue, provides the organisation's opinion
+on the issue, and often includes recommendations
+17
+1.2.3 Children and young people
+The consultation included seven specific questions for children and young people which
+are included in Annex 1. There were 162 children and young people that responded to
+these questions. Around 40% of respondents were aged between 19-25 years. The 16-
+18, 11-15 and 4-10 age ranges each represented approximately a fifth of all children and
+young people that responded to the consultation.
+Figure 1: Overview of age ranges: children and young people
+2%
+1%
+18%
+40%
+19 - 25 years
+16 - 18 years
+11 - 15 years
+4 - 10 years
+I don't want to say
+19%
+Not Answered
+20%
+1.3
+Approach
+1.3.1 Methodology
+The methodology for analysing the open-ended consultation responses included a mix of
+Natural Language Processing (NLP) and manual analysis. NLP was used when there
+was a large volume of qualitative material to draw on. It was primarily used to analyse the
+15 open-ended questions and the supplementary free text in the closed-ended questions.
+The NLP analysis comprised of:
+Data cleaning. To remove responses such as 'No comment' or 'N/A'. Identical
+(collective) responses were removed and analysed separately.
+Topic modelling. Topic modelling is an unsupervised machine learning technique
+that employs computer algorithms to identify latent topics in the text. Because the
+human eye often cannot discern topical patterns in vast amounts of textual data,
+the aim of topic modelling is to identify a combination of words that form a topic,
+which is an abstract concept that requires interpretation.
+18
+Sentiment analysis. To gauge the perception towards the green paper in the final
+question of the consultation, sentiment analysis was employed⁵. This is a
+supervised machine learning technique that gauges the mood and emotion of
+textual data by comparing pre-generated corpuses of emotion to responses and
+subsequently assigning words and sentences polarity scores.
+Manual analysis was required to analyse consultation responses that were not mapped
+to the 22 questions in the consultation, including the submitted position papers, and for
+groups of respondents where the number of responses was too small to use automated
+techniques. Where the position papers directly addressed the proposals in the green
+paper, analysis of these was included under the relevant questions and coded as 'other
+organisations'.
+A selection of 100 responses that were processed using NLP were also analysed
+manually to quality assure the results. This did not find any discrepancy between the
+themes emerging from human reviewers and those identified by the NLP algorithm.
+For the closed-ended questions, descriptive analysis of responses was undertaken using
+Python. For each question, distributions of responses were calculated as percentages for
+all respondent groups.
+1.3.2 Qualitative interpretation
+Themes that were derived from automated text and manual analysis were used to
+produce a summary of responses, disaggregated by key respondent groups, to each
+consultation question. Where respondents addressed questions that differed from those
+in the official consultation (for example responses from the DCP) analysis of these
+responses has been included alongside the consultation questions to which they map
+most closely (see Annex 2).
+All responses have been treated equally, however, some have been submitted on behalf
+of organisations and therefore represent the views of a wider group of people. It is not
+possible to quantify the number of people represented in each of these organisational
+responses and therefore these responses have been reported separately when they
+differ from the majority view on a question.
+For some questions, respondents included more general feedback which went beyond
+the specific consultation question. Where this occurred, the general feedback was
+incorporated in analysis of the final consultation question which was on final reflections.
+This report uses direct responses to the consultation which contain the viewpoint of
+respondents. These have not been adjusted or corrected to reflect existing processes.
+Quotes have been used throughout this report to help demonstrate themes that came
+through responses. As respondents stated whether they consented to their responses
+5 The final question asked respondents "Is there anything else you would like to say about the proposals in
+green paper?"
+19
+being published, the quotes were manually selected from those which consented to
+publication (either fully or anonymously).
+1.3.3 Structure of the report
+The report is structured as follows:
+Chapter 2 presents the findings from the responses submitted by children and
+young people.
+Chapter 3 sets out the findings from consultation questions 1-7: A single national
+SEND and alternative provision system.
+Chapter 4 presents the findings from consultation questions 8-12: Excellent
+provision from early years to adulthood.
+Chapter 5 shows the findings from consultation questions 13-16: A reformed and
+integrated role for alternative provision.
+Chapter 6 presents the findings from consultation questions 17-18: System roles,
+accountabilities, and funding reform.
+Chapter 7 sets out the findings from consultation questions 19-22: Delivering
+change for children and families.
+20
+2
+Responses from children and young people
+This section discusses the responses to the questions specifically asked of children and
+young people. Each of these questions received between 47 and 161 responses. The
+number of responses to each consultation question is presented in the table below.
+Table 2: Number of responses per question
+Consultation question
+Total
+Question 1: Support for preparing for adulthood
+155
+Question 2: Decision makers
+154
+Question 3: EHCPs
+161
+Question 4: Preparing lists
+161
+Question 5: Access to apprenticeships
+124
+Question 6: Support for staying in mainstream education
+47
+2.2
+Question 1: Support for preparing for adulthood
+What kinds of support are most important to help you prepare for adulthood?
+To prepare for adulthood, children and young people most frequently reported the
+importance of life and social skills support. These were mostly life skills for living more
+independently. They included:
+Everyday budgeting and money management
+Administrative tasks such as booking appointments or form filling
+Everyday tasks such as using public transport, cooking and cleaning
+Navigating social norms in work and social environments
+Some respondents also highlighted the importance of educational support. This included
+academic accommodations for exams, access to supportive technology and access to 1-
+2-1 support or tailored educational support to meet their specific needs.
+A few respondents wanted support focused on transitions, particularly for moving into
+further education or employment. This included opportunities to do work experience,
+interview preparation, access to careers advisors, the ability to network with peers with
+similar needs, understanding further education entry requirements and understanding
+further education and workplace SEND accommodations.
+A few respondents also stated the need for specialist support such as speech and
+language therapy or support centred on mental health. The latter included emotional and
+well-being support, as well as anxiety management.
+21
+2.3
+Question 2: Decision makers
+Who should be involved in making decisions about help for children and young
+people with additional needs?
+Children and young people most commonly reported that parents/carers (or trusted
+adults) should be involved in making decisions about help for children and young people
+with additional needs. This was consistent across all age groups.
+The second most commonly reported person that should be involved in decision making
+was the child or young person themselves. However, this varied by age group. It was
+most commonly reported by older respondents (those over age 10) and less commonly
+reported among the younger respondents.
+Some respondents also suggested decision making should include representatives from
+the school, but most stressed that this involvement should come from individuals who
+have a personal relationship with the child or young person. A few respondents stated
+the SEND community should be involved in decision-making. This group was mostly
+reported by respondents in the 19-25 age range.
+Figure 2: Groups who respondents feel should be involved in making decisions
+about help for children and young people with additional needs
+Parents/carers
+82%
+The young person
+62%
+School
+50%
+Health professional
+37%
+Social worker
+6%
+SEND community
+6%
+Local authority
+5%
+Source: DfE SEND Green Paper Consultation (n=154)
+22
+2.4
+Question 3: EHCPs
+An EHCP is made up of these parts: A) The views, interests and aspirations of
+the child or young person B) Special educational needs C) Health needs D)
+Social care needs E) Outcomes for children and young people F) The special
+educational provision required G) Health provision required H1 and H2) Social
+care provision required I) Placement J) Personal budget K) Advice and
+information
+Which are the most important parts of the plan to you? Please choose up to
+three parts.
+When children and young people were asked about the most important part of EHCPs,
+respondents most commonly selected Section A (the views, interests and aspirations of
+the child or young person) (76%, 122) followed by Section B (special educational needs)
+(66%, 106).
+Figure 3: Respondent views on the most important parts of the EHCP
+A) The views, interests and aspirations of the child or
+76%
+B) Special educational needs
+66%
+F) The special educational provision required
+48%
+E) Outcomes for children and young people
+45%
+C) Health needs
+33%
+I) Placement
+25%
+D) Social care needs
+21%
+K) Advice and information
+18%
+J) Personal budget
+16%
+G) Health provision required
+16%
+H1 and H2) Social care provision required
+12%
+I don't know
+4%
+Source: DfE SEND Green Paper Consultation (n=161)
+23
+2.5
+Question 4: Preparing lists
+In the green paper we propose to create a list of appropriate schools for
+children with EHCPs to attend. Parents will be asked to say which of the
+schools on the list they would prefer their child to go to.
+What do you think those preparing the list should think about when putting it
+together? A) My age, B) My needs such as whether I need additional help in
+lessons or find it hard to communicate sometimes, C) How far away it is from
+my house, D) How easy it is to get there, E) How much it costs, F) If my
+friends/siblings go there, G) Other: tell us in your own words what you think
+adults should think about, H) I don't know, I) I don't want to say
+In response to this question, the majority of respondents (82%, 132) reported that those
+preparing the list should consider the needs of the child or young person. This was
+followed by distance from home (60%, 97) and ease of reaching the school (60%, 97).
+Around a third (34%, 55) respondents selected 'Other'. This included:
+Staff training
+Parent and child or young person input
+The interests of the child or young person
+The number of children currently at the school with similar needs
+The available specialist provision
+Building and classroom access
+Reviews from previous students
+Teacher/student ratio
+Figure 4: Respondent views on the points of consideration when creating a list of
+appropriate schools for children with EHCPs
+My needs
+82%
+How easy it is to get there
+60%
+How far it is from my house
+60%
+My age
+52%
+If my friends/siblings go there
+40%
+Other
+34%
+I don't want to say
+1%
+I don't know
+1%
+Source: DfE SEND Green Paper Consultation (n=161)
+24
+2.6
+Question 5: Access to apprenticeships
+An apprenticeship is a type of training where you learn skills while doing a job.
+We would like to know what you think would help you take part in an
+apprenticeship, if you wanted to. For example, advice on what kinds of
+apprenticeships are available from your teachers, or information about events
+where you can ask questions about different apprenticeships.
+Please say what you think would help you take part in an apprenticeship.
+To help them take part in an apprenticeship, children and young people most commonly
+stated they wanted an upfront understanding about what an apprenticeship entails. This
+included information related to the working environment such as whether the
+environment is inclusive, whether there is access to assistive technology, suitable
+building access and if adjustments can be provided. A few respondents also reported
+wanting clarity on expectations, an outline of skills that will have been developed by
+completion of an apprenticeship and a trial prior to committing to an apprenticeship.
+Some respondents also stated that improvements to the setup of apprenticeships would
+help them take part in apprenticeships. This included having flexible working hours and
+entry requirements not contingent only on exam results but also teacher assessment.
+2.7
+Question 6: Support for staying in mainstream
+education
+Some young people spend time in alternative provision, to help them with
+behaviour or other needs, or because they have been excluded from their main
+school. Alternative provision can include small, specialist schools (sometimes
+called Pupil Referral Units), work-based or placements (for example, at a farm
+or mechanics), or one-to-one tuition. We would like children and young people
+to get this support for behaviour or other needs in their main school wherever
+possible. If you have ever attended alternative provision, please tell us what
+support you think would have helped you stay at your main school instead.
+In response to this question, children and young people most commonly reported that
+teacher training in SEND would have helped them to stay in their main school. This was
+followed by access to a wider range of support including in-classroom support, exam
+support, access to specialist support and SEND provisions such as assistive technology.
+Other factors mentioned were earlier intervention and smaller class sizes.
+25
+3
+Responses to questions 1-7: A single national
+SEND and alternative provision system
+This section presents responses to the first seven of the main consultation questions.
+These questions were on the green paper proposals for creating a single national SEND
+and alternative provision system, which includes developing standards on what support
+should be universal within mainstream settings, as well as guidance on when an EHCP is
+required, and when specialist provision, including alternative provision, is most
+appropriate for meeting a child or young person's needs.
+Each of the questions received between 1,780 and 4,613 responses. The table below
+shows the number of responses to each consultation question overall and by type of
+respondent. The totals given are based on cleaned data. The data cleaning included
+removing responses which did not include any content (such as '.') and those where
+respondents have answered that they do not have sufficient knowledge to comment.
+Table 3: Number of responses per question by respondent group
+(Q1 to Q7)
+Consultation
+Parents/
+School
+LA
+Health
+Social
+FE
+Early
+Other
+Total
+question
+carer
+staff
+staff
+service
+workers
+staff
+years
+workers
+staff
+Question 1
+1,250
+717
+120
+75
+15
+28
+27
+844
+3,076
+Question 2
+1,001
+614
+110
+67
+13
+24
+27
+777
+2,633
+Question 3
+881
+541
+105
+53
+9
+27
+23
+560
+2,199
+Question 4
+1,071
+667
+113
+71
+14
+27
+23
+813
+2,799
+Question 5
+2,933
+647
+112
+58
+11
+25
+24
+803
+4,613
+Question 6
+2,737
+709
+106
+74
+14
+27
+27
+637
+4,331
+Question 7
+778
+372
+94
+44
+10
+14
+14
+454
+1,780
+Source: DfE SEND Green Paper Consultation
+The responses to each question are presented below.
+3.1
+Question 1: National standards
+What key factors should be considered, when developing national standards to
+ensure they deliver improved outcomes and experiences for children and young
+people with SEND and their families? This includes how this applies across
+education, health and care in a 0-25 system
+There was general support among consultation respondents for the need for a national
+SEND and alternative provision system. This was mostly because it was felt it would help
+to address variation in provision by local area and avoid a postcode lottery'. As one
+26
+respondent stated, "funding and a uniform, national system will be key to success, and
+are where we feel the failures in the current system stems from."
+The most common factors reported by respondents to develop the national standards
+were:
+The need for SEND training for teaching staff, social workers, and healthcare
+professionals in order to facilitate early identification of needs and consistency in
+support. Some respondents felt that there should be a minimum standard across
+all agencies in the SEND system and that SEND teacher training should form a
+greater part of initial and in-work training.
+The effectiveness of the EHCP process. All respondent groups reported that the
+process would benefit from being standardised, simple, accessible and available
+digitally. It was also reported that EHCPs should be regularly updated and
+maintained and that there needs to be clear guidance on the thresholds that are
+considered when applying for an EHCP, including what needs can be supported
+without an EHCP.
+The availability and accessibility of funding so that national standards can be
+implemented in practice. This included funding for provision, training and
+implementing change.
+Having clear lines of accountability and improved collaboration between the wide
+range of agencies involved in supporting children and young people with SEND. It
+was felt to be particularly important to clarify responsibilities in relation to the
+support and funding.
+Co-production with children and young people with SEND and parents/carers so
+that they are involved in the design of the framework.
+"I feel the schools need more training in SEN often they have SEN departments
+however for example the teaching assistants that help in class to support the teachers
+are under trained in certain aspects." (Parent/carer)
+"The development of national standards is great, however the existing system would
+work far better if there were sanctions and consequences. We have old legislation that
+has been around for years, and many people choose or sometimes refuse to comply
+with the guidance and legislation." (Parent/carer)
+These factors were consistent across all respondent groups, but some have reported
+particular priorities which are described below.
+3.1.1 Parents/carers
+Most parents/carers supported the introduction of national standards, particularly for the
+EHCP process. They felt the national standards should make clear where funding from
+EHCPs is used. Some respondents also reported the importance of the national
+27
+standards reinforcing the need for the prompt development of EHCPs, as they felt that
+the statutory wait times for EHCPs are exceeded in some areas. In addition,
+representatives from Armed Forces families raised the importance of quick turnarounds
+for EHCP applications as children of service people often move local authority - or move
+to oversees British territories - before the process is complete. A few respondents also
+stated that the national standards should not focus too heavily on children and young
+people with EHCPs. They felt the needs of children that are not eligible for EHCPs but
+who have additional needs should also be acknowledged.
+Other factors that parents raised were important for national standards were:
+Quicker access to diagnosis
+Access to emotional and mental health support
+That standards should include a list of reasonable adjustments
+That there should be maximum waiting times on assessments and delivery of
+services/support and between appointments
+Support should be person centred, have standards for educational settings on
+required support, clarity on provision requirements of mainstream schools, early
+identification and intervention, SEN support plans to set out needs, provision and
+outcomes
+That there should be a structured approach to planning and skills development
+across the SEND workforce
+Specific health care standards including for how health services are delivered and
+therapies
+Clarity on the social care role and for children and young people to have access to
+a proportional social care assessment
+A few parents/carers did however disagree with the proposed new standards because
+they felt that support would be standardised as a result. They felt children and young
+people with SEND should be given individualised support that takes into account all of
+their needs. As one respondent from SNJ stated: "standards in educational settings
+should be personalised and relate directly to the developmental needs". Similar views
+were reported by some parent representative organisations, who supported the principle
+of national standards but believed they should have significant flexibility to meet the
+specialised needs of young people with SEND.
+In addition, a few parent/carer representative organisations felt there was no need for a
+new national framework as the existing legal framework is enough. They felt the focus
+should instead be on ensuring compliance with current laws. As one stated:
+28
+"We don't need further legislative reforms but instead require local authorities to comply
+with the current law. The 96% of appeals to the SEND Tribunal finding against local
+authorities shows the extent of unlawful decision-making. This could be due to several
+reasons; lack of adequate staff training (e.g., training on CAFA 2014, disability
+awareness), insufficient funds to provide the necessary support or just exceptionally poor
+management all the way through." (Other organisation)
+3.1.2 Respondents from education settings
+Individuals from education settings most commonly reported funding as an important
+factor to be considered when developing national standards. Some suggested:
+Enhanced funding for mainstream schools, as there is "insufficient funding to
+support the increasingly complex cases"
+Ring-fenced funding for training staff in schools to improve expertise
+Effective processes for administering funding. For example, some respondents
+stated there should be a clear statement on how SEND funding can be spent, that
+funding should be ring-fenced, and that there should be reduced bureaucracy in
+accessing funding.
+Most respondents also felt that the national standards needed to ensure consistency of
+the EHCP process and how needs were accessed. They felt this would allow for
+uniformity across local authorities and improve "EHCP transitions from one county [local
+authority area] to another". A few also reported the need for consistency in the
+paperwork, application processes and "interface with a common language" so that
+everybody knows what is expected and from whom.
+"This [the development of national standards] requires high-quality 'joined up' universal
+provision and must have a strong emphasis on inclusion by design to achieve person-
+centred support with co-production at its core." (Other education professionals)
+The National Education Union (NEU) did however raise concerns that new pieces of
+legislation could dilute local authorities' legal obligation. They felt that national standards
+should incorporate responsibilities set out in the Children and Families Act 2014 and the
+Special Educational Needs and Disability Regulations 2014. This currently specifies what
+children and young people with SEND are legally entitled to and what
+schools/colleges/local authorities should be providing.
+Some respondents from FE providers and early years settings also reported the
+importance of a framework mandating cooperation across agencies to ensure this is
+done consistently across the country. A few also felt there was a need for better equality
+across agencies, noting that provision "should not always be education led" and that it
+was important that colleges and schools are required to meet the same standards as
+other providers.
+29
+A few respondents from FE providers reported that national standards should recognise
+the importance of early intervention for learners with SEND and the need to recognise
+that provision for a child or young person changes at different ages and stages. A few
+also stated that the national framework should consider that some young people develop
+SEND needs later and therefore there should be an "equal focus on early years, school
+and post-16 provision.
+"A person's outcomes should be the responsibility of everyone, but with named
+agencies legally accountable for specific aspects of provision and outcomes identified
+in the EHCP." (On behalf of a further education/ post 16 setting)
+"The need for flexible funding streams and support: to guard against this one-size-fits-
+all approach, it is vital that the proposed framework for national standards does not
+lead to rigid, and narrow funding streams." (On behalf of a further education/ post 16
+setting)
+3.1.3 Respondents from local authorities
+Respondents from local authorities commonly raised the need for strong cooperation
+across agencies. To do this they felt that national standards needed to provide clarity on
+stakeholder roles and responsibilities in the national system and an equal balance of
+requirements between education, health and care services.
+A few respondents also raised the following factors for consideration in developing
+national standards:
+Incorporating effective measurements of success, including identifying for each
+child or young person what defines progress
+Ensuring information is accessible and streamlining procedures so they are more
+easily understood
+Ensuring a greater focus on preparation for adulthood
+"The standards should consider all areas of transition through key stages and
+preparation for adulthood should be a key theme with specific standards set-
+including ensuring that there are better pathways to employment". (On behalf of a
+local authority)
+"The powers of LAs to hold schools to account should be increased. Currently LAs
+have responsibility but no power, especially with academies". (On behalf of a local
+authority)
+"National standards should be defined for co-production particularly between settings
+and families to ensure that schools design inclusion systems to be child and family
+friendly and to reduce disputes and conflict". (On behalf of a local authority)
+30
+3.1.4 Health professional/health service workers and social workers
+Respondents from health services and health professionals commonly reported the
+importance of training for education staff. As one stated: "All teachers and support staff
+should be trained to recognise SEND including autism, ADHD and learning
+disabilities". They also stated that any child who has been identified as potentially
+requiring support "should have access to timely interagency assessment to correctly
+identify their learning, educational, health and wider social needs, so that appropriate
+reasonable adjustments can be made, and appropriate outcomes and actions co-
+produced with families."
+A few respondents stated that, to ensure consistency of provision, it was critical to have
+clear national standards for health and social care provision for students with SEND to
+underpin the effectiveness of a national framework. A few also felt the approach used for
+measuring progress was an important factor to consider when developing the national
+standards. They felt this measurement should not be restricted only to formal
+assessments scores. Indeed, some felt there should be "less focus on quantitative
+performance metrics and more focus on qualitative outcomes for children" including
+outcomes on preparation for adulthood and wellbeing.
+3.2
+Question 2: Local SEND partnerships
+How should we develop the proposal for new local SEND partnerships to
+oversee the effective development of local inclusion plans whilst avoiding
+placing unnecessary burdens or duplicating current partnerships?
+The most common responses to this question were that:
+Partnerships should be wide-ranging and include representatives from every
+education sector (specialist and mainstream provision and both schools and
+colleges) as well as parents/carers and children and young people. A few
+respondents also felt they should include professionals who work directly with
+children and families, rather than just higher-level decision makers
+Accountability measures should be in place for all partners, alongside a clear set
+of criteria and clarity on the roles and responsibilities of different partners
+Local inclusion plans should follow from an audit of local provision to identify
+examples of existing good practice. This would reduce unnecessary duplication of
+work
+Partnerships should build on the collaboration already developed through the
+Local Offer for joint planning and commissioning
+Specific points raised by different respondent groups are presented below.
+31
+3.2.1 Parents/carers
+Parents and carers most commonly stressed the need to include the views of
+parents/carers and children and young people in the development of local inclusion
+plans. This was felt to be important for ensuring local services reflected user needs.
+Most also reported the need for accountability measures to ensure all partners have a
+clear understanding of what is expected from them.
+A parent/carer representative organisation felt that the panel members should be well
+versed with the law and should be impartial and neutral. They also believed that
+recruitment should be done equitably with good representation otherwise it would not
+work, and that the panels should make good use of parents' time and allow their voices
+to be heard.
+The NNPCF also believed that national standards "should form the template for what
+local SEND partnerships should provide through the development and implementation of
+local inclusion plans". They also felt that these plans should reflect the national standards
+which should also set out the responsibilities of the local SEND partnerships. A few
+respondents felt the process needed to be clear and transparent and minimise
+bureaucracy.
+3.2.2 Respondents from education settings
+To support the partnerships, respondents from schools commonly reported the need for
+information sharing, a streamlined system, common frameworks and clear criteria with
+clear roles and responsibilities. Some also stated that:
+the partnership development should involve all agencies but there should be
+stronger links between health, social care and education and that parental views
+should be incorporated
+the development of SEND partnerships would require additional funding and
+resources and should be underpinned by an initial auditing of current provision in
+the local area
+Some respondents from schools felt that within the green paper there was a lack of
+clarity on how local SEND partnerships would differ from the current strategic joint
+commissioning arrangements. This makes it difficult to see how this will be a positive
+change without the funding and resources to ensure the support offered is sustainable in
+the long term.
+Respondents from alternative provision (AP) stressed that "the purpose, model and reach
+of the local SEND partnerships would need to be clearly laid out and agreed" to avoid
+unnecessary workload and duplication. Some also felt it was important that there were
+national guidelines to ensure "the localised feel of a SEND partnership" is "maintained to
+ensure that parents within a local area know that the partnership is appropriate to the
+local cohort".
+32
+A few respondents also stated that local authorities should be the gatekeepers of the
+development of local plans, and for simplification there should be a single department
+within local authorities dedicated to alternative provision. However, others felt that local
+authorities should be "a supporter/partner in this process and not a leader". These
+individuals felt the partnerships "should be schools led in co-production with children and
+young people's lived experiences influencing mainstream practice as much as special
+provision."
+3.2.3 Respondents from local authorities
+Some respondents from local authorities expressed a desire for flexibility so that "existing
+structures, boards and workstreams" could be adapted to align with the national model,
+rather than "reinventing the wheel". This was because a few respondents stated their
+area had well-established and effective partnerships which, in some cases, were
+acknowledged by Ofsted and Care Quality Commission (CQC).
+Other key elements of effective joint working reported by local authority staff included:
+Supporting better data sharing arrangements across health and education for
+development check outcomes
+Introducing a named health visitor attached to each school/Ofsted registered early
+years setting
+Making clear whether the statutory local agency panels are intended to replace
+existing panels and decision-making groups or are intended to oversee and
+monitor them
+Implementing a joint training and moderation process across early years
+practitioners and staff delivering Health Child Programme development checks
+A few respondents noted that there is not currently enough detail on how the
+partnerships should be formed and operate. One wrote, 'A genuine partnership
+incorporating all stakeholders is desperately needed. However, it has never proved
+possible to gather colleagues from, e.g., education, health and care together in one
+room. Why will it be different this time?'. Some specifically stated there was a need for
+further details on what constitutes a local inclusion plan, for a clear definition of
+"inclusion" and a joint vision that is co-produced.
+"Establishing a SEND partnership on a statutory footing may help to influence the local
+system and ensure all partners are playing their part in delivering better outcomes for
+children, however the inter-relationship with the schools forum remains unclear." (A
+SEND representative organisation)
+33
+3.2.4 Health professionals/health service workers and social workers
+Most respondents in this group reported the need for the local SEND partnerships to be
+collaborative, effective and have joined up working between education, health and social
+care (and potentially representation from other stakeholders such as youth justice and
+housing). To facilitate this collaboration, some felt that more time should be dedicated to
+understanding the priorities and challenges of each service.
+"Use existing networks of parents' support groups, but also look at ways to hear the
+hidden voices - families who don't attend such groups, where English is not the first
+language, consultations available in different languages, offer focus groups. Get local
+schools to consult with their families where there may be good relationships that will help
+engage people in their own community." (A health care professional)
+One respondent cautioned that as health services cater to many different local
+authorities, if partnerships are led by local authorities, it may lead to inconsistency in
+ways of working unless local authority strategic priorities are shared.
+3.3
+Question 3: Commissioning across local boundaries
+What factors would enable local authorities to successfully commission provision
+for low-incidence high-cost need, and further education, across local authority
+boundaries?
+To support commissioning across local authority boundaries, respondents most
+commonly reported a need for joint or regional commissioning with other local authorities
+for specialist provision. They felt that "this would take a lot of the conflict away between
+parents and local authorities, as local authorities then do not see the money needed
+coming from their own pocket. It is, in effect, ring-fenced money that will only be spent in
+this way, but that they cannot access until needed". In addition, a few suggested that
+having national or regional funding would mitigate the inequity in need across local
+authorities.
+Some respondents also suggested a need for improved access to specialist
+professionals (such as speech and language therapists) and resources. A few felt that
+this required additional funding. However, others believed that existing capacity could be
+better used by "improved communication and joined up thinking" between local
+authorities.
+There were also some additional points raised by certain respondent groups. Some
+parents and carers reported that it was important to have consistent EHCPs, as
+thresholds and processes vary across local authorities. NNPCF also advocated for
+collaboration across partners and local area boundaries, being underpinned by "a clear
+framework and alignment of powers, responsibilities, funding and accountability".
+34
+Some respondents from education settings suggested improved access to specialists
+could include building up "local specialist provision that can be dipped into by schools on
+a need-by-need basis", a few also suggested subsidising travel costs in order to secure
+out-of-area placements, and more alternative provision which can share expertise
+through partnership working. There were also calls to expand special and AP places and
+provide a mix of experience and expertise across education.
+A few respondents from both FE providers and education settings reported that there
+should be a "robust transition plan" in place when a young person moves to another local
+authority. A few also reported the need for effective communication (particularly between
+bordering local authorities to facilitate access to resources) and the sharing of information
+on all settings through a national database.
+Healthcare workers reported that partnerships should be built through "reciprocal
+agreements across boundaries" or having regional SEND networks with standardised
+data collection on spend and outcomes. Some also reported the need for pooled budgets
+so provision can be jointly commissioned and that agreements span education and
+health.
+"One funding mechanism would be the solution that is nationally recognised. The EHCP
+therefore if it was a singular national plan, singular national funding framework, would
+entitle the child to the same provision and funding in another LA upon transfer or cross
+boundaries." (On behalf of a local authority)
+3.4
+Question 4: EHCPs
+What components of the EHCP should we consider reviewing or amending as we
+move to a standardised and digitised version?
+As shown in Figure 5, the most commonly reported components of EHCPs that
+respondents felt needed reviewing or amending were Section F (special educational
+provision) and Section B (special educational need).
+35
+Figure 5: Respondent views of the components of the EHCP that most need
+reviewing or amending
+240
+164
+97
+86
+61
+65
+65
+50
+49
+28
+16
+17
+2
+Section
+Section
+Section
+Section
+Section
+Section
+Section
+Section
+Section
+Section
+Section
+I
+Section
+Section
+A
+B
+C
+D
+E
+F
+G
+H
+H1
+H2
+J
+K
+Source: DfE SEND Green Paper Consultation (n=940)
+There was generally strong support for the digitalisation of EHCPs. However, some
+stressed that consideration should be given to those in digital poverty in order to be
+inclusive. Some also felt there needed to be enough flexibility to capture the needs of the
+individual and for the child or young person's view to be reflected in EHCPs whilst
+ensuring "a clear distinction between the child/young person's own voice and the voices
+of those around them".
+A few respondents felt that EHCPs do not always support transition across education
+pathways, including between mainstream schools and colleges. They also felt that
+EHCPs were not always regularly updated, particularly for young people aged 19-25. For
+example, one respondent stated that "too often Section F remains unchanged from
+primary [school] and is meaningless when transitioning to FE".
+3.4.2 Parents/carers
+Parents/carers generally advocated for EHCPs to include greater simplification, user-
+friendliness, and quantifiable provision. Respondents specifically discussed how Sections
+B and F could be improved, including:
+Section B (special educational need): Details in this section should be in bullet
+point form to facilitate clarity and ease of reading. The points should include
+SMART targets so that the needs of the child are clearly defined. It was also
+suggested that this section should include the opportunity for parents to include
+their views.
+Section F (special educational provision): This section should relate to Section
+B and similarly employ SMART targets so that it is clear "what will be done,
+exactly for how long, who, by when and where". In addition, they felt the
+implementation of provision should be specific and avoid vague/ambiguous
+language.
+36
+In addition to the feedback on specific EHCP sections, parents/carers also highlighted
+the need for shortened timeframes for completion and between assessment and
+issuance.
+"Make it easy to do. Make it quick to do. Make the process of gathering the child's ability
+easy. Make it easy to do in collaboration with the school. Make it clear whether the
+EHCP comes with funding or not Get through to someone for queries. Free course on
+how to do the EHCP." (Parent/carer)
+"Clear timelines of the process, available online. A tracking process for parents, as you
+get with a passport application. Parental comments to be uploaded online. Clear review
+window which opens/closes at the right time. Banding - make it clear to parents."
+(Parent/carer)
+A few respondents stated that for families who move frequently, such as military families,
+having a standardised and digitised process might make things easier. However, as one
+stakeholder made clear, "just standardising the process and making it digital wouldn't
+solve the core issue of the EHCP process. The content of the EHCP is what is vitally
+important."
+A few respondents also suggested that the EHCP alphabetical sequencing of sections
+should be updated to B, F, E to facilitate readability, that there should be the ability to
+attach supporting documentation, that it should include provision costs, and there should
+be a permanent record of parental comments. A few respondents also reported that there
+should be standards regarding communication of key decisions and the inclusion of a
+template for annual reviews.
+3.4.3 Respondents from education settings
+Respondents from education settings believed that the EHCPs should include:
+Input from health and care services: Respondents highlighted that schools
+often write, draft and review EHCPs but that this process should be a tripartite
+undertaking with health and care services. Without this, opportunities for early
+intervention may be missed.
+Annual reviews: In order to be reflective of a child's changing needs,
+respondents within teaching advocated for more frequent reviews of EHCPs
+(annual rather than at the end of a key stage), including updating documentation.
+"When H1 and S1 forms are sent to health and social care as part of the EHCP
+assessment process, often they are not returned - most likely due to inexperience,
+overworked, staff turnover and not knowing cases well enough." (Headteacher/teacher/
+other teaching staff)
+37
+3.4.4 Respondents from local authorities
+Among local authority respondents, the recommendations for improvements to the EHCP
+were:
+Section B and F should be simplified and Section F should include timings and
+duration of provision so that the actions specified are quantifiable
+There should be a clear template
+Use of a tabular format (with B and E) may improve user-friendliness
+It should include more details on the breadth of provision but "should only include
+what is additional to and different from the standard SEN support offer"
+When developing EHCPs, respondents from local authorities suggested that annual
+reviews should be embedded and standardised and that there should be guidance on the
+length and number of outcomes. Some respondents also felt that EHCPs should have
+outcomes related to preparation for adulthood and greater use of SMART targets.
+Additionally, most respondents believed that the views of the child or young person
+should be more effectively captured and there should be an emphasis on co-production.
+Local authorities felt that they have much valuable learning from the previous 'transfer'
+process of Statement of Special Educational Needs (SSENs) to EHCPS. They would
+welcome involvement in any process of transferring.
+3.4.5 Health professionals/Health service workers and social workers
+Most respondents from this group stated that effective collaboration in the development
+of EHCPs requires a clear definition of what provision should be in the health and
+education parts. There also needed to be appropriate software so that there is "a digital
+version with open access to health and social care professionals".
+Among both healthcare workers and charities, there was general concern that the role
+and responsibilities of health services were being diluted and this seemed to be driven by
+the expectations of the new Ofsted/CQC inspection framework. As a result, some parent/
+carer representative organisations feared that EHCPs will still be seen as a route to try to
+access scarce health resources.
+3.5
+Question 5: Tailored list of placements
+How can parents and local authorities most effectively work together to produce a
+tailored list of placements that is appropriate for their child, and gives parents
+confidence in the EHCP process?
+Overall, some respondents expressed support for the proposal as, if appropriately
+resourced and correctly applied, it could improve the current process. They felt the main
+38
+benefits would be in reducing bureaucracy, harnessing local authority expertise and
+supporting parents/carers. However, some were concerned that the changes would be
+used to reduce the funding spent on supporting children and young people with special
+needs. In order for the lists to work effectively, respondents most commonly reported a
+need for:
+Co-production of the lists so that parents/carers can voice their opinions. This was
+felt to require effective communication and collaboration between parents and
+local authorities.
+A development process which was "interoperable, collaborative, and user-friendly
+to increase usability, consistency and accountability.
+A centralised, freely available and regularly updated list of settings and available
+provision within each local authority area. This would help to identify gaps in
+services and allow parents/carers to have greater clarity on which setting would be
+most appropriate for their child. There was also need for transparency around who
+determines which schools are on the list.
+Capacity building to create more places in specialist provision. Most respondents
+reported a lack of supply with some specialist schools oversubscribed. This could
+potentially limit choice and prevent the list from meeting the needs of parents.
+Some parents and carers also stressed the need for parental involvement in decision-
+making. A few felt that "local authorities should accept parental views in assigning
+placements and not allow rejection based on inability to meet need if needs match the
+published database". One also stated that parents should be allowed to visit placements
+and ask questions during operating hours.
+Some parents and carers acknowledged that the aim of providing a bespoke list is to help
+families make a more informed choice but felt that it could limit choice. Therefore, they
+stated that the list should be "a conversation starter" rather than a fixed set of choices.
+Some were also concerned that a "potentially narrow list of settings could force children
+into unsuitable provision". There were also some parents/carers who believed that they
+"should be able to pick any setting that they think is right for them" rather than being
+restricted to a tailored list.
+A few respondents from local authorities had concerns about how tailored lists would
+work in practice. These respondents sought clarity on how a tailored list of placements
+would be put together. Respondents explained that this is a complex area. There needs
+to be transparency on the criteria used and available capacity as "providing a menu could
+exacerbate current difficulties" when schools are oversubscribed. Respondents also
+suggested that guidance is needed on the efficient use of resources.
+A few respondents from local authorities reported concerns about how providing a list of
+options would impact planning at the local level and how accountability and transparency
+would be ensured so parents understand how decisions are made. A few were also
+39
+unclear about who will quality assure and 'sign off' the local inclusion plan. Some also
+noted that local authorities will require support to implement these changes.
+"Incredibly often, when parents express a school preference for specialist placements,
+there is often no capacity at that time, as we are often having consideration meetings for
+placements starting the next academic year, which then causes frustration as the parents
+do not want their child to wait for appropriate provision and we are unable to direct over
+capacity numbers." (On behalf of a local authority)
+Local SEND services (SENDIASSs) felt that it was crucial for parents/carers to have the
+option to discuss placements with an experienced caseworker. One wrote: "Face to face,
+honest dialogue is always going to be more productive than a printed list". They also
+raised the concern that lists would need regular updates and this process could lag
+behind the capacity of providers. One also suggested a "national catalogue" of providers.
+3.6
+Question 6: Approach to strengthen redress
+To what extent do you agree or disagree with our overall approach to
+strengthen redress, including through national standards and mandatory
+mediation?
+There were 4,331 responses to this question, of which 30% (rounded, 1,283) either
+strongly agreed or agreed whilst 59% (2,534) either disagreed or strongly disagreed. A
+total of 12% (514) neither agreed nor disagreed (see Figure 6).
+Figure 6: Respondent views on the approach to strengthen redress
+8%
+21%
+12%
+43%
+16%
+Strongly agree
+Agree
+Neither agree nor disagree
+Disagree
+Strongly disagree
+DfE SEND Green Paper Consultation (n=4,331)
+The majority of respondents from healthcare, local authorities and education settings
+(including schools, colleges, early years, alternative and specialist providers) agreed with
+the overall approach to strengthen redress, including through national standards and
+mandatory mediation. However, the majority of parents or carers disagreed with the
+proposal.
+Respondents that disagreed with the overall approach were also asked to provide an
+additional qualitative response. Of the respondents who disagreed, the most common
+reason for this was due to the proposal for mandatory mediation. Respondents
+commonly felt this would:
+Lead to delays in providing support for children and young people with SEND
+40
+Still create an adversarial system
+Make the whole process unnecessarily longer
+Be a further burden on local authorities in organising mediations
+Others questioned the effectiveness of the system, citing the non-binding nature of
+mediation and the potential to further delay tribunal hearings to achieve positive
+outcomes for children and young people with SEND.
+Figure 7: Respondent views on the approach to strengthening redress by
+respondent group
+DCP (n=1,535)
+13%
+87%
+Parents/carers (n=1,202)
+8%
+15%
+18%
+20%
+39%
+Headteacher/teacher/other teaching staff (n=709)
+20%
+41%
+18%
+14%
+7%
+Other/interested individual (n=341)
+12%
+23%
+18%
+26%
+21%
+On behalf of a charity/SEND sector body (n=165)
+7%
+20%
+15%
+23%
+35%
+On behalf of a local authority (n=106)
+15%
+45%
+20%
+17%
+3%
+Health care professional/health service (n=74)
+18%
+46%
+23%
+5%
+8%
+Other organisations (n=52)
+8%
+27%
+15%
+27%
+23%
+On behalf of a special education setting (n=30)
+20%
+33%
+17%
+13%
+17%
+On behalf of a further education/ post 16 setting (n=27)
+15%
+44%
+26%
+4%
+11%
+On behalf of an early years setting (n=27)
+26%
+44%
+19%
+11%
+Academic/ researcher/ research body (n=23)
+13%
+13%
+17%
+35%
+22%
+Social worker/other social care professional (n=14)
+21%
+43%
+29%
+7%
+On behalf of an alternative provision provider (n=14)
+29%
+36%
+21%
+7%
+7%
+On behalf of an independent education provider (n=11)
+9%
+18%
+27%
+9%
+36%
+Strongly agree
+Agree
+Neither agree nor disagree
+Disagree
+Strongly disagree
+DfE SEND Green Paper Consultation (n=4,331)
+"We agree with simplifying the process, but mandatory mediation may add to
+complications and extend the length of time children are out of school." (Academic/
+researcher/ research body)
+"Mediation is frequently unsuccessful, with local authorities refusing to budge and
+families having to pursue further action. In the meantime, children do not have access
+to appropriate provision and their needs are unmet." (Parent/carer)
+"Strengthening early redress approaches to ensure disputes can be resolved as soon
+as possible will help the shift to a less adversarial system. The concept of mandatory
+mediation will need careful consideration to avoid it being seen as an additional hurdle
+for families." The Association of Directors of Children's Services Ltd. (ADCS).
+41
+The SEND Mediation Panel of the Civil Mediation Council and the College of Mediators
+similarly felt that the mandatory mediation process was not appropriate. They wrote:
+"The panel is unanimously agreed that the concept of mandatory mediation for parents
+in the SEND mediation context is a step too far. It is generally a fundamental principle
+of the mediation process that a participant's engagement is on a voluntary basis. Whilst
+the current legislation makes the attendance of a representative from the local authority
+mandatory in certain circumstances, this is based on the fact that, as a statutory body,
+there is a presumption of willingness to achieve resolution of disputes at the earliest
+opportunity. That parents/carers/young people have a choice as to engagement and
+that in some ways addresses the balance of power within the mediation. The fact that
+parents have chosen the voluntary mediation route is often welcomed by LA
+representatives, setting a tone of collaborative working from the start."
+3.7
+Question 7: Disability discrimination
+Do you consider the current remedies available to the SEND tribunal for disabled
+children who have been discriminated against by schools effective in putting
+children and young people's education back on track? Please give a reason for
+your answer with examples, if possible.
+Some respondents did not believe the current remedies available to the SEND tribunal
+for disabled children who have been discriminated against by schools were effective in
+putting children and young people's education back on track. When elaborating on their
+view, some respondents grouped the roles of schools and local authorities in this process
+together. The main issues that respondents reported about current remedies were:
+The high costs incurred by families for going to tribunals
+That it results in the child or young person having a length of time out of school
+The resource, knowledge and support required to go to tribunal making it a system
+which "exists for those that are well resourced to challenge the system"
+The negative impact of going to tribunal on the relationship between the family and
+school. A few respondents felt that "If a placement is enforced often the
+parent/carers are still felt to be unwelcome in the setting"
+Some respondents also stated that an issue with the current system is that tribunal
+directions are not enforceable so there is a lack of accountability to ensure there is
+rectification⁶. This means there is an insufficient deterrent to operate in a manner that is
+not discriminatory. Some respondents also pointed out that local authorities do not have
+the influence to address issues with academies and MATs.
+6 This report uses direct responses to the consultation which contain the viewpoint of respondents. These have not
+been adjusted or corrected to reflect existing processes.
+42
+"The current system incentivises schools and LAs to break the law as there are no
+meaningful penalties for failure". (Parent/carer)
+"Those dealing with the current system tell us that many of the problems with the SEND
+system are not to do with the law or the code of practice, but rather to do with the
+implementation of current legal duties - the battle to secure children's rights and to get
+their needs met and the lack or recourse or sanctions when this does not happen". (The
+Fostering Network).
+A few respondents reported that the current system places a high burden on schools. It
+was mentioned that "if children are failing in the system, it is not necessarily just down to
+schools, without statutory involvement for authorities, support services, health and care
+children will not be supported effectively". Some also felt that remedies through tribunals
+were reactive instead of being proactive and to address this, they felt there should be a
+focus on early remedy rather than going to a tribunal. Additionally, respondents felt that if
+discrimination was found to have occurred, monitored actions for improvement need to
+be put in place. They also felt there should be national guidance to increase awareness
+and actions to reduce discrimination.
+Some parents and carers also felt there was a need for financial compensation. They felt
+that the SEND tribunal should have the power to award costs for the court fees families
+pay. They felt this would help alleviate financial barriers for parents and also incentivise
+schools and local authorities to better comply with the law.
+43
+4
+Responses to questions 8-12: Excellent provision
+from early years to adulthood
+This chapter presents findings from the consultation questions related to excellent
+provision from early years to adulthood (questions 8-12). These relate to the green paper
+proposals for improving mainstream provision through a highly skilled and confident
+workforce, supporting children and young people during transitions and investing in new
+specialist places.
+Each of the questions received between 2,351 and 3,801 responses. The table below
+presents the number of responses to each consultation question overall and by type of
+respondents.
+Table 4: Number of responses per question by respondent group
+(Q8 and Q12)
+Consultation
+Parents/
+School
+LA
+Health
+Social
+FE
+Early
+Other
+Total
+question
+carer
+staff
+staff
+service
+workers
+staff
+years
+workers
+staff
+Question 8
+2,587
+483
+101
+65
+8
+8
+27
+522
+3,801
+Question 9
+1,095
+718
+107
+66
+12
+24
+27
+625
+2,674
+Question 10
+1,177
+717
+114
+68
+13
+24
+26
+597
+2,736
+Question 11
+1,003
+683
+107
+58
+13
+23
+21
+565
+2,473
+Question 12
+910
+506
+110
+61
+13
+28
+18
+705
+2,351
+Source: DfE SEND Green Paper Consultation
+The responses to each question are presented below.
+4.2
+Question 8: Two-year-old progress check
+What steps should be taken to strengthen early years practice with regard to
+conducting the two-year-old progress check and, integration with the Healthy
+Child Programme review?
+The most common responses to this question were:
+Training for practitioners, particularly for early identification of SEND needs.
+Parents and carers most commonly reported that this should be provided to early
+years professionals, health visitors and professionals administering the progress
+check. Some respondents reported a need for "improved training of the early
+years workforce in identifying additional needs and understanding of how health
+services can support". Some also mentioned that all SENCos should be trained to
+a statutory level and a few stated there should be training for parents and early
+years staff on identifying special educational needs, as well as autism awareness
+training for all health staff.
+44
+Health visitors and organisations providing early years education working more
+closely together. A system allowing for joined-up access and transparency would
+facilitate this as currently "there is no consistent way to share progress checks".
+Also, communication is hindered as families no longer have a named health
+visitor. Additionally, a standardised reporting format for both early years and health
+visitors to follow would facilitate consistency and collaboration.
+"The integrated check has a long way to go. Early years settings are not receiving
+appropriate feedback from health visitors about the needs of children they are seeing.
+Many children are not seen by their health visitor, the check is carried out over the
+phone, this is clearly unsatisfactory and can mean that early identification is missed,
+particularly where children are not attending an EY setting". (On behalf of an early
+years setting)
+Overall, some respondents felt:
+There was a need to address delays in engaging other agencies that provide
+support after the progress checks have been completed, for example speech and
+language therapists.
+The reporting of parent and carer concerns should be compulsory in the two-year
+progress checks.
+"All preschool and early years settings should have mandatory training as to what
+constitutes an issue that should be flagged, and this training should be revisited
+annually." (Parent/carer)
+To strengthen early years practice in conducting the two-year progress checks, most
+parents/carers felt the level 3 SENCo qualification for early years settings should be
+nationwide. While this is being rolled out, they felt nurseries and pre-schools should be
+given further training. A few respondents also suggested there should be greater
+information on disability rights for children under 5 for parents/carers. Respondents also
+reported that health visits should be from birth and there should be more regular checks.
+One reported that "Family Hubs are a good idea but there are too few of them."
+Some local authorities recognised a need for supporting early years practitioners to
+conduct two-year-old progress checks, noting that at present they are not always done
+consistently or on time. A few respondents suggested that it should be compulsory.
+4.3
+Question 9: Mandatory SENCo NPQ
+To what extent do you agree or disagree that we should introduce a new
+mandatory SENCo NPQ to replace the NASENCo?
+45
+There were 2,674 responses to this question, of which just under half of respondents
+(48%, 1,278) either agreed or strongly agreed that a new mandatory SENCo NPQ should
+be introduced to replace the NASENCo (see Figure 8). A further 20% (529) either
+disagreed or strongly disagreed and 32% (868) neither agreed nor disagreed.
+Figure 8: Agreement with introduction of mandatory SENCo NPQ
+22%
+26%
+32%
+11%
+9%
+Strongly agree
+Agree
+Neither agree nor disagree
+Disagree
+Strongly disagree
+DfE SEND Green Paper Consultation (n=2,674)
+As shown in Figure 9, for nearly all respondent groups over half of respondents agreed or
+strongly agreed or neither agreed nor disagreed with the statement. The only exception
+was among academics/researchers (n=27), where a higher proportion (63%, 17)
+disagreed or strongly disagreed compared to agreed (19% rounded, 5). This however
+should be viewed with caution as it is based on a small sample size.
+Figure 9: Agreement with introduction of mandatory SENCo NPQ by respondent
+type
+Parents/carers (n=1,095)
+27%
+21%
+36%
+8%
+8%
+Headteacher/teacher/other teaching staff (n=718)
+18%
+26%
+29%
+16%
+11%
+Other/interested individual (n=334)
+19%
+28%
+33%
+13%
+8%
+On behalf of a charity/SEND sector body (n=155)
+25%
+34%
+25%
+13%
+3%
+On behalf of a local authority (n=107)
+25%
+37%
+24%
+9%
+4%
+Health care professional/health service (n=66)
+36%
+26%
+32%
+3%3%
+Other organisations (n=55)
+11%
+45%
+29%
+11%
+4%
+On behalf of a special education setting (n=31)
+10%
+45%
+32%
+10% 3%
+Academic/ researcher/ research body (n=27)
+7%
+11%
+19%
+22%
+41%
+On behalf of an early years setting (n=27)
+7%
+26%
+56%
+4% 7%
+On behalf of a further education/ post 16 setting (n=24)
+4%
+38%
+46%
+4% 8%
+On behalf of an alternative provision provider (n=14)
+14%
+50%
+36%
+Social worker/other social care professional (n=12)
+42%
+17%
+33%
+8%
+On behalf of an independent education provider (n=9)
+22%
+56%
+22%
+Strongly agree
+Agree
+Neither agree nor disagree
+Disagree
+Strongly disagree
+DfE SEND Green Paper Consultation (n=2,674)
+Respondents that disagreed with the question were asked to provide an additional
+qualitative response. Among the parents and carers who disagreed, some respondents
+stated that there should be more SEND training for teachers and that introducing a
+qualification which they perceived to be at a lower level could be detrimental and result in
+"a reduction in quality of training and expertise."
+46
+For respondents from education settings, the most commonly reported reason for
+disagreeing with the introduction of a new mandatory SENCo NPQ was:
+That the NASENCo is already fit for purpose
+That the NPQ will be of poorer quality
+That those who have the NASENCo would have to do a new qualification
+Uncertainty around the purpose of the new qualification
+The financial and administrative costs for rolling out the new qualifications
+Some academic/researcher/research body respondents believed that the NPQ would
+reduce standards as it would not cover as much content and "would not give a SENCo
+the wide variety of tools to support those who need it most". Some also felt a change was
+unnecessary as the current NASENCo has national coverage with a high uptake. A few
+therefore suggested that "rather than replacing the entire qualification, it might prove to
+be more sensible, time sensitive and financially prudent to make alterations to the
+NASENCo.'
+"The NASENCo provides a well-rounded understanding of the strategic aspects of
+managing SEND in addition to understanding how neurodiversity present themselves
+in the classroom.. An NPQ would not cover as much content, in addition to not
+accessing up to date research and high-level knowledge. An NPQ would not give a
+SENCo the wide variety of tools to support those who need it most". (Academic/
+researcher/ research body)
+"Reducing the level and time taken to complete SENCo training will negatively impact
+on SENCos' ability to positively impact on school strategic leadership. The current
+NASENCo has excellent national coverage, which is not reflected in NPQ availability".
+(Academic/ researcher/ research body)
+4.4
+Question 10: SENCo training requirement
+To what extent do you agree that we should strengthen the mandatory SENCo
+training requirement by requiring that headteachers must be satisfied that the
+SENCo is in the process of obtaining the relevant qualification when taking on
+the role?
+There were 2,736 responses to this question, of which 69% of respondents (1,895) either
+strongly agreed or agreed that the mandatory SENCo training requirement should be
+strengthened while only 19% (rounded, 511) either disagreed or strongly disagreed (see
+Figure 10). A further 12% (330) neither agreed nor disagreed.
+47
+Figure 10: Need for strengthening the mandatory SENCo training requirement
+43%
+26%
+12%
+12%
+6%
+Strongly agree
+Agree
+Neither agree nor disagree
+Disagree
+Strongly disagree
+DfE SEND Green Paper Consultation (n=2,736)
+As shown in Figure 11, for all groups, at least 55% either strongly agreed or agreed that
+the mandatory SENCo training requirement should be strengthened⁷. Among social
+workers and social care professionals, none disagreed.
+Respondents that disagreed with the question were asked to provide an additional
+qualitative response. Across all respondent groups, the most common reason for
+disagreeing was that SENCos should be fully qualified before taking up a role. Among
+academics/researchers who disagreed, a few felt that headteachers already have the
+responsibility for ensuring that all new to role SENCos have the relevant qualification
+when taking on the role.
+Figure 11: Need for strengthening the mandatory SENCo training requirement by
+respondent type
+Parents/carers (n=1,177)
+51%
+20%
+9%
+11%
+8%
+Headteacher/teacher/other teaching staff (n=717)
+33%
+34%
+14%
+14%
+5%
+Other/interested individual (n=328)
+41%
+22%
+15%
+17%
+6%
+On behalf of a charity/SEND sector body (n=151)
+44%
+24%
+14%
+13%
+5%
+On behalf of a local authority (n=114)
+43%
+29%
+16%
+11%
+2%
+Health care professional/health service (n=68)
+53%
+34%
+9% 1%3%
+Other organisations (n=40)
+23%
+50%
+13%
+13%
+3%
+On behalf of a special education setting (n=30)
+40%
+33%
+13%
+10%
+3%
+Academic/ researcher/ research body (n=26)
+23%
+38%
+8%
+19%
+On behalf of an early years setting (n=26)
+35%
+35%
+15%
+15%
+On behalf of a further education/ post 16 setting (n=24)
+33%
+38%
+8%
+8%
+13%
+On behalf of an alternative provision provider (n=13)
+31%
+31%
+23%
+15%
+Social worker/other social care professional (n=13)
+69%
+23%
+8%
+On behalf of an independent education provider (n=9)
+11%
+44%
+33%
+11%
+Strongly agree
+Agree
+Neither agree nor disagree
+Disagree
+Strongly disagree
+Source: DfE SEND Green Paper Consultation (n=2,736)
+7 Parents/carers is inclusive of the response from NNPC ('agree')
+48
+4.5
+Question 11: Role of specialist and mixed MATs
+To what extent do you agree or disagree that both specialist and mixed MATs
+should be allowed to coexist in the fully trust-led future? This would allow
+current local authority maintained special schools and alternative provision
+settings to join either type of MAT.
+A total of 41% of respondents (1,013) either strongly agreed or agreed that both
+specialist and mixed MATs should be allowed to coexist in the fully trust-led future (see
+Figure 12). Only 24% (601) either disagreed or strongly disagreed and 35% (859) neither
+agreed nor disagreed.
+Figure 12: Respondent views on the roles of specialist and mixed MATs
+15%
+26%
+35%
+11%
+13%
+Strongly agree
+Agree
+Neither agree nor disagree
+Disagree
+Strongly disagree
+Source: DfE SEND Green Paper Consultation (n=2,473)
+For nearly all respondent groups a higher proportion of respondents agreed than
+disagreed with the statement. The only exceptions were respondents from specialist
+settings.
+Respondents that disagreed with the question were also asked to provide an additional
+qualitative response. The most common reason respondents disagreed or strongly
+disagreed with the statement was because of the "lack of regulation and accountability of
+MATs on inclusion of children and young people with SEND". Some respondents also
+believed that because specialist and mixed MATs are run as businesses, they "do not
+recognise the needs of the individual, but rather cater to the majority".
+49
+Figure 13: Respondent views on the roles of specialist and mixed MATs by
+respondent type
+Parents/carers (n=1003)
+13%
+19%
+40%
+10%
+17%
+Headteacher/teacher/other teaching staff (n=617)
+21%
+34%
+29%
+5%
+11%
+Other/interested individual (n=320)
+12%
+29%
+31%
+13%
+15%
+On behalf of a charity/SEND sector body (n=137)
+7%
+23%
+45%
+17%
+9%
+On behalf of a local authority (n=107)
+15%
+41%
+25%
+10%
+8%
+On behalf of a multi or single academy trust (n=66)
+45%
+41%
+8% 5%2%
+Health care professional/health service (n=58)
+14%
+26%
+52%
+7%
+2%
+Other organisations (n=36)
+3%
+42%
+31%
+25%
+On behalf of a special education setting (n=29)
+21%
+21%
+10%
+17%
+31%
+On behalf of a further education/ post 16 setting (n=23)
+9%
+30%
+48%
+13%
+On behalf of an early years setting (n=21)
+14%
+29%
+43%
+5%
+10%
+Academic/ researcher/ research body (n=19)
+11%
+21%
+32%
+16%
+21%
+On behalf of an alternative provision provider (n=14)
+7%
+43%
+36%
+14%
+Social worker/other social care professional (n=13)
+23%
+15%
+62%
+On behalf of an independent education provider (n=10)
+20%
+20%
+30%
+30%
+Strongly agree
+Agree
+Neither agree nor disagree
+Disagree
+Strongly disagree
+Source: DfE SEND Green Paper Consultation (n=2,473)
+"MATs are businesses first and foremost and not services. SEND support requires service
+principles above business ones." (Other education professional)
+"I worry that the MAT system is not robustly held to account for SEN provision and is not
+inclusive of SEND children / young people and I worry about the implications for my children in
+a fully MAT lead system." (Parent/carer)
+"We do not believe that there is any evidence that a fully trust-led future will raise standards of
+provision for students with SEND." (On behalf of a special education setting)
+"Whilst we can see theoretical benefits to special schools being part of either mixed or special
+school groupings, we have not seen clear evidence of how either model works in practice and
+delivers advantages to children and young people beyond what is delivered by standalone
+special schools. Where an academy plays a key role within a locality in delivering both SEND
+placements and expertise to other schools, we can see the opportunities for mixed, locality-
+based MATs. However, care must be taken to ensure that special academies within mixed
+MATs maintain opportunities to keep practice and knowledge up to date and can benefit from
+access to peer networks of other special academies." (NASS)
+50
+4.6
+Question 12: Access to apprenticeships
+What more can be done by employers, providers and government to ensure that
+those young people with SEND can access, participate in and be supported to
+achieve an apprenticeship, including through access routes like Traineeships?
+To improve access to apprenticeships, respondents most commonly reported:
+Raising awareness among employers (and also in communities more widely) of
+the benefits of employing young people with SEND. Some respondents felt that
+this should be through training which would allow employers to "get a real
+understanding of what it's like to have SEN" and the support that is required.
+Others suggested this should be through a government campaign.
+Providing incentives to employers to offer apprenticeships for young people with
+SEND. Some stated that this could include financial incentives or government
+sponsored apprenticeship places.
+The Government to set quotas for employers to provide either apprenticeship jobs
+or interviews for young people with SEND.
+Employers providing transition measures to help young people with SEND adjust
+to employment (such as coaching and mentoring), developing links between
+education and businesses, and ensuring that there is consistency in approaches
+across the country.
+Preventing current SEN laws from being diluted, and for the government to apply
+greater accountability to local authorities to ensure existing laws are followed.
+"More collaborative working, incentives and awareness with employers in relation to
+disabled employees. National awareness within the public realm of inclusive
+employment and how different disabilities need support and access arrangements, and
+the positives this cohort of employees can have on the world of work." (Parent/carer)
+"Job coaching is a great way of getting young adults with SEN into work. These
+coaches go into workplaces with students to provide supported internships. However,
+the government need to support businesses and incentivise them use and expand
+these programmes. There needs to be incentives for workplaces who employ these
+workers." (Headteacher/teacher/other teaching staff)
+Parents and carers also commonly reported that employers should use inclusive work
+and recruitment practices. A few stated that employers could make more work
+experience opportunities available to young people with SEND and that these should be
+in a variety of roles.
+A few parents/carers also stated that each local authority should have an employment
+pathway as part of their preparation for adulthood strategy. They specifically want a
+51
+"clearer understanding of how local authorities and providers within the post-16 high
+needs system can work together to manage an increased demand for support for High
+Needs students to prepare them for employment" and a holistic approach to employment
+which takes into consideration the barriers that disabled people face.
+Respondents from education settings and some parents/carers reported that providers
+needed to provide a flexible curriculum with alternative pathways which enables the
+development of skills aimed at preparing children and young people with SEND for a
+working environment. This included qualification options beyond GCSEs which enable
+young people with SEND to gain "qualifications linked to skills for work and not just
+academic". Additionally, a few respondents stated that providers should have "strategies
+in place to explore the academic futures" of young people with SEND who are
+academically able.
+"Well planned transition following on from clearly planned programmes that allow pupils
+with SEND access to a full range of apprenticeships. Ensuring ongoing support once
+the apprenticeship is in place." (Headteacher/teacher/other teaching staff)
+There was also positive feedback on supported internships, particularly among FE
+providers. However, some felt that a greater breadth of options were needed and that
+there "needs to be more high-quality apprenticeships suitable for young people with
+SEND, not just supported internships which require an EHCP". It was discussed that
+young people with SEND who do not have an EHCP need to be accounted for, that
+young people with SEND may not meet the apprenticeship completion requirement for
+Level 2 maths and English and there should be more flexibility around this requirement.
+A few respondents from FE providers suggested that careers advice and guidance
+should be delivered by staff who have knowledge of available SEND support. In addition,
+one respondent suggested a national system of SEND advisors to help support young
+people through adulthood. It was also suggested that providers should work with
+employers on making work placements accessible and that providers should receive
+training on how best to support and guide employers.
+A few respondents also suggested actions such as a central register of opportunities to
+match appropriate roles to prospective apprentices, work experience places to prepare
+individuals for apprenticeships and mentoring support. Some respondents also reported
+that providers should work more closely with employers, and that "taster sessions" at
+local post-16 provisions would give young people insight into training and employment
+opportunities.
+"A wider range of options is needed. Young, talented people are often given options below
+their full potential. For example, an autistic young person who excels at maths can often be
+signposted to retail employment when their analytical skills could be used in more
+appropriate employment." (On behalf of a further education setting)
+52
+5 Responses to questions 13-16: A reformed and
+integrated role for alternative provision
+This section presents the findings from the consultation questions on the proposals for a
+reformed and integrated role for alternative provision. Each of these questions received
+between 1,913 and 2,559 responses. The number of responses to each consultation
+question overall and by type of respondents is presented in the table below.
+Table 5: Number of responses per question by respondent group
+(Q13 and Q16)
+Consultation
+Parents/
+School
+LA
+Health
+Social
+FE
+Early
+Other
+Total
+question
+carer
+staff
+staff
+service
+workers
+staff
+years
+workers
+staff
+Question 13
+1,065
+682
+106
+67
+14
+25
+25
+575
+2,559
+Question 14
+749
+466
+106
+39
+11
+12
+19
+511
+1,913
+Question 15
+957
+634
+104
+54
+14
+24
+23
+509
+2,319
+Question 16
+944
+626
+101
+55
+14
+25
+24
+514
+2,303
+Source: DfE SEND Green Paper Consultation
+The responses to each question are presented below.
+5.2
+Question 13: New vision for alternative provision
+To what extent do you agree or disagree that this new vision for alternative
+provision will result in improved outcomes for children and young people?
+A total of 36% (rounded) of respondents (927) either strongly agreed or agreed that the
+new vision for alternative provision set out in the green paper would result in improved
+outcomes for children and young people (see Figure 14). A further 32% (824) either
+disagreed or strongly disagreed and 32% (808) neither agreed nor disagreed.
+Figure 14: Agreement with vision of alternative provision
+10%
+27%
+32%
+17%
+15%
+Strongly agree
+Agree
+Neither agree nor disagree
+Disagree
+Strongly disagree
+Source: DfE SEND Green Paper Consultation (n=2,559)
+There was substantial variation by type of respondent. As shown in Figure 15, over half
+of respondents from local authorities, education settings and healthcare providers agreed
+with the statement while less than a quarter of parents/carers and academic researchers
+did.
+53
+Respondents that disagreed with the question were asked to provide an additional
+qualitative response. Respondents who disagreed commonly expressed scepticism
+towards the new vision for alternative provision, with some expecting a gap between the
+intention and the implementation of the vision. Specific areas of concern included
+accountability of local authorities and schools to ensure compliance, addressing and
+meeting the specific needs of each child with SEND, and the need for funding to underpin
+reforms.
+Figure 15: Agreement with vision of alternative provision by respondent type
+Parents/carers (n=1,065)
+8%
+15%
+34%
+18%
+25%
+Headteacher/teacher/other teaching staff (n=682)
+12%
+38%
+28%
+16%
+6%
+Other/interested individual (n=322)
+8%
+26%
+30%
+22%
+15%
+On behalf of a charity/SEND sector body (n=145)
+4%
+26%
+39%
+21%
+10%
+On behalf of a local authority (n=106)
+20%
+47%
+20%
+8%
+6%
+Health care professional/health service (n=67)
+13%
+46%
+28%
+4%
+7%
+Other organisations (n=38)
+5%
+63%
+24%
+5% 3%
+On behalf of a special education setting (n=27)
+7%
+37%
+33%
+11%
+11%
+On behalf of an early years setting (n=25)
+20%
+28%
+36%
+12%
+4%
+On behalf of a further education/ post 16 setting (n=25)
+12%
+48%
+40%
+Academic/ researcher/ research body (n=21)
+5%
+14%
+48%
+19%
+14%
+On behalf of an alternative provision provider (n=14)
+43%
+29%
+21%
+7%
+Social worker/other social care professional (n=14)
+14%
+21%
+36%
+21%
+7%
+On behalf of an independent education provider (n=8)
+13%
+25%
+25%
+38%
+Strongly agree
+Agree
+Neither agree nor disagree
+Disagree
+Strongly disagree
+Source: DfE SEND Green Paper Consultation (n=2,559)
+5.3
+Question 14: Distributing existing funding effectively
+What needs to be in place in order to distribute existing funding more effectively
+to alternative provision schools, to ensure they have the financial stability
+required to deliver our vision for more early intervention and re-integration?
+Respondents commonly reported that equality in funding of alternative provision needs to
+be in place across the country. This should include local authorities following a "uniform
+funding structure" as a clear, nationally agreed funding formula which would create more
+consistent funding. Some also stated that this would "prevent cost inflation by private
+providers" and allow for "delegation to alternative provision from commissioners for their
+budgets".
+54
+To facilitate consistency, some respondents felt there should be rigorous criteria for
+funding needs. Additionally, some suggested there should be transparency in costs and
+monitoring of expenditure, including who it has been used for and the outcomes of the
+intervention, to show value for money.
+Most respondents from education settings, and particularly alternative provision
+providers, felt there needed to be a shift away from funding individuals to direct national
+funding with a regularly reviewed annual budget for alternative providers based on a
+minimum number of places. They felt that funding individuals impeded longer term
+planning and recruitment of suitable staff. In contrast, having a guaranteed income that is
+dedicated to alternative provision schools would "enable good practice to be built on year
+on year."
+In regards to funding duration, some respondents suggested that minimum funding
+guarantees should be considered. Due to annual commissioning, respondents explained
+that schools are unable to plan for the longer term which impacts on recruitment.
+Therefore, minimum funding guarantees and "being in a position to provide some
+certainty for additional years would be welcomed."
+Some organisational respondents expressed support for the "desire to put alternative
+provision schools on a more stable financial footing", however, they felt that careful
+oversight is required to ensure that alternative provision is used appropriately. There was
+also concern that a national budget would lead to real-term reductions in funding for
+some areas. Some respondents, and particularly parents and carers also mentioned the
+need for more funding and for local authorities to have ringfenced alternative provision
+budgets. One organisation also stated the role of independent schools should be
+considered as "a significant proportion of AP placements are in independent
+schools with this being the fastest-growing type of AP placement over the past five
+years".
+"The three-year consistent funding model is a sensible suggestion. It still needs
+refining. For example, what would happen if there is a surge in demand? Although
+better planning could make a difference, it is not always possible to predict needs.
+Some forms of SEND or other additional needs do not become apparent until later in
+life, e.g., KS4." (On behalf of a multi or single academy trust)
+"Mainstream schools need to have access to outreach from alternative provision
+settings. This could support children in remaining in mainstream education. For this to
+be achieved, alternative provision settings would require a consistent level of funding
+throughout the year that is not pupil linked/based on pupil movement." (Other
+education professionals)
+55
+5.4
+Question 15: Alternative provision performance
+framework
+To what extent do you agree or disagree that introducing a bespoke
+alternative provision performance framework, based on these five outcomes,
+will improve the quality of alternative provision?
+A total of 44% of respondents (1,028) either strongly agreed or agreed that introducing a
+bespoke alternative provision performance framework, based on the five outcomes⁸ set
+out in the consultation document, will improve the quality of alternative provision (see
+Figure 16). Just under a quarter (23%, 526) either disagreed or strongly disagreed and
+33% (765) neither agreed nor disagreed.
+Figure 16: Agreement with alternative provision performance framework
+12%
+32%
+33%
+13%
+10%
+Strongly agree
+Agree
+Neither agree nor disagree
+Disagree
+Strongly disagree
+Source: DfE SEND Green Paper Consultation (n=2,319)
+There was some variation by respondent type. As shown in Figure 17, the majority of
+respondents from local authorities and alternative provision agreed or strongly agreed. In
+contrast, over a quarter of parents/carers, independent education providers and SEND
+sector bodies/charities disagreed or strongly disagreed with the statement.
+8 The five outcomes are effective outreach support, improved attendance, reintegration, academic
+attainment, with a focus on English and maths, and successful post-16 transitions.
+56
+Figure 17: Agreement with alternative provision framework by respondent type
+Parents/carers (n=957)
+10%
+19%
+40%
+14%
+16%
+Headteacher/teacher/other teaching staff (n=634)
+14%
+45%
+25%
+11%
+4%
+Other/interested individual (n=297)
+9%
+36%
+32%
+13%
+10%
+On behalf of a charity/SEND sector body (n=119)
+7%
+24%
+40%
+23%
+6%
+On behalf of a local authority (n=104)
+26%
+50%
+14%
+7% 3%
+Health care professional/health service (n=54)
+17%
+44%
+28%
+9% 2%
+Other organisations (n=34)
+6%
+62%
+12%
+18%
+3%
+On behalf of a special education setting (n=24)
+8%
+33%
+42%
+13%
+4%
+On behalf of a further education/ post 16 setting (n=24)
+17%
+50%
+29%
+4%
+On behalf of an early years setting (n=23)
+13%
+39%
+30%
+13%
+4%
+Academic/ researcher/ research body (n=15)
+7%
+27%
+47%
+13%
+7%
+Social worker/other social care professional (n=14)
+7%
+36%
+43%
+14%
+On behalf of an alternative provision provider (n=14)
+43%
+21%
+14%
+21%
+On behalf of an independent education provider (n=6)
+33%
+33%
+17%
+17%
+Strongly agree
+Agree
+Neither agree nor disagree
+Disagree
+Strongly disagree
+Source: DfE SEND Green Paper Consultation (n=2,319)
+Respondents that disagreed with the question were also asked to provide an additional
+qualitative response. The main reasons respondents disagreed was because they did not
+feel the five outcomes were appropriate. They felt that there was a lack of emphasis on
+life skills and mental wellbeing and over emphasis on English and maths. As one
+respondent stated: "English and maths are fundamental, but a proper education involves
+far more than this".
+5.5
+Question 16: Statutory framework for pupil movements
+To what extent do you agree or disagree that a statutory framework for pupil
+movements will improve oversight and transparency of placements into and
+out of alternative provision?
+In total, 58% of respondents (1,335) either strongly agreed or agreed that a statutory
+framework for pupil movements will improve oversight and transparency of placements
+into and out of alternative provision (see Figure 18). A further 15% (343) either disagreed
+or strongly disagreed and 27% (625) neither agreed nor disagreed.
+Figure 18: Agreement on statutory framework for pupil movement
+18%
+40%
+27%
+8%
+7%
+Strongly agree
+Agree
+Neither agree nor disagree
+Disagree
+Strongly disagree
+57
+Source: DfE SEND Green Paper Consultation (n=2,303)
+There was however some variation by respondent group. Nearly all (over 90%) of
+respondents from local authorities and alternative provision agreed with this statement. In
+contrast, two-fifths of parents/carers (40%) and respondents from independent education
+providers (43%) agreed with the statement. Respondents that disagreed with the
+question were asked to provide an additional qualitative response. All the groups of
+respondents which either disagreed or strongly disagreed stated that they did so because
+of expected challenges in implementing a statutory framework.
+"I don't believe, in my experience, that LA's have the resources or internal
+communication between departments, in order to implement this." (Parent/carer)
+Figure 19: Agreement on statutory framework for pupil movement by
+respondent type
+Parents/carers (n=944)
+11%
+29%
+36%
+10%
+14%
+Headteacher/teacher/other teaching staff (n=626)
+23%
+49%
+19%
+7%2%
+Other/interested individual (n=300)
+23%
+44%
+23%
+6%
+5%
+On behalf of a charity/SEND sector body (n=120)
+22%
+35%
+32%
+8%
+4%
+On behalf of a local authority (n=101)
+39%
+52%
+6%2%1%
+Health care professional/health service (n=55)
+20%
+45%
+27%
+4% 4%
+Other organisations (n=34)
+21%
+71%
+9%
+On behalf of a further education/ post 16 setting (n=25)
+24%
+44%
+28%
+4%
+On behalf of an early years setting (n=24)
+8%
+54%
+38%
+On behalf of a special education setting (n=21)
+14%
+52%
+29%
+5%
+Academic/ researcher/ research body (n=17)
+18%
+41%
+35%
+6%
+On behalf of an alternative provision provider (n=15)
+33%
+60%
+7%
+Social worker/other social care professional (n=14)
+21%
+43%
+29%
+7%
+On behalf of an independent education provider (n=7)
+14%
+29%
+29%
+14%
+14%
+Strongly agree
+Agree
+Neither agree nor disagree
+Disagree
+Strongly disagree
+Source: DfE SEND Green Paper Consultation (n=2,303)
+58
+6 Responses to questions 17-18: System roles,
+accountabilities, and funding reform
+This section sets out the findings from the consultation questions related to system roles,
+accountabilities and funding reform. The two questions (17 and 18) received 2,178 and
+3,537 responses respectively. The number of responses to each consultation question
+overall and by type of respondents is presented in the table below.
+Table 6: Number of responses per question by respondent group
+(Q17 and Q18)
+Consultation
+Parents
+School
+LA
+Health
+Social
+FE
+Early
+Other
+Total
+question
+/carer
+staff
+staff
+service
+workers
+staff
+years
+workers
+staff
+Question 17
+901
+513
+105
+57
+11
+27
+15
+549
+2,178
+Question 18
+2,345
+489
+104
+40
+11
+26
+16
+506
+3,537
+Source: DfE SEND Green Paper Consultation
+6.2
+Question 17: National performance metrics
+What are the key metrics we should capture and use to measure local and
+national performance?
+The most commonly reported key metrics to measure local and national performance
+were:
+Quantitative:
+Rate of attendance and exclusions/suspensions
+Progress rates of children and young people from their individual baselines
+Waiting times for assessments/diagnosis and securing provision
+Mediation, tribunal and tribunal appeal rates
+Academic progress
+Learner outcomes (qualification attainment, entry to employment, entry to further
+learning such as apprenticeships)
+Qualitative:
+Mental health and wellbeing
+Parents/carers and children/young people satisfaction
+Confidence in the system
+59
+There was some variation by groups. Among parents/carers, the most common
+measures reported were child and parent/carer satisfaction, which they felt should
+include quantitative and qualitative data collection. A few respondents also suggested
+capturing teacher and SENCo views.
+Teaching staff at mainstream schools most commonly reported the need for performance
+metrics on student attainment and outcomes, as well as on their confidence and self-
+esteem. In addition, some also reported that it would be useful to have metrics on the
+percentage of children and young people in a local area who are educated in mainstream
+settings, both with and without an EHCP, as well as the percentage of children and
+young people not educated in a mainstream school setting but who are educated in a:
+special school setting, alternative provision setting, or by an independent specialist
+provider.
+Most respondents from alternative provision providers, FE colleges and specialist
+education settings also suggested metrics related to learner achievement or outcomes,
+with one suggesting this should be at key transition points (e.g. 16, 19, 21, 25). Some
+respondents from alternative provision suggested this should include the number of
+children and young people receiving home education. A respondent from a special
+education setting suggested measuring performance against EHCP targets/outcomes
+and also measuring the number of children referred to child and adolescent mental health
+service (CAMHS) and crisis support services.
+Respondents from local authorities generally expressed support for the proposals to
+measure local and national performance, but cautioned that quantitative measures need
+to be framed around the local context (e.g. the type and prevalence of need, number of
+children and young people with EHCPs). Respondents from this group suggested
+additional metrics to those stated by other groups, including:
+Number of referrals, for example "identification and intervention for Social,
+Emotional and Mental Health needs (SEMH) referrals"
+Proportion of young people reintegrated into mainstream education
+Qualifications offered to SEN students
+Outcome measures on preparation for adulthood outcomes and independence
+Complaints (and qualitative supporting information)
+Health and social care input
+Value for money
+Responses from SNJ expressed concern that the proposed metrics and inclusion
+dashboard would lack context and therefore not be truly representative and could be
+open to misinterpretation. This group suggested that when monitoring school absence
+rates, qualitative supporting information should be used to help understand the reasons
+for absenteeism.
+60
+The NNPCF also suggested learner outcomes were a key metric. However, they also
+believed that there should be a focus on early intervention and inclusivity and "would like
+to see a national SEND Outcomes Accountability Framework which is linked to the
+National standards."
+6.3
+Question 18: Funding bands and tariffs
+How can we best develop a national framework for funding bands and tariffs to
+achieve our objectives and mitigate unintended consequences and risks?
+In response to this question, some respondents felt that the use of bands would not be
+suitable for providing individualised programmes. As one stated: "banding implies
+categorisation This would not allow for flexibility in tailoring provision to specific needs".
+A few suggested that this would lead to more tribunals or judicial reviews. As one
+respondent explained "funding bands are inappropriate to EHCPs. Where used by local
+authorities they entail resource-led provision which is against the law".
+Some parents and carers also expressed concern that there could be manipulation of the
+bandings if the framework is not transparent with suitable accountability measures. In
+addition, the parents/carers who responded through SNJ were concerned that if the
+framework was not sufficiently flexible it would result in needs not being adequately met
+and may not take into account regional differences.
+Some respondents from alternative provision reported that in the development of a
+national framework for funding bands and tariffs, each local authority would need to have
+similar services and criteria would need to be developed to determine the level of need
+and corresponding funding band. They also suggested that funding should be portable
+and move with the young person through key stages.
+Respondents from early years settings similarly reported that a clear identification of
+need and which bands cover which areas would be required. Whilst some respondents
+supported a uniform system and a "standardised profile of need scoring that works in line
+with funding bands", others highlighted that national banding may not be suitable as each
+local authority has different factors to consider and that wage costs differ across the
+country.
+One respondent from an early years setting stated that "national frameworks for funding
+can be successful however there needs to be an understanding that funding bands can
+be changed if they are not a reflection of learner needs".
+61
+7 Responses to questions 19-22: Delivering change
+for children and families
+Questions 19-22 of the consultation received between 1,808 and 3,603 responses. The
+number of responses to each consultation question overall and by type of respondents is
+presented in the table below.
+Table 7: Number of responses per question by respondent group
+(Q19 - Q22)
+Consultation
+Parents/
+School
+LA
+Health
+Social
+FE
+Early
+Other
+Total
+question
+carer
+staff
+staff
+service
+workers
+staff
+years
+workers
+staff
+Question 19
+2,233
+461
+101
+50
+11
+21
+20
+503
+3,400
+Question 20
+898
+551
+107
+61
+12
+24
+23
+587
+2,263
+Question 21
+670
+447
+99
+51
+11
+21
+17
+492
+1,808
+Question 22
+2,328
+456
+97
+52
+9
+22
+15
+624
+3,603
+Source: DfE SEND Green Paper Consultation
+In analysis of Question 22, sentiment analysis has been conducted on the five groups
+where over 90 respondents gave their overall opinion on the green paper9
+(parents/carers, respondents from education settings, local authority staff, charities and
+SEND sector bodies, and other individuals) in order to gauge overall perception towards
+the proposals.
+7.2
+Question 19: National SEND Delivery Board
+How can the National SEND Delivery Board work most effectively with local
+partnerships to ensure the proposals are implemented successfully?
+Respondents most commonly reported the need for clear communication and
+collaboration with all partners. This included "open dialogue" and for all actors to "listen
+and engage" with each other.
+Parents/carers generally advocated for working with and listening to parents but also
+teaching staff to "ensure all stakeholders are involved regionally/locally". Other
+recommendations from this group included ensuring transparency of the delivery board's
+working and regular published reviews on progress which capture feedback from
+parents/carers and education professionals/settings. As one stated: "the board needs to
+have an open and honest approach so successes and challenges can be shared, and
+learning can happen".
+9 Running sentiment analysis on a small number of responses could lead to inaccurate generalisations - it is only appropriate when there are a large
+number of responses (around 100). A separate analysis has been carried out of the smaller groups.
+62
+Some parents and carers and respondents from local authorities also felt there was a
+need for robust monitoring of accountability processes for delivery board members, as
+well as clearly defined roles and responsibilities. They also felt that the delivery board
+would be most effective with representation from each area, including children and young
+people with SEND, parents/carers and health and social care representatives.
+A few respondents from local authorities also reported that an audit of current delivery
+practices should be conducted to see strengths and needs and highlight best practice.
+One respondent mentioned "test quantifying in units first and refine it in different
+demographics before rolling it out. It's a long process, although if done properly, will save
+a lot of time and money going forward".
+Respondents from alternative provision similarly reported the importance of clear
+guidance for the delivery board to work effectively with local partnerships to successfully
+implement the reforms. One respondent stated "we are keen to ensure that the skills and
+knowledge of the local needs are not lost. This is where insightful training and support
+will need to come from a national level to ensure that local partnerships are well informed
+of the purpose and desired outcomes and can then translate the implementations to be
+successful at a local level". Another respondent also mentioned that "all APs big or small
+should have an equal voice."
+Respondents from education settings commonly reported that there should be wide
+representation among the organisations that comprise the delivery board. Respondents
+from FE explained that post-16 providers should be included and respondents from
+specialist providers reported that all types of provision should be represented. It was also
+mentioned that the board should include "people on the ground" who can provide first-
+hand experiences of delivery.
+7.3
+Question 20: Barriers and enablers of success
+What will make the biggest difference to successful implementation of these
+proposals? What do you see as the barriers to and enablers of success?
+Across all respondent groups the factors that were most commonly reported as making
+the biggest difference to the successful implementation of the green paper proposals
+were funding, accountability and training. Accountability was felt to be important to
+ensure that all partners are aware of their role and responsibilities and that any under-
+performance is identified early and addressed. Training and funding was perceived to
+help ensure that all partners can do the roles expected of them.
+63
+"Parents feel professionals lack the skills and understanding to work cooperatively
+with them Parents feel professionals take more note of externally assigned SEN
+diagnostic categories than parents' views, when planning services for their
+child Agencies must engage meaningfully with parents in collaborative decision-
+making. Changes within the SEND system are needed, including skills development
+for professionals in collaborative working with parents and a culture change whereby
+parents' views are central to decision-making." (Academic/ researcher/ research body)
+Most respondents also reported a need for effective consultation and collaboration with
+key partners in order to elicit buy-in, particularly among parents. This included a multi-
+agency approach and cooperation between local authorities to ensure a consistency of
+approach.
+Some respondents also stressed the importance of early intervention of health and
+education, complemented by effective co-production which has "the voice of children and
+young people at the heart."
+A few respondents also felt that the support provided to partner organisations needed to
+be coordinated and tailored, delivered evenly across different local authority areas, and
+recognise the "system as still being in recovery from the pandemic" and therefore
+incorporate "realistic timescales to transition to a new system".
+The most commonly reported barriers to success were:
+Limiting the ability to provide individualised support for individuals instead
+encouraging a 'one-size-fits all approach
+Unnecessary bureaucracy slowing implementation
+A lack or qualified and experienced staff to deliver or implement the proposals in
+the green paper
+Local services not buying into the changes
+A slow pace of change which loses partner buy-in
+A lack of responsibility and ownership among partners
+A focus on schools that results in little consideration of other sectors
+7.4
+Question 21: Support for local systems
+What support do local systems and delivery partners need to successfully
+transition and deliver the new national system?
+Across all respondents, there was consensus that to successfully transition and deliver
+the new national system, local systems and delivery partners would need:
+Clear guidance and expectations
+64
+Training
+Consistency across sectors and regions
+Ringfenced time and funding
+Support for cultural and systemic change
+Examples of evidence-based approaches which show what works well
+The NNPCF stated that in addition to training for the whole workforce, support training for
+parents/carers would be required. They also mentioned consistency of expectations
+across services, as well as the willingness and commitment of all key agencies.
+In contrast, the view from SNJ was that a new national system should not be
+implemented because wholesale change was not required. This view was also echoed by
+a few parents/carers who explained that an "excellent national law already exists", but
+accountability was needed.
+7.5 Question 22: Further reflections
+Is there anything else you would like to say about the proposals in green paper?
+In analysis of this question, sentiment analysis has been conducted on the five groups
+where over 90 respondents gave their overall opinion on the green paper¹⁰
+(parents/carers, respondents from education settings, local authority staff, charities and
+SEND sector bodies, and other individuals) in order to gauge overall perception towards
+the proposals.
+7.5.1 Parents/carers
+Just over 20% of parent/carer responses to this question directly addressed the
+proposals in the green paper and gave their overall opinion. The sentiment of these
+opinions contained positivity, negativity, and scepticism, and in some cases opinions
+expressed more than one type of sentiment.
+Of the respondents to this question that gave their overall opinion on the green paper,
+19% of the opinions contained positive sentiment towards the green paper proposals,
+while 75% contained negative sentiment, and 6% contained scepticism. As shown in
+Figure 20, there was significant sentiment overlap between positivity/negativity and
+positivity/scepticism.
+10 Running sentiment analysis on a small number of responses could lead to inaccurate generalisations - it is only appropriate when there are a large
+number of responses (around 100). A separate analysis has been carried out of the smaller groups.
+65
+Figure 20: Overview of sentiment: parents/carers
+Positive
+Sceptical
+Negative
+The responses which contained negative sentiments were principally driven by concern
+that the green paper proposals were focused on reducing funding, that the existing laws
+need better enforcement and do not need to be changed, and that specific details were
+not provided, such as how accountability would be imposed.
+Examples responses by sentiment category
+Positive: "I believe the proposals in the green paper could be a very effective turning point
+for our children with SEN and they can finally access a better quality of education".
+(Parent/carer)
+Negative: "These proposals are far too focused on saving money. The proposals should
+focus on meeting the specific needs of individual children, and recognising that more
+funding is needed, not less". (Parent/carer)
+Positive/sceptical: "I would really like to be optimistic for the future however whilst these
+proposals look really good on paper, I worry greatly that it's just another paper exercise".
+(Parent/carer)
+Positive/negative: "Ultimately the SEND green paper contains many positive ideas and
+accurately reflects the current situation. However, it doesn't recognise or address how
+unfairly weighted the system is against parents, in particular those who are disadvantaged".
+(Parent/carer)
+A few parents/carers expressed that "funding and a uniform, national system will be key
+to success, and are where we feel the failures in the current system stems from." These
+respondents also echoed the need for greater accountability of existing laws and
+concerns around funding. Additionally, some responses stated that the green paper
+proposals did not address the important role played by the independent sector for
+children and young people with SEND given the shortage of schools, particularly in
+secondary years.
+Additionally, some parents/carers felt that the green paper focused on schools and local
+authorities and not sufficiently on health and social care: "If we are to create a joined-up
+66
+system, we must have clarity on what is expected from other key sectors." Some also felt
+that it focused "very heavily on educational and employment outcomes" and was "silent
+on those young people not destined for further education, training or work."
+Some respondents reported concerns around funding as detailed costings of the
+proposals were not included. A few also felt that young people's rights may be reduced in
+regards to accessing provision that meets individual needs and that procedures for
+accountability have not been specified in the green paper. Additionally, a few
+respondents reported that they would like the following areas to be considered:
+The experiences of marginalised communities
+Extensions of EHCPs to young people in higher education
+A greater response to speech, language and communication needs
+Increased funding so multidisciplinary teams can work together
+7.5.2 Respondents from education settings
+In total, 20% of respondents to this question from education settings directly addressed
+the green paper proposals and gave their overall opinion. Of these, 50% contained
+positive sentiment towards the green paper proposals, 40% contained negative
+sentiment, and 10% contained scepticism. Compared with parents/carers, this group
+showed substantially higher levels of positivity towards the green paper proposals. As
+shown in Figure 21, there was less sentiment overlap than in other groups.
+Figure 21: Overview of sentiment respondents from education settings
+Positive
+Sceptical
+Negative
+Some of the responses which expressed both positive and negative sentiment contained
+appreciation for the green paper proposals but had concerns about whether funding
+levels would be appropriate to deliver them.
+67
+"I think this will have a vast difference to children lives and I welcome such bold
+transformation!" (Other education professionals)
+"New proposals aren't needed - what is needed is proper funding to enable the system
+to work and to support YP with SEND properly." (Headteacher/teacher/other teaching
+staff)
+Respondents from early years' settings generally expressed support for the green paper
+proposals but a few mentioned that early years settings were not considered fully.
+Respondents from FE settings similarly expressed support for the green paper proposals
+but also concern as "there is very little included in the green paper on post-16 provision."
+There was an email campaign to elicit responses from NDCS which stated that any
+changes to the SEND system should keep deaf children in mind and that there needs to
+be an emphasis on teachers of the deaf and funding for specialist services. The
+campaign also stated they are "disappointed to see that the proposals in the SEND
+review don't mention teachers of the deaf. Especially as there's been a 17% fall in their
+numbers since 2011."
+7.5.3 Respondents from local authorities
+Over 40% of respondents to this question from local authorities directly addressed the
+green paper proposals and gave their overall opinion. In total, 53% of these contained
+positive sentiment towards the proposals, 31% contained negative sentiment, and 16%
+contained scepticism. As shown in Figure 22, just under half of the responses showed an
+overlap between positivity/negativity and positivity/scepticism.
+Figure 22: Overview of sentiment: local authorities
+Positive
+Sceptical
+Negative
+The scepticism expressed in the responses was mostly due to the perceived lack of
+detail on implementation and how the green paper proposals would work in practice. The
+negative sentiment was primarily driven by what respondents viewed was missing in the
+green paper, such as detail on early years and funding.
+68
+7.5.4 Health and social care
+Respondents from this group generally expressed support for the green paper proposals
+but felt that there was "limited reference to health" and "the relationship between
+education, health and care needs to be further expanded upon". Some also reported that
+more was needed to encourage the sharing of responsibility across agencies and that no
+funding commitments had been made to health services to discharge their legal duties.
+7.5.5 Other interested individuals
+Nearly 30% of other individuals directly addressed the green paper proposals and gave
+their overall opinion. Of these, 40% contained positive sentiment towards the green
+paper proposals, 59% contained negative sentiment and 2% contained scepticism. As
+shown in Figure 23, 22% of respondents showed either overlapping positivity/negativity
+or overlapping positivity/scepticism.
+Figure 23: Overview of sentiment: other individuals
+Positive
+Sceptical
+Negative
+The drivers of the negative sentiment were in line with those in other respondent groups.
+Some felt that specific areas were not described in detail such as:
+The role of further education and specialist provision
+The support available to children and young people with physical or neurological
+disabilities
+The level of investment in early years
+As a result, they felt there was not sufficient detail "to allow fair comment on whether
+these will improve the lives and outcomes for CYP with SEND" and the issues facing the
+SEND workforce. There was also concern among this group that funding and young
+people's rights may be reduced and that the existing laws need better enforcement and
+do not need to be changed.
+69
+"There is much in the green paper that is good. However, we also detect big gaps A
+focus on addressing mental health needs and emotional well-being in the 0-25
+population as a whole is largely absent". (On behalf of a charity/voluntary or community
+organisation)
+"The green paper includes a statement that the short term aim is to stabilize and, in the
+long term, a cultural change to building an inclusive system. This is an important
+statement which we welcome. However, there is little in the review that recognizes that a
+culture change is needed". (Academic/ researcher/ research body)
+"The review does not recognise the impact of the pandemic on education, health and
+social care services. This continues to have a dramatic impact on well-being and
+outcomes for disabled children. The green paper has a lack of detail on how it will
+ensure better support for children and families from health and social care services". (On
+behalf of a charity/voluntary or community organisation)
+7.5.6 Organisations
+Respondents from organisations frequently expressed support for the green paper
+proposals, and particularly the national template for EHCPs and preservation of extended
+powers for the SEND Tribunal. However, some identified areas that would have benefited
+from greater consideration in the green paper, such as greater detail on funding. One
+organisation stated that a full financial impact assessment of the green paper proposals
+would help instil confidence. Some also requested more detail around transitions and
+preparation for adulthood, early years, post-16 provision, the role of the voluntary and
+community sector and expectations regarding multi-agency working.
+Some respondents also did not believe that legislative change is required. They felt that
+the key problems with current SEND provision are related to implementation and
+addressing structural challenges and that the problems of the 2014 reforms stemmed
+from a lack of funding, accountability, guidance and training. They therefore believe that
+consistent and effective implementation is what is required. A few respondents cautioned
+that legislative change and the creation of new systems may result in disruption and
+greater bureaucracy rather than improving provision and outcomes.
+The need for alignment with other policy developments were reported by some
+respondents. This included achieving "balance between the White Paper's drive for
+higher standards and the green paper's emphasis on greater inclusion". Some also felt
+that there is an opportunity to incorporate the Timpson Review to facilitate additional
+progress in the area of inclusion and alignment with the recommendations from the Care
+Review.
+70
+Annex 1: Children and young people's questions
+What age range do you fit into?
+What kinds of support are most important to help you prepare for adulthood?
+Who should be involved in making decisions about help for children and young
+people with additional needs?
+An EHCP is made up of these parts:
+(A) The views, interests and aspirations of the child or young person
+(B) Special educational needs
+(C) Health needs
+(D) Social care needs
+(E) Outcomes for children and young people
+(F) The special educational provision required
+(G) Health provision required
+(H1 and H2) Social care provision required
+(I) Placement
+(J) Personal budget
+(K) Advice and information
+Which are the most important parts of the plan to you? Please choose up to three
+parts.
+In the green paper we propose to create a list of appropriate schools for children
+with EHCPs to attend. Parents will be asked to say which of the schools on the list
+they would prefer their child to go to.
+What do you think those preparing the list should think about when putting it
+together?
+a) My age
+b) My needs such as whether I need additional help in lessons or find it hard
+to communicate sometimes
+c) How far away it is from my house
+d) How easy it is to get there
+e) How much it costs
+f) If my friends/siblings go there
+g) Other: tell us in your own words what you think adults should think about
+h) I don't know
+i) I don't want to say
+71
+An apprenticeship is a type of training where you learn skills while doing a job. We
+would like to know what you think would help you take part in an apprenticeship, if
+you wanted to. For example, advice on what kinds of apprenticeships are available
+from your teachers, or information about events where you can ask questions
+about different apprenticeships. Please say what you think would help you take
+part in an apprenticeship.
+Some young people spend time in alternative provision, to help them with
+behaviour or other needs, or because they have been excluded from their main
+school. Alternative provision can include small, specialist schools (sometimes
+called Pupil Referral Units), work-based or placements (for example, at a farm or
+mechanics), or one-to-one tuition. We would like children and young people to get
+this support for behaviour or other needs in their main school wherever possible. If
+you have ever attended alternative provision, please tell us what support you think
+would have helped you stay at your main school instead.
+72
+Annex 2: Questions asked by the DCP
+Questions asked by the DCP
+Mapping to the consultation questions
+Would you be confident in being able to
+Q5. How can parents and local authorities
+get the right school or college placement
+most effectively work together to produce
+for your child under this arrangement?
+a tailored list of placements that is
+appropriate for their child, and gives
+parents confidence in the EHCP process?
+How do you think accountability in the
+Q19. How can the National SEND
+SEND system can be improved?
+Delivery Board work most effectively with
+local partnerships to ensure the proposals
+are implemented successfully?
+Do you agree with the government's plans
+Q6. To what extent do you agree or
+to require parents and local authorities to
+disagree with our overall approach to
+go through mediation before a parent can
+strengthen redress, including through
+appeal to the SEND Tribunal?
+national standards and mandatory
+mediation?
+What do you think needs to be done to
+Q8. What steps should be taken to
+make mainstream nurseries, schools, and
+strengthen early years practice with
+colleges better able to meet the needs of
+regard to conducting the two-year-old
+children and young people with SEND?
+progress check and, integration with the
+Healthy Child Programme review?
+Do you think it possible for a national sys-
+Q18. How can we best develop a national
+tem of tariffs to meet the specific circum-
+framework for funding bands and tariffs to
+stances of different children and young
+achieve our objectives and mitigate
+people?
+unintended consequences and risks?
+Do you have any other comments on the
+Q22. Is there anything else you would like
+proposals in the SEND Green Paper?
+to say about the proposals in green
+What are the key things you think need to
+paper?
+change to improve support for disabled
+children and their families?
+73
+Annex 3: Respondent groupings
+Respondent
+Grouping for report
+A parent/carer
+Parents/carer
+A headteacher/teacher/other teaching staff
+Respondents from an education setting
+Other
+Overall
+Interested individual
+Parents/carer
+A child/young person (up to age 25)
+Child or young person
+Other education professionals
+Respondents from an education setting
+Other organisations
+Overall
+On behalf of a charity/ voluntary or
+community organisation
+Overall
+On behalf of a local authority
+Respondents from local authorities
+On behalf of a multi or single academy trust
+Respondents from an education setting
+Educational support staff
+Respondents from an education setting
+A health care professional
+Healthcare professionals and workers
+On behalf of a representative SEND sector
+body
+Parents/carer
+On behalf of a special education setting
+Respondents from an education setting
+Academic/ researcher/ research body
+Overall
+On behalf of a further education/ post 16
+setting
+Respondents from an education setting
+On behalf of a health service
+Healthcare professionals and workers
+On behalf of an early years setting
+Respondents from an education setting
+On behalf of an alternative provision
+provider
+Respondents from an education setting
+On behalf of an independent education
+provider
+Respondents from an education setting
+Prefer not to say
+Overall
+Other social care professional
+Healthcare professionals and workers
+A social worker
+Healthcare professionals and workers
+74
+Annex 4: Organisational respondents
+Organisation Name¹¹
+A local authority
+A2ndvoice CIC
+Abbey Hulton Primary School
+Academies Enterprise Trust
+Academy21
+Accompli: Professional Development
+Ace Centre
+Ace Music Therapy CIC
+Achieving for Children on behalf of Kingston and Richmond Councils
+Acorns Primary School Preston
+Action Cerebral Palsy
+Action-attainment CIC
+Addington Special School
+ADHD UK
+Adoption UK
+Afasic
+All Party Parliamentary Group on Adoption and Permanence
+Amaze
+Ambitious about Autism
+Anglesey playgroup
+APPG on SEND
+Appleford School
+Army Families Federation (AFF)
+Ashley High School
+Askham Bryan College
+ASSET
+Association of Colleges
+Astral Tuition Services
+Auditory Verbal UK
+Auditory Verbal UK
+AuKids magazine
+Autism plus
+Aviva
+Avonwood Primary School
+Balgowan Primary/Bromley Trust Academy
+Barking & Dagenham College
+Barking & Dagenham Council
+Barnet Education and Learning Service
+Barnsley MBC
+Barnsley SENDIASS
+Barrow URC Primary School
+11 This list only includes organisations from the e-consultation that agreed to have their response published.
+75
+Bath and North East Somerset Council
+Baytree Special School
+Beach Babies Ltd
+Beacon Hill School
+Belmont Junior School
+BePART educational Trust
+Bevois Town Pre-School
+BeyondAutism
+Birmingham City University
+Birmingham Metropolitan College
+Birtley East Primary school
+Bishop Barrington Academy
+Bishop Justus C of E School
+Bishop Ridley Primary School
+Bishop Ullathorne Catholic School
+Blackburn with Darwen Borough Council
+Blatchington Court Trust
+BMAT Education
+BMCC
+BME VOLUNTEERS CIC
+Bolton Parent Carers
+Boothroyd primary academy
+Boston Endeavour Academy
+Bowers
+Bracknell parent carer forum
+Bradford SENDIASS
+Brentwood School
+Bridge the Gap Education
+Bright Horizons Family Solutions UK
+Brighton & Hove City Council
+Brighton & Hove City Council
+Brimble Hill Special School
+Bristol City Council
+Bristol City Council
+Bristol hospital Education Service
+British Academy of Childhood Disability
+British Association for Community Child Health
+British Association of Teachers of the Deaf (BATOD)
+British Psychological Society
+British Psychological Society Division of Neuropsychology
+Brookfield Primary School
+Brunel Academies Trust
+Buckinghamshire County Council
+Buckinghamshire Oxfordshire and Berkshire West ICS
+Burchetts Green Infant School
+Burton and South Derbyshire College
+Busy Bees day nurseries
+76
+University of Derby
+Busy Lizzie's Nursery
+Buxton Primary School
+Calderdale Council
+Calderdale Council
+Calderdale Metropolitan Borough Council
+CAM Academy Trust
+Cambridge Regional College
+Camden Learning
+CAMEL100 LIMITED
+Cann Bridge School
+Capital City College Group
+Care Quality Commission
+Career Connect
+Caroline Hardaker Kids Physio
+Castle Vale Nursery School
+Castleford College
+Catch22
+Central Cheshire Integrated Care Partnership
+Central London Community Healthcare NHS Trust
+CENTRAL REGION SCHOOLS TRUST
+Chailey Heritage Foundation
+Chance UK
+Chartered College of Teaching
+Cherry Lane Primary School SRP
+Cherry Tree Learning Centre
+Cheshire East Parent Carer Forum
+Cheshire West and Chester Local Area
+Children's Quarter
+Children's Services Development Group (CSDG)
+Chinuch UK - Representing 80 Orthodox Jewish schools across the UK
+Cirrus Primary Academy Trust
+City College Norwich
+City College Norwich
+City of Stoke-on-Trent city council
+Cledford Primary School
+College Park School
+Colnbrook School
+Community First Academy Trust
+Confederation of School Trusts
+Contact, the charity for disabled children
+CoomberSewell Enterprises LLP
+County Upper School
+Coventry City Council
+Creative Interaction/Please Miss
+Creature Comforts.
+Cumbria County Council
+77
+Cumbria SEND Partnership
+Cygnet Health Care
+Cygnet Health UK
+Darell Primary and Nursery School, Richmond, London
+Dearne Valley College
+Decipha
+Define Fine: Parent Peer Support for School Attendance Difficulties
+Department for Education
+Derbyshire County Council
+Derbyshire County Council. Behaviour Support Service (Children's Services)
+Derbyshire Parent Carer Voice
+Derbyshire SEND Local Area
+Derwen College
+Devon Carers
+Devon County Council
+Devon Education Forum
+Devonshire Road Primary School
+Dimensions
+Dingley's Promise
+Disabled Children's Partnership
+DNDLT
+Dorset Council
+Dorset Council
+Down's Syndrome Association
+Down's Syndrome Support Group London
+Durham County Council
+Dyspraxia Foundation
+Early help
+Early Years Alliance
+East Coast College
+East Midlands Regional Innovation & Improvement Alliance
+East of England Local Government Association
+East Riding of Yorkshire Council
+East Riding SENDIASS
+East Sussex Parent Carer Forum
+Eaton Bray Academy
+Educate Together Academy Trust
+Education Policy Institute
+Educational Equality
+Educational Psychology Service St Helens Borough Council
+Embsay Children's Centre
+Empowering Learning
+Endeavour Primary School
+Enfield County School for Girls
+Engineered Learning Ltd.
+England & Wales Cricket Board (ECB)
+Enhance EHC Ltd
+78
+ESC Management Services Limited
+ESRC Excluded Lives: Political Economies of Exclusion
+Essex Family Forum
+Essex SEND Partnership Board
+Evolve Church of England Academy Trust
+Excalibur Academies Trust
+Expanse Learning
+EY
+f40
+Fairfax multi-academy trust
+Family
+Family Action
+Family Voice Norfolk
+Family voice Peterborough
+Family Voice Surrey
+Federation of Leaders in Special Education (FLSE)
+Federation of Thomas Wall Nursery and Robin Hood Infant Schools
+First Class Tailored Solutions Ltd
+Fit 2 Learn CIC
+Fortuna Primary School
+Fountain Primary
+Frank Wise School
+Frank Wise School
+Fressingfield CofE school
+Frewen College
+Full of Life
+Gateshead Council
+Geldards LLP
+Gesher Special School
+GLF Schools
+Gloucestershire County Council
+Godalming Junior School
+Goodmayes primary school
+Gosden House School
+Governors of Willow Dene Special School
+Granville Academy
+Greenbank College
+Greenwich Mencap
+GriffinOT
+Grouty's Guide
+GROW
+Guildford and Godalming SENCo Group
+Gwyn Jones Primary
+Haringey and North London Socialist Education Association
+Harland House (Bridlington School)
+Harrison College
+Harrow Council
+79
+HeadStart- Blackpool
+Headstart Day & Afterschool Care
+Headstart nursery
+Health Conditions in Schools Alliance
+Healthwatch Solihull
+Heathlands
+Hednesford Valley High School
+Hemingford Grey Primary School
+Herefordshire Council
+Hertford Junior School
+Hertfordshire and West Essex Integrated Care Board
+Hertfordshire Community NHS Trust
+Hertfordshire County Council
+Hertfordshire County Council
+Herts Parent Carer Involvement
+Hillcrest Early Years Academy
+Hillingdon Council
+Holbrook Community Preschool
+Holmwood
+Home
+Homefield College
+Hope Learning Community
+Horizons Education Trust
+https://edyourself.org/
+Hugh Gaitskell Primary
+Hugh Gaitskell Primary School
+Hull City Council
+I CAN Children's Communication Charity
+Icknield Primary School, Luton
+Ilfracombe Infant and Nursery School and Goodleigh CofE federation
+Inclusive Solutions
+Independent tuition
+Information, Advice and Support Network
+Information, Advice and Support Network- Part of the Council for Disabled Children and NCB
+Institute of Education, UCL's Faculty of Education and Society
+Institute of Health Visiting
+IPSEA (Independent Provider of Special Education Advice)
+Islington parent carer forum
+Jane c Oliver Educational Consultancy Ltd.
+Just for Kids Law
+Kensington and Chelsea Council
+Kent Autism Education Service
+Kent county council
+Kent County Council
+Kent SEND Support
+Key Unlocking Futures Ltd
+Kids academy nursery
+80
+Kids First, SEND Parent Forum, Merton Mencap
+Kingsdown school, Swindon
+Kingston upon Thames Schools Forum
+Lancashire and South Cumbria Integrated Care Board
+Lancashire and south Cumbria trust
+Lancashire County Council - Inclusion Service - EPS
+Lancashire County Council Educational Psychology Service
+Lancashire Educational Psychology Service (Lancashire County Council)
+Lancashire Schools Forum
+Lancasterian School
+Lanchester Primary School
+Lane End Primary School
+Larkrise Community Farm
+LBTH Behaviour and Attendance service
+Lea Manor high school
+Lead Exposure and Poisoning Prevention Alliance
+Leading Learning for SEND Community Interest Company - LLSENDCiC
+Learning in Harmony Trust
+Learning Space
+Leeds City Council
+Leeds Health and Care Partnership
+Leicestershire County Council
+Leicestershire Educational Psychology Service
+Leicestershire Secondary Education and Inclusion Partnerships (Leics SEIPS)
+Leicestershire SENCONET
+Lesley Cox Consultancy
+Let Us Learn Too
+Lexie Willoughby
+Lexie Willoughby
+Leyton Sixth Form College
+Lincolnshire Parent Carer Forum
+Lincolnshire Young Voices
+Linkage Community Trust
+Little Hearts Matter
+Little Sutton Primary School
+Liverpool City Council
+Liverpool Hope University
+Liverpool John Moores University
+Local Authority
+Local school with a provision on site
+London Borough of Barnet
+London Borough of Bromley SEND Partnership
+London Borough of Camden
+London Borough of Hounslow
+London Borough of Merton
+London Innovation and Improvement Alliance (ALDCS)
+Longdean School
+81
+Lostock Hall
+Loughborough University
+Luton Maintained Nursery School Alliance
+Lydgate Junior School
+Magic Breakfast
+Manchester Local Care Organisation
+Manor Hall Academy Trust
+Maple Hayes Hall Section 41 Approved Independent Special School
+Marjon
+Mary Hare School (for deaf children)
+Maytree nursery school
+Medicine in Specialist Schools
+Medway Council
+Medway Labour and Cooperative Group
+Melbourn Village College
+Member of Parliament
+Middleton Primary School
+Millfield prep
+Minsthorpe Community College
+Mo Mowlam Academy
+Monkton Nursery School Ltd.
+Montpelier High School
+More House School
+Morecambe Bay CCG
+Mountjoy School
+Nacro
+NAHT
+NAS Richmond Branch
+NASS
+Natalie Packer Educational Consultancy Ltd.
+National Association of Hospital Education
+National Association of Principal Educational Psychologists
+National Association of Virtual School Heads (NAVSH)
+National Centre for Family Hubs (Anna Freud National Centre for Children and Families)
+National Day Nurseries Association
+National Development Team for Inclusion
+National Down Syndrome Policy Group
+National Education Union
+National Governance Association (NGA)
+National Literacy Trust
+National Mental Capacity Forum
+National Network of Parent Carer Forums
+National SEND Forum - on behalf of the Regional Centres of Expertise Working Group
+National Sensory Impairment Partnership
+National Special Educational Needs & Disability Forum (NSENDF)
+National Star
+National Star
+82
+National Working Group Network
+National Working Group on Safeguarding Disabled Children AND Ann Craft Trust
+Natspec
+Navigating Neurodiversity
+NCFE
+Nettlesworth Primary School
+Neurodiversity Networks CIC
+Neuro-Informed Ltd
+New Bridge Multi Academy Trust
+New City College
+New College Worcester
+New College Worcester
+Newbury College and Woolhampton Primary
+Newham Music
+Newport C of E Primary
+Nexus Multi Academy Trust
+NHS - Aintree Hospital
+NHS Birmingham & Solihull
+NHS England
+NHS Kent and Medway
+NHSEI
+Nisai Education Trust
+Nisai Virtual Academy
+NORFOLK SEN NETWORK
+North Northamptonshire Council
+North Somerset Council
+North West Kent Alternative Provision Service
+North Yorkshire Police
+North Yorkshire Youth Justice Service
+Northumberland Parent Carer Forum
+Nottingham City Council Inclusive Education Service
+Nottingham university hospitals
+Nottinghamshire County Council
+Nurture Learning
+Nurtureuk
+Oakleigh School
+Oakridge School
+OASIS
+OneSchool Global UK
+Open Academy Norwich
+Open Box Education Centre
+Orchard Community Trust
+Orchard Hill College & Academy Trust (OHC&AT)
+Ormiston Academies Trust
+Oxfordshire Schools Forum
+Paediatric Continence Forum
+PAGS/ Felser LTD
+83
+Parent Carer Voice Herefordshire
+Parent Carer Voice, North Yorkshire
+Parentkind
+Parents and Carers Together Stockport (PACTS)
+PARK LANE PRIMARY
+Pathways Learning Centre
+Patoss, the Professional Association of Teachers of Students with Specific Learning Difficulties
+Pavilion Pirates Preschool
+PCAN
+pdnet
+PhD awarded by the Institute of Education, UCL
+Phoenix Park Academy
+Pilton College
+Pinpoint
+Place2Be
+Portland College
+Portsmouth Down Syndrome Association and National Down Syndrome Policy Group
+Potential Plus UK
+Potter Street Academy (Harlow, England)
+Prader-Willi Syndrome Association UK
+Priestley Smith Specialist School
+Primary school, mainstream with specialist unit
+Progression Sessions
+Prospect - Education and Children's Services Group
+PRUsAP
+Purley Oaks Primary School
+Queens Park Community Nursery
+Queensbury School
+Rainbow Day Nursery
+Rainbow Trust Children's Charity
+Ravensfield Primary School
+Ravenswood School
+REACH School AP
+Reading Families Forum
+Real Group Ltd
+Red Balloon
+Ribbon Academy, Murton
+Richmond Upon Thames Schools Forum
+River Tees Multi-Academy Trust
+RMS for Girls
+Roman Way Academy
+ROTHERHAM Metropolitan Borough Council
+Royal Berkshire NHSFT
+Royal Borough Kensington and Chelsea Council
+Royal Borough of Greenwich
+Royal Borough of Kensington and Chelsea
+Royal College of Occupational Therapists
+84
+Royal College of Speech and Language Therapists
+Rye Park Nursery School
+Salford City Council - SEND Partnership Board
+Samuel Pepys School
+Sandgate School - Kendal, Cumbria
+Sandra Searcy
+SASC SpLD Assessment Standards Committee
+Scanning Pens
+Schools Alliance for Excellence
+Schools Works Academy Trust - Rustington CP School
+Scope
+SEA Inclusion and Safeguarding
+Seashell
+SeeAbility
+Seetec
+SEN Legal
+sen.se
+SEN4You
+SEND and Inclusion
+SEND AND YOU
+SEND and You (previously Supportive Parents for Special Children)
+Send Power in Haringey
+Send Power in Haringey
+SEND Voices Wokingham
+SENDIASS
+SEN-Experts (North East) Ltd
+SENse Learning
+Serenity Welfare
+SHARE Multi-Academy Trust
+Sheffield Hallam University
+Sheffield Place - South Yorkshire Integrated Care Board
+Shenstone School
+Simpson Millar LLP
+Sir John Lawes / Scholars' Education Trust
+Sirona health and care
+Sixth Form Colleges Association
+Smart Multi-academy Trust
+Socialist Educational Association
+Society of County Treasurers
+Solace
+Solihull Parent Carer Voice C.I.C
+Solway Community School
+SOS SEN
+South East London Integrated Care System
+South Gloucestershire and Stroud College
+South Gloucestershire Council
+South Gloucestershire County council
+85
+South Tyneside and Sunderland NHS Foundation Trust
+South Tyneside Council
+South West London Integrated Care System
+Southampton City Council
+Southampton Inclusion Partnership
+Southwark YOS
+Sparkle Lodge Early Years
+Special Educational Needs and Education Infrastructure
+Special Needs Community CIC
+Speech Link Multimedia Ltd (T/A SL Multimedia)
+Springboard Opportunity Group
+SSAT
+St Bernadette's Primary School
+St Christopher's Catholic Primary School
+St Edward's CE Primary School
+St James Centre
+St Joseph's Catholic Primary School
+St Joseph's Catholic Primary School, Otley, Bishop Wheeler Academy Trust
+St Mary Magdalene's RCPrimary, a voluntary academy
+St Mary's Euxton
+St Mary's CofE Infant School, Witney, Oxfordshire
+St Pauls RC
+St Peter's Catholic school
+St. Nicholas School
+Staffordshire County Council
+Staffordshire SEND and Inclusion Partnership Group
+Staffordshire Virtual School
+Stanborogh School
+Star Academies
+Stepping Stones preschool
+Stockport Council
+Stockport Council Early Years Improvement Team
+Stockport NASENCO course 21/22
+Stratton Primary School
+Student Community Action
+Sue Peacock SEND-Support
+SupaJam Education in Music & Media
+Surrey County Council
+Surrey Primary Headteachers' Phase Council
+Sutton Parent Carer Forum, Sutton EHCP Crisis Group, Mark Brown Coffee Morning Group, Get on
+Downs, Focus Surrey
+Swalcliffe Park School CIO (Charitable Incorporated Organisation)
+Swindon SEND Information advice and support service
+Syper Ltd
+Talentino
+TAMESIDE METROPOLITAN BOROUGH COUNCIL
+Teach Us Too
+TEAM Education Trust
+86
+TeamADL CIC
+Telford & Wrekin - Local Area
+Tenterden Rural Alliance
+The British Association for Supported Employment
+The British Youth Council
+The Children's Society
+The Children's Trust
+The Complete Education Solution (TCES)
+The Cooke E-Learning Foundation
+The Co-op Academies Trust
+The Dales School
+The Difference
+The Ewing Foundation
+The flying high academy Ladybrook
+The Foundation for Education Development
+The Glapton Academy
+The Good Schools Guide
+The Green Room School, Kinglsey
+The Harington Scheme
+The Independent Schools Association
+The Local Offer (SEND) Ltd
+The Multi-Schools Council
+The National Organisation for FASD
+The New School
+The Pace Centre
+The Royal National College for the Blind
+The Royal National Institute of Blind People (RNIB)
+The Royal School Wolverhampton
+The RSA
+The SEND Consultancy
+The sensory smart child Ltd
+The Sheffield College
+The Skylark Partnership
+The Smith-Magenis Syndrome (SMS) Foundation UK CIO
+The Society of London Treasurers
+The Spire Church of England Learning Trust
+The Stroke Association
+The University of Cambridge
+The Vale Federation
+The Vale Special School
+The Valley School
+The Village School/ National Education Union
+The Vyne School
+The Wilnecote school
+Thomas Deacon Academy
+Thomas Keble School
+Thomas Knyvett College (part of The Howard Partnership Trust - THPT)
+87
+Thomas pocklington trust
+Thrive Federation
+Together for Short Lives
+Torbay Local Authority
+Townley Primary School
+Townsend Primary School
+Trafalgar Infants School
+Treloar's (the Treloar Trust)
+Triple P UK
+TRURO AND PENWITH ACADEMY TRUST
+Tute Education
+Uclan
+Uffculme Academy Trust
+UNISON
+United Learning Trust
+United Response
+Unity Schools Partnership
+University of Birmingham
+University of Cambridge
+University of Cambridge Primary School
+University of Chichester
+University of East London
+University of Essex School of Law
+University Of Gloucestershire
+University of Huddersfield
+University of Manchester
+University of Northampton
+University of Southampton
+University of Sunderland
+University of Sussex
+Unlocking Language
+Uplands LEAD Academy
+Varndean College
+Victoria Drive Primary PRU
+Volunteering Matters
+Waf
+Wakefield Council
+Wakefield Shout Out for Change
+Wargrave House School and College, LEAP College
+Warwick Community Playschool, Wellingborough
+Warwickshire County Council
+Watergrove Trust
+WCG
+West Berkshire SEND Strategic Partnership Board
+West London Zone
+West Midlands ADCS Network
+West Midlands Association of SENDIASS services
+88
+West Midlands Regional Parent Carer Forum Network (WMRPCFN)
+West Northamptonshire council
+West Sussex Alternative Provision College
+West Sussex APC
+Westcroft School
+Westminster Autism Commission
+Westminster City Council
+Weston College
+Wigan SENDIASS
+William Edwards School
+Williams Syndrome Foundation
+Wiltshire Council
+Windham Nursery school
+WIRED
+Wisbech St Mary Church of England Academy
+Woodham Ley Primary School
+Woodlands Secondary School
+Worcestershire SENCO Network
+World of Inclusion Ltd
+Worthinghead Primary School
+Wyvern school
+Yeovil Opportunity Group
+Yerbury Primary School
+York St John University
+Yorkshire and Humber Principal Educational Psychologist Regional group
+Yorkshire police
+89
+Department
+for Education
+© Department for Education 2023
+ISBN: 978-1-83870-456-8
+For any enquiries regarding this publication, contact us at
+www.education.gov.uk/contactus
+This document is available for download at www.gov.uk/government/publications
+90
