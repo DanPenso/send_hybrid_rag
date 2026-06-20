@@ -2,6 +2,50 @@
 
 This repository contains the complete, end-to-end codebase for the fine-tined Hybrid-RAG dissertation project. The system implements a local,  Retrieval-Augmented Generation (RAG) architecture combined with Supervised Fine-Tuning (QLoRA). The purpose is to adapt a baseline Large Language Model (Meta-Llama-3.1-8B-Instruct) into a factually grounded, pedagogically aligned tool to support teachers working with SEND children.
 
+---
+
+## Key Results
+
+This project compared a **zero-shot Llama 3.1 baseline** against a **hybrid RAG + QLoRA fine-tuned model** on 250 stratified UK SEND advisory prompts. Evaluation used four streams: RAGAS (faithfulness/relevancy), LLM-as-judge (tone/grounding), PCA/K-Means semantic drift, and cross-stream statistical testing.
+
+### RAGAS evaluation (Stream A)
+
+Hybrid RAG improved factual grounding over the baseline. On average, faithfulness increased and answer relevancy decreased across the evaluation set.
+
+<img width="1097" height="677" alt="image" src="https://github.com/user-attachments/assets/a0700385-6a5f-4ef4-aeaa-9ab5c270df7c" />
+
+
+### Pedagogical evaluation (Stream B)
+
+The LLM judge assessed tone alignment and technical grounding. Hybrid responses showed **[describe direction/magnitude]** in grounding and **[describe tone result]** in pedagogical tone.
+
+<img width="1091" height="677" alt="image" src="https://github.com/user-attachments/assets/577a8a58-8aff-45b3-8944-4eb62d80f0e9" />
+
+<img width="1097" height="537" alt="image" src="https://github.com/user-attachments/assets/c7181eb5-75b4-4b92-ae4c-76dbd9502811" />
+
+
+### Conclusion
+
+- **Hybrid RAG outperformed the baseline on faithfulness** (mean delta **[+0.05]**, p **[0.034]**), suggesting retrieval over statutory SEND documents reduces unsupported claims.
+- **Technical grounding improved significantly** (mean delta **[+0.16]**, p **[<0.001]**), indicating the system better aligns answers with source material.
+- **Fine-tuning plus retrieval produced a more domain-appropriate advisory style** than zero-shot inference alone, while remaining suitable for teacher-facing use.
+- **Semantic drift analysis (Stream C)** showed **[your one-line interpretation]** — hybrid responses clustered differently from baseline outputs in embedding space.
+- **Cross-stream synthesis (Stream D)** confirmed statistically significant differences on multiple metrics, supporting the overall hybrid architecture.
+
+### Limitations
+
+- The ChromaDB index is not included in this repository due to size; Phase 4a must be re-run to rebuild it.
+- Evaluation used synthetic training data and API-based judges; results should be validated in real school settings before deployment.
+- The system is research-grade, not a clinical or legal advice tool.
+
+### Links
+
+- **Dataset:** [send-senco-instruction-pairs on Hugging Face](https://huggingface.co/datasets/DanPenso/send-senco-instruction-pairs)
+- **Dissertation grade:** Distinction (80%)
+
+---
+
+
 ## Setup
 
 **Python:** 3.10 or above is required.
