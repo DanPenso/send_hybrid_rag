@@ -1,6 +1,6 @@
 # SEND-RAG: Hybrid Retrieval-Augmented Generation for Statutory SEND Support
 
-This repository contains the complete, end-to-end codebase for the fine-tined Hybrid-RAG dissertation project. The system implements a local,  Retrieval-Augmented Generation (RAG) architecture combined with Supervised Fine-Tuning (QLoRA). The purpose is to adapt a baseline Large Language Model (Meta-Llama-3.1-8B-Instruct) into a factually grounded, pedagogically aligned tool to support teachers working with SEND children.
+This repository contains the complete, end-to-end codebase for the fine-tuned Hybrid-RAG dissertation project. The system implements a local,  Retrieval-Augmented Generation (RAG) architecture combined with Supervised Fine-Tuning (QLoRA). The purpose is to adapt a baseline Large Language Model (Meta-Llama-3.1-8B-Instruct) into a factually grounded, pedagogically aligned tool to support teachers working with SEND children.
 
 ---
 
