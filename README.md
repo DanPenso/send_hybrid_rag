@@ -87,7 +87,6 @@ Responses were embedded and projected into 2D PCA space after K-Means clustering
 ### Links
 
 - **Dataset:** [send-senco-instruction-pairs on Hugging Face](https://huggingface.co/datasets/DanPenso/send-senco-instruction-pairs)
-- **Dissertation grade:** Distinction (80%)
 
 ---
 
