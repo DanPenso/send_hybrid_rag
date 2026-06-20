@@ -10,33 +10,35 @@ This project compared a **zero-shot Llama 3.1 baseline** against a **hybrid RAG 
 
 ### RAGAS evaluation (Stream A)
 
-Hybrid RAG improved factual grounding over the baseline. On average, faithfulness increased and answer relevancy decreased across the evaluation set.
+Hybrid RAG improved mean faithfulness from **0.82** to **0.88** (+0.054, p = 0.034). Answer relevancy decreased from **0.72** to **0.55**, suggesting a trade-off between grounding in retrieved context and conversational fluency.
 
-<img width="1097" height="677" alt="image" src="https://github.com/user-attachments/assets/a0700385-6a5f-4ef4-aeaa-9ab5c270df7c" />
-
+![RAGAS overall metric means](data/06_evaluation/figures/5a_ragas/v14/5a_overall_metric_means.png)
 
 ### Pedagogical evaluation (Stream B)
 
-The LLM judge assessed tone alignment and technical grounding. Hybrid responses showed **[describe direction/magnitude]** in grounding and **[describe tone result]** in pedagogical tone.
+The LLM judge showed a significant uplift in technical grounding (**3.87 → 4.03**, +0.164, p < 0.001). Tone alignment and accuracy showed small but statistically significant decreases, indicating the hybrid system prioritised source fidelity over stylistic warmth in some cases.
 
-<img width="1091" height="677" alt="image" src="https://github.com/user-attachments/assets/577a8a58-8aff-45b3-8944-4eb62d80f0e9" />
+![LLM judge overall metric means](data/06_evaluation/figures/5b_llm_judge/v14_llm_judge_notebook/5b_overall_metric_means.png)
 
-<img width="1097" height="537" alt="image" src="https://github.com/user-attachments/assets/c7181eb5-75b4-4b92-ae4c-76dbd9502811" />
+### Semantic drift & clustering (Stream C)
 
+Responses were embedded and projected into 2D PCA space after K-Means clustering (k=6). Baseline and hybrid outputs occupy distinct regions of the semantic latent space. Hybrid responses showed higher mean context similarity (**0.63 → 0.71**, +0.085, p < 0.001), indicating stronger alignment with retrieved statutory material.
+
+![PCA by dataset — baseline vs hybrid](data/06_evaluation/stream_c_r/v14/stream_c_pca_by_dataset.png)
 
 ### Conclusion
 
-- **Hybrid RAG outperformed the baseline on faithfulness** (mean delta **[+0.05]**, p **[0.034]**), suggesting retrieval over statutory SEND documents reduces unsupported claims.
-- **Technical grounding improved significantly** (mean delta **[+0.16]**, p **[<0.001]**), indicating the system better aligns answers with source material.
-- **Fine-tuning plus retrieval produced a more domain-appropriate advisory style** than zero-shot inference alone, while remaining suitable for teacher-facing use.
-- **Semantic drift analysis (Stream C)** showed **[your one-line interpretation]** — hybrid responses clustered differently from baseline outputs in embedding space.
-- **Cross-stream synthesis (Stream D)** confirmed statistically significant differences on multiple metrics, supporting the overall hybrid architecture.
+- **Hybrid RAG improved factual faithfulness** over the zero-shot baseline (mean delta +0.054, p = 0.034).
+- **Technical grounding improved significantly** under LLM-as-judge evaluation (+0.164, p < 0.001).
+- **Retrieved-context alignment strengthened**, with hybrid mean context similarity rising from 0.63 to 0.71.
+- **Semantic drift analysis** confirmed measurable separation between baseline and hybrid response geometry in PCA space.
+- **Trade-offs were observed**: answer relevancy and tone alignment decreased in some streams, so the system leans toward statutory grounding over conversational fluency — an important consideration for teacher-facing deployment.
 
 ### Limitations
 
 - The ChromaDB index is not included in this repository due to size; Phase 4a must be re-run to rebuild it.
 - Evaluation used synthetic training data and API-based judges; results should be validated in real school settings before deployment.
-- The system is research-grade, not a clinical or legal advice tool.
+- This is a research prototype, not a clinical or legal advice tool.
 
 ### Links
 
@@ -44,7 +46,6 @@ The LLM judge assessed tone alignment and technical grounding. Hybrid responses 
 - **Dissertation grade:** Distinction (80%)
 
 ---
-
 
 ## Setup
 
@@ -164,7 +165,8 @@ data/
     │   ├── stream_c_category_drift_delta.csv
     │   ├── stream_c_k_selection.csv
     │   ├── stream_c_pca_explained_variance.csv
-    │   └── stream_c_discussion_view.csv
+    │   ├── stream_c_discussion_view.csv
+    │   └── stream_c_pca_by_dataset.png
     └── stream_d/v14_cross_stream_synthesis/
         ├── joined_per_question.csv
         └── significance_test.csv   # Stream D figures are generated when phase5d is run
