@@ -8,6 +8,50 @@ This repository contains the complete, end-to-end codebase for the fine-tuned Hy
 
 This project compared a **zero-shot Llama 3.1 baseline** against a **hybrid RAG + QLoRA fine-tuned model** on 250 stratified UK SEND advisory prompts. Evaluation used four streams: RAGAS (faithfulness/relevancy), LLM-as-judge (tone/grounding), PCA/K-Means semantic drift, and cross-stream statistical testing.
 
+### Example outputs
+
+Two illustrative comparisons from the evaluation set (RAGAS faithfulness scores shown).
+
+#### Example 1 — Hallucination corrected (Communication & Interaction)
+
+**Question:** What is the 10-second rule for autism and how should teachers use it?
+
+**Faithfulness:** baseline 0.33 → hybrid 0.83
+
+<details>
+<summary><b>Baseline (zero-shot Llama 3.1)</b></summary>
+
+The 10-second rule refers to a strategy used by some individuals with autism to help manage sensory overload or anxiety. When faced with an overwhelming situation, they may need time to process and prepare before responding. Staff can use this concept by providing a brief pause of around 10 seconds before expecting a pupil with autism to respond to a question or instruction.
+
+</details>
+
+<details>
+<summary><b>Hybrid RAG + fine-tuned model</b></summary>
+
+The 10-second rule is not mentioned in this specific context as a defined strategy for autism recognition or support. Mainstream teachers play an early role in recognising potential signs of autism and contributing observational insights, but most tools require specialist interpretation. The review highlights variability in tool quality and the need for cautious application.
+
+</details>
+
+#### Example 2 — Evidence-based framing over invented specifics (Cognition & Learning)
+
+**Question:** What are the 5 most effective teaching strategies for students with dyslexia?
+
+**Faithfulness:** baseline 0.00 → hybrid 1.00
+
+<details>
+<summary><b>Baseline (zero-shot Llama 3.1)</b></summary>
+
+Staff may find the following five teaching strategies particularly effective in supporting students with dyslexia: multisensory learning approaches, such as Orton-Gillingham or Wilson Reading System; visual aids such as diagrams and mind maps; and assistive technology, like text-to-speech software or speech-to-text tools.
+
+</details>
+
+<details>
+<summary><b>Hybrid RAG + fine-tuned model</b></summary>
+
+Staff may find that explicit instruction, modelling, and interactive elements are particularly effective in early interventions for younger learners with decoding and phonological awareness difficulties. Multicomponent strategies addressing vocabulary, comprehension, and decoding together have been found to support older students with reading difficulties more effectively. These approaches can also help prevent later literacy struggles by targeting foundational skills early on.
+
+</details>
+
 ### RAGAS evaluation (Stream A)
 
 Hybrid RAG improved mean faithfulness from **0.82** to **0.88** (+0.054, p = 0.034). Answer relevancy decreased from **0.72** to **0.55**, suggesting a trade-off between grounding in retrieved context and conversational fluency.
