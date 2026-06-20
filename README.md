@@ -1,7 +1,4 @@
-#google gemini and Cursor composer were used as guidance to create this readme file
-
 # SEND-RAG: Hybrid Retrieval-Augmented Generation for Statutory SEND Support
-**MSc Data Science Dissertation (CT7206) | Daniel Penson | Student No: S4520042**
 
 This repository contains the complete, end-to-end codebase for the fine-tined Hybrid-RAG dissertation project. The system implements a local,  Retrieval-Augmented Generation (RAG) architecture combined with Supervised Fine-Tuning (QLoRA). The purpose is to adapt a baseline Large Language Model (Meta-Llama-3.1-8B-Instruct) into a factually grounded, pedagogically aligned tool to support teachers working with SEND children.
 
