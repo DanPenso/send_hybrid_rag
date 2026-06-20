@@ -22,16 +22,16 @@ The LLM judge showed a significant uplift in technical grounding (**3.87 → 4.0
 
 ### Semantic drift & clustering (Stream C)
 
-Responses were embedded and projected into 2D PCA space after K-Means clustering (k=6). Baseline and hybrid outputs occupy distinct regions of the semantic latent space. Hybrid responses showed higher mean context similarity (**0.63 → 0.71**, +0.085, p < 0.001), indicating stronger alignment with retrieved statutory material.
+Responses were embedded and projected into 2D PCA space after K-Means clustering (k=6). The plot below colours points by SEND category and distinguishes baseline from hybrid outputs by shape, making it easier to see how semantic drift varies across topic areas. Hybrid responses showed higher mean context similarity (**0.63 → 0.71**, +0.085, p < 0.001), indicating stronger alignment with retrieved statutory material.
 
-![PCA by dataset — baseline vs hybrid](data/06_evaluation/stream_c_r/v14/stream_c_pca_by_dataset.png)
+![PCA by category — baseline vs hybrid](data/06_evaluation/stream_c_r/v14/stream_c_pca_by_category.png)
 
 ### Conclusion
 
 - **Hybrid RAG improved factual faithfulness** over the zero-shot baseline (mean delta +0.054, p = 0.034).
 - **Technical grounding improved significantly** under LLM-as-judge evaluation (+0.164, p < 0.001).
 - **Retrieved-context alignment strengthened**, with hybrid mean context similarity rising from 0.63 to 0.71.
-- **Semantic drift analysis** confirmed measurable separation between baseline and hybrid response geometry in PCA space.
+- **Semantic drift analysis** showed category-level separation in PCA space, with baseline and hybrid responses shifting differently across SEND topic areas.
 - **Trade-offs were observed**: answer relevancy and tone alignment decreased in some streams, so the system leans toward statutory grounding over conversational fluency — an important consideration for teacher-facing deployment.
 
 ### Limitations
@@ -166,7 +166,7 @@ data/
     │   ├── stream_c_k_selection.csv
     │   ├── stream_c_pca_explained_variance.csv
     │   ├── stream_c_discussion_view.csv
-    │   └── stream_c_pca_by_dataset.png
+    │   └── stream_c_pca_by_category.png
     └── stream_d/v14_cross_stream_synthesis/
         ├── joined_per_question.csv
         └── significance_test.csv   # Stream D figures are generated when phase5d is run
